@@ -28,7 +28,7 @@
     <axis tag="WDSP" name="WDSP" minimum="0" maximum="1000" default="246"/>
     <axis tag="VANG" name="VANG" minimum="-3" maximum="13" default="0"/>
     <axis tag="VROT" name="VROT" minimum="0" maximum="13" default="0"/>
-    <axis tag="BDSZ" name="BDSZ" minimum="11" maximum="144" default="14"/>
+    <axis tag="BDSZ" name="BDSZ" minimum="-1" maximum="1.4" default="0"/>
     <axis tag="YTAS" name="YTAS" minimum="665" maximum="875" default="728"/>
     <axis tag="YTDE" name="YTDE" minimum="-310" maximum="-100" default="-208"/>
     <axis tag="YTFI" name="YTFI" minimum="270" maximum="793" default="743"/>
@@ -72,7 +72,7 @@
             <dimension name="YOFI" xvalue="48"/>
             <dimension name="YOUC" xvalue="48"/>
             <dimension name="YOLC" xvalue="48"/>
-            <dimension name="BDSZ" xvalue="11"/>
+            <dimension name="BDSZ" xvalue="0"/>
             <dimension name="YTAS" xvalue="768"/>
             <dimension name="YTDE" xvalue="-208"/>
             <dimension name="YTFI" xvalue="743"/>
@@ -115,7 +115,7 @@
             <dimension name="YOFI" xvalue="85"/>
             <dimension name="YOUC" xvalue="85"/>
             <dimension name="YOLC" xvalue="85"/>
-            <dimension name="BDSZ" xvalue="11"/>
+            <dimension name="BDSZ" xvalue="0"/>
             <dimension name="YTAS" xvalue="768"/>
             <dimension name="YTDE" xvalue="-208"/>
             <dimension name="YTFI" xvalue="743"/>
@@ -158,7 +158,7 @@
             <dimension name="YOFI" xvalue="145"/>
             <dimension name="YOUC" xvalue="145"/>
             <dimension name="YOLC" xvalue="145"/>
-            <dimension name="BDSZ" xvalue="11"/>
+            <dimension name="BDSZ" xvalue="0"/>
             <dimension name="YTAS" xvalue="768"/>
             <dimension name="YTDE" xvalue="-208"/>
             <dimension name="YTFI" xvalue="743"/>
@@ -202,7 +202,7 @@
             <dimension name="YOFI" xvalue="50"/>
             <dimension name="YOUC" xvalue="50"/>
             <dimension name="YOLC" xvalue="50"/>
-            <dimension name="BDSZ" xvalue="11"/>
+            <dimension name="BDSZ" xvalue="0"/>
             <dimension name="YTAS" xvalue="768"/>
             <dimension name="YTDE" xvalue="-208"/>
             <dimension name="YTFI" xvalue="743"/>
@@ -245,7 +245,7 @@
             <dimension name="YOFI" xvalue="86"/>
             <dimension name="YOUC" xvalue="86"/>
             <dimension name="YOLC" xvalue="86"/>
-            <dimension name="BDSZ" xvalue="11"/>
+            <dimension name="BDSZ" xvalue="0"/>
             <dimension name="YTAS" xvalue="768"/>
             <dimension name="YTDE" xvalue="-208"/>
             <dimension name="YTFI" xvalue="743"/>
@@ -288,7 +288,7 @@
             <dimension name="YOFI" xvalue="155"/>
             <dimension name="YOUC" xvalue="155"/>
             <dimension name="YOLC" xvalue="155"/>
-            <dimension name="BDSZ" xvalue="11"/>
+            <dimension name="BDSZ" xvalue="0"/>
             <dimension name="YTAS" xvalue="768"/>
             <dimension name="YTDE" xvalue="-208"/>
             <dimension name="YTFI" xvalue="743"/>
@@ -332,7 +332,7 @@
             <dimension name="YOFI" xvalue="54"/>
             <dimension name="YOUC" xvalue="54"/>
             <dimension name="YOLC" xvalue="54"/>
-            <dimension name="BDSZ" xvalue="11"/>
+            <dimension name="BDSZ" xvalue="0"/>
             <dimension name="YTAS" xvalue="768"/>
             <dimension name="YTDE" xvalue="-208"/>
             <dimension name="YTFI" xvalue="743"/>
@@ -375,7 +375,7 @@
             <dimension name="YOFI" xvalue="88"/>
             <dimension name="YOUC" xvalue="88"/>
             <dimension name="YOLC" xvalue="88"/>
-            <dimension name="BDSZ" xvalue="11"/>
+            <dimension name="BDSZ" xvalue="0"/>
             <dimension name="YTAS" xvalue="768"/>
             <dimension name="YTDE" xvalue="-208"/>
             <dimension name="YTFI" xvalue="743"/>
@@ -418,7 +418,7 @@
             <dimension name="YOFI" xvalue="158"/>
             <dimension name="YOUC" xvalue="158"/>
             <dimension name="YOLC" xvalue="158"/>
-            <dimension name="BDSZ" xvalue="11"/>
+            <dimension name="BDSZ" xvalue="0"/>
             <dimension name="YTAS" xvalue="768"/>
             <dimension name="YTDE" xvalue="-208"/>
             <dimension name="YTFI" xvalue="743"/>
@@ -462,7 +462,7 @@
             <dimension name="YOFI" xvalue="42"/>
             <dimension name="YOUC" xvalue="42"/>
             <dimension name="YOLC" xvalue="42"/>
-            <dimension name="BDSZ" xvalue="14"/>
+            <dimension name="BDSZ" xvalue="0"/>
             <dimension name="YTAS" xvalue="756"/>
             <!-- EXCEPTION ASCENDERS FOR LEGIBILITY -->
             <dimension name="YTDE" xvalue="-208"/>
@@ -506,7 +506,7 @@
             <dimension name="YOFI" xvalue="78"/>
             <dimension name="YOUC" xvalue="78"/>
             <dimension name="YOLC" xvalue="78"/>
-            <dimension name="BDSZ" xvalue="14"/>
+            <dimension name="BDSZ" xvalue="0"/>
             <dimension name="YTAS" xvalue="728"/>
             <dimension name="YTDE" xvalue="-208"/>
             <dimension name="YTFI" xvalue="743"/>
@@ -549,7 +549,7 @@
             <dimension name="YOFI" xvalue="154"/>
             <dimension name="YOUC" xvalue="154"/>
             <dimension name="YOLC" xvalue="154"/>
-            <dimension name="BDSZ" xvalue="14"/>
+            <dimension name="BDSZ" xvalue="0"/>
             <dimension name="YTAS" xvalue="728"/>
             <dimension name="YTDE" xvalue="-208"/>
             <dimension name="YTFI" xvalue="743"/>
@@ -593,7 +593,7 @@
             <dimension name="YOFI" xvalue="44"/>
             <dimension name="YOUC" xvalue="44"/>
             <dimension name="YOLC" xvalue="44"/>
-            <dimension name="BDSZ" xvalue="14"/>
+            <dimension name="BDSZ" xvalue="0"/>
             <dimension name="YTAS" xvalue="756"/>
             <!-- EXCEPTION ASCENDERS FOR LEGIBILITY -->
             <dimension name="YTDE" xvalue="-208"/>
@@ -637,7 +637,7 @@
             <dimension name="YOFI" xvalue="79"/>
             <dimension name="YOUC" xvalue="79"/>
             <dimension name="YOLC" xvalue="79"/>
-            <dimension name="BDSZ" xvalue="14"/>
+            <dimension name="BDSZ" xvalue="0"/>
             <dimension name="YTAS" xvalue="728"/>
             <dimension name="YTDE" xvalue="-208"/>
             <dimension name="YTFI" xvalue="743"/>
@@ -680,7 +680,7 @@
             <dimension name="YOFI" xvalue="156"/>
             <dimension name="YOUC" xvalue="156"/>
             <dimension name="YOLC" xvalue="156"/>
-            <dimension name="BDSZ" xvalue="14"/>
+            <dimension name="BDSZ" xvalue="0"/>
             <dimension name="YTAS" xvalue="728"/>
             <dimension name="YTDE" xvalue="-208"/>
             <dimension name="YTFI" xvalue="743"/>
@@ -724,7 +724,7 @@
             <dimension name="YOFI" xvalue="46"/>
             <dimension name="YOUC" xvalue="46"/>
             <dimension name="YOLC" xvalue="46"/>
-            <dimension name="BDSZ" xvalue="14"/>
+            <dimension name="BDSZ" xvalue="0"/>
             <dimension name="YTAS" xvalue="756"/>
             <!-- EXCEPTION ASCENDERS FOR LEGIBILITY -->
             <dimension name="YTDE" xvalue="-208"/>
@@ -768,7 +768,7 @@
             <dimension name="YOFI" xvalue="80"/>
             <dimension name="YOUC" xvalue="80"/>
             <dimension name="YOLC" xvalue="80"/>
-            <dimension name="BDSZ" xvalue="14"/>
+            <dimension name="BDSZ" xvalue="0"/>
             <dimension name="YTAS" xvalue="728"/>
             <dimension name="YTDE" xvalue="-208"/>
             <dimension name="YTFI" xvalue="743"/>
@@ -811,7 +811,7 @@
             <dimension name="YOFI" xvalue="158"/>
             <dimension name="YOUC" xvalue="158"/>
             <dimension name="YOLC" xvalue="158"/>
-            <dimension name="BDSZ" xvalue="14"/>
+            <dimension name="BDSZ" xvalue="0"/>
             <dimension name="YTAS" xvalue="728"/>
             <dimension name="YTDE" xvalue="-208"/>
             <dimension name="YTFI" xvalue="743"/>
@@ -1297,7 +1297,7 @@
             <dimension name="YOFI" xvalue="79"/>
             <dimension name="YOUC" xvalue="79"/>
             <dimension name="YOLC" xvalue="79"/>
-            <dimension name="BDSZ" xvalue="14"/>
+            <dimension name="BDSZ" xvalue="0"/>
             <dimension name="YTAS" xvalue="728"/>
             <dimension name="YTDE" xvalue="-208"/>
             <dimension name="YTFI" xvalue="743"/>
@@ -1337,7 +1337,7 @@
             <dimension name="YOFI" xvalue="79"/>
             <dimension name="YOUC" xvalue="79"/>
             <dimension name="YOLC" xvalue="79"/>
-            <dimension name="BDSZ" xvalue="14"/>
+            <dimension name="BDSZ" xvalue="0"/>
             <dimension name="YTAS" xvalue="728"/>
             <dimension name="YTDE" xvalue="-208"/>
             <dimension name="YTFI" xvalue="743"/>
@@ -1379,7 +1379,7 @@
             <dimension name="YOFI" xvalue="79"/>
             <dimension name="YOUC" xvalue="79"/>
             <dimension name="YOLC" xvalue="79"/>
-            <dimension name="BDSZ" xvalue="14"/>
+            <dimension name="BDSZ" xvalue="0"/>
             <dimension name="YTAS" xvalue="728"/>
             <dimension name="YTDE" xvalue="-208"/>
             <dimension name="YTFI" xvalue="743"/>
@@ -1419,7 +1419,7 @@
             <dimension name="YOFI" xvalue="79"/>
             <dimension name="YOUC" xvalue="79"/>
             <dimension name="YOLC" xvalue="79"/>
-            <dimension name="BDSZ" xvalue="14"/>
+            <dimension name="BDSZ" xvalue="0"/>
             <dimension name="YTAS" xvalue="728"/>
             <dimension name="YTDE" xvalue="-208"/>
             <dimension name="YTFI" xvalue="743"/>
@@ -1461,7 +1461,7 @@
             <dimension name="YOFI" xvalue="79"/>
             <dimension name="YOUC" xvalue="79"/>
             <dimension name="YOLC" xvalue="79"/>
-            <dimension name="BDSZ" xvalue="14"/>
+            <dimension name="BDSZ" xvalue="0"/>
             <dimension name="YTAS" xvalue="728"/>
             <dimension name="YTDE" xvalue="-208"/>
             <dimension name="YTFI" xvalue="743"/>
@@ -1501,7 +1501,7 @@
             <dimension name="YOFI" xvalue="79"/>
             <dimension name="YOUC" xvalue="79"/>
             <dimension name="YOLC" xvalue="79"/>
-            <dimension name="BDSZ" xvalue="14"/>
+            <dimension name="BDSZ" xvalue="0"/>
             <dimension name="YTAS" xvalue="728"/>
             <dimension name="YTDE" xvalue="-208"/>
             <dimension name="YTFI" xvalue="743"/>
@@ -1543,7 +1543,7 @@
             <dimension name="YOFI" xvalue="2"/>
             <dimension name="YOUC" xvalue="2"/>
             <dimension name="YOLC" xvalue="2"/>
-            <dimension name="BDSZ" xvalue="14"/>
+            <dimension name="BDSZ" xvalue="0"/>
             <dimension name="YTAS" xvalue="728"/>
             <dimension name="YTDE" xvalue="-208"/>
             <dimension name="YTFI" xvalue="743"/>
@@ -1583,7 +1583,7 @@
             <dimension name="YOFI" xvalue="280"/>
             <dimension name="YOUC" xvalue="280"/>
             <dimension name="YOLC" xvalue="280"/>
-            <dimension name="BDSZ" xvalue="14"/>
+            <dimension name="BDSZ" xvalue="0"/>
             <dimension name="YTAS" xvalue="728"/>
             <dimension name="YTDE" xvalue="-208"/>
             <dimension name="YTFI" xvalue="743"/>
@@ -1605,7 +1605,7 @@
       
       <mapping>
         <input>
-            <dimension name="BDSZ" xvalue="4"/>
+            <dimension name="BDSZ" xvalue="-1"/>
         </input>
         <output>
             <dimension name="VANG" xvalue="0"/>
@@ -1624,7 +1624,7 @@
             <dimension name="YOFI" xvalue="79"/>
             <dimension name="YOUC" xvalue="79"/>
             <dimension name="YOLC" xvalue="79"/>
-            <dimension name="BDSZ" xvalue="4"/>
+            <dimension name="BDSZ" xvalue="-1"/>
             <dimension name="YTAS" xvalue="665"/>
             <dimension name="YTDE" xvalue="-100"/>
             <dimension name="YTFI" xvalue="743"/>
@@ -1645,7 +1645,7 @@
       </mapping>
       <mapping>
         <input>
-            <dimension name="BDSZ" xvalue="144"/>
+            <dimension name="BDSZ" xvalue="1.4"/>
         </input>
         <output>
             <dimension name="VANG" xvalue="0"/>
@@ -1664,7 +1664,7 @@
             <dimension name="YOFI" xvalue="79"/>
             <dimension name="YOUC" xvalue="79"/>
             <dimension name="YOLC" xvalue="79"/>
-            <dimension name="BDSZ" xvalue="144"/>
+            <dimension name="BDSZ" xvalue="1.4"/>
             <dimension name="YTAS" xvalue="875"/>
             <dimension name="YTDE" xvalue="-310"/>
             <dimension name="YTFI" xvalue="743"/>
@@ -1817,7 +1817,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -1858,7 +1858,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -1899,7 +1899,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -1940,7 +1940,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -1982,7 +1982,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -2023,7 +2023,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -2064,7 +2064,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -2105,7 +2105,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -2146,7 +2146,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -2187,7 +2187,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -2231,7 +2231,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -2272,7 +2272,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -2313,7 +2313,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -2354,7 +2354,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -2397,7 +2397,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -2438,7 +2438,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -2479,7 +2479,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -2520,7 +2520,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -2563,7 +2563,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -2604,7 +2604,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -2645,7 +2645,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -2686,7 +2686,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -2737,7 +2737,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -2778,7 +2778,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -2821,7 +2821,7 @@
         <dimension name="YOFI" xvalue="2"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -2862,7 +2862,7 @@
         <dimension name="YOFI" xvalue="280"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -2903,7 +2903,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="2"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -2944,7 +2944,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="280"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -2985,7 +2985,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="2"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -3026,7 +3026,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="280"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -3069,7 +3069,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -3110,7 +3110,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="665"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -3151,7 +3151,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="875"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -3192,7 +3192,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-100"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -3233,7 +3233,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-310"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -3274,7 +3274,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="270"/>
@@ -3315,7 +3315,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="793"/>
@@ -3356,7 +3356,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -3397,7 +3397,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -3438,7 +3438,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -3479,7 +3479,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -3520,7 +3520,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -3561,7 +3561,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -3602,7 +3602,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -3643,7 +3643,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -3684,7 +3684,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -3725,7 +3725,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -3766,7 +3766,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -3807,7 +3807,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -3848,7 +3848,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -3889,7 +3889,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -3930,7 +3930,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -3971,7 +3971,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -4012,7 +4012,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -4053,7 +4053,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -4094,7 +4094,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -4135,7 +4135,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -4176,7 +4176,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -4217,7 +4217,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -4258,7 +4258,7 @@
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
-        <dimension name="BDSZ" xvalue="14"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
