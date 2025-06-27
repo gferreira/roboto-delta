@@ -787,6 +787,12 @@
       <string>N.ital</string>
       <string>V.ital</string>
       <string>W.ital</string>
+      <string>AE.ital</string>
+      <string>naira.ital</string>
+      <string>naira.rvrn.ital</string>
+      <string>won.ital</string>
+      <string>won.rvrn.ital</string>
+      <string>numero.ital</string>
     </array>
     <key>tnCurvePalet</key>
     <dict>
