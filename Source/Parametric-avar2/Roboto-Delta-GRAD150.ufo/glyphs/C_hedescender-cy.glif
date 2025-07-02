@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Chedescender-cy" format="2">
+	<unicode hex="04B6"/>
+	<advance width="1388"/>
+	<outline>
+		<component base="Che"/>
+		<component base="cy-descendercomb" xOffset="1147.4237186873"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0,0,1,0.5</string>
+		</dict>
+	</lib>
+</glyph>

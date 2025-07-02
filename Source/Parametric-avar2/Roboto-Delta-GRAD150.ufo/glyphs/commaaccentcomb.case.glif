@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccentcomb.case" format="2">
+	<outline>
+		<contour>
+			<point x="-196.7448374566" y="-584.8173515982" type="line"/>
+			<point x="-109.9719626168" y="-172.8173515982" type="line"/>
+			<point x="161.9719626168" y="-170.8173515982" type="line"/>
+			<point x="16.8955223881" y="-587.8173515982" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_bottom" x="0" y="0"/>
+	<anchor name="bottom" x="0" y="-587.8173515982"/>
+</glyph>

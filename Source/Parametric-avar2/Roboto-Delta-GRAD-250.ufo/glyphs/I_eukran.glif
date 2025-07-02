@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ieukran" format="2">
+	<unicode hex="0404"/>
+	<advance width="1359"/>
+	<outline>
+		<contour>
+			<point x="694.2650390326" y="-30" type="qcurve" smooth="yes"/>
+			<point x="445.1084494107" y="-30"/>
+			<point x="115" y="346"/>
+			<point x="115" y="682" type="qcurve" smooth="yes"/>
+			<point x="115" y="774" type="line" smooth="yes"/>
+			<point x="115" y="1113.2978723404"/>
+			<point x="447.416960049" y="1486"/>
+			<point x="694.2650390326" y="1486" type="qcurve" smooth="yes"/>
+			<point x="939.134394612" y="1486"/>
+			<point x="1223.2184295117" y="1201"/>
+			<point x="1223.2184295117" y="1000" type="qcurve" smooth="yes"/>
+			<point x="1223.2184295117" y="990" type="line"/>
+			<point x="1092.2290678096" y="990" type="line"/>
+			<point x="1092.2290678096" y="1000" type="line" smooth="yes"/>
+			<point x="1092.2290678096" y="1154.2987012987"/>
+			<point x="886.2088626971" y="1360.7402597403"/>
+			<point x="694.2650390326" y="1360.7402597403" type="qcurve" smooth="yes"/>
+			<point x="503.0233430277" y="1360.7402597403"/>
+			<point x="247.329787234" y="1066.3116883117"/>
+			<point x="247.329787234" y="789.414893617" type="qcurve" smooth="yes"/>
+			<point x="247.329787234" y="676.6382978723" type="line" smooth="yes"/>
+			<point x="247.329787234" y="406.2597402597"/>
+			<point x="498.7254706873" y="95.2597402597"/>
+			<point x="694.2650390326" y="95.2597402597" type="qcurve" smooth="yes"/>
+			<point x="881.8046073779" y="95.2597402597"/>
+			<point x="1075.7485483291" y="304.2077922078"/>
+			<point x="1091.2290678096" y="456" type="qcurve" smooth="yes"/>
+			<point x="1092.2290678096" y="466" type="line"/>
+			<point x="1223.2184295117" y="466" type="line"/>
+			<point x="1222.2184295117" y="456" type="line" smooth="yes"/>
+			<point x="1202.2184295117" y="256"/>
+			<point x="942.4322669524" y="-30"/>
+		</contour>
+		<contour>
+			<point x="181.6595744681" y="691" type="line"/>
+			<point x="181.6595744681" y="811.7402597403" type="line"/>
+			<point x="945.2290678096" y="811.7402597403" type="line"/>
+			<point x="945.2290678096" y="691" type="line"/>
+		</contour>
+	</outline>
+	<guideline x="211" y="787" angle="90" identifier="mFTeE97JTj"/>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Shha" format="2">
+	<unicode hex="04BA"/>
+	<advance width="1388"/>
+	<outline>
+		<contour>
+			<point x="1047.9751205565" y="403.4179104478" type="line" smooth="yes"/>
+			<point x="1047.9751205565" y="571.8059701493"/>
+			<point x="901.5687278624" y="683.8656716418"/>
+			<point x="721.9477232962" y="683.8656716418" type="qcurve" smooth="yes"/>
+			<point x="614.1532523828" y="683.8656716418"/>
+			<point x="380.7876643594" y="664.7757721881"/>
+			<point x="288.5981308411" y="644.8507462687" type="qcurve"/>
+			<point x="288.5981308411" y="840.8805970149" type="line"/>
+			<point x="414.4240260376" y="862.7450388477"/>
+			<point x="630.0192163471" y="881.8805970149"/>
+			<point x="747.2327700252" y="881.8805970149" type="qcurve" smooth="yes"/>
+			<point x="1056.6937225281" y="881.8805970149"/>
+			<point x="1302.4096999957" y="650.8805970149"/>
+			<point x="1301.6854009303" y="422.8805970149" type="qcurve" smooth="yes"/>
+			<point x="1301.6854009303" y="0" type="line"/>
+			<point x="1047.9751205565" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="170" y="0" type="line"/>
+			<point x="170" y="1456" type="line"/>
+			<point x="423.7102803738" y="1456" type="line"/>
+			<point x="423.7102803738" y="0" type="line"/>
+		</contour>
+	</outline>
+</glyph>

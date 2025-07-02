@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Thorn" format="2">
+	<unicode hex="00DE"/>
+	<advance width="1170"/>
+	<outline>
+		<contour>
+			<point x="170" y="0" type="line"/>
+			<point x="170" y="1456" type="line"/>
+			<point x="296.2978723404" y="1456" type="line"/>
+			<point x="296.2978723404" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="241.6914893617" y="314.329787234" type="line"/>
+			<point x="241.6914893617" y="429.4675324675" type="line"/>
+			<point x="630.9201744987" y="429.4675324675" type="line" smooth="yes"/>
+			<point x="794.5136996786" y="429.4675324675"/>
+			<point x="939.6216133476" y="589.1948051948"/>
+			<point x="939.6216133476" y="736.6595744681" type="qcurve" smooth="yes"/>
+			<point x="939.6216133476" y="884.7792207792"/>
+			<point x="794.5136996786" y="1047.5324675325"/>
+			<point x="630.9201744987" y="1047.5324675325" type="qcurve" smooth="yes"/>
+			<point x="242.0212765957" y="1047.5324675325" type="line"/>
+			<point x="242.0212765957" y="1163" type="line"/>
+			<point x="630.4345629879" y="1163" type="line" smooth="yes"/>
+			<point x="846.0988060615" y="1163"/>
+			<point x="1065.919485688" y="935.329787234"/>
+			<point x="1065.919485688" y="738" type="qcurve" smooth="yes"/>
+			<point x="1065.919485688" y="541.329787234"/>
+			<point x="846.0988060615" y="314.329787234"/>
+			<point x="630.4345629879" y="314.329787234" type="qcurve" smooth="yes"/>
+		</contour>
+	</outline>
+	<guideline y="901" identifier="i9jYwjBDP4"/>
+	<guideline y="555" identifier="T8KKW8oxop"/>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.guideline.magnetic.T8KKW8oxop</key>
+			<integer>5</integer>
+			<key>com.typemytype.robofont.guideline.magnetic.i9jYwjBDP4</key>
+			<integer>5</integer>
+		</dict>
+	</lib>
+</glyph>

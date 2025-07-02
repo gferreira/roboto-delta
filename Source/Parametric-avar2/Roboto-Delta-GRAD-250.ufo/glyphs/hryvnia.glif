@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hryvnia" format="2">
+	<unicode hex="20B4"/>
+	<advance width="1023.5629879075"/>
+	<outline>
+		<contour>
+			<point x="77.0106382979" y="336.6382978723" type="qcurve" smooth="yes"/>
+			<point x="77.0106382979" y="458"/>
+			<point x="226.7484310424" y="654.0106382979"/>
+			<point x="466.6644726772" y="782.8191489362" type="qcurve" smooth="yes"/>
+			<point x="703.986529925" y="908.1924843104"/>
+			<point x="821.5346701362" y="1050.3723404255"/>
+			<point x="821.5346701362" y="1146" type="qcurve" smooth="yes"/>
+			<point x="821.5346701362" y="1240.7272727273"/>
+			<point x="670.5933721108" y="1365.2597402597"/>
+			<point x="528.7001377621" y="1365.2597402597" type="qcurve" smooth="yes"/>
+			<point x="376.7453120123" y="1365.2597402597"/>
+			<point x="221.7255710767" y="1253.1948051948"/>
+			<point x="219.3981325578" y="1172" type="qcurve" smooth="yes"/>
+			<point x="218.3981325578" y="1146" type="line"/>
+			<point x="100.8130261748" y="1146" type="line"/>
+			<point x="101.8130261748" y="1172" type="line" smooth="yes"/>
+			<point x="107.8130261748" y="1325"/>
+			<point x="333.4726006429" y="1486"/>
+			<point x="531.1620176089" y="1486" type="qcurve" smooth="yes"/>
+			<point x="728.6863615491" y="1486"/>
+			<point x="939.8871115873" y="1305"/>
+			<point x="939.8871115873" y="1139.2978723404" type="qcurve" smooth="yes"/>
+			<point x="939.8871115873" y="1043"/>
+			<point x="792.4323434869" y="868.6712077147"/>
+			<point x="507.1963875708" y="714.9128212213" type="qcurve" smooth="yes"/>
+			<point x="309.6479412215" y="611.8085106383"/>
+			<point x="195.9361702128" y="451.9680851064"/>
+			<point x="195.9361702128" y="346.0212765957" type="qcurve" smooth="yes"/>
+			<point x="195.9361702128" y="224.5194805195"/>
+			<point x="360.8046183114" y="90.7402597403"/>
+			<point x="521.6160263279" y="90.7402597403" type="qcurve" smooth="yes"/>
+			<point x="684.2907904127" y="90.7402597403"/>
+			<point x="857.3980967754" y="216.4743062693"/>
+			<point x="865.5872493495" y="310.4592428848" type="qcurve" smooth="yes"/>
+			<point x="866.5872493495" y="326" type="line"/>
+			<point x="987.5234195622" y="326" type="line"/>
+			<point x="986.5234195622" y="310.4592428848" type="line" smooth="yes"/>
+			<point x="973.9119087709" y="143"/>
+			<point x="729.661334762" y="-30"/>
+			<point x="521.4217817236" y="-30" type="qcurve" smooth="yes"/>
+			<point x="302.9444359406" y="-30"/>
+			<point x="77.0106382979" y="158.9028776978"/>
+		</contour>
+		<contour>
+			<point x="-10" y="847.7792207792" type="line"/>
+			<point x="-10" y="958.7272727273" type="line"/>
+			<point x="1032.5629879075" y="958.7272727273" type="line"/>
+			<point x="1032.5629879075" y="847.7792207792" type="line"/>
+		</contour>
+		<contour>
+			<point x="-10" y="527.7792207792" type="line"/>
+			<point x="-10" y="638.7272727273" type="line"/>
+			<point x="1032.5629879075" y="638.7272727273" type="line"/>
+			<point x="1032.5629879075" y="527.7792207792" type="line"/>
+		</contour>
+	</outline>
+</glyph>

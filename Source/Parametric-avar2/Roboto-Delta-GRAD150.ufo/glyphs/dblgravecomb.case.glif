@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dblgravecomb.case" format="2">
+	<outline>
+		<contour>
+			<point x="-189.9232444868" y="1575.9806173333" type="line"/>
+			<point x="-430.939808065" y="1863.88084351" type="line"/>
+			<point x="-223.1628268847" y="1955.9647155338" type="line"/>
+			<point x="-35.0928757824" y="1640.5192256615" type="line"/>
+		</contour>
+		<contour>
+			<point x="149.0684931507" y="1575.9806173333" type="line"/>
+			<point x="-93.7241898305" y="1863.88084351" type="line"/>
+			<point x="114.0527913499" y="1955.9647155338" type="line"/>
+			<point x="303.8988618551" y="1640.5192256615" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="0" y="1456"/>
+	<anchor name="top" x="0" y="1962.4474885845"/>
+</glyph>

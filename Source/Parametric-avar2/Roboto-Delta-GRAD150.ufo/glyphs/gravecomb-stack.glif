@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravecomb-stack" format="2">
+	<outline>
+		<contour>
+			<point x="-35.6879983643" y="1202.397260274" type="line"/>
+			<point x="-267.6071565741" y="1457.8176929971" type="line"/>
+			<point x="-75.0476891563" y="1548.397260274" type="line"/>
+			<point x="107.6443808355" y="1274.2465753425" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="top" x="0" y="1548.397260274"/>
+	<anchor name="_top" x="0" y="1052"/>
+	<anchor name="_topright" x="0" y="1052"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.9908,1,0.037,1</string>
+		</dict>
+	</lib>
+</glyph>

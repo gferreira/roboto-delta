@@ -1,19 +1,19 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acutecombstack.case" format="2">
-  <anchor x="186.61354156886495" y="1536" name="_top"/>
-  <anchor x="280.115158974718" y="1941" name="top"/>
-  <outline>
-    <contour>
-      <point x="17.938947780340754" y="1715.0" type="line"/>
-      <point x="373.11515897471804" y="1941.0" type="line"/>
-      <point x="451.2527756301256" y="1777.0" type="line"/>
-      <point x="74.5434467565288" y="1605.0" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0.1,1,0.2</string>
-    </dict>
-  </lib>
+	<outline>
+		<contour>
+			<point x="17.9389477803" y="1715" type="line"/>
+			<point x="373.1151589747" y="1941" type="line"/>
+			<point x="451.2527756301" y="1777" type="line"/>
+			<point x="74.5434467565" y="1605" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="186.6135415689" y="1536"/>
+	<anchor name="top" x="280.1151589747" y="1941"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0,0.1,1,0.2</string>
+		</dict>
+	</lib>
 </glyph>

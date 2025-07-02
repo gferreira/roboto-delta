@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="O" format="2">
+	<unicode hex="004F"/>
+	<advance width="1460"/>
+	<outline>
+		<contour>
+			<point x="115" y="682" type="qcurve" smooth="yes"/>
+			<point x="115" y="774" type="line" smooth="yes"/>
+			<point x="115" y="1108.0575539568"/>
+			<point x="447.2067197306" y="1486"/>
+			<point x="712.6175570182" y="1486" type="qcurve" smooth="yes"/>
+			<point x="978.3581815399" y="1486"/>
+			<point x="1310.2351140364" y="1110"/>
+			<point x="1310.2351140364" y="774" type="qcurve" smooth="yes"/>
+			<point x="1310.2351140364" y="682" type="line" smooth="yes"/>
+			<point x="1310.2351140364" y="346"/>
+			<point x="978.3581815399" y="-30"/>
+			<point x="712.6175570182" y="-30" type="qcurve" smooth="yes"/>
+			<point x="447.2067197306" y="-30"/>
+			<point x="115" y="347.9424460432"/>
+		</contour>
+		<contour>
+			<point x="247.329787234" y="681.9028776978" type="line" smooth="yes"/>
+			<point x="247.329787234" y="409.4438475194"/>
+			<point x="500.2190238967" y="95.2597402597"/>
+			<point x="712.6175570182" y="95.2597402597" type="qcurve" smooth="yes"/>
+			<point x="925.0160901398" y="95.2597402597"/>
+			<point x="1177.9053268024" y="407.8898906849"/>
+			<point x="1177.9053268024" y="682" type="qcurve" smooth="yes"/>
+			<point x="1177.9053268024" y="774" type="line" smooth="yes"/>
+			<point x="1177.9053268024" y="1048.2597402597"/>
+			<point x="925.0160901398" y="1360.7402597403"/>
+			<point x="712.6175570182" y="1360.7402597403" type="qcurve" smooth="yes"/>
+			<point x="500.9592836369" y="1360.7402597403"/>
+			<point x="247.329787234" y="1047.5431654676"/>
+			<point x="247.329787234" y="774" type="qcurve" smooth="yes"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="712.8118016225" y="0"/>
+	<anchor name="center" x="712.8118016225" y="728"/>
+	<anchor name="ogonek" x="903.5533445584" y="0"/>
+	<anchor name="top" x="712.8118016225" y="1456"/>
+	<anchor name="topright" x="898.2214143579" y="1456"/>
+	<anchor name="tonos" x="15.4745905403" y="1074"/>
+	<anchor name="yu_dash" x="181.329787234" y="748.9316546763"/>
+</glyph>

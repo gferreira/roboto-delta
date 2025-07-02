@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="engtail" format="2">
+	<advance width="629"/>
+	<outline>
+		<contour>
+			<point x="409.5531914894" y="190" type="line"/>
+			<point x="492.6489361702" y="190" type="line"/>
+			<point x="492.6489361702" y="-195" type="line" smooth="yes"/>
+			<point x="492.6489361702" y="-295"/>
+			<point x="383.3931578142" y="-443"/>
+			<point x="264.4159651003" y="-443" type="qcurve" smooth="yes"/>
+			<point x="189.2994795653" y="-443"/>
+			<point x="73.3319302005" y="-381"/>
+			<point x="36.959589775" y="-329" type="qcurve"/>
+			<point x="81.1617174346" y="-277.414893617" type="line"/>
+			<point x="119.2042706261" y="-321.7127659574"/>
+			<point x="183.2569263738" y="-361.6063829787"/>
+			<point x="236.937241696" y="-361.6063829787" type="qcurve" smooth="yes"/>
+			<point x="294.6069187203" y="-361.6063829787"/>
+			<point x="365.6808510638" y="-277.2832542477"/>
+			<point x="365.6808510638" y="-174.8936170213" type="qcurve"/>
+			<point x="365.6808510638" y="-60"/>
+			<point x="365.6808510638" y="45"/>
+			<point x="365.6808510638" y="150" type="qcurve"/>
+		</contour>
+	</outline>
+	<anchor name="_engtail" x="429.329787234" y="0"/>
+</glyph>

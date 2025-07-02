@@ -11,10 +11,11 @@
     <axis tag="wght" name="Weight" minimum="100" maximum="1000" default="400"/>
     <axis tag="wdth" name="Width" minimum="25" maximum="151" default="100"/>
     <axis tag="slnt" name="Slant" minimum="-1" maximum="1" default="0"/>
+    <axis tag="GRAD" name="GRAD" minimum="-250" maximum="150" default="0"/>
+    <axis tag="XTSP" name="XTSP" minimum="-100" maximum="100" default="0"/>
     <axis tag="XOPQ" name="XOPQ" minimum="2" maximum="310" default="96"/>
     <axis tag="YOPQ" name="YOPQ" minimum="2" maximum="280" default="79"/>
     <axis tag="XTRA" name="XTRA" minimum="244" maximum="741" default="463"/>
-    <axis tag="XTSP" name="XTSP" minimum="-100" maximum="100" default="0"/>
     <axis tag="WDSP" name="WDSP" minimum="0" maximum="1000" default="246"/>
     <axis tag="VANG" name="VANG" minimum="-3" maximum="13" default="0"/>
     <axis tag="VROT" name="VROT" minimum="0" maximum="13" default="0"/>
@@ -53,6 +54,7 @@
             <dimension name="Slant" xvalue="0"/>
             <dimension name="Weight" xvalue="100"/>
             <dimension name="Width" xvalue="25"/>
+            <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
             <dimension name="VANG" xvalue="0"/>
@@ -96,6 +98,7 @@
             <dimension name="Slant" xvalue="0"/>
             <dimension name="Weight" xvalue="400"/>
             <dimension name="Width" xvalue="25"/>
+            <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
             <dimension name="VANG" xvalue="0"/>
@@ -139,6 +142,7 @@
             <dimension name="Slant" xvalue="0"/>
             <dimension name="Weight" xvalue="1000"/>
             <dimension name="Width" xvalue="25"/>
+            <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
             <dimension name="VANG" xvalue="0"/>
@@ -183,6 +187,7 @@
             <dimension name="Slant" xvalue="0"/>
             <dimension name="Weight" xvalue="100"/>
             <dimension name="Width" xvalue="100"/>
+            <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
             <dimension name="VANG" xvalue="0"/>
@@ -226,6 +231,7 @@
             <dimension name="Slant" xvalue="0"/>
             <dimension name="Weight" xvalue="400"/>
             <dimension name="Width" xvalue="100"/>
+            <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
             <dimension name="VANG" xvalue="0"/>
@@ -269,6 +275,7 @@
             <dimension name="Slant" xvalue="0"/>
             <dimension name="Weight" xvalue="1000"/>
             <dimension name="Width" xvalue="100"/>
+            <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
             <dimension name="VANG" xvalue="0"/>
@@ -313,6 +320,7 @@
             <dimension name="Slant" xvalue="0"/>
             <dimension name="Weight" xvalue="100"/>
             <dimension name="Width" xvalue="151"/>
+            <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
             <dimension name="VANG" xvalue="0"/>
@@ -356,6 +364,7 @@
             <dimension name="Slant" xvalue="0"/>
             <dimension name="Weight" xvalue="400"/>
             <dimension name="Width" xvalue="151"/>
+            <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
             <dimension name="VANG" xvalue="0"/>
@@ -399,6 +408,7 @@
             <dimension name="Slant" xvalue="0"/>
             <dimension name="Weight" xvalue="1000"/>
             <dimension name="Width" xvalue="151"/>
+            <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
             <dimension name="VANG" xvalue="0"/>
@@ -443,6 +453,7 @@
             <dimension name="Slant" xvalue="0"/>
             <dimension name="Weight" xvalue="100"/>
             <dimension name="Width" xvalue="25"/>
+            <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
             <dimension name="VANG" xvalue="0"/>
@@ -487,6 +498,7 @@
             <dimension name="Slant" xvalue="0"/>
             <dimension name="Weight" xvalue="400"/>
             <dimension name="Width" xvalue="25"/>
+            <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
             <dimension name="VANG" xvalue="0"/>
@@ -530,6 +542,7 @@
             <dimension name="Slant" xvalue="0"/>
             <dimension name="Weight" xvalue="1000"/>
             <dimension name="Width" xvalue="25"/>
+            <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
             <dimension name="VANG" xvalue="0"/>
@@ -574,6 +587,7 @@
             <dimension name="Slant" xvalue="0"/>
             <dimension name="Weight" xvalue="100"/>
             <dimension name="Width" xvalue="100"/>
+            <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
             <dimension name="VANG" xvalue="0"/>
@@ -661,6 +675,7 @@
             <dimension name="Slant" xvalue="0"/>
             <dimension name="Weight" xvalue="1000"/>
             <dimension name="Width" xvalue="100"/>
+            <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
             <dimension name="VANG" xvalue="0"/>
@@ -705,6 +720,7 @@
             <dimension name="Slant" xvalue="0"/>
             <dimension name="Weight" xvalue="100"/>
             <dimension name="Width" xvalue="151"/>
+            <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
             <dimension name="VANG" xvalue="0"/>
@@ -749,6 +765,7 @@
             <dimension name="Slant" xvalue="0"/>
             <dimension name="Weight" xvalue="400"/>
             <dimension name="Width" xvalue="151"/>
+            <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
             <dimension name="VANG" xvalue="0"/>
@@ -792,6 +809,7 @@
             <dimension name="Slant" xvalue="0"/>
             <dimension name="Weight" xvalue="1000"/>
             <dimension name="Width" xvalue="151"/>
+            <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
             <dimension name="VANG" xvalue="0"/>
@@ -836,6 +854,7 @@
             <dimension name="Slant" xvalue="0"/>
             <dimension name="Weight" xvalue="100"/>
             <dimension name="Width" xvalue="25"/>
+            <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
             <dimension name="VANG" xvalue="0"/>
@@ -881,6 +900,7 @@
             <dimension name="Slant" xvalue="0"/>
             <dimension name="Weight" xvalue="400"/>
             <dimension name="Width" xvalue="25"/>
+            <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
             <dimension name="VANG" xvalue="0"/>
@@ -925,6 +945,7 @@
             <dimension name="Slant" xvalue="0"/>
             <dimension name="Weight" xvalue="1000"/>
             <dimension name="Width" xvalue="25"/>
+            <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
             <dimension name="VANG" xvalue="0"/>
@@ -970,6 +991,7 @@
             <dimension name="Slant" xvalue="0"/>
             <dimension name="Weight" xvalue="100"/>
             <dimension name="Width" xvalue="100"/>
+            <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
             <dimension name="VANG" xvalue="0"/>
@@ -1014,6 +1036,7 @@
             <dimension name="Slant" xvalue="0"/>
             <dimension name="Weight" xvalue="400"/>
             <dimension name="Width" xvalue="100"/>
+            <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
             <dimension name="VANG" xvalue="0"/>
@@ -1058,6 +1081,7 @@
             <dimension name="Slant" xvalue="0"/>
             <dimension name="Weight" xvalue="500"/>
             <dimension name="Width" xvalue="100"/>
+            <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
             <dimension name="VANG" xvalue="0"/>
@@ -1101,6 +1125,7 @@
             <dimension name="Slant" xvalue="0"/>
             <dimension name="Weight" xvalue="1000"/>
             <dimension name="Width" xvalue="100"/>
+            <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
             <dimension name="VANG" xvalue="0"/>
@@ -1147,6 +1172,7 @@
             <dimension name="Slant" xvalue="0"/>
             <dimension name="Weight" xvalue="100"/>
             <dimension name="Width" xvalue="151"/>
+            <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
             <dimension name="VANG" xvalue="0"/>
@@ -1193,6 +1219,7 @@
             <dimension name="Slant" xvalue="0"/>
             <dimension name="Weight" xvalue="400"/>
             <dimension name="Width" xvalue="151"/>
+            <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
             <dimension name="VANG" xvalue="0"/>
@@ -1236,6 +1263,7 @@
             <dimension name="Slant" xvalue="0"/>
             <dimension name="Weight" xvalue="1000"/>
             <dimension name="Width" xvalue="151"/>
+            <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
             <dimension name="VANG" xvalue="0"/>
@@ -2730,10 +2758,95 @@
         <dimension name="Weight" xvalue="400"/>
         <dimension name="Width" xvalue="100"/>
         <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="XTRA" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XOLC" xvalue="96"/>
+        <dimension name="XOFI" xvalue="96"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="XTLC" xvalue="463"/>
+        <dimension name="XTFI" xvalue="463"/>
+        <dimension name="YOUC" xvalue="79"/>
+        <dimension name="YOLC" xvalue="79"/>
+        <dimension name="YOFI" xvalue="79"/>
+        <dimension name="BDSZ" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto-Delta-GRAD-250.ufo" familyname="Roboto Delta" stylename="GRAD-250">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="-250"/>
         <dimension name="XTSP" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XOLC" xvalue="96"/>
+        <dimension name="XOFI" xvalue="96"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="XTLC" xvalue="463"/>
+        <dimension name="XTFI" xvalue="463"/>
+        <dimension name="YOUC" xvalue="79"/>
+        <dimension name="YOLC" xvalue="79"/>
+        <dimension name="YOFI" xvalue="79"/>
+        <dimension name="BDSZ" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto-Delta-GRAD150.ufo" familyname="Roboto Delta" stylename="GRAD150">
+      <location>
+        <dimension name="Optical size" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="150"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="XTRA" xvalue="463"/>
         <dimension name="WDSP" xvalue="246"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
@@ -2773,6 +2886,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="-3"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -2814,6 +2930,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="13"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -2855,6 +2974,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="13"/>
         <dimension name="VROT" xvalue="13"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -2897,6 +3019,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="2"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -2938,6 +3063,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="310"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -2979,6 +3107,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="2"/>
@@ -3020,6 +3151,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="310"/>
@@ -3061,6 +3195,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -3102,6 +3239,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -3146,6 +3286,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -3187,6 +3330,9 @@
         <dimension name="Width" xvalue="25"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -3228,6 +3374,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -3269,6 +3418,9 @@
         <dimension name="Width" xvalue="151"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -3312,6 +3464,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -3353,6 +3508,9 @@
         <dimension name="Width" xvalue="25"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -3394,6 +3552,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -3435,6 +3596,9 @@
         <dimension name="Width" xvalue="151"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -3478,6 +3642,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -3519,6 +3686,9 @@
         <dimension name="Width" xvalue="25"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -3560,6 +3730,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -3601,6 +3774,9 @@
         <dimension name="Width" xvalue="151"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -3652,6 +3828,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -3693,6 +3872,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -3736,6 +3918,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -3777,6 +3962,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -3818,6 +4006,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -3859,6 +4050,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -3900,6 +4094,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -3941,6 +4138,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -3984,6 +4184,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -4025,6 +4228,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -4066,6 +4272,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -4107,6 +4316,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -4148,6 +4360,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -4189,6 +4404,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -4230,6 +4448,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -4271,6 +4492,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -4312,6 +4536,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -4353,6 +4580,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -4394,6 +4624,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -4435,6 +4668,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -4476,6 +4712,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -4517,6 +4756,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -4558,6 +4800,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -4599,6 +4844,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -4640,6 +4888,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -4681,6 +4932,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -4722,6 +4976,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -4763,6 +5020,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -4804,6 +5064,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -4845,6 +5108,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -4886,6 +5152,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -4927,6 +5196,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -4968,6 +5240,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -5009,6 +5284,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -5050,6 +5328,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -5091,6 +5372,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -5132,6 +5416,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>
@@ -5173,6 +5460,9 @@
         <dimension name="Width" xvalue="100"/>
         <dimension name="VANG" xvalue="0"/>
         <dimension name="VROT" xvalue="0"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
         <dimension name="XOUC" xvalue="96"/>

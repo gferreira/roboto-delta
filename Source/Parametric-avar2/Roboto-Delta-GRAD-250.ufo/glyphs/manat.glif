@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="manat" format="2">
+	<unicode hex="20BC"/>
+	<advance width="1024"/>
+	<outline>
+		<contour>
+			<point x="923.7465176795" y="915.9028776978" type="qcurve" smooth="yes"/>
+			<point x="923.7465176795" y="-0.0971223022" type="line"/>
+			<point x="799.4592836369" y="0" type="line"/>
+			<point x="799.4592836369" y="916" type="line" smooth="yes"/>
+			<point x="799.4592836369" y="1095.025974026"/>
+			<point x="650.8738711159" y="1290.7402597403"/>
+			<point x="494.9165008419" y="1290.7402597403" type="qcurve" smooth="yes"/>
+			<point x="339.4073166998" y="1290.7402597403"/>
+			<point x="189.9399084766" y="1095.025974026"/>
+			<point x="189.2872340426" y="916" type="qcurve" smooth="yes"/>
+			<point x="189.2872340426" y="0" type="line"/>
+			<point x="65" y="0" type="line"/>
+			<point x="65" y="916" type="line" smooth="yes"/>
+			<point x="65" y="1157"/>
+			<point x="279.3314709934" y="1416"/>
+			<point x="494.9165008419" y="1416" type="qcurve" smooth="yes"/>
+			<point x="707.890019899" y="1416"/>
+			<point x="922.0272462881" y="1156.9028776978"/>
+		</contour>
+		<contour>
+			<point x="549.1930965866" y="0" type="line"/>
+			<point x="439.6505433951" y="0" type="line"/>
+			<point x="439.6505433951" y="1582" type="line"/>
+			<point x="549.1930965866" y="1582" type="line"/>
+		</contour>
+	</outline>
+</glyph>

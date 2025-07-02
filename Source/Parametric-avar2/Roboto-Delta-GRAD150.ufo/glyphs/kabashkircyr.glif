@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kabashkircyr" format="2">
+	<unicode hex="04A1"/>
+	<advance width="1215"/>
+	<outline>
+		<contour>
+			<point x="998.1855936041" y="0" type="line"/>
+			<point x="610.1890289304" y="483.5186915888" type="line"/>
+			<point x="782.4630559913" y="608.5046728972" type="line"/>
+			<point x="1283.8149955637" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="425.8041032834" y="616.2686567164" type="line"/>
+			<point x="623.0998508928" y="616.2686567164" type="line"/>
+			<point x="971.0540524875" y="1052" type="line"/>
+			<point x="1242.3756667947" y="1052" type="line"/>
+			<point x="750.4443644025" y="450.3731343284" type="line"/>
+			<point x="425.8041032834" y="450.3731343284" type="line"/>
+		</contour>
+		<contour>
+			<point x="545.879998293" y="1052" type="line"/>
+			<point x="545.879998293" y="0" type="line"/>
+			<point x="301.9360730594" y="0" type="line"/>
+			<point x="301.9360730594" y="865.5223880597" type="line"/>
+			<point x="30" y="865.5223880597" type="line"/>
+			<point x="30" y="1052" type="line"/>
+		</contour>
+	</outline>
+</glyph>

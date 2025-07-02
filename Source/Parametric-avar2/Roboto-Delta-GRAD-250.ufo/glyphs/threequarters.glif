@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threequarters" format="2">
+	<unicode hex="00BE"/>
+	<advance width="1536"/>
+	<outline>
+		<component base="threesuperior" xOffset="15.170212766"/>
+		<component base="fraction" xOffset="607.2974896678"/>
+		<component base="foursuperior" xOffset="774.0325271698" yOffset="-697"/>
+	</outline>
+	<guideline y="1975" identifier="Jnt0R9CyOf"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0,0,1,0.5</string>
+		</dict>
+	</lib>
+</glyph>

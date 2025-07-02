@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dblgravecomb-stack.case" format="2">
+	<outline>
+		<contour>
+			<point x="-219.6426942232" y="1579.1313022648" type="line"/>
+			<point x="-454.3593207309" y="1863.2815881545" type="line"/>
+			<point x="-246.3351830019" y="1961.6359484106" type="line"/>
+			<point x="-42.7750515761" y="1648.4615381676" type="line"/>
+		</contour>
+		<contour>
+			<point x="146.23093214" y="1579.1313022648" type="line"/>
+			<point x="-88.4856943677" y="1863.2815881545" type="line"/>
+			<point x="119.5384433612" y="1961.6359484106" type="line"/>
+			<point x="323.0985747871" y="1648.4615381676" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="0" y="1456"/>
+	<anchor name="top" x="0" y="1953.1313022648"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.9882,0.0471,0.2471,1</string>
+		</dict>
+	</lib>
+</glyph>

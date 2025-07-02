@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period" format="2">
+	<unicode hex="002E"/>
+	<advance width="580"/>
+	<outline>
+		<contour>
+			<point x="160" y="73.9787234043" type="qcurve" smooth="yes"/>
+			<point x="160" y="112.1276595745"/>
+			<point x="208.8617021277" y="166.3884892086"/>
+			<point x="255.3723404255" y="166.3884892086" type="qcurve" smooth="yes"/>
+			<point x="301.8829787234" y="166.3884892086"/>
+			<point x="350.7446808511" y="112.1276595745"/>
+			<point x="350.7446808511" y="73.9787234043" type="qcurve" smooth="yes"/>
+			<point x="350.7446808511" y="36.1595744681"/>
+			<point x="301.8829787234" y="-18.1012551661"/>
+			<point x="255.3723404255" y="-18.1012551661" type="qcurve" smooth="yes"/>
+			<point x="208.8617021277" y="-18.1012551661"/>
+			<point x="160" y="36.1595744681"/>
+		</contour>
+	</outline>
+</glyph>

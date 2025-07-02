@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="El" format="2">
+	<unicode hex="041B"/>
+	<advance width="1448"/>
+	<outline>
+		<contour>
+			<point x="340.4781707654" y="1456" type="line"/>
+			<point x="1233.2848445753" y="1456" type="line"/>
+			<point x="1233.2848445753" y="0" type="line"/>
+			<point x="1102.2954828732" y="0" type="line"/>
+			<point x="1102.2954828732" y="1335.2597402597" type="line"/>
+			<point x="454.424979276" y="1335.2597402597" type="line"/>
+			<point x="413.0845537441" y="545.9574468085" type="line" smooth="yes"/>
+			<point x="397.8248134844" y="258"/>
+			<point x="280.0212765957" y="-30"/>
+			<point x="119" y="-30" type="qcurve" smooth="yes"/>
+			<point x="95" y="-30"/>
+			<point x="39" y="-23"/>
+			<point x="10" y="-13" type="qcurve"/>
+			<point x="10" y="112.2597402597" type="line"/>
+			<point x="34" y="104.2597402597"/>
+			<point x="78.1948051948" y="98.2727272727"/>
+			<point x="100.9220779221" y="98.2727272727" type="qcurve" smooth="yes"/>
+			<point x="198.974025974" y="98.2727272727"/>
+			<point x="277.5741917657" y="314.2857142857"/>
+			<point x="291.4781707654" y="568.0744680851" type="qcurve" smooth="yes"/>
+		</contour>
+	</outline>
+</glyph>

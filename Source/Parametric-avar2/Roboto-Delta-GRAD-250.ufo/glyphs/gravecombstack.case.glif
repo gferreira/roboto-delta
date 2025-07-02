@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravecombstack.case" format="2">
+	<outline>
+		<contour>
+			<point x="139.654676259" y="1570" type="line"/>
+			<point x="-247.9902035818" y="1782.0531914894" type="line"/>
+			<point x="-174.9582886882" y="1893.2765957447" type="line"/>
+			<point x="199.1481827525" y="1658.3636363636" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="0" y="1536"/>
+	<anchor name="top" x="0" y="1892.2872340426"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.9882,0.0471,0.2471,1</string>
+		</dict>
+	</lib>
+</glyph>

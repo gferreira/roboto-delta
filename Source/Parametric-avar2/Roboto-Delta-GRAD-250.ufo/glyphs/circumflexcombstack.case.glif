@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcombstack.case" format="2">
+	<outline>
+		<contour>
+			<point x="-181.928057554" y="1585" type="line"/>
+			<point x="-309.5446603756" y="1585" type="line"/>
+			<point x="-46.2340425532" y="1875" type="line"/>
+			<point x="46.2340425532" y="1875" type="line"/>
+			<point x="310.418761095" y="1585" type="line"/>
+			<point x="182.8992805755" y="1585" type="line"/>
+			<point x="0" y="1768.6026327874" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="0" y="1536"/>
+	<anchor name="top" x="0" y="1875"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.9882,0.0471,0.2471,1</string>
+		</dict>
+	</lib>
+</glyph>

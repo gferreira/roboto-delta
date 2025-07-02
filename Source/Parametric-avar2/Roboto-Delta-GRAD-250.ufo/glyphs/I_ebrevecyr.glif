@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iebrevecyr" format="2">
+	<unicode hex="04D6"/>
+	<advance width="1162"/>
+	<outline>
+		<component base="E"/>
+		<component base="breve.cyrcomb.case" xOffset="621.2533292515"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0,0,1,0.5</string>
+		</dict>
+	</lib>
+</glyph>

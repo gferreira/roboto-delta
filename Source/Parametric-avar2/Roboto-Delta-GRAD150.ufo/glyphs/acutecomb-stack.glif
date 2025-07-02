@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb-stack" format="2">
+	<outline>
+		<contour>
+			<point x="29.3866285013" y="1202.397260274" type="line"/>
+			<point x="-113.9457506986" y="1274.2465753425" type="line"/>
+			<point x="68.7463192933" y="1548.397260274" type="line"/>
+			<point x="261.305786711" y="1457.8176929971" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="0" y="1053"/>
+	<anchor name="top" x="0" y="1548.397260274"/>
+	<anchor name="_topright" x="0" y="1052"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.9908,1,0.037,1</string>
+		</dict>
+	</lib>
+</glyph>

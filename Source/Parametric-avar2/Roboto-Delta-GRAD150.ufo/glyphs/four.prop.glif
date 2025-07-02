@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.prop" format="2">
+	<advance width="1011"/>
+	<outline>
+		<contour>
+			<point x="638.7293563548" y="0" type="line"/>
+			<point x="638.7293563548" y="397.1308411215" type="line"/>
+			<point x="638.7293563548" y="462.7476635514" type="line"/>
+			<point x="638.7293563548" y="1297.3994153544" type="line"/>
+			<point x="645.8891737064" y="1456" type="line"/>
+			<point x="883.4816928034" y="1456" type="line"/>
+			<point x="883.4816928034" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="-13" y="327.6588785047" type="line"/>
+			<point x="-13" y="491.4672897196" type="line"/>
+			<point x="645.8891737064" y="1456" type="line"/>
+			<point x="883.4816928034" y="1456" type="line"/>
+			<point x="883.4816928034" y="1096.9266845901" type="line"/>
+			<point x="626.7293563548" y="1096.9266845901" type="line"/>
+			<point x="253.0070200145" y="523.3224299065" type="line"/>
+			<point x="721.5985152333" y="523.3224299065" type="line"/>
+			<point x="798.5985152333" y="523.3224299065" type="line"/>
+			<point x="1072.7784964564" y="523.3224299065" type="line"/>
+			<point x="1072.7784964564" y="327.6588785047" type="line"/>
+		</contour>
+	</outline>
+</glyph>

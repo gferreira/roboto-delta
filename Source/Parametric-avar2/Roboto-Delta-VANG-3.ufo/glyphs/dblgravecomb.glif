@@ -1,25 +1,25 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dblgravecomb" format="2">
-  <anchor x="-17.132983805759913" y="1052" name="_top"/>
-  <anchor x="-45.80003907358375" y="1599" name="top"/>
-  <outline>
-    <contour>
-      <point x="125.32454817110428" y="1215.0" type="line"/>
-      <point x="-133.0875911317322" y="1490.0" type="line"/>
-      <point x="-2.009670190715923" y="1603.0" type="line"/>
-      <point x="226.18433360774398" y="1294.0" type="line"/>
-    </contour>
-    <contour>
-      <point x="-212.67545182889572" y="1215.0" type="line"/>
-      <point x="-471.0875911317322" y="1490.0" type="line"/>
-      <point x="-340.00967019071595" y="1603.0" type="line"/>
-      <point x="-111.81566639225602" y="1294.0" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0.1,1,0.2</string>
-    </dict>
-  </lib>
+	<outline>
+		<contour>
+			<point x="125.3245481711" y="1215" type="line"/>
+			<point x="-133.0875911317" y="1490" type="line"/>
+			<point x="-2.0096701907" y="1603" type="line"/>
+			<point x="226.1843336077" y="1294" type="line"/>
+		</contour>
+		<contour>
+			<point x="-212.6754518289" y="1215" type="line"/>
+			<point x="-471.0875911317" y="1490" type="line"/>
+			<point x="-340.0096701907" y="1603" type="line"/>
+			<point x="-111.8156663923" y="1294" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="-17.1329838058" y="1052"/>
+	<anchor name="top" x="-45.8000390736" y="1599"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0,0.1,1,0.2</string>
+		</dict>
+	</lib>
 </glyph>
