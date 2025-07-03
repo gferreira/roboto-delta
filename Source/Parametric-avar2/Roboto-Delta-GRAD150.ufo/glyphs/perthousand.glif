@@ -3,10 +3,10 @@
 	<unicode hex="2030"/>
 	<advance width="2648"/>
 	<outline>
-		<component base="zerosuperior" xOffset="1"/>
-		<component base="fraction" xOffset="836.0675301001"/>
-		<component base="zerosuperior" xOffset="1173.8341963846" yOffset="-700"/>
-		<component base="zerosuperior" xOffset="2052.8264722349" yOffset="-700"/>
+		<component base="zerosuperior" xOffset="-44"/>
+		<component base="fraction" xOffset="742"/>
+		<component base="zerosuperior" xOffset="1014" yOffset="-700"/>
+		<component base="zerosuperior" xOffset="1815" yOffset="-700"/>
 	</outline>
 	<lib>
 		<dict>

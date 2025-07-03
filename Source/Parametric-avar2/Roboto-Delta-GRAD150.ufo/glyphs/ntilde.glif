@@ -4,7 +4,7 @@
 	<advance width="1138"/>
 	<outline>
 		<component base="n"/>
-		<component base="tildecomb" xOffset="604.653736184"/>
+		<component base="tildecomb" xOffset="573"/>
 	</outline>
 	<lib>
 		<dict>

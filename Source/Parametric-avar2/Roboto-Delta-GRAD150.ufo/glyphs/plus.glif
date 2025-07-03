@@ -4,16 +4,16 @@
 	<advance width="1024"/>
 	<outline>
 		<contour>
-			<point x="57.3150684932" y="574.1962616822" type="line"/>
-			<point x="57.3150684932" y="787.738317757" type="line"/>
-			<point x="994.5598514915" y="787.738317757" type="line"/>
-			<point x="994.5598514915" y="574.1962616822" type="line"/>
+			<point x="44" y="565" type="line"/>
+			<point x="44" y="778" type="line"/>
+			<point x="981" y="778" type="line"/>
+			<point x="981" y="565" type="line"/>
 		</contour>
 		<contour>
-			<point x="406.91298596" y="191.722741433" type="line"/>
-			<point x="406.91298596" y="1171.9221183801" type="line"/>
-			<point x="644.8569111936" y="1171.9221183801" type="line"/>
-			<point x="644.8569111936" y="191.722741433" type="line"/>
+			<point x="393" y="182" type="line"/>
+			<point x="393" y="1162" type="line"/>
+			<point x="631" y="1162" type="line"/>
+			<point x="631" y="182" type="line"/>
 		</contour>
 	</outline>
 </glyph>

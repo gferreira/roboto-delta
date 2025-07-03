@@ -4,13 +4,13 @@
 	<advance width="652"/>
 	<outline>
 		<contour>
-			<point x="108" y="522" type="line"/>
-			<point x="108" y="581" type="line"/>
-			<point x="403.3078991166" y="971.1635514019" type="line"/>
-			<point x="623.2518243503" y="971.1635514019" type="line"/>
-			<point x="364.9439252336" y="551" type="line"/>
-			<point x="623.2518243503" y="130.8364485981" type="line"/>
-			<point x="403.3078991166" y="130.8364485981" type="line"/>
+			<point x="91" y="522" type="line"/>
+			<point x="91" y="581" type="line"/>
+			<point x="403" y="972" type="line"/>
+			<point x="620" y="972" type="line"/>
+			<point x="348" y="551" type="line"/>
+			<point x="620" y="131" type="line"/>
+			<point x="403" y="131" type="line"/>
 		</contour>
 	</outline>
 	<guideline y="901" identifier="Amp5Ormvx4"/>

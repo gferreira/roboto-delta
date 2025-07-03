@@ -4,7 +4,7 @@
 	<advance width="1247"/>
 	<outline>
 		<component base="R"/>
-		<component base="commaaccentcomb.case" xOffset="641.266362465"/>
+		<component base="commaaccentcomb.case" xOffset="609"/>
 	</outline>
 	<lib>
 		<dict>

@@ -4,8 +4,8 @@
 	<advance width="1162"/>
 	<outline>
 		<component base="o"/>
-		<component base="horncomb" xOffset="796.9648145777"/>
-		<component base="hookabovecomb" xOffset="610.3052959502"/>
+		<component base="horncomb" xOffset="766"/>
+		<component base="hookabovecomb" xOffset="579"/>
 	</outline>
 	<lib>
 		<dict>

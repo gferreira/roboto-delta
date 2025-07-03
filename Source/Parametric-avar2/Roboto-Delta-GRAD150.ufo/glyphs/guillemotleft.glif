@@ -4,22 +4,22 @@
 	<advance width="1092"/>
 	<outline>
 		<contour>
-			<point x="108" y="522" type="line"/>
-			<point x="108" y="581" type="line"/>
-			<point x="403.3078991166" y="971.1635514019" type="line"/>
-			<point x="623.2518243503" y="971.1635514019" type="line"/>
-			<point x="364.9439252336" y="551" type="line"/>
-			<point x="623.2518243503" y="130.8364485981" type="line"/>
-			<point x="403.3078991166" y="130.8364485981" type="line"/>
+			<point x="92" y="522" type="line"/>
+			<point x="92" y="581" type="line"/>
+			<point x="404" y="972" type="line"/>
+			<point x="621" y="972" type="line"/>
+			<point x="349" y="551" type="line"/>
+			<point x="621" y="131" type="line"/>
+			<point x="404" y="131" type="line"/>
 		</contour>
 		<contour>
-			<point x="586.8297699825" y="522" type="line"/>
-			<point x="586.8297699825" y="581" type="line"/>
-			<point x="882.1376690991" y="971.1635514019" type="line"/>
-			<point x="1102.0815943328" y="971.1635514019" type="line"/>
-			<point x="843.7736952161" y="551" type="line"/>
-			<point x="1102.0815943328" y="130.8364485981" type="line"/>
-			<point x="882.1376690991" y="130.8364485981" type="line"/>
+			<point x="532" y="522" type="line"/>
+			<point x="532" y="581" type="line"/>
+			<point x="844" y="972" type="line"/>
+			<point x="1061" y="972" type="line"/>
+			<point x="789" y="551" type="line"/>
+			<point x="1061" y="131" type="line"/>
+			<point x="844" y="131" type="line"/>
 		</contour>
 	</outline>
 	<guideline y="901" identifier="ZftBQarVKw"/>

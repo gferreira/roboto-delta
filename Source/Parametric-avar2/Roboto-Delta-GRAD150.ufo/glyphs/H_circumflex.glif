@@ -4,7 +4,7 @@
 	<advance width="1458"/>
 	<outline>
 		<component base="H"/>
-		<component base="circumflexcomb.case" xOffset="754.1768232834"/>
+		<component base="circumflexcomb.case" xOffset="729"/>
 	</outline>
 	<lib>
 		<dict>
