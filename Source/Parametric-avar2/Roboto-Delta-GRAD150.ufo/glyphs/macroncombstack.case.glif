@@ -2,10 +2,10 @@
 <glyph name="macroncombstack.case" format="2">
 	<outline>
 		<contour>
-			<point x="-310.4788119319" y="1650.5970149254" type="line"/>
-			<point x="-310.4788119319" y="1824.776119403" type="line"/>
-			<point x="310.4788119319" y="1824.776119403" type="line"/>
-			<point x="310.4788119319" y="1650.5970149254" type="line"/>
+			<point x="-311" y="1665" type="line"/>
+			<point x="-311" y="1839" type="line"/>
+			<point x="310" y="1839" type="line"/>
+			<point x="310" y="1665" type="line"/>
 		</contour>
 	</outline>
 	<anchor name="_top" x="0" y="1536"/>

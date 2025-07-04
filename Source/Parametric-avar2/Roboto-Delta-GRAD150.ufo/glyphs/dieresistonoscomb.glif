@@ -18,8 +18,8 @@
 		<contour>
 			<point x="64.5820895522" y="1192.4474885845" type="line"/>
 			<point x="-78.5820895522" y="1200.4474885845" type="line"/>
-			<point x="-60.8820040114" y="1587.4474885845" type="line"/>
-			<point x="162.7815473904" y="1587.4474885845" type="line"/>
+			<point x="-61" y="1599" type="line"/>
+			<point x="166" y="1599" type="line"/>
 		</contour>
 		<contour>
 			<point x="303.4233986259" y="1194.8960867153" type="qcurve" smooth="yes"/>

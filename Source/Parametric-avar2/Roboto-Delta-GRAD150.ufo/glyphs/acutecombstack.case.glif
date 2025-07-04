@@ -2,10 +2,10 @@
 <glyph name="acutecombstack.case" format="2">
 	<outline>
 		<contour>
-			<point x="-229.1635580897" y="1697.4805619196" type="line"/>
-			<point x="73.3300916363" y="1936.4633668172" type="line"/>
-			<point x="229.5987932569" y="1772.8177270732" type="line"/>
-			<point x="-117.2377155319" y="1585.3544003832" type="line"/>
+			<point x="-119" y="1587" type="line"/>
+			<point x="-219" y="1725" type="line"/>
+			<point x="89" y="1961" type="line"/>
+			<point x="236" y="1758" type="line"/>
 		</contour>
 	</outline>
 	<anchor name="_top" x="0" y="1536"/>

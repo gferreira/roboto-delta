@@ -2,16 +2,16 @@
 <glyph name="hungarumlautcomb-stack.case" format="2">
 	<outline>
 		<contour>
-			<point x="-287.5395678756" y="1640.5728676423" type="line"/>
-			<point x="-84.8609538405" y="1979.8844387078" type="line"/>
-			<point x="118.8251888044" y="1866.7528176554" type="line"/>
-			<point x="-113.6161657466" y="1575.9031035451" type="line"/>
+			<point x="-285" y="1651" type="line"/>
+			<point x="-65" y="2008" type="line"/>
+			<point x="134" y="1885" type="line"/>
+			<point x="-126" y="1570" type="line"/>
 		</contour>
 		<contour>
-			<point x="79.3544774527" y="1640.5728676423" type="line"/>
-			<point x="282.0330914879" y="1979.8844387078" type="line"/>
-			<point x="485.7192341328" y="1866.7528176554" type="line"/>
-			<point x="253.2778795817" y="1575.9031035451" type="line"/>
+			<point x="51" y="1651" type="line"/>
+			<point x="271" y="2008" type="line"/>
+			<point x="470" y="1885" type="line"/>
+			<point x="210" y="1570" type="line"/>
 		</contour>
 	</outline>
 	<anchor name="_top" x="0" y="1456"/>

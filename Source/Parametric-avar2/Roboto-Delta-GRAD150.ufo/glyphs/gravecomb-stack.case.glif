@@ -2,10 +2,10 @@
 <glyph name="gravecomb-stack.case" format="2">
 	<outline>
 		<contour>
-			<point x="64.7823209519" y="1574.0853675547" type="line"/>
-			<point x="-276.0801806484" y="1747.7556045786" type="line"/>
-			<point x="-148.0007620966" y="1934.519889988" type="line"/>
-			<point x="160.9183607631" y="1704.2304525255" type="line"/>
+			<point x="46" y="1586" type="line"/>
+			<point x="-296" y="1758" type="line"/>
+			<point x="-173" y="1946" type="line"/>
+			<point x="139" y="1725" type="line"/>
 		</contour>
 	</outline>
 	<anchor name="_top" x="0" y="1456"/>

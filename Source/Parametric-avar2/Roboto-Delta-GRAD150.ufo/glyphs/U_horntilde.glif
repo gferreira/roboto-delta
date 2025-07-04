@@ -5,7 +5,7 @@
 	<outline>
 		<component base="U"/>
 		<component base="horncomb.case" xOffset="1116"/>
-		<component base="tildecomb.case" xOffset="681.8949771689" yOffset="0"/>
+		<component base="tildecomb.case" xOffset="681.8949771689"/>
 	</outline>
 	<lib>
 		<dict>

@@ -2,13 +2,13 @@
 <glyph name="circumflexcomb.case" format="2">
 	<outline>
 		<contour>
-			<point x="-150.1415525114" y="1607.5148639086" type="line"/>
-			<point x="-349.5296122129" y="1607.5148639086" type="line"/>
-			<point x="-85.8177570093" y="1956.2064526936" type="line"/>
-			<point x="85.8177570093" y="1956.2064526936" type="line"/>
-			<point x="349.5296122129" y="1607.5148639086" type="line"/>
-			<point x="150.1415525114" y="1607.5148639086" type="line"/>
-			<point x="0" y="1786.3805355504" type="line"/>
+			<point x="-163" y="1628" type="line"/>
+			<point x="-357" y="1628" type="line"/>
+			<point x="-86" y="1977" type="line"/>
+			<point x="85" y="1977" type="line"/>
+			<point x="356" y="1628" type="line"/>
+			<point x="163" y="1628" type="line"/>
+			<point x="0" y="1807" type="line"/>
 		</contour>
 	</outline>
 	<anchor name="_top" x="0" y="1456"/>

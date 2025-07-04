@@ -16,10 +16,10 @@
 			<point x="1104" y="0" type="line"/>
 		</contour>
 		<contour>
-			<point x="236" y="218" type="line"/>
-			<point x="236" y="476" type="line"/>
-			<point x="778" y="1053" type="line"/>
-			<point x="1031" y="1053" type="line"/>
+			<point x="236" y="217" type="line"/>
+			<point x="236" y="475" type="line"/>
+			<point x="779" y="1052" type="line"/>
+			<point x="1029" y="1052" type="line"/>
 		</contour>
 	</outline>
 	<anchor name="bottom" x="532" y="0"/>

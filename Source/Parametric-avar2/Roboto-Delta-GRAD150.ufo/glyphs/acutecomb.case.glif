@@ -2,10 +2,10 @@
 <glyph name="acutecomb.case" format="2">
 	<outline>
 		<contour>
-			<point x="-120.7004342645" y="1640.5192256615" type="line"/>
-			<point x="71.4077369522" y="1961.56940238" type="line"/>
-			<point x="280.0538770111" y="1871.9929930427" type="line"/>
-			<point x="34.1299344399" y="1575.9806173333" type="line"/>
+			<point x="-119" y="1669" type="line"/>
+			<point x="74" y="1983" type="line"/>
+			<point x="272" y="1862" type="line"/>
+			<point x="29" y="1570" type="line"/>
 		</contour>
 	</outline>
 	<anchor name="_top" x="0" y="1456"/>
