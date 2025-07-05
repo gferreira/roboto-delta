@@ -4,12 +4,12 @@
 	<advance width="1790"/>
 	<outline>
 		<component base="Zhe"/>
-		<component base="cy-descendercomb" xOffset="1641.785969334"/>
+		<component base="cy-descendercomb" xOffset="1584"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>public.markColor</key>
-			<string>0,0,1,0.5</string>
+			<string>0.0676,0,0.9997,1</string>
 		</dict>
 	</lib>
 </glyph>

@@ -3,10 +3,10 @@
 	<advance width="1460"/>
 	<outline>
 		<contour>
-			<point x="247.6355140187" y="847.7611940299" type="line"/>
-			<point x="1256.3009004396" y="847.7611940299" type="line"/>
-			<point x="1256.3009004396" y="647.9701492537" type="line"/>
-			<point x="247.6355140187" y="647.9701492537" type="line"/>
+			<point x="223" y="848" type="line"/>
+			<point x="1238" y="848" type="line"/>
+			<point x="1238" y="648" type="line"/>
+			<point x="223" y="648" type="line"/>
 		</contour>
 	</outline>
 	<guideline x="212" y="786" angle="90" identifier="UtNSclIhRG"/>

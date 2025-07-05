@@ -4,20 +4,20 @@
 	<advance width="1723"/>
 	<outline>
 		<contour>
-			<point x="170" y="607" type="line"/>
-			<point x="170" y="779" type="line"/>
-			<point x="1194" y="779" type="line"/>
-			<point x="1194" y="697.3807237656" type="line"/>
-			<point x="1194" y="607" type="line"/>
+			<point x="150" y="607" type="line"/>
+			<point x="150" y="779" type="line"/>
+			<point x="1174" y="779" type="line"/>
+			<point x="1174" y="698" type="line"/>
+			<point x="1174" y="607" type="line"/>
 		</contour>
 		<contour>
-			<point x="919" y="220.0280373832" type="line"/>
-			<point x="870.9626168224" y="278.3130841121" type="line"/>
-			<point x="1149.2897196262" y="697.2757009346" type="line"/>
-			<point x="871.6728971963" y="1108.1214953271" type="line"/>
-			<point x="919" y="1163.9719626168" type="line"/>
-			<point x="1595.1542056075" y="718.1448598131" type="line"/>
-			<point x="1595.1542056075" y="667.4205607477" type="line"/>
+			<point x="899" y="221" type="line"/>
+			<point x="851" y="279" type="line"/>
+			<point x="1130" y="698" type="line"/>
+			<point x="852" y="1109" type="line"/>
+			<point x="899" y="1164" type="line"/>
+			<point x="1576" y="719" type="line"/>
+			<point x="1576" y="668" type="line"/>
 		</contour>
 	</outline>
 	<guideline x="1094" y="773" angle="90" identifier="xShtOjvBze"/>
