@@ -16,6 +16,7 @@
     <axis tag="XOPQ" name="XOPQ" minimum="2" maximum="310" default="96"/>
     <axis tag="YOPQ" name="YOPQ" minimum="2" maximum="280" default="79"/>
     <axis tag="XTRA" name="XTRA" minimum="244" maximum="741" default="463"/>
+    <axis tag="BDSZ" name="BDSZ" minimum="-1" maximum="1.4" default="0"/>
     <axis tag="WDSP" name="WDSP" minimum="0" maximum="1000" default="246"/>
     <axis tag="VANG" name="VANG" minimum="-3" maximum="13" default="0"/>
     <axis tag="VROT" name="VROT" minimum="0" maximum="13" default="0"/>
@@ -44,7 +45,6 @@
     <axis tag="XTUC" name="XTUC" minimum="244" maximum="741" default="463"/>
     <axis tag="XTLC" name="XTLC" minimum="244" maximum="741" default="463"/>
     <axis tag="XTFI" name="XTFI" minimum="244" maximum="741" default="463"/>
-    <axis tag="BDSZ" name="BDSZ" minimum="-1" maximum="1.4" default="0"/>
     
     <mappings>
       
@@ -884,7 +884,7 @@
             <dimension name="YTTL" xvalue="0"/>
             <dimension name="XTTW" xvalue="0"/>
             <dimension name="XTUR" xvalue="463"/>
-            <dimension name="WDSP" xvalue="56"/>
+            <dimension name="WDSP" xvalue="70"/>
             <!-- BARS EXCEPTION TO OPEN BARS FOR $¢Øø -->
             <dimension name="BARS" xvalue="1000"/>
             <dimension name="XTUD" xvalue="463"/>
@@ -974,7 +974,7 @@
             <dimension name="YTTL" xvalue="0"/>
             <dimension name="XTTW" xvalue="0"/>
             <dimension name="XTUR" xvalue="463"/>
-            <dimension name="WDSP" xvalue="164"/>
+            <dimension name="WDSP" xvalue="70"/>
             <!-- BARS EXCEPTION TO OPEN BARS FOR $¢Øø -->
             <dimension name="BARS" xvalue="0"/>
             <!-- XTUD EXCEPTION TO OPEN TRANSPARENCY FOR UPPERCASE DIAGONALS -->
@@ -1692,8 +1692,8 @@
             <dimension name="YOUC" xvalue="79"/>
             <dimension name="YOLC" xvalue="79"/>
             <dimension name="BDSZ" xvalue="1.4"/>
-            <dimension name="YTAS" xvalue="875"/>
-            <dimension name="YTDE" xvalue="-310"/>
+            <dimension name="YTAS" xvalue="778"/>
+            <dimension name="YTDE" xvalue="-252"/>
             <dimension name="YTFI" xvalue="743"/>
             <dimension name="YTLC" xvalue="526"/>
             <dimension name="YTOS" xvalue="30"/>
