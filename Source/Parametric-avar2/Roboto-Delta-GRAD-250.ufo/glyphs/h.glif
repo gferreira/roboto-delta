@@ -4,32 +4,32 @@
 	<advance width="1138"/>
 	<outline>
 		<contour>
-			<point x="274.9680851064" y="0" type="line"/>
-			<point x="148" y="0" type="line"/>
-			<point x="148" y="1456" type="line"/>
-			<point x="274.9680851064" y="1456" type="line"/>
+			<point x="307" y="0" type="line"/>
+			<point x="181" y="0" type="line"/>
+			<point x="181" y="1456" type="line"/>
+			<point x="307" y="1456" type="line"/>
 		</contour>
 		<contour>
-			<point x="211.3191489362" y="811.6753246753" type="line"/>
-			<point x="291.7759834685" y="948.1168831169"/>
-			<point x="492.2206360913" y="1072"/>
-			<point x="612.0536447327" y="1072" type="qcurve" smooth="yes"/>
-			<point x="763.9748907147" y="1072"/>
-			<point x="934.2850910761" y="899.3353742538"/>
-			<point x="934.2850910761" y="673.464028777" type="qcurve" smooth="yes"/>
-			<point x="934.2850910761" y="0" type="line"/>
-			<point x="807.3170059697" y="0" type="line"/>
-			<point x="807.3170059697" y="675.1342415429" type="line" smooth="yes"/>
-			<point x="807.3170059697" y="832.4945342427"/>
-			<point x="687.202712105" y="952.7662337662"/>
-			<point x="567.2990203582" y="952.7662337662" type="qcurve" smooth="yes"/>
-			<point x="461.1152043273" y="952.7662337662"/>
-			<point x="296.8335841413" y="820.8441558442"/>
-			<point x="211.3191489362" y="652.7792207792" type="qcurve"/>
+			<point x="244" y="811" type="line"/>
+			<point x="324" y="948"/>
+			<point x="525" y="1072"/>
+			<point x="645" y="1072" type="qcurve" smooth="yes"/>
+			<point x="796" y="1072"/>
+			<point x="967" y="899"/>
+			<point x="967" y="673" type="qcurve" smooth="yes"/>
+			<point x="967" y="0" type="line"/>
+			<point x="840" y="0" type="line"/>
+			<point x="840" y="675" type="line" smooth="yes"/>
+			<point x="840" y="832"/>
+			<point x="720" y="952"/>
+			<point x="600" y="952" type="qcurve" smooth="yes"/>
+			<point x="494" y="952"/>
+			<point x="329" y="820"/>
+			<point x="244" y="652" type="qcurve"/>
 		</contour>
 	</outline>
-	<anchor name="bottom" x="535.8997397826" y="0"/>
-	<anchor name="center" x="318.4419103015" y="1239.4893617021"/>
-	<anchor name="top" x="211.4021829235" y="1456"/>
-	<anchor name="engtail" x="870.1889637226" y="0"/>
+	<anchor name="bottom" x="568" y="0"/>
+	<anchor name="center" x="351" y="1239"/>
+	<anchor name="top" x="244" y="1456"/>
+	<anchor name="engtail" x="903" y="0"/>
 </glyph>
