@@ -4,23 +4,23 @@
 	<advance width="1261"/>
 	<outline>
 		<contour>
-			<point x="584.7441451094" y="-146" type="line"/>
-			<point x="457.7760600031" y="-146" type="line"/>
-			<point x="457.7760600031" y="849.0212765957" type="line"/>
-			<point x="378.5425531915" y="849.0212765957" type="line" smooth="yes"/>
-			<point x="222.7872340426" y="849.0212765957"/>
-			<point x="56" y="1021.4893617021"/>
-			<point x="56" y="1152.5106382979" type="qcurve" smooth="yes"/>
-			<point x="56" y="1281.8617021277"/>
-			<point x="222.7872340426" y="1456"/>
-			<point x="378.5425531915" y="1456" type="qcurve" smooth="yes"/>
-			<point x="584.7441451094" y="1456" type="line"/>
+			<point x="723" y="-146" type="line"/>
+			<point x="596" y="-146" type="line"/>
+			<point x="596" y="849" type="line"/>
+			<point x="517" y="849" type="line" smooth="yes"/>
+			<point x="361" y="849"/>
+			<point x="195" y="1021"/>
+			<point x="195" y="1152" type="qcurve" smooth="yes"/>
+			<point x="195" y="1281"/>
+			<point x="361" y="1456"/>
+			<point x="517" y="1456" type="qcurve" smooth="yes"/>
+			<point x="723" y="1456" type="line"/>
 		</contour>
 		<contour>
-			<point x="746.1686055411" y="1459" type="line"/>
-			<point x="873.1366906475" y="1459" type="line"/>
-			<point x="873.1366906475" y="-146" type="line"/>
-			<point x="746.1686055411" y="-146" type="line"/>
+			<point x="885" y="1459" type="line"/>
+			<point x="1012" y="1459" type="line"/>
+			<point x="1012" y="-146" type="line"/>
+			<point x="885" y="-146" type="line"/>
 		</contour>
 	</outline>
 	<guideline y="901" identifier="27539Lsr1A"/>

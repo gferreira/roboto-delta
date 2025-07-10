@@ -4,25 +4,25 @@
 	<advance width="1228"/>
 	<outline>
 		<contour>
-			<point x="514.7151385275" y="0" type="line"/>
-			<point x="514.7151385275" y="544" type="line"/>
-			<point x="15" y="1456" type="line"/>
-			<point x="162.0744680851" y="1456" type="line"/>
-			<point x="523.7193479259" y="780.2113883361" type="line" smooth="yes"/>
-			<point x="540.0512781264" y="750.3085106383"/>
-			<point x="566.820756161" y="700.3085106383"/>
-			<point x="579.0449257615" y="673.3085106383" type="qcurve"/>
-			<point x="584.3853512934" y="673.3085106383" type="line"/>
-			<point x="596.4152762896" y="700.3085106383"/>
-			<point x="623.6116638604" y="750.3085106383"/>
-			<point x="639.9435940609" y="780.2113883361" type="qcurve" smooth="yes"/>
-			<point x="1004.9288994336" y="1456" type="line"/>
-			<point x="1146.6416653911" y="1456" type="line"/>
-			<point x="645.7045002296" y="544" type="line"/>
-			<point x="645.7045002296" y="0" type="line"/>
+			<point x="548" y="0" type="line"/>
+			<point x="548" y="544" type="line"/>
+			<point x="45" y="1456" type="line"/>
+			<point x="192" y="1456" type="line"/>
+			<point x="557" y="780" type="line" smooth="yes"/>
+			<point x="573" y="750"/>
+			<point x="600" y="700"/>
+			<point x="613" y="673" type="qcurve"/>
+			<point x="618" y="673" type="line"/>
+			<point x="630" y="700"/>
+			<point x="657" y="750"/>
+			<point x="673" y="780" type="qcurve" smooth="yes"/>
+			<point x="1041" y="1456" type="line"/>
+			<point x="1183" y="1456" type="line"/>
+			<point x="679" y="544" type="line"/>
+			<point x="679" y="0" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="bottom" x="580.0833460891" y="0"/>
-	<anchor name="top" x="581.0929894382" y="1456.2326649319"/>
-	<anchor name="tonos" x="-175" y="1074"/>
+	<anchor name="bottom" x="614" y="0"/>
+	<anchor name="top" x="615" y="1456"/>
+	<anchor name="tonos" x="-141" y="1074"/>
 </glyph>
