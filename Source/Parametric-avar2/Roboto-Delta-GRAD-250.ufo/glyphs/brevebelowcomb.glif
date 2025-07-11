@@ -4,19 +4,19 @@
 	<outline>
 		<contour>
 			<point x="0" y="-463" type="qcurve"/>
-			<point x="-112.687330655" y="-463"/>
-			<point x="-293.1093618612" y="-309"/>
-			<point x="-335.9728113613" y="-195" type="qcurve"/>
-			<point x="-258.9208633094" y="-155.3376623377" type="line"/>
-			<point x="-222.5833401254" y="-225.0074606245"/>
-			<point x="-86.6726618705" y="-350.7765957447"/>
-			<point x="0" y="-350.7765957447" type="qcurve"/>
-			<point x="86.6726618705" y="-350.7765957447"/>
-			<point x="222.5833401254" y="-225.0074606245"/>
-			<point x="258.9208633094" y="-155.3376623377" type="qcurve"/>
-			<point x="335.9728113613" y="-195" type="line"/>
-			<point x="293.1093618612" y="-309"/>
-			<point x="112.687330655" y="-463"/>
+			<point x="-112" y="-463"/>
+			<point x="-293" y="-309"/>
+			<point x="-335" y="-195" type="qcurve"/>
+			<point x="-258" y="-155" type="line"/>
+			<point x="-222" y="-225"/>
+			<point x="-86" y="-350"/>
+			<point x="0" y="-350" type="qcurve"/>
+			<point x="87" y="-350"/>
+			<point x="223" y="-225"/>
+			<point x="259" y="-155" type="qcurve"/>
+			<point x="336" y="-195" type="line"/>
+			<point x="294" y="-309"/>
+			<point x="113" y="-463"/>
 		</contour>
 	</outline>
 	<anchor name="_bottom" x="0" y="0"/>

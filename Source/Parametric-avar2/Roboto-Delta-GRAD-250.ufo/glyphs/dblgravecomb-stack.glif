@@ -2,16 +2,16 @@
 <glyph name="dblgravecomb-stack" format="2">
 	<outline>
 		<contour>
-			<point x="151.0971223022" y="1215" type="line"/>
-			<point x="-68.4320373488" y="1450.0241849074" type="line"/>
-			<point x="26.9784938007" y="1525.6205418644" type="line"/>
-			<point x="231.6081472484" y="1274.6115107914" type="line"/>
+			<point x="151" y="1215" type="line"/>
+			<point x="-50" y="1430" type="line"/>
+			<point x="45" y="1505" type="line"/>
+			<point x="231" y="1275" type="line"/>
 		</contour>
 		<contour>
-			<point x="-190.0107913669" y="1215" type="line"/>
-			<point x="-409.5399510179" y="1450.0241849074" type="line"/>
-			<point x="-314.1294198684" y="1525.6205418644" type="line"/>
-			<point x="-109.4997664206" y="1274.6115107914" type="line"/>
+			<point x="-187" y="1215" type="line"/>
+			<point x="-387" y="1430" type="line"/>
+			<point x="-292" y="1505" type="line"/>
+			<point x="-106" y="1275" type="line"/>
 		</contour>
 	</outline>
 	<anchor name="_top" x="0" y="1052"/>

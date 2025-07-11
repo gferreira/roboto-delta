@@ -4,7 +4,7 @@
 	<advance width="1407"/>
 	<outline>
 		<component base="G"/>
-		<component base="commaaccentcomb.case" xOffset="712.9942599112"/>
+		<component base="commaaccentcomb.case" xOffset="730"/>
 	</outline>
 	<lib>
 		<dict>

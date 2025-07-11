@@ -4,7 +4,7 @@
 	<advance width="1280"/>
 	<outline>
 		<component base="A"/>
-		<component base="macroncomb.case" xOffset="613.6204653299"/>
+		<component base="macroncomb.case" xOffset="637"/>
 	</outline>
 	<lib>
 		<dict>

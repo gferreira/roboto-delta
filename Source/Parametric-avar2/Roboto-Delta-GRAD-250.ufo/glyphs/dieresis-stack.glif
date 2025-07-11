@@ -2,7 +2,7 @@
 <glyph name="dieresis-stack" format="2">
 	<advance width="1024"/>
 	<outline>
-		<component base="dieresiscomb-stack" xOffset="483.3085106383"/>
+		<component base="dieresiscomb-stack" xOffset="512"/>
 	</outline>
 	<lib>
 		<dict>

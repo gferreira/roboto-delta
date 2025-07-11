@@ -4,31 +4,31 @@
 	<advance width="1138"/>
 	<outline>
 		<contour>
-			<point x="148" y="0" type="line"/>
-			<point x="148" y="1052" type="line"/>
-			<point x="262.9042553191" y="1052" type="line"/>
-			<point x="274.9680851064" y="822.4800990377" type="line"/>
-			<point x="274.9680851064" y="0" type="line"/>
+			<point x="181" y="0" type="line"/>
+			<point x="181" y="1052" type="line"/>
+			<point x="295" y="1052" type="line"/>
+			<point x="307" y="843" type="line"/>
+			<point x="307" y="0" type="line"/>
 		</contour>
 		<contour>
-			<point x="211.3191489362" y="643.7402597403" type="qcurve"/>
-			<point x="211.3191489362" y="780.7922077922" type="line"/>
-			<point x="280.7904067462" y="942.3636363636"/>
-			<point x="489.8995797559" y="1072"/>
-			<point x="606.3155518139" y="1072" type="qcurve" smooth="yes"/>
-			<point x="762.9024950253" y="1072"/>
-			<point x="934.2850910761" y="891.9712230216"/>
-			<point x="934.2850910761" y="679" type="qcurve" smooth="yes"/>
-			<point x="934.2850910761" y="-416" type="line"/>
-			<point x="807.3170059697" y="-416" type="line"/>
-			<point x="807.3170059697" y="681" type="line" smooth="yes"/>
-			<point x="807.3170059697" y="827.7114827618"/>
-			<point x="682.8317930348" y="952.7662337662"/>
-			<point x="569.5915352824" y="952.7662337662" type="qcurve" smooth="yes"/>
-			<point x="468.7465186734" y="952.7662337662"/>
-			<point x="305.5378348882" y="840.7142857143"/>
+			<point x="244" y="643" type="qcurve"/>
+			<point x="244" y="780" type="line"/>
+			<point x="313" y="942"/>
+			<point x="522" y="1072"/>
+			<point x="639" y="1072" type="qcurve" smooth="yes"/>
+			<point x="795" y="1072"/>
+			<point x="967" y="891"/>
+			<point x="967" y="679" type="qcurve" smooth="yes"/>
+			<point x="967" y="-416" type="line"/>
+			<point x="840" y="-416" type="line"/>
+			<point x="840" y="681" type="line" smooth="yes"/>
+			<point x="840" y="827"/>
+			<point x="715" y="952"/>
+			<point x="602" y="952" type="qcurve" smooth="yes"/>
+			<point x="501" y="952"/>
+			<point x="338" y="840"/>
 		</contour>
 	</outline>
-	<anchor name="bottom" x="550.5769171897" y="0"/>
-	<anchor name="top" x="566.1368437165" y="1052"/>
+	<anchor name="bottom" x="583" y="0"/>
+	<anchor name="top" x="599" y="1052"/>
 </glyph>

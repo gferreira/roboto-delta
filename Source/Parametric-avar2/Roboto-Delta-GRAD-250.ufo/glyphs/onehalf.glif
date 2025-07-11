@@ -3,9 +3,9 @@
 	<unicode hex="00BD"/>
 	<advance width="1536"/>
 	<outline>
-		<component base="onesuperior" xOffset="20.4468085106"/>
-		<component base="fraction" xOffset="564.648170825"/>
-		<component base="twosuperior" xOffset="816.1435022195" yOffset="-697"/>
+		<component base="onesuperior"/>
+		<component base="fraction" xOffset="564"/>
+		<component base="twosuperior" xOffset="816" yOffset="-697"/>
 	</outline>
 	<guideline y="2079" identifier="ZZEoUYP2Rx"/>
 	<lib>

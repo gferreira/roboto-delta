@@ -4,8 +4,8 @@
 	<advance width="1740"/>
 	<outline>
 		<component base="period"/>
-		<component base="period" xOffset="510.7446808511"/>
-		<component base="period" xOffset="1021.4893617021"/>
+		<component base="period" xOffset="580"/>
+		<component base="period" xOffset="1160"/>
 	</outline>
 	<lib>
 		<dict>

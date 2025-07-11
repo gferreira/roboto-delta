@@ -2,32 +2,32 @@
 <glyph name="dieresiscombstack.case" format="2">
 	<outline>
 		<contour>
-			<point x="-290.7441451094" y="1692.7021276596" type="qcurve" smooth="yes"/>
-			<point x="-290.7441451094" y="1730.8829787234"/>
-			<point x="-248.8824429818" y="1772.0744680851"/>
-			<point x="-210.031379152" y="1772.0744680851" type="qcurve" smooth="yes"/>
-			<point x="-173.1909536201" y="1772.0744680851"/>
-			<point x="-129.3186131946" y="1728.2021276596"/>
-			<point x="-129.3186131946" y="1692.7021276596" type="qcurve" smooth="yes"/>
-			<point x="-129.3186131946" y="1655.1914893617"/>
-			<point x="-170.5101025563" y="1614"/>
-			<point x="-210.031379152" y="1614" type="qcurve" smooth="yes"/>
-			<point x="-246.8718046839" y="1614"/>
-			<point x="-290.7441451094" y="1657.2021276596"/>
+			<point x="-310" y="1693" type="qcurve" smooth="yes"/>
+			<point x="-310" y="1731"/>
+			<point x="-268" y="1773"/>
+			<point x="-230" y="1773" type="qcurve" smooth="yes"/>
+			<point x="-193" y="1773"/>
+			<point x="-149" y="1729"/>
+			<point x="-149" y="1693" type="qcurve" smooth="yes"/>
+			<point x="-149" y="1656"/>
+			<point x="-190" y="1614"/>
+			<point x="-230" y="1614" type="qcurve" smooth="yes"/>
+			<point x="-266" y="1614"/>
+			<point x="-310" y="1658"/>
 		</contour>
 		<contour>
-			<point x="129.3186131946" y="1692.7021276596" type="qcurve" smooth="yes"/>
-			<point x="129.3186131946" y="1730.8829787234"/>
-			<point x="171.1803153222" y="1772.0744680851"/>
-			<point x="210.031379152" y="1772.0744680851" type="qcurve" smooth="yes"/>
-			<point x="246.8718046839" y="1772.0744680851"/>
-			<point x="290.7441451094" y="1728.2021276596"/>
-			<point x="290.7441451094" y="1692.7021276596" type="qcurve" smooth="yes"/>
-			<point x="290.7441451094" y="1655.1914893617"/>
-			<point x="249.5526557477" y="1614"/>
-			<point x="210.031379152" y="1614" type="qcurve" smooth="yes"/>
-			<point x="173.1909536201" y="1614"/>
-			<point x="129.3186131946" y="1657.2021276596"/>
+			<point x="149" y="1693" type="qcurve" smooth="yes"/>
+			<point x="149" y="1731"/>
+			<point x="191" y="1773"/>
+			<point x="230" y="1773" type="qcurve" smooth="yes"/>
+			<point x="266" y="1773"/>
+			<point x="310" y="1729"/>
+			<point x="310" y="1693" type="qcurve" smooth="yes"/>
+			<point x="310" y="1656"/>
+			<point x="269" y="1614"/>
+			<point x="230" y="1614" type="qcurve" smooth="yes"/>
+			<point x="193" y="1614"/>
+			<point x="149" y="1658"/>
 		</contour>
 	</outline>
 	<anchor name="_top" x="0" y="1536"/>

@@ -4,29 +4,29 @@
 	<advance width="1914"/>
 	<outline>
 		<contour>
-			<point x="-15" y="0" type="line"/>
-			<point x="866.314097658" y="1456" type="line"/>
-			<point x="1773.5555640594" y="1456" type="line"/>
-			<point x="1773.5555640594" y="1335.2597402597" type="line"/>
-			<point x="1041.8460125517" y="1335.2597402597" type="line"/>
-			<point x="1041.8460125517" y="120.7402597403" type="line"/>
-			<point x="1783.5555640594" y="120.7402597403" type="line"/>
-			<point x="1783.5555640594" y="0" type="line"/>
-			<point x="910.8566508495" y="0" type="line"/>
-			<point x="910.8566508495" y="1308.5744680851" type="line"/>
-			<point x="139.8737180468" y="0" type="line"/>
+			<point x="24" y="0" type="line"/>
+			<point x="906" y="1456" type="line"/>
+			<point x="1813" y="1456" type="line"/>
+			<point x="1813" y="1336" type="line"/>
+			<point x="1081" y="1336" type="line"/>
+			<point x="1081" y="121" type="line"/>
+			<point x="1823" y="121" type="line"/>
+			<point x="1823" y="0" type="line"/>
+			<point x="950" y="0" type="line"/>
+			<point x="950" y="1309" type="line"/>
+			<point x="179" y="0" type="line"/>
 		</contour>
 		<contour>
-			<point x="979.8779274453" y="691.2467532468" type="line"/>
-			<point x="979.8779274453" y="811.987012987" type="line"/>
-			<point x="1681.5555640594" y="811.987012987" type="line"/>
-			<point x="1681.5555640594" y="691.2467532468" type="line"/>
+			<point x="1019" y="692" type="line"/>
+			<point x="1019" y="812" type="line"/>
+			<point x="1721" y="812" type="line"/>
+			<point x="1721" y="692" type="line"/>
 		</contour>
 		<contour>
-			<point x="283.9480191475" y="373.974025974" type="line"/>
-			<point x="357.3727489409" y="507.5194805195" type="line"/>
-			<point x="981.8885657432" y="507.5194805195" type="line"/>
-			<point x="981.8885657432" y="373.974025974" type="line"/>
+			<point x="323" y="374" type="line"/>
+			<point x="397" y="508" type="line"/>
+			<point x="1021" y="508" type="line"/>
+			<point x="1021" y="374" type="line"/>
 		</contour>
 	</outline>
 	<anchor name="top" x="976.6753405786" y="1456"/>

@@ -4,7 +4,7 @@
 	<advance width="1106"/>
 	<outline>
 		<component base="L"/>
-		<component base="diagonalbarl" xOffset="4.8940315004"/>
+		<component base="diagonalbarl" xOffset="-28"/>
 	</outline>
 	<lib>
 		<dict>

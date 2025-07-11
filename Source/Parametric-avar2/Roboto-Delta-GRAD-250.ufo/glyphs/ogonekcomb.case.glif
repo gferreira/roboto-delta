@@ -2,26 +2,26 @@
 <glyph name="ogonekcomb.case" format="2">
 	<outline>
 		<contour>
-			<point x="-257.7865452319" y="-285.5531914894" type="qcurve" smooth="yes"/>
-			<point x="-257.7865452319" y="-209.085106383"/>
-			<point x="-146.964488978" y="-54.0779220779"/>
-			<point x="-23.1219950263" y="38.9090909091" type="qcurve"/>
+			<point x="-257" y="-285" type="qcurve" smooth="yes"/>
+			<point x="-257" y="-209"/>
+			<point x="-146" y="-54"/>
+			<point x="-23" y="39" type="qcurve"/>
 			<point x="50" y="0" type="line"/>
-			<point x="-69.1798561151" y="-105"/>
-			<point x="-140.1043165468" y="-199"/>
-			<point x="-140.1043165468" y="-244" type="qcurve" smooth="yes"/>
-			<point x="-140.1043165468" y="-292"/>
-			<point x="-72.4316546763" y="-347"/>
-			<point x="-7.8057553957" y="-347" type="qcurve" smooth="yes"/>
-			<point x="43.5647482014" y="-347"/>
-			<point x="186.4424460432" y="-300.9028776978"/>
-			<point x="250.5791366906" y="-254" type="qcurve"/>
-			<point x="294.3515836681" y="-333.0649350649" type="line"/>
-			<point x="241.1668691021" y="-390.6103896104"/>
-			<point x="63.8651779875" y="-461.52004111"/>
-			<point x="-30.7972998225" y="-461.7142857143" type="qcurve" smooth="yes"/>
-			<point x="-125.9899739783" y="-461.9085303186"/>
-			<point x="-257.7865452319" y="-359.7069632495"/>
+			<point x="-69" y="-105"/>
+			<point x="-140" y="-199"/>
+			<point x="-140" y="-244" type="qcurve" smooth="yes"/>
+			<point x="-140" y="-292"/>
+			<point x="-72" y="-347"/>
+			<point x="-7" y="-347" type="qcurve" smooth="yes"/>
+			<point x="44" y="-347"/>
+			<point x="171" y="-301"/>
+			<point x="233" y="-254" type="qcurve"/>
+			<point x="277" y="-333" type="line"/>
+			<point x="226" y="-391"/>
+			<point x="64" y="-461"/>
+			<point x="-30" y="-461" type="qcurve" smooth="yes"/>
+			<point x="-125" y="-461"/>
+			<point x="-257" y="-359"/>
 		</contour>
 	</outline>
 	<anchor name="_ogonek" x="50" y="0"/>
