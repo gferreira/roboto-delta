@@ -4,30 +4,30 @@
 	<advance width="1476"/>
 	<outline>
 		<contour>
-			<point x="170" y="0" type="line"/>
-			<point x="170" y="1456" type="line"/>
-			<point x="300.9893617021" y="1456" type="line"/>
-			<point x="300.9893617021" y="0" type="line"/>
+			<point x="195" y="0" type="line"/>
+			<point x="195" y="1456" type="line"/>
+			<point x="325" y="1456" type="line"/>
+			<point x="325" y="0" type="line"/>
 		</contour>
 		<contour>
-			<point x="1207.632175111" y="0" type="line"/>
-			<point x="647.7704729833" y="745.2765957447" type="line"/>
-			<point x="756.9832389408" y="802.2234042553" type="line"/>
-			<point x="1363.7491963876" y="0" type="line"/>
+			<point x="1302" y="0" type="line"/>
+			<point x="720" y="745" type="line"/>
+			<point x="829" y="802" type="line"/>
+			<point x="1458" y="0" type="line"/>
 		</contour>
 		<contour>
-			<point x="574.8784631869" y="806.914893617" type="line"/>
-			<point x="686.9726006429" y="806.914893617" type="line"/>
-			<point x="1182.632175111" y="1456" type="line"/>
-			<point x="1325.6853666003" y="1456" type="line"/>
-			<point x="740.2385580897" y="698.7127659574" type="line"/>
-			<point x="574.8784631869" y="698.7127659574" type="line"/>
+			<point x="636" y="806" type="line"/>
+			<point x="759" y="806" type="line"/>
+			<point x="1272" y="1456" type="line"/>
+			<point x="1415" y="1456" type="line"/>
+			<point x="813" y="698" type="line"/>
+			<point x="636" y="698" type="line"/>
 		</contour>
 		<contour>
-			<point x="516.9210163784" y="300" type="line"/>
-			<point x="516.9210163784" y="1156" type="line"/>
-			<point x="633.1656972295" y="1156" type="line"/>
-			<point x="633.1656972295" y="300" type="line"/>
+			<point x="578" y="300" type="line"/>
+			<point x="578" y="1156" type="line"/>
+			<point x="695" y="1156" type="line"/>
+			<point x="695" y="300" type="line"/>
 		</contour>
 	</outline>
 	<guideline x="637" y="675" angle="90" identifier="5CJVZV5P4J"/>

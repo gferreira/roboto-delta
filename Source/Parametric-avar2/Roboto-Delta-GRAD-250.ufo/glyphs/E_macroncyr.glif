@@ -4,12 +4,12 @@
 	<advance width="1359"/>
 	<outline>
 		<component base="Ecyr"/>
-		<component base="macroncomb.case" xOffset="624.172432267"/>
+		<component base="macroncomb.case" xOffset="657"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>public.markColor</key>
-			<string>0,0,1,0.5</string>
+			<string>0.0676,0,0.9997,1</string>
 		</dict>
 	</lib>
 </glyph>

@@ -4,5 +4,9 @@
 	<dict>
 		<key>Euro</key>
 		<string>E_uro.glif</string>
+		<key>breve.cyrcomb</key>
+		<string>breve.cyrcomb.glif</string>
+		<key>breve.cyrcomb.case</key>
+		<string>breve.cyrcomb.case.glif</string>
 	</dict>
 </plist>
