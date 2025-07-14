@@ -4,42 +4,42 @@
 	<advance width="1400"/>
 	<outline>
 		<contour>
-			<point x="712.8907852441" y="0" type="line"/>
-			<point x="589.9439767335" y="0" type="line"/>
-			<point x="589.9439767335" y="1052" type="line"/>
-			<point x="712.8907852441" y="1052" type="line"/>
+			<point x="762" y="0" type="line"/>
+			<point x="638" y="0" type="line"/>
+			<point x="638" y="1052" type="line"/>
+			<point x="762" y="1052" type="line"/>
 		</contour>
 		<contour>
-			<point x="1182.47305985" y="0" type="line"/>
-			<point x="821.2177407011" y="518.5531914894" type="line"/>
-			<point x="903.9624215521" y="592.2553191489" type="line"/>
-			<point x="1322.8347619777" y="0" type="line"/>
+			<point x="1231" y="0" type="line"/>
+			<point x="870" y="518" type="line"/>
+			<point x="952" y="592" type="line"/>
+			<point x="1371" y="0" type="line"/>
 		</contour>
 		<contour>
-			<point x="651.2524873718" y="588.5638297872" type="line"/>
-			<point x="833.9411449564" y="588.5638297872" type="line"/>
-			<point x="1151.47305985" y="1052" type="line"/>
-			<point x="1291.8454002755" y="1052" type="line"/>
-			<point x="901.2815704883" y="489.0744680851" type="line"/>
-			<point x="651.2524873718" y="489.0744680851" type="line"/>
+			<point x="700" y="588" type="line"/>
+			<point x="882" y="588" type="line"/>
+			<point x="1202" y="1052" type="line"/>
+			<point x="1342" y="1052" type="line"/>
+			<point x="950" y="489" type="line"/>
+			<point x="700" y="489" type="line"/>
 		</contour>
 		<contour>
-			<point x="120.3617021277" y="0" type="line"/>
-			<point x="-20" y="0" type="line"/>
-			<point x="398.5425531915" y="592.2553191489" type="line"/>
-			<point x="481.2872340426" y="518.5531914894" type="line"/>
+			<point x="169" y="0" type="line"/>
+			<point x="29" y="0" type="line"/>
+			<point x="448" y="592" type="line"/>
+			<point x="530" y="518" type="line"/>
 		</contour>
 		<contour>
-			<point x="651.2524873718" y="588.5638297872" type="line"/>
-			<point x="651.2524873718" y="489.0744680851" type="line"/>
-			<point x="401.2234042553" y="489.0744680851" type="line"/>
-			<point x="10.9893617021" y="1052" type="line"/>
-			<point x="151.3617021277" y="1052" type="line"/>
-			<point x="468.5638297872" y="588.5638297872" type="line"/>
+			<point x="700" y="588" type="line"/>
+			<point x="700" y="489" type="line"/>
+			<point x="450" y="489" type="line"/>
+			<point x="58" y="1052" type="line"/>
+			<point x="198" y="1052" type="line"/>
+			<point x="518" y="588" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="top" x="650.688933904" y="1052"/>
-	<anchor name="cy_descender" x="1187.9414212758" y="0"/>
+	<anchor name="top" x="699" y="1052"/>
+	<anchor name="cy_descender" x="1236" y="0"/>
 	<lib>
 		<dict>
 			<key>public.markColor</key>

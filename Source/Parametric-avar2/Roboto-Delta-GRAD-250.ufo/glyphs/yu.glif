@@ -4,13 +4,13 @@
 	<advance width="1632"/>
 	<outline>
 		<component base="idotless"/>
-		<component base="yu-dash" xOffset="221.6595744681" yOffset="6"/>
-		<component base="o" xOffset="433.8409612735" yOffset="6"/>
+		<component base="yu-dash" xOffset="251" yOffset="6"/>
+		<component base="o" xOffset="470" yOffset="6"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>public.markColor</key>
-			<string>0,0,1,0.5</string>
+			<string>0.0676,0,0.9997,1</string>
 		</dict>
 	</lib>
 </glyph>

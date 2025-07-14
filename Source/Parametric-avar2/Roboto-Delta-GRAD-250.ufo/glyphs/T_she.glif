@@ -4,34 +4,34 @@
 	<advance width="1650"/>
 	<outline>
 		<contour>
-			<point x="484.5203581815" y="0" type="line"/>
-			<point x="484.5203581815" y="1403.7922077922" type="line"/>
-			<point x="615.5097198837" y="1403.7922077922" type="line"/>
-			<point x="615.5097198837" y="0" type="line"/>
+			<point x="506" y="0" type="line"/>
+			<point x="506" y="1403" type="line"/>
+			<point x="637" y="1403" type="line"/>
+			<point x="637" y="0" type="line"/>
 		</contour>
 		<contour>
-			<point x="1305.4449716822" y="0" type="line"/>
-			<point x="1305.4449716822" y="394" type="line" smooth="yes"/>
-			<point x="1305.4449716822" y="584.8311688312"/>
-			<point x="1130.6464105311" y="729.2597402597"/>
-			<point x="925.0205112506" y="729.2597402597" type="qcurve" smooth="yes"/>
-			<point x="844.0205112506" y="729.2597402597"/>
-			<point x="670.4722179703" y="713.012987013"/>
-			<point x="550.1799326496" y="687.2597402597" type="qcurve"/>
-			<point x="550.1799326496" y="808" type="line"/>
-			<point x="668.4722179703" y="833"/>
-			<point x="852.0205112506" y="850"/>
-			<point x="948.3711606012" y="850" type="qcurve" smooth="yes"/>
-			<point x="1217.4230062758" y="850"/>
-			<point x="1436.1813868054" y="627"/>
-			<point x="1436.4343333844" y="391" type="qcurve" smooth="yes"/>
-			<point x="1436.4343333844" y="0" type="line"/>
+			<point x="1348" y="0" type="line"/>
+			<point x="1348" y="394" type="line" smooth="yes"/>
+			<point x="1348" y="584"/>
+			<point x="1170" y="729"/>
+			<point x="965" y="729" type="qcurve" smooth="yes"/>
+			<point x="884" y="729"/>
+			<point x="692" y="713"/>
+			<point x="572" y="687" type="qcurve"/>
+			<point x="572" y="808" type="line"/>
+			<point x="690" y="833"/>
+			<point x="892" y="850"/>
+			<point x="988" y="850" type="qcurve" smooth="yes"/>
+			<point x="1257" y="850"/>
+			<point x="1473" y="627"/>
+			<point x="1479" y="391" type="qcurve" smooth="yes"/>
+			<point x="1479" y="0" type="line"/>
 		</contour>
 		<contour>
-			<point x="24" y="1335.2597402597" type="line"/>
+			<point x="24" y="1335" type="line"/>
 			<point x="24" y="1456" type="line"/>
-			<point x="1113.0619929588" y="1456" type="line"/>
-			<point x="1113.0619929588" y="1335.2597402597" type="line"/>
+			<point x="1152" y="1456" type="line"/>
+			<point x="1152" y="1335" type="line"/>
 		</contour>
 	</outline>
 	<guideline x="568" y="683" angle="90" identifier="juO2xYoEN4"/>
