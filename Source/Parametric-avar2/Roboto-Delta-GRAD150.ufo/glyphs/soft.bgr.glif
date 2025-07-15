@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="soft.bgr" format="2">
+	<advance width="1088"/>
+	<outline>
+		<contour>
+			<point x="114" y="366" type="qcurve" smooth="yes"/>
+			<point x="114" y="1052" type="line"/>
+			<point x="358" y="1052" type="line"/>
+			<point x="358" y="359" type="line" smooth="yes"/>
+			<point x="358" y="270"/>
+			<point x="459" y="154"/>
+			<point x="586" y="154" type="qcurve" smooth="yes"/>
+			<point x="714" y="154"/>
+			<point x="816" y="270"/>
+			<point x="816" y="359" type="qcurve" smooth="yes"/>
+			<point x="816" y="445"/>
+			<point x="722" y="558"/>
+			<point x="603" y="558" type="qcurve" smooth="yes"/>
+			<point x="239" y="558" type="line"/>
+			<point x="239" y="732" type="line"/>
+			<point x="618" y="732" type="line" smooth="yes"/>
+			<point x="838" y="732"/>
+			<point x="1060" y="531"/>
+			<point x="1060" y="358" type="qcurve" smooth="yes"/>
+			<point x="1060" y="181"/>
+			<point x="825" y="-30"/>
+			<point x="586" y="-30" type="qcurve" smooth="yes"/>
+			<point x="350" y="-30"/>
+			<point x="114" y="177"/>
+		</contour>
+	</outline>
+</glyph>

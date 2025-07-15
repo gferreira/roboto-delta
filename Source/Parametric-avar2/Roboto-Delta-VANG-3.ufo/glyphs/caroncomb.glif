@@ -1,23 +1,23 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caroncomb" format="2">
-  <unicode hex="030C"/>
-  <anchor x="-17.132983805759913" y="1052" name="_top"/>
-  <anchor x="-42.34112564090299" y="1533" name="top"/>
-  <outline>
-    <contour>
-      <point x="-81.57063627032963" y="1213.0" type="line"/>
-      <point x="-344.9742711859217" y="1526.0" type="line"/>
-      <point x="-190.9742711859217" y="1526.0" type="line"/>
-      <point x="-33.64143427991806" y="1367.0" type="line"/>
-      <point x="109.02572881407829" y="1526.0" type="line"/>
-      <point x="261.0257288140783" y="1526.0" type="line"/>
-      <point x="30.429363729670364" y="1213.0" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0.1,1,0.2</string>
-    </dict>
-  </lib>
+	<unicode hex="030C"/>
+	<outline>
+		<contour>
+			<point x="-81.5706362703" y="1213" type="line"/>
+			<point x="-344.9742711859" y="1526" type="line"/>
+			<point x="-190.9742711859" y="1526" type="line"/>
+			<point x="-33.6414342799" y="1367" type="line"/>
+			<point x="109.0257288141" y="1526" type="line"/>
+			<point x="261.0257288141" y="1526" type="line"/>
+			<point x="30.4293637297" y="1213" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="-17.1329838058" y="1052"/>
+	<anchor name="top" x="-42.3411256409" y="1533"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0,0.1,1,0.2</string>
+		</dict>
+	</lib>
 </glyph>

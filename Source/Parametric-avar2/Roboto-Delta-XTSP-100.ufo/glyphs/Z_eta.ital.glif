@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zeta.ital" format="2">
+	<advance width="1079"/>
+	<outline>
+		<component base="Zeta" yxScale="0.2125565617" xOffset="-154.7411768958"/>
+	</outline>
+</glyph>

@@ -1,19 +1,19 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="macroncombstack.case" format="2">
-  <anchor x="-42.49834897875212" y="1536" name="_top"/>
-  <anchor x="-57.90623608796639" y="1830" name="top"/>
-  <outline>
-    <contour>
-      <point x="-345.73062251981185" y="1674.0" type="line"/>
-      <point x="-353.90623608796636" y="1830.0" type="line"/>
-      <point x="238.0937639120336" y="1830.0" type="line"/>
-      <point x="246.26937748018813" y="1674.0" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0.1,1,0.2</string>
-    </dict>
-  </lib>
+	<outline>
+		<contour>
+			<point x="-345.7306225198" y="1674" type="line"/>
+			<point x="-353.906236088" y="1830" type="line"/>
+			<point x="238.093763912" y="1830" type="line"/>
+			<point x="246.2693774802" y="1674" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="-42.4983489788" y="1536"/>
+	<anchor name="top" x="-57.906236088" y="1830"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0,0.1,1,0.2</string>
+		</dict>
+	</lib>
 </glyph>

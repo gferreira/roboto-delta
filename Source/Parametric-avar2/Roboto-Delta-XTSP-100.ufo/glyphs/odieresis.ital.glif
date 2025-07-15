@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="odieresis.ital" format="2">
+	<advance width="1012"/>
+	<outline>
+		<component base="odieresis" yxScale="0.2125565617" xOffset="-154.7411768958"/>
+	</outline>
+</glyph>

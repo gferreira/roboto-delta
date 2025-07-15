@@ -1,32 +1,32 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="en" format="2">
-  <advance width="1138"/>
-  <unicode hex="043D"/>
-  <anchor x="733.0" y="0" name="cy_descender"/>
-  <outline>
-    <contour>
-      <point x="-20.0" y="0.0" type="line"/>
-      <point x="222.87333706409242" y="1052.0" type="line"/>
-      <point x="408.8733370640924" y="1052.0" type="line"/>
-      <point x="166.0" y="0.0" type="line"/>
-    </contour>
-    <contour>
-      <point x="183.35370887338684" y="465.0" type="line"/>
-      <point x="216.82959658659354" y="610.0" type="line"/>
-      <point x="866.8295965865934" y="610.0" type="line"/>
-      <point x="833.3537088733868" y="465.0" type="line"/>
-    </contour>
-    <contour>
-      <point x="636.0" y="0.0" type="line"/>
-      <point x="878.8733370640923" y="1052.0" type="line"/>
-      <point x="1064.8733370640923" y="1052.0" type="line"/>
-      <point x="822.0" y="0.0" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0.1,1,0.2</string>
-    </dict>
-  </lib>
+	<unicode hex="043D"/>
+	<advance width="1138"/>
+	<outline>
+		<contour>
+			<point x="-20" y="0" type="line"/>
+			<point x="222.8733370641" y="1052" type="line"/>
+			<point x="408.8733370641" y="1052" type="line"/>
+			<point x="166" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="183.3537088734" y="465" type="line"/>
+			<point x="216.8295965866" y="610" type="line"/>
+			<point x="866.8295965866" y="610" type="line"/>
+			<point x="833.3537088734" y="465" type="line"/>
+		</contour>
+		<contour>
+			<point x="636" y="0" type="line"/>
+			<point x="878.8733370641" y="1052" type="line"/>
+			<point x="1064.8733370641" y="1052" type="line"/>
+			<point x="822" y="0" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="cy_descender" x="733" y="0"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0,0.1,1,0.2</string>
+		</dict>
+	</lib>
 </glyph>

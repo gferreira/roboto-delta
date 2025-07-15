@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zhe.bgr" format="2">
+	<advance width="1935"/>
+	<outline>
+		<contour>
+			<point x="223" y="0" type="line"/>
+			<point x="-74" y="0" type="line"/>
+			<point x="627" y="923" type="line"/>
+			<point x="781" y="749" type="line"/>
+		</contour>
+		<contour>
+			<point x="835" y="0" type="line"/>
+			<point x="835" y="1456" type="line"/>
+			<point x="1087" y="1456" type="line"/>
+			<point x="1087" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="1703" y="0" type="line"/>
+			<point x="1146" y="747" type="line"/>
+			<point x="1300" y="921" type="line"/>
+			<point x="2000" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="266" y="1456" type="line"/>
+			<point x="954" y="657" type="line"/>
+			<point x="954" y="359" type="line"/>
+			<point x="-21" y="1456" type="line"/>
+		</contour>
+		<contour>
+			<point x="1660" y="1456" type="line"/>
+			<point x="1947" y="1456" type="line"/>
+			<point x="972" y="359" type="line"/>
+			<point x="972" y="657" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.9882,0.0471,0.2471,1</string>
+		</dict>
+	</lib>
+</glyph>

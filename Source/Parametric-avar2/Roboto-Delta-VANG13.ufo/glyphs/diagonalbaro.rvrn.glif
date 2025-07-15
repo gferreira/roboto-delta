@@ -1,32 +1,32 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="diagonalbaro.rvrn" format="2">
-  <advance width="512"/>
-  <outline>
-    <contour>
-      <point x="-283.24244655281643" y="-118.0" type="line"/>
-      <point x="-151.4527309898249" y="89.0" type="line"/>
-      <point x="-134.6070719454527" y="84.0" type="line"/>
-      <point x="-104.21800334480236" y="129.0" type="line"/>
-      <point x="-9.22314928333165" y="77.0" type="line"/>
-      <point x="-24.30224948809402" y="55.0" type="line"/>
-      <point x="-5.2257222525962845" y="51.0" type="line"/>
-      <point x="-119.39678750844426" y="-123.0" type="line"/>
-    </contour>
-    <contour>
-      <point x="514.1132106476442" y="1144.0" type="line"/>
-      <point x="684.4206060742675" y="1141.0" type="line"/>
-      <point x="561.8630451870338" y="948.0" type="line"/>
-      <point x="542.0173861426616" y="953.0" type="line"/>
-      <point x="520.9369994532669" y="918.0" type="line"/>
-      <point x="424.018672627294" y="966.0" type="line"/>
-      <point x="432.4816954941774" y="981.0" type="line"/>
-      <point x="413.8669046409308" y="987.0" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0.1,1,0.2</string>
-    </dict>
-  </lib>
+	<advance width="512"/>
+	<outline>
+		<contour>
+			<point x="-283.2424465528" y="-118" type="line"/>
+			<point x="-151.4527309898" y="89" type="line"/>
+			<point x="-134.6070719455" y="84" type="line"/>
+			<point x="-104.2180033448" y="129" type="line"/>
+			<point x="-9.2231492833" y="77" type="line"/>
+			<point x="-24.3022494881" y="55" type="line"/>
+			<point x="-5.2257222526" y="51" type="line"/>
+			<point x="-119.3967875084" y="-123" type="line"/>
+		</contour>
+		<contour>
+			<point x="514.1132106476" y="1144" type="line"/>
+			<point x="684.4206060743" y="1141" type="line"/>
+			<point x="561.863045187" y="948" type="line"/>
+			<point x="542.0173861427" y="953" type="line"/>
+			<point x="520.9369994533" y="918" type="line"/>
+			<point x="424.0186726273" y="966" type="line"/>
+			<point x="432.4816954942" y="981" type="line"/>
+			<point x="413.8669046409" y="987" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0,0.1,1,0.2</string>
+		</dict>
+	</lib>
 </glyph>
