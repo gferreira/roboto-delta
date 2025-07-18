@@ -329,11 +329,11 @@
             <dimension name="XOFI" xvalue="60"/>
             <dimension name="XOUC" xvalue="60"/>
             <dimension name="XOLC" xvalue="60"/>
-            <dimension name="XTRA" xvalue="584"/>
-            <dimension name="XTUC" xvalue="584"/>
-            <dimension name="XTLC" xvalue="584"/>
-            <dimension name="XTFI" xvalue="584"/>
-            <dimension name="XTSP" xvalue="40"/>
+            <dimension name="XTRA" xvalue="540"/>
+            <dimension name="XTUC" xvalue="540"/>
+            <dimension name="XTLC" xvalue="540"/>
+            <dimension name="XTFI" xvalue="540"/>
+            <dimension name="XTSP" xvalue="20"/>
             <dimension name="YOPE" xvalue="79"/>
             <dimension name="YOPQ" xvalue="54"/>
             <dimension name="YOFI" xvalue="54"/>
@@ -822,7 +822,7 @@
             <dimension name="XTUC" xvalue="415"/>
             <dimension name="XTLC" xvalue="415"/>
             <dimension name="XTFI" xvalue="415"/>
-            <dimension name="XTSP" xvalue="-10"/>
+            <dimension name="XTSP" xvalue="10"/>
             <dimension name="YOPE" xvalue="79"/>
             <dimension name="YOPQ" xvalue="158"/>
             <dimension name="YOFI" xvalue="158"/>
