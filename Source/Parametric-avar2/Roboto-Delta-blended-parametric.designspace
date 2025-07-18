@@ -778,7 +778,7 @@
             <dimension name="XTUC" xvalue="565"/>
             <dimension name="XTLC" xvalue="565"/>
             <dimension name="XTFI" xvalue="565"/>
-            <dimension name="XTSP" xvalue="0"/>
+            <dimension name="XTSP" xvalue="10"/>
             <dimension name="YOPE" xvalue="79"/>
             <dimension name="YOPQ" xvalue="80"/>
             <dimension name="YOFI" xvalue="80"/>
