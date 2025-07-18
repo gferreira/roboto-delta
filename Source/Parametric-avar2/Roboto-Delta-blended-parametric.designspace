@@ -774,10 +774,10 @@
             <dimension name="XOFI" xvalue="100"/>
             <dimension name="XOUC" xvalue="100"/>
             <dimension name="XOLC" xvalue="100"/>
-            <dimension name="XTRA" xvalue="514"/>
-            <dimension name="XTUC" xvalue="514"/>
-            <dimension name="XTLC" xvalue="514"/>
-            <dimension name="XTFI" xvalue="514"/>
+            <dimension name="XTRA" xvalue="565"/>
+            <dimension name="XTUC" xvalue="565"/>
+            <dimension name="XTLC" xvalue="565"/>
+            <dimension name="XTFI" xvalue="565"/>
             <dimension name="XTSP" xvalue="0"/>
             <dimension name="YOPE" xvalue="79"/>
             <dimension name="YOPQ" xvalue="80"/>
