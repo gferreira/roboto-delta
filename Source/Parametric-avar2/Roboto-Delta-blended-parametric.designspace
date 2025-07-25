@@ -65,7 +65,7 @@
             <dimension name="XOLC" xvalue="50"/>
             <dimension name="XTRA" xvalue="451"/>
             <dimension name="XTUC" xvalue="451"/>
-            <dimension name="XTLC" xvalue="451"/>
+            <dimension name="XTLC" xvalue="500"/>
             <dimension name="XTFI" xvalue="451"/>
             <dimension name="XTSP" xvalue="0"/>
             <dimension name="YOPE" xvalue="79"/>
@@ -147,20 +147,20 @@
         <output>
             <dimension name="VANG" xvalue="0"/>
             <dimension name="VROT" xvalue="0"/>
-            <dimension name="XOPQ" xvalue="190"/>
-            <dimension name="XOFI" xvalue="190"/>
-            <dimension name="XOUC" xvalue="190"/>
-            <dimension name="XOLC" xvalue="190"/>
-            <dimension name="XTRA" xvalue="350"/>
-            <dimension name="XTUC" xvalue="350"/>
-            <dimension name="XTLC" xvalue="350"/>
-            <dimension name="XTFI" xvalue="350"/>
+            <dimension name="XOPQ" xvalue="150"/>
+            <dimension name="XOFI" xvalue="150"/>
+            <dimension name="XOUC" xvalue="150"/>
+            <dimension name="XOLC" xvalue="150"/>
+            <dimension name="XTRA" xvalue="400"/>
+            <dimension name="XTUC" xvalue="400"/>
+            <dimension name="XTLC" xvalue="390"/>
+            <dimension name="XTFI" xvalue="400"/>
             <dimension name="XTSP" xvalue="0"/>
             <dimension name="YOPE" xvalue="79"/>
-            <dimension name="YOPQ" xvalue="145"/>
-            <dimension name="YOFI" xvalue="145"/>
-            <dimension name="YOUC" xvalue="145"/>
-            <dimension name="YOLC" xvalue="145"/>
+            <dimension name="YOPQ" xvalue="105"/>
+            <dimension name="YOFI" xvalue="105"/>
+            <dimension name="YOUC" xvalue="105"/>
+            <dimension name="YOLC" xvalue="105"/>
             <dimension name="BDSZ" xvalue="0"/>
             <dimension name="YTAS" xvalue="768"/>
             <dimension name="YTDE" xvalue="-208"/>
