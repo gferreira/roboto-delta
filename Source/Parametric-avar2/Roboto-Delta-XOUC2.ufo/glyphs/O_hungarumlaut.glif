@@ -4,7 +4,7 @@
 	<advance width="1086"/>
 	<outline>
 		<component base="O"/>
-		<component base="hungarumlautcomb.case" xOffset="595.02"/>
+		<component base="hungarumlautcomb.case" xOffset="588.02"/>
 	</outline>
 	<lib>
 		<dict>

@@ -5,23 +5,23 @@
 	<outline>
 		<contour>
 			<point x="20" y="0" type="line"/>
-			<point x="314" y="541" type="line"/>
-			<point x="314" y="541" type="line"/>
-			<point x="585" y="1052" type="line"/>
-			<point x="594" y="1052" type="line"/>
-			<point x="320" y="537" type="line"/>
-			<point x="320" y="537" type="line"/>
+			<point x="313" y="541" type="line"/>
+			<point x="313" y="541" type="line"/>
+			<point x="583" y="1052" type="line"/>
+			<point x="592" y="1052" type="line"/>
+			<point x="319" y="537" type="line"/>
+			<point x="319" y="537" type="line"/>
 			<point x="29" y="0" type="line"/>
 		</contour>
 		<contour>
-			<point x="44" y="1052" type="line"/>
-			<point x="53" y="1052" type="line"/>
-			<point x="321" y="542" type="line"/>
-			<point x="321" y="542" type="line"/>
+			<point x="41" y="1052" type="line"/>
+			<point x="50" y="1052" type="line"/>
+			<point x="320" y="542" type="line"/>
+			<point x="320" y="542" type="line"/>
 			<point x="613" y="0" type="line"/>
 			<point x="604" y="0" type="line"/>
-			<point x="316" y="537" type="line"/>
-			<point x="316" y="537" type="line"/>
+			<point x="315" y="537" type="line"/>
+			<point x="315" y="537" type="line"/>
 		</contour>
 	</outline>
 	<anchor name="bottom" x="314" y="0"/>
