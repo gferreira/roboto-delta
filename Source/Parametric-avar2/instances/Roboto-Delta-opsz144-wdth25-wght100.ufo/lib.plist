@@ -1762,7 +1762,7 @@
 		<array>
 			<array>
 				<string>Optical size</string>
-				<integer>144</integer>
+				<integer>1</integer>
 			</array>
 			<array>
 				<string>Slant</string>
@@ -1777,6 +1777,10 @@
 				<integer>25</integer>
 			</array>
 			<array>
+				<string>GRAD</string>
+				<integer>0</integer>
+			</array>
+			<array>
 				<string>VANG</string>
 				<integer>0</integer>
 			</array>
@@ -1789,7 +1793,31 @@
 				<integer>2</integer>
 			</array>
 			<array>
+				<string>XOFI</string>
+				<integer>2</integer>
+			</array>
+			<array>
+				<string>XOUC</string>
+				<integer>2</integer>
+			</array>
+			<array>
+				<string>XOLC</string>
+				<integer>2</integer>
+			</array>
+			<array>
 				<string>XTRA</string>
+				<integer>278</integer>
+			</array>
+			<array>
+				<string>XTUC</string>
+				<integer>278</integer>
+			</array>
+			<array>
+				<string>XTLC</string>
+				<integer>278</integer>
+			</array>
+			<array>
+				<string>XTFI</string>
 				<integer>278</integer>
 			</array>
 			<array>
@@ -1797,12 +1825,32 @@
 				<integer>-75</integer>
 			</array>
 			<array>
+				<string>YOPE</string>
+				<integer>79</integer>
+			</array>
+			<array>
 				<string>YOPQ</string>
 				<integer>2</integer>
 			</array>
 			<array>
+				<string>YOFI</string>
+				<integer>2</integer>
+			</array>
+			<array>
+				<string>YOUC</string>
+				<integer>2</integer>
+			</array>
+			<array>
+				<string>YOLC</string>
+				<integer>2</integer>
+			</array>
+			<array>
+				<string>BDSZ</string>
+				<integer>144</integer>
+			</array>
+			<array>
 				<string>YTAS</string>
-				<integer>728</integer>
+				<integer>756</integer>
 			</array>
 			<array>
 				<string>YTDE</string>
@@ -1838,11 +1886,11 @@
 			</array>
 			<array>
 				<string>WDSP</string>
-				<integer>53</integer>
+				<integer>70</integer>
 			</array>
 			<array>
 				<string>BARS</string>
-				<integer>0</integer>
+				<integer>1000</integer>
 			</array>
 			<array>
 				<string>XTUD</string>

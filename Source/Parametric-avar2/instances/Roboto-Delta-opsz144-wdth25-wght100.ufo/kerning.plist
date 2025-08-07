@@ -9,7 +9,7 @@
 			<key>X</key>
 			<integer>0</integer>
 			<key>public.kern2.A_UC</key>
-			<integer>20</integer>
+			<integer>0</integer>
 			<key>public.kern2.T_UC</key>
 			<integer>0</integer>
 			<key>public.kern2.W_UC</key>
@@ -150,7 +150,7 @@
 			<key>public.kern2.A_UC</key>
 			<integer>0</integer>
 			<key>public.kern2.CG_UC</key>
-			<integer>20</integer>
+			<integer>0</integer>
 			<key>public.kern2.J_UC</key>
 			<integer>0</integer>
 			<key>public.kern2.S_UC</key>
@@ -178,7 +178,7 @@
 			<key>public.kern2.minute</key>
 			<integer>0</integer>
 			<key>public.kern2.mnpr_LC</key>
-			<integer>20</integer>
+			<integer>0</integer>
 			<key>public.kern2.s_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.t_LC</key>
@@ -226,7 +226,7 @@
 			<key>public.kern2.A_UC</key>
 			<integer>0</integer>
 			<key>public.kern2.CG_UC</key>
-			<integer>0</integer>
+			<integer>15</integer>
 			<key>public.kern2.J_UC</key>
 			<integer>0</integer>
 			<key>public.kern2.S_UC</key>
@@ -351,9 +351,9 @@
 			<key>j</key>
 			<integer>0</integer>
 			<key>public.kern2.A_UC</key>
-			<integer>20</integer>
+			<integer>0</integer>
 			<key>public.kern2.CG_UC</key>
-			<integer>15</integer>
+			<integer>30</integer>
 			<key>public.kern2.J_UC</key>
 			<integer>0</integer>
 			<key>public.kern2.S_UC</key>
@@ -385,6 +385,8 @@
 			<key>public.kern2.i_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.minute</key>
+			<integer>0</integer>
+			<key>public.kern2.mnpr_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.o_LC</key>
 			<integer>0</integer>
@@ -420,7 +422,7 @@
 			<key>public.kern2.A_UC</key>
 			<integer>0</integer>
 			<key>public.kern2.CG_UC</key>
-			<integer>10</integer>
+			<integer>30</integer>
 			<key>public.kern2.J_UC</key>
 			<integer>0</integer>
 			<key>public.kern2.S_UC</key>
@@ -445,8 +447,6 @@
 			<integer>0</integer>
 			<key>public.kern2.gamma</key>
 			<integer>0</integer>
-			<key>public.kern2.mnpr_LC</key>
-			<integer>20</integer>
 			<key>public.kern2.o_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.s_LC</key>
@@ -643,8 +643,10 @@
 			<integer>0</integer>
 			<key>public.kern2.Z_UC</key>
 			<integer>0</integer>
+			<key>public.kern2.mnpr_LC</key>
+			<integer>20</integer>
 			<key>public.kern2.o_LC</key>
-			<integer>0</integer>
+			<integer>30</integer>
 			<key>public.kern2.z_LC</key>
 			<integer>0</integer>
 			<key>thorn</key>
@@ -832,7 +834,7 @@
 		<key>public.kern1.A_UC</key>
 		<dict>
 			<key>V</key>
-			<integer>20</integer>
+			<integer>0</integer>
 			<key>X</key>
 			<integer>0</integer>
 			<key>asterisk</key>
@@ -843,8 +845,6 @@
 			<integer>0</integer>
 			<key>j</key>
 			<integer>0</integer>
-			<key>public.kern2.A_UC</key>
-			<integer>30</integer>
 			<key>public.kern2.CG_UC</key>
 			<integer>30</integer>
 			<key>public.kern2.J_UC</key>
@@ -856,7 +856,7 @@
 			<key>public.kern2.U_UC</key>
 			<integer>0</integer>
 			<key>public.kern2.W_UC</key>
-			<integer>10</integer>
+			<integer>0</integer>
 			<key>public.kern2.Y_UC</key>
 			<integer>0</integer>
 			<key>public.kern2.Z_UC</key>
@@ -911,9 +911,9 @@
 			<key>backslash</key>
 			<integer>0</integer>
 			<key>public.kern2.A_UC</key>
-			<integer>20</integer>
-			<key>public.kern2.CG_UC</key>
 			<integer>0</integer>
+			<key>public.kern2.CG_UC</key>
+			<integer>9</integer>
 			<key>public.kern2.J_UC</key>
 			<integer>0</integer>
 			<key>public.kern2.S_UC</key>
@@ -936,6 +936,8 @@
 			<integer>0</integer>
 			<key>public.kern2.minute</key>
 			<integer>0</integer>
+			<key>public.kern2.mnpr_LC</key>
+			<integer>10</integer>
 			<key>public.kern2.parens</key>
 			<integer>0</integer>
 			<key>public.kern2.s_LC</key>
@@ -952,47 +954,51 @@
 		<key>public.kern1.D_UC</key>
 		<dict>
 			<key>V</key>
-			<integer>20</integer>
+			<integer>30</integer>
 			<key>X</key>
+			<integer>30</integer>
+			<key>backslash</key>
 			<integer>20</integer>
 			<key>public.kern2.AE_UC</key>
 			<integer>0</integer>
 			<key>public.kern2.A_UC</key>
 			<integer>30</integer>
+			<key>public.kern2.J_UC</key>
+			<integer>20</integer>
 			<key>public.kern2.S_UC</key>
 			<integer>0</integer>
 			<key>public.kern2.T_UC</key>
 			<integer>0</integer>
 			<key>public.kern2.W_UC</key>
-			<integer>10</integer>
-			<key>public.kern2.Y_UC</key>
 			<integer>20</integer>
+			<key>public.kern2.Y_UC</key>
+			<integer>25</integer>
 			<key>public.kern2.Z_UC</key>
 			<integer>0</integer>
 			<key>public.kern2.a_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.colon</key>
 			<integer>0</integer>
-			<key>public.kern2.copyright</key>
-			<integer>10</integer>
+			<key>public.kern2.comma</key>
+			<integer>0</integer>
 			<key>public.kern2.emdash</key>
 			<integer>0</integer>
 			<key>public.kern2.f_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.gamma</key>
-			<integer>20</integer>
+			<integer>30</integer>
 			<key>public.kern2.s_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.t_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.w_LC</key>
-			<integer>15</integer>
+			<integer>25</integer>
 			<key>public.kern2.z_LC</key>
 			<integer>0</integer>
 			<key>slash</key>
 			<integer>0</integer>
 			<key>x</key>
-			<integer>0</integer>
+			<integer>10</integer>
 		</dict>
 		<key>public.kern1.E_UC</key>
 		<dict>
@@ -1108,7 +1114,7 @@
 			<key>j</key>
 			<integer>0</integer>
 			<key>public.kern2.CG_UC</key>
-			<integer>20</integer>
+			<integer>40</integer>
 			<key>public.kern2.J_UC</key>
 			<integer>0</integer>
 			<key>public.kern2.S_UC</key>
@@ -1140,7 +1146,7 @@
 			<key>public.kern2.minute</key>
 			<integer>0</integer>
 			<key>public.kern2.mnpr_LC</key>
-			<integer>40</integer>
+			<integer>37</integer>
 			<key>public.kern2.o_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.s_LC</key>
@@ -1412,9 +1418,9 @@
 			<key>j</key>
 			<integer>0</integer>
 			<key>public.kern2.A_UC</key>
-			<integer>20</integer>
+			<integer>0</integer>
 			<key>public.kern2.CG_UC</key>
-			<integer>10</integer>
+			<integer>20</integer>
 			<key>public.kern2.J_UC</key>
 			<integer>0</integer>
 			<key>public.kern2.S_UC</key>
@@ -1447,6 +1453,8 @@
 			<integer>0</integer>
 			<key>public.kern2.minute</key>
 			<integer>0</integer>
+			<key>public.kern2.mnpr_LC</key>
+			<integer>-10</integer>
 			<key>public.kern2.o_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.parens</key>
@@ -1493,7 +1501,7 @@
 			<key>public.kern2.A_UC</key>
 			<integer>0</integer>
 			<key>public.kern2.CG_UC</key>
-			<integer>20</integer>
+			<integer>25</integer>
 			<key>public.kern2.J_UC</key>
 			<integer>0</integer>
 			<key>public.kern2.S_UC</key>
@@ -1765,11 +1773,6 @@
 			<key>x</key>
 			<integer>0</integer>
 		</dict>
-		<key>public.kern1.copyright</key>
-		<dict>
-			<key>public.kern2.CG_UC</key>
-			<integer>10</integer>
-		</dict>
 		<key>public.kern1.e_LC</key>
 		<dict>
 			<key>V</key>
@@ -1886,6 +1889,8 @@
 			<integer>0</integer>
 			<key>public.kern2.minute</key>
 			<integer>0</integer>
+			<key>public.kern2.o_LC</key>
+			<integer>0</integer>
 			<key>public.kern2.parens</key>
 			<integer>0</integer>
 			<key>public.kern2.s_LC</key>
@@ -1922,7 +1927,7 @@
 			<key>public.kern2.minute</key>
 			<integer>0</integer>
 			<key>public.kern2.o_LC</key>
-			<integer>20</integer>
+			<integer>30</integer>
 			<key>public.kern2.s_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.t_LC</key>
@@ -1939,13 +1944,13 @@
 			<key>asterisk</key>
 			<integer>-60</integer>
 			<key>backslash</key>
-			<integer>0</integer>
+			<integer>-50</integer>
 			<key>public.kern2.f_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.gamma</key>
 			<integer>0</integer>
 			<key>public.kern2.minute</key>
-			<integer>-20</integer>
+			<integer>0</integer>
 			<key>public.kern2.t_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.w_LC</key>
@@ -1953,7 +1958,7 @@
 			<key>slash</key>
 			<integer>20</integer>
 			<key>trademark</key>
-			<integer>-30</integer>
+			<integer>-40</integer>
 		</dict>
 		<key>public.kern1.k_LC</key>
 		<dict>
@@ -2029,7 +2034,7 @@
 			<key>public.kern2.minute</key>
 			<integer>0</integer>
 			<key>public.kern2.mnpr_LC</key>
-			<integer>-20</integer>
+			<integer>0</integer>
 			<key>public.kern2.o_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.s_LC</key>
@@ -2048,7 +2053,7 @@
 			<key>asterisk</key>
 			<integer>-60</integer>
 			<key>backslash</key>
-			<integer>0</integer>
+			<integer>-30</integer>
 			<key>public.kern2.a_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.colon</key>
@@ -2060,7 +2065,7 @@
 			<key>public.kern2.f_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.gamma</key>
-			<integer>20</integer>
+			<integer>30</integer>
 			<key>public.kern2.minute</key>
 			<integer>0</integer>
 			<key>public.kern2.s_LC</key>
@@ -2068,15 +2073,15 @@
 			<key>public.kern2.t_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.w_LC</key>
-			<integer>15</integer>
+			<integer>25</integer>
 			<key>public.kern2.z_LC</key>
 			<integer>0</integer>
 			<key>slash</key>
-			<integer>30</integer>
+			<integer>20</integer>
 			<key>trademark</key>
-			<integer>-20</integer>
+			<integer>-30</integer>
 			<key>x</key>
-			<integer>10</integer>
+			<integer>20</integer>
 		</dict>
 		<key>public.kern1.parens</key>
 		<dict>
@@ -2116,7 +2121,7 @@
 			<key>public.kern2.minute</key>
 			<integer>0</integer>
 			<key>public.kern2.o_LC</key>
-			<integer>-10</integer>
+			<integer>0</integer>
 			<key>public.kern2.s_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.t_LC</key>
@@ -2212,7 +2217,7 @@
 			<key>public.kern2.minute</key>
 			<integer>0</integer>
 			<key>public.kern2.o_LC</key>
-			<integer>15</integer>
+			<integer>25</integer>
 			<key>public.kern2.s_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.t_LC</key>
@@ -2361,9 +2366,9 @@
 			<key>public.kern2.gamma</key>
 			<integer>0</integer>
 			<key>public.kern2.mnpr_LC</key>
-			<integer>-20</integer>
+			<integer>-50</integer>
 			<key>public.kern2.o_LC</key>
-			<integer>-30</integer>
+			<integer>-40</integer>
 			<key>public.kern2.s_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.t_LC</key>
@@ -2404,6 +2409,8 @@
 			<integer>0</integer>
 			<key>public.kern2.minute</key>
 			<integer>0</integer>
+			<key>public.kern2.o_LC</key>
+			<integer>20</integer>
 			<key>public.kern2.s_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.t_LC</key>
