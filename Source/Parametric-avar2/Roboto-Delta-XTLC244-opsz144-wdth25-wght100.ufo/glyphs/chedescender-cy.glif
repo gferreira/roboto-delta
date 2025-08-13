@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="chedescender-cy" format="2">
 	<unicode hex="04B7"/>
-	<advance width="555"/>
+	<advance width="675"/>
 	<outline>
 		<component base="che"/>
 		<component base="cy-descendercomb" xOffset="434"/>

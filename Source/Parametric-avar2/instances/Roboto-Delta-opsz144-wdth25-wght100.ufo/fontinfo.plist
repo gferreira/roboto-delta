@@ -100,7 +100,7 @@
 		<key>postscriptWeightName</key>
 		<string>Normal</string>
 		<key>styleName</key>
-		<string>Roboto-Delta-opsz144-wdth25-wght100</string>
+		<string>opsz144-wdth25-wght100</string>
 		<key>unitsPerEm</key>
 		<integer>2048</integer>
 		<key>xHeight</key>

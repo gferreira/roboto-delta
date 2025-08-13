@@ -4,12 +4,12 @@
 	<advance width="1077"/>
 	<outline>
 		<component base="Gamma"/>
-		<component base="horizontalbarlc" xOffset="-2" yOffset="-21"/>
+		<component base="horizontalbarlc" xOffset="148" yOffset="-21"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>public.markColor</key>
-			<string>0,0,1,0.5</string>
+			<string>0.0676,0,0.9997,1</string>
 		</dict>
 	</lib>
 </glyph>
