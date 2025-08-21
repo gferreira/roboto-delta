@@ -139,6 +139,8 @@
 			<integer>0</integer>
 			<key>otildemacron</key>
 			<integer>0</integer>
+			<key>public.kern2.AE_UC</key>
+			<integer>-20</integer>
 			<key>public.kern2.CG_UC</key>
 			<integer>8</integer>
 			<key>public.kern2.J_UC</key>
@@ -222,7 +224,7 @@
 			<key>backslash</key>
 			<integer>0</integer>
 			<key>public.kern2.AE_UC</key>
-			<integer>0</integer>
+			<integer>-20</integer>
 			<key>public.kern2.A_UC</key>
 			<integer>-10</integer>
 			<key>public.kern2.J_UC</key>
@@ -334,6 +336,8 @@
 			<integer>0</integer>
 			<key>j</key>
 			<integer>0</integer>
+			<key>public.kern2.AE_UC</key>
+			<integer>-30</integer>
 			<key>public.kern2.A_UC</key>
 			<integer>-30</integer>
 			<key>public.kern2.J_UC</key>
@@ -856,6 +860,8 @@
 			<integer>0</integer>
 			<key>backslash</key>
 			<integer>0</integer>
+			<key>public.kern2.AE_UC</key>
+			<integer>10</integer>
 			<key>public.kern2.A_UC</key>
 			<integer>10</integer>
 			<key>public.kern2.CG_UC</key>
@@ -981,6 +987,8 @@
 			<integer>-7</integer>
 			<key>X</key>
 			<integer>-7</integer>
+			<key>public.kern2.AE_UC</key>
+			<integer>-7</integer>
 			<key>public.kern2.A_UC</key>
 			<integer>-7</integer>
 			<key>public.kern2.S_UC</key>
@@ -1010,6 +1018,8 @@
 			<integer>0</integer>
 			<key>backslash</key>
 			<integer>0</integer>
+			<key>public.kern2.AE_UC</key>
+			<integer>-10</integer>
 			<key>public.kern2.A_UC</key>
 			<integer>-10</integer>
 			<key>public.kern2.S_UC</key>
@@ -1090,6 +1100,8 @@
 			<integer>0</integer>
 			<key>backslash</key>
 			<integer>0</integer>
+			<key>public.kern2.AE_UC</key>
+			<integer>10</integer>
 			<key>public.kern2.A_UC</key>
 			<integer>10</integer>
 			<key>public.kern2.CG_UC</key>
@@ -1199,6 +1211,8 @@
 		<dict>
 			<key>backslash</key>
 			<integer>0</integer>
+			<key>public.kern2.AE_UC</key>
+			<integer>5</integer>
 			<key>public.kern2.A_UC</key>
 			<integer>5</integer>
 			<key>public.kern2.CG_UC</key>
@@ -1237,7 +1251,7 @@
 			<key>backslash</key>
 			<integer>0</integer>
 			<key>public.kern2.AE_UC</key>
-			<integer>0</integer>
+			<integer>-10</integer>
 			<key>public.kern2.A_UC</key>
 			<integer>-10</integer>
 			<key>public.kern2.CG_UC</key>
@@ -1301,6 +1315,8 @@
 			<integer>0</integer>
 			<key>j</key>
 			<integer>0</integer>
+			<key>public.kern2.AE_UC</key>
+			<integer>-30</integer>
 			<key>public.kern2.A_UC</key>
 			<integer>-30</integer>
 			<key>public.kern2.J_UC</key>
@@ -1369,7 +1385,7 @@
 			<key>lslash</key>
 			<integer>0</integer>
 			<key>public.kern2.AE_UC</key>
-			<integer>0</integer>
+			<integer>-30</integer>
 			<key>public.kern2.A_UC</key>
 			<integer>-30</integer>
 			<key>public.kern2.J_UC</key>
