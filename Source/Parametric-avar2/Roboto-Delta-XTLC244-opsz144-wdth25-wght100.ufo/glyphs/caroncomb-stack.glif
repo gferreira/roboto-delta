@@ -2,15 +2,15 @@
 <glyph name="caroncomb-stack" format="2">
 	<outline>
 		<contour>
-			<point x="-71" y="1215" type="line"/>
-			<point x="-181" y="1428" type="line"/>
-			<point x="-14" y="1428" type="line"/>
-			<point x="1" y="1368" type="line"/>
-			<point x="16" y="1428" type="line"/>
-			<point x="182" y="1428" type="line"/>
-			<point x="73" y="1215" type="line"/>
+			<point x="-71" y="1093" type="line"/>
+			<point x="-181" y="1306" type="line"/>
+			<point x="-14" y="1306" type="line"/>
+			<point x="1" y="1246" type="line"/>
+			<point x="16" y="1306" type="line"/>
+			<point x="182" y="1306" type="line"/>
+			<point x="73" y="1093" type="line"/>
 		</contour>
 	</outline>
 	<anchor name="_top" x="0" y="1052"/>
-	<anchor name="top" x="0" y="1528"/>
+	<anchor name="top" x="0" y="1406"/>
 </glyph>
