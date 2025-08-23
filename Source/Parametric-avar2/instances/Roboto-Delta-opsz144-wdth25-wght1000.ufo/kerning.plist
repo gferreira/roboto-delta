@@ -224,7 +224,7 @@
 			<key>public.kern2.AE_UC</key>
 			<integer>0</integer>
 			<key>public.kern2.A_UC</key>
-			<integer>0</integer>
+			<integer>-120</integer>
 			<key>public.kern2.CG_UC</key>
 			<integer>0</integer>
 			<key>public.kern2.J_UC</key>
@@ -1237,7 +1237,7 @@
 			<key>public.kern2.J_UC</key>
 			<integer>0</integer>
 			<key>public.kern2.S_UC</key>
-			<integer>0</integer>
+			<integer>-30</integer>
 			<key>public.kern2.T_UC</key>
 			<integer>0</integer>
 			<key>public.kern2.U_UC</key>
