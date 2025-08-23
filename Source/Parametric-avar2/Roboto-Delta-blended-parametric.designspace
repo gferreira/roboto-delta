@@ -974,7 +974,7 @@
             <dimension name="YTTL" xvalue="0"/>
             <dimension name="XTTW" xvalue="0"/>
             <dimension name="XTUR" xvalue="463"/>
-            <dimension name="WDSP" xvalue="70"/>
+            <dimension name="WDSP" xvalue="250"/>
             <!-- BARS EXCEPTION TO OPEN BARS FOR $¢Øø -->
             <dimension name="BARS" xvalue="0"/>
             <!-- XTUD EXCEPTION TO OPEN TRANSPARENCY FOR UPPERCASE DIAGONALS -->
@@ -1074,7 +1074,7 @@
             <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
-      <!--  THIS IS 1444 100 500 TO SMOOTH WEIGHT PROGRESSION  -->
+      <!--  THIS IS 144 100 500 TO SMOOTH WEIGHT PROGRESSION  -->
       <mapping>
         <input>
             <dimension name="Optical size" xvalue="1"/>
@@ -1118,7 +1118,7 @@
             <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
-<!--  THIS IS 1444 100 1000  -->
+<!--  THIS IS 144 100 1000  -->
       <mapping>
         <input>
             <dimension name="Optical size" xvalue="1"/>
@@ -1154,7 +1154,7 @@
             <dimension name="YTTL" xvalue="0"/>
             <dimension name="XTTW" xvalue="0"/>
             <dimension name="XTUR" xvalue="463"/>
-            <dimension name="WDSP" xvalue="175"/>
+            <dimension name="WDSP" xvalue="250"/>
             <!-- BARS EXCEPTION TO OPEN BARS FOR $¢Øø -->
             <dimension name="BARS" xvalue="0"/>
             <!-- XTUD EXCEPTION TO OPEN TRANSPARENCY FOR UPPERCASE DIAGONALS -->
@@ -1293,7 +1293,7 @@
             <dimension name="XTTW" xvalue="0"/>
             <!-- XTUR EXCEPTION TO OPEN TRANSPARENCY FOR UPPERCASE ROUND COQS -->
             <dimension name="XTUR" xvalue="480"/>
-            <dimension name="WDSP" xvalue="250"/>
+            <dimension name="WDSP" xvalue="390"/>
             <!-- BARS EXCEPTION TO OPEN BARS FOR $¢Øø -->
             <dimension name="BARS" xvalue="0"/>
             <dimension name="XTUD" xvalue="463"/>
@@ -5542,7 +5542,95 @@
         <dimension name="STLO" xvalue="426"/>
       </location>
     </source>
-    
+    <source filename="instances/Roboto-Delta-opsz144-wdth25-wght400.ufo" familyname="Roboto Delta" stylename="opsz144-wdth25-wght400">
+      <kerning copy="1"/>
+      <location>
+        <dimension name="Optical size" xvalue="1"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="25"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="48"/>
+        <dimension name="XOFI" xvalue="48"/>
+        <dimension name="XOUC" xvalue="48"/>
+        <dimension name="XOLC" xvalue="48"/>
+        <dimension name="XTRA" xvalue="267"/>
+        <dimension name="XTUC" xvalue="267"/>
+        <dimension name="XTLC" xvalue="267"/>
+        <dimension name="XTFI" xvalue="267"/>
+        <dimension name="XTSP" xvalue="-70"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="48"/>
+        <dimension name="YOFI" xvalue="48"/>
+        <dimension name="YOUC" xvalue="48"/>
+        <dimension name="YOLC" xvalue="48"/>
+        <dimension name="BDSZ" xvalue="144"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-155"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="458"/>
+        <dimension name="YTOS" xvalue="5"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="70"/>
+        <!-- BARS EXCEPTION TO OPEN BARS FOR $¢Øø -->
+        <dimension name="BARS" xvalue="0"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="566"/>
+        <dimension name="STUO" xvalue="722"/>
+        <dimension name="STLI" xvalue="330"/>
+        <dimension name="STLO" xvalue="340"/>
+      </location>
+    </source>
+    <source filename="instances/Roboto-Delta-opsz144-wdth25-wght1000.ufo" familyname="Roboto Delta" stylename="opsz144-wdth25-wght1000">
+      <kerning copy="1"/>
+      <location>
+        <dimension name="Optical size" xvalue="1"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="1000"/>
+        <dimension name="Width" xvalue="25"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="248"/>
+        <dimension name="XOFI" xvalue="248"/>
+        <dimension name="XOUC" xvalue="248"/>
+        <dimension name="XOLC" xvalue="248"/>
+        <dimension name="XTRA" xvalue="244"/>
+        <dimension name="XTUC" xvalue="244"/>
+        <dimension name="XTLC" xvalue="244"/>
+        <dimension name="XTFI" xvalue="244"/>
+        <dimension name="XTSP" xvalue="-100"/>
+        <dimension name="YOPE" xvalue="116"/>
+        <dimension name="YOPQ" xvalue="200"/>
+        <dimension name="YOFI" xvalue="200"/>
+        <dimension name="YOUC" xvalue="200"/>
+        <dimension name="YOLC" xvalue="200"/>
+        <dimension name="BDSZ" xvalue="144"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-155"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="458"/>
+        <dimension name="YTOS" xvalue="15"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="250"/>
+        <!-- BARS EXCEPTION TO OPEN BARS FOR $¢Øø -->
+        <dimension name="BARS" xvalue="0"/>
+        <!-- XTUD EXCEPTION TO OPEN TRANSPARENCY FOR UPPERCASE DIAGONALS -->
+        <dimension name="XTUD" xvalue="515"/>
+        <dimension name="STUI" xvalue="180"/>
+        <dimension name="STUO" xvalue="256"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="80"/>
+      </location>
+    </source>
   </sources>
   
   <instances>
@@ -5588,6 +5676,93 @@
         <dimension name="STUO" xvalue="722"/>
         <dimension name="STLI" xvalue="412"/>
         <dimension name="STLO" xvalue="426"/>
+      </location>
+    </instance>
+    <instance familyname="Roboto-Delta" stylename="144 25 400" filename="instances/Roboto-Delta-144-25-400.ufo">
+      <location>
+        <dimension name="Optical size" xvalue="1"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="25"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="48"/>
+        <dimension name="XOFI" xvalue="48"/>
+        <dimension name="XOUC" xvalue="48"/>
+        <dimension name="XOLC" xvalue="48"/>
+        <dimension name="XTRA" xvalue="267"/>
+        <dimension name="XTUC" xvalue="267"/>
+        <dimension name="XTLC" xvalue="267"/>
+        <dimension name="XTFI" xvalue="267"/>
+        <dimension name="XTSP" xvalue="-70"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOPQ" xvalue="48"/>
+        <dimension name="YOFI" xvalue="48"/>
+        <dimension name="YOUC" xvalue="48"/>
+        <dimension name="YOLC" xvalue="48"/>
+        <dimension name="BDSZ" xvalue="144"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-155"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="458"/>
+        <dimension name="YTOS" xvalue="5"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="70"/>
+        <!-- BARS EXCEPTION TO OPEN BARS FOR $¢Øø -->
+        <dimension name="BARS" xvalue="0"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="566"/>
+        <dimension name="STUO" xvalue="722"/>
+        <dimension name="STLI" xvalue="330"/>
+        <dimension name="STLO" xvalue="340"/>
+      </location>
+    </instance>
+    <instance familyname="Roboto-Delta" stylename="144 25 1000" filename="instances/Roboto-Delta-144-25-1000.ufo">
+      <location>
+        <dimension name="Optical size" xvalue="1"/>
+        <dimension name="Slant" xvalue="0"/>
+        <dimension name="Weight" xvalue="1000"/>
+        <dimension name="Width" xvalue="25"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="248"/>
+        <dimension name="XOFI" xvalue="248"/>
+        <dimension name="XOUC" xvalue="248"/>
+        <dimension name="XOLC" xvalue="248"/>
+        <dimension name="XTRA" xvalue="244"/>
+        <dimension name="XTUC" xvalue="244"/>
+        <dimension name="XTLC" xvalue="244"/>
+        <dimension name="XTFI" xvalue="244"/>
+        <dimension name="XTSP" xvalue="-100"/>
+        <dimension name="YOPE" xvalue="116"/>
+        <dimension name="YOPQ" xvalue="200"/>
+        <dimension name="YOFI" xvalue="200"/>
+        <dimension name="YOUC" xvalue="200"/>
+        <dimension name="YOLC" xvalue="200"/>
+        <dimension name="BDSZ" xvalue="144"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-155"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="458"/>
+        <dimension name="YTOS" xvalue="15"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="250"/>
+        <!-- BARS EXCEPTION TO OPEN BARS FOR $¢Øø -->
+        <dimension name="BARS" xvalue="0"/>
+        <!-- XTUD EXCEPTION TO OPEN TRANSPARENCY FOR UPPERCASE DIAGONALS -->
+        <dimension name="XTUD" xvalue="515"/>
+        <dimension name="STUI" xvalue="180"/>
+        <dimension name="STUO" xvalue="256"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="80"/>
       </location>
     </instance>
   </instances>
