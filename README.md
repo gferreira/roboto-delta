@@ -98,17 +98,11 @@ AsciiAlpha
 
 ```
 LGCAlpha
-├── RobotoA2-Delta-VF.ttf
-└── RobotoA2-Delta-no-fences-VF.ttf
-└── RobotoA2-Delta-no-slant-VF.ttf
+└── Roboto-Delta-blended-parametric-VF.ttf
 ```
 <dl>
-  <dt>Roboto-Delta.VF.ttf</dt>
-  <dd>Variable font in avar2 format. Blended axes are created by defining mappings from parametric axes to extrema input values, **with fencing mappings**</dd>
-  <dt>Roboto-Delta-no-fences.ttf</dt>
-  <dd>Variable font in avar2 format. Blended axes are created by defining mappings from parametric axes to extrema input values, **without fencing mappings**</dd
-  <dt>Roboto-Delta-no-slant.ttf</dt>
-  <dd>Variable font in avar2 format. Blended axes are created by defining mappings from parametric axes to extrema input values, **without slant axis**</dd>
+  <dt>Roboto-Delta-blended-parametric-VF.ttf</dt>
+  <dd>Variable font in avar2 format. Blended axes are created by defining mappings from parametric axes to extrema input values</dd>
 </dl>
 
 
@@ -145,9 +139,7 @@ Roman
 ├── fences.json
 ├── features
 │   └── *.fea
-├── Roboto-Delta.designspace
-└── Roboto-Delta-no-fences.designspace
-└── Roboto-Delta-no-slant.designspace
+└── Roboto-Delta-blended-parametric.designspace
 ```
 
 <dl>
@@ -163,14 +155,8 @@ Roman
 	<dd>Subfolder with files containing OpenType code which can be linked to the source fonts. <em>Currently not used when building the variable fonts.</em></dd>
 	<dt>instances</dt>
 	<dd>Subfolder containing instances generated from the parametric sources, which are used to add blended axes to the avar1 designspace. Also useful for comparison with the original RobotoFlex var1 sources for blended extrema.</dd>
-	<dt>Roboto-Delta.designspace</dt>
+	<dt>Roboto-Delta-blended-parametric.designspace</dt>
 	<dd>Designspace for building avar2 variable font. Includes avar2 mappings which define blended sources from parametric values.</dd>
-	<dt>Roboto-Delta-no-fences.designspace</dt>
-	<dd>Designspace for building avar2 variable font. Does not includes avar2 fencing mappings, so we can see the parametric axes’ full range</dd>
-  <dt>Roboto-Delta-no-slant.designspace</dt>
-  <dd>Designspace for building avar2 variable font. Does not include Slant axis.</dd>
-	<dt>Scratch folder</dt>
-	<dd>Parametric axis from RobotoFlex public version.</dd>
 </dl>
 
 \* All variable fonts are built into the `Fonts/LGCAlpha` folder.
