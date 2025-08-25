@@ -23,7 +23,7 @@ File Size Comparison
 
 File | glyphs | file-size | bytes per glyph
 --|--|--|--|
-Roboto-Delta-VF.ttf | 1,042 | ![GitHub file size in bytes](https://img.shields.io/github/size/googlefonts/roboto-flex-avar2/fonts%2FLGCAlpha%2FRoboto-Delta-VF.ttf) | 476  
+Roboto-Delta-blended-parametric-VF.ttf | 2,079 | ![GitHub file size in bytes](https://img.shields.io/github/size/googlefonts/roboto-flex-avar2/fonts%2FLGCAlpha%2FRoboto-Delta-blended-parametric-VF.ttf) | 571  
 RobotoFlex[...].ttf | 948 | ![GitHub file size in bytes](https://img.shields.io/github/size/googlefonts/roboto-flex/fonts%2FRobotoFlex%5BGRAD%2CXOPQ%2CXTRA%2CYOPQ%2CYTAS%2CYTDE%2CYTFI%2CYTLC%2CYTUC%2Copsz%2Cslnt%2Cwdth%2Cwght%5D.ttf) | 1,885.33
 
 1,885.3291139241/476.072 = 3.96x smaller
