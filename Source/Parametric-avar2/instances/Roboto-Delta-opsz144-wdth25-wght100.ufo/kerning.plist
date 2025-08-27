@@ -223,6 +223,14 @@
 			<integer>0</integer>
 			<key>backslash</key>
 			<integer>0</integer>
+			<key>eth</key>
+			<integer>10</integer>
+			<key>germandbls</key>
+			<integer>10</integer>
+			<key>j</key>
+			<integer>10</integer>
+			<key>lslash</key>
+			<integer>10</integer>
 			<key>public.kern2.AE_UC</key>
 			<integer>-20</integer>
 			<key>public.kern2.A_UC</key>
@@ -237,34 +245,36 @@
 			<integer>5</integer>
 			<key>public.kern2.Z_UC</key>
 			<integer>0</integer>
-			<key>public.kern2.a_LC</key>
-			<integer>0</integer>
 			<key>public.kern2.alpha</key>
-			<integer>0</integer>
+			<integer>10</integer>
+			<key>public.kern2.bhk_LC</key>
+			<integer>10</integer>
 			<key>public.kern2.comma</key>
 			<integer>0</integer>
 			<key>public.kern2.emdash</key>
 			<integer>0</integer>
 			<key>public.kern2.f_LC</key>
-			<integer>0</integer>
+			<integer>10</integer>
 			<key>public.kern2.gamma</key>
-			<integer>0</integer>
+			<integer>10</integer>
+			<key>public.kern2.i_LC</key>
+			<integer>10</integer>
 			<key>public.kern2.minute</key>
 			<integer>0</integer>
 			<key>public.kern2.o_LC</key>
-			<integer>0</integer>
+			<integer>10</integer>
 			<key>public.kern2.s_LC</key>
-			<integer>0</integer>
+			<integer>7</integer>
 			<key>public.kern2.t_LC</key>
-			<integer>0</integer>
+			<integer>10</integer>
 			<key>public.kern2.w_LC</key>
-			<integer>0</integer>
+			<integer>10</integer>
 			<key>public.kern2.z_LC</key>
 			<integer>0</integer>
 			<key>slash</key>
 			<integer>0</integer>
 			<key>x</key>
-			<integer>0</integer>
+			<integer>10</integer>
 		</dict>
 		<key>Q</key>
 		<dict>
@@ -284,6 +294,14 @@
 			<integer>0</integer>
 			<key>Ytilde</key>
 			<integer>0</integer>
+			<key>eth</key>
+			<integer>10</integer>
+			<key>germandbls</key>
+			<integer>10</integer>
+			<key>j</key>
+			<integer>10</integer>
+			<key>lslash</key>
+			<integer>10</integer>
 			<key>public.kern2.S_UC</key>
 			<integer>5</integer>
 			<key>public.kern2.T_UC</key>
@@ -291,25 +309,33 @@
 			<key>public.kern2.Z_UC</key>
 			<integer>0</integer>
 			<key>public.kern2.a_LC</key>
-			<integer>0</integer>
+			<integer>12</integer>
+			<key>public.kern2.alpha</key>
+			<integer>10</integer>
+			<key>public.kern2.bhk_LC</key>
+			<integer>10</integer>
 			<key>public.kern2.comma</key>
 			<integer>0</integer>
 			<key>public.kern2.emdash</key>
 			<integer>0</integer>
 			<key>public.kern2.f_LC</key>
-			<integer>0</integer>
+			<integer>10</integer>
 			<key>public.kern2.gamma</key>
-			<integer>0</integer>
+			<integer>10</integer>
+			<key>public.kern2.i_LC</key>
+			<integer>10</integer>
+			<key>public.kern2.o_LC</key>
+			<integer>10</integer>
 			<key>public.kern2.s_LC</key>
-			<integer>0</integer>
+			<integer>10</integer>
 			<key>public.kern2.t_LC</key>
-			<integer>0</integer>
+			<integer>10</integer>
 			<key>public.kern2.w_LC</key>
-			<integer>0</integer>
+			<integer>10</integer>
 			<key>public.kern2.z_LC</key>
 			<integer>0</integer>
 			<key>x</key>
-			<integer>0</integer>
+			<integer>10</integer>
 		</dict>
 		<key>Thorn</key>
 		<dict>
@@ -334,6 +360,8 @@
 			<integer>0</integer>
 			<key>backslash</key>
 			<integer>0</integer>
+			<key>eth</key>
+			<integer>-15</integer>
 			<key>j</key>
 			<integer>0</integer>
 			<key>public.kern2.AE_UC</key>
@@ -345,9 +373,9 @@
 			<key>public.kern2.Z_UC</key>
 			<integer>0</integer>
 			<key>public.kern2.a_LC</key>
-			<integer>0</integer>
+			<integer>-25</integer>
 			<key>public.kern2.alpha</key>
-			<integer>0</integer>
+			<integer>-15</integer>
 			<key>public.kern2.colon</key>
 			<integer>0</integer>
 			<key>public.kern2.comma</key>
@@ -357,7 +385,7 @@
 			<key>public.kern2.f_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.gamma</key>
-			<integer>0</integer>
+			<integer>-8</integer>
 			<key>public.kern2.i_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.minute</key>
@@ -365,23 +393,23 @@
 			<key>public.kern2.mnpr_LC</key>
 			<integer>-20</integer>
 			<key>public.kern2.o_LC</key>
-			<integer>0</integer>
+			<integer>-15</integer>
 			<key>public.kern2.parens</key>
 			<integer>0</integer>
 			<key>public.kern2.s_LC</key>
-			<integer>0</integer>
+			<integer>-18</integer>
 			<key>public.kern2.t_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.u_LC</key>
-			<integer>0</integer>
+			<integer>-18</integer>
 			<key>public.kern2.w_LC</key>
-			<integer>0</integer>
+			<integer>-8</integer>
 			<key>public.kern2.z_LC</key>
 			<integer>0</integer>
 			<key>slash</key>
 			<integer>0</integer>
 			<key>x</key>
-			<integer>0</integer>
+			<integer>-8</integer>
 		</dict>
 		<key>X</key>
 		<dict>
@@ -836,7 +864,7 @@
 			<key>public.kern2.f_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.gamma</key>
-			<integer>0</integer>
+			<integer>-10</integer>
 			<key>public.kern2.i_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.minute</key>
@@ -847,12 +875,10 @@
 			<integer>0</integer>
 			<key>public.kern2.s_LC</key>
 			<integer>0</integer>
-			<key>public.kern2.t_LC</key>
-			<integer>0</integer>
 			<key>public.kern2.u_LC</key>
-			<integer>0</integer>
+			<integer>-10</integer>
 			<key>public.kern2.w_LC</key>
-			<integer>0</integer>
+			<integer>-10</integer>
 			<key>public.kern2.z_LC</key>
 			<integer>0</integer>
 			<key>question</key>
@@ -872,6 +898,14 @@
 			<integer>0</integer>
 			<key>backslash</key>
 			<integer>0</integer>
+			<key>eth</key>
+			<integer>18</integer>
+			<key>germandbls</key>
+			<integer>15</integer>
+			<key>j</key>
+			<integer>20</integer>
+			<key>lslash</key>
+			<integer>20</integer>
 			<key>public.kern2.AE_UC</key>
 			<integer>10</integer>
 			<key>public.kern2.A_UC</key>
@@ -891,40 +925,62 @@
 			<key>public.kern2.Z_UC</key>
 			<integer>10</integer>
 			<key>public.kern2.a_LC</key>
-			<integer>0</integer>
+			<integer>16</integer>
 			<key>public.kern2.alpha</key>
-			<integer>0</integer>
+			<integer>23</integer>
+			<key>public.kern2.bhk_LC</key>
+			<integer>15</integer>
 			<key>public.kern2.emdash</key>
 			<integer>0</integer>
+			<key>public.kern2.f_LC</key>
+			<integer>20</integer>
 			<key>public.kern2.gamma</key>
-			<integer>0</integer>
+			<integer>20</integer>
+			<key>public.kern2.i_LC</key>
+			<integer>20</integer>
 			<key>public.kern2.minute</key>
 			<integer>0</integer>
 			<key>public.kern2.mnpr_LC</key>
-			<integer>10</integer>
+			<integer>12</integer>
+			<key>public.kern2.o_LC</key>
+			<integer>18</integer>
 			<key>public.kern2.parens</key>
 			<integer>0</integer>
 			<key>public.kern2.s_LC</key>
-			<integer>0</integer>
+			<integer>17</integer>
 			<key>public.kern2.t_LC</key>
-			<integer>0</integer>
+			<integer>20</integer>
+			<key>public.kern2.u_LC</key>
+			<integer>12</integer>
 			<key>public.kern2.w_LC</key>
-			<integer>0</integer>
+			<integer>20</integer>
 			<key>public.kern2.z_LC</key>
-			<integer>0</integer>
+			<integer>10</integer>
 			<key>x</key>
-			<integer>0</integer>
+			<integer>20</integer>
 		</dict>
 		<key>public.kern1.D_UC</key>
 		<dict>
 			<key>backslash</key>
 			<integer>20</integer>
+			<key>eth</key>
+			<integer>10</integer>
+			<key>germandbls</key>
+			<integer>10</integer>
+			<key>j</key>
+			<integer>10</integer>
+			<key>lslash</key>
+			<integer>10</integer>
 			<key>public.kern2.S_UC</key>
 			<integer>5</integer>
 			<key>public.kern2.T_UC</key>
 			<integer>0</integer>
 			<key>public.kern2.a_LC</key>
-			<integer>0</integer>
+			<integer>8</integer>
+			<key>public.kern2.alpha</key>
+			<integer>10</integer>
+			<key>public.kern2.bhk_LC</key>
+			<integer>10</integer>
 			<key>public.kern2.colon</key>
 			<integer>0</integer>
 			<key>public.kern2.comma</key>
@@ -932,15 +988,25 @@
 			<key>public.kern2.emdash</key>
 			<integer>0</integer>
 			<key>public.kern2.f_LC</key>
-			<integer>0</integer>
+			<integer>10</integer>
+			<key>public.kern2.gamma</key>
+			<integer>10</integer>
+			<key>public.kern2.i_LC</key>
+			<integer>10</integer>
+			<key>public.kern2.o_LC</key>
+			<integer>10</integer>
 			<key>public.kern2.s_LC</key>
-			<integer>0</integer>
+			<integer>10</integer>
 			<key>public.kern2.t_LC</key>
-			<integer>0</integer>
+			<integer>10</integer>
+			<key>public.kern2.w_LC</key>
+			<integer>10</integer>
 			<key>public.kern2.z_LC</key>
 			<integer>0</integer>
 			<key>slash</key>
 			<integer>0</integer>
+			<key>x</key>
+			<integer>10</integer>
 		</dict>
 		<key>public.kern1.E_UC</key>
 		<dict>
@@ -1068,7 +1134,7 @@
 			<key>public.kern2.T_UC</key>
 			<integer>10</integer>
 			<key>public.kern2.a_LC</key>
-			<integer>0</integer>
+			<integer>-5</integer>
 			<key>public.kern2.alpha</key>
 			<integer>0</integer>
 			<key>public.kern2.comma</key>
@@ -1078,7 +1144,7 @@
 			<key>public.kern2.f_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.gamma</key>
-			<integer>0</integer>
+			<integer>-20</integer>
 			<key>public.kern2.i_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.minute</key>
@@ -1088,11 +1154,11 @@
 			<key>public.kern2.s_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.t_LC</key>
-			<integer>0</integer>
+			<integer>-30</integer>
 			<key>public.kern2.u_LC</key>
-			<integer>0</integer>
+			<integer>-10</integer>
 			<key>public.kern2.w_LC</key>
-			<integer>0</integer>
+			<integer>-20</integer>
 			<key>public.kern2.z_LC</key>
 			<integer>0</integer>
 			<key>slash</key>
@@ -1137,7 +1203,7 @@
 			<key>public.kern2.f_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.gamma</key>
-			<integer>0</integer>
+			<integer>-20</integer>
 			<key>public.kern2.minute</key>
 			<integer>0</integer>
 			<key>public.kern2.o_LC</key>
@@ -1149,7 +1215,7 @@
 			<key>public.kern2.u_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.w_LC</key>
-			<integer>0</integer>
+			<integer>-20</integer>
 			<key>slash</key>
 			<integer>0</integer>
 			<key>x</key>
@@ -1186,8 +1252,6 @@
 			<integer>0</integer>
 			<key>public.kern2.a_LC</key>
 			<integer>0</integer>
-			<key>public.kern2.alpha</key>
-			<integer>0</integer>
 			<key>public.kern2.bhk_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.comma</key>
@@ -1209,7 +1273,7 @@
 			<key>public.kern2.t_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.u_LC</key>
-			<integer>0</integer>
+			<integer>-10</integer>
 			<key>public.kern2.w_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.z_LC</key>
@@ -1223,6 +1287,14 @@
 		<dict>
 			<key>backslash</key>
 			<integer>0</integer>
+			<key>eth</key>
+			<integer>20</integer>
+			<key>germandbls</key>
+			<integer>20</integer>
+			<key>j</key>
+			<integer>20</integer>
+			<key>lslash</key>
+			<integer>20</integer>
 			<key>public.kern2.AE_UC</key>
 			<integer>5</integer>
 			<key>public.kern2.A_UC</key>
@@ -1237,22 +1309,36 @@
 			<integer>10</integer>
 			<key>public.kern2.Z_UC</key>
 			<integer>10</integer>
+			<key>public.kern2.a_LC</key>
+			<integer>20</integer>
+			<key>public.kern2.alpha</key>
+			<integer>20</integer>
+			<key>public.kern2.bhk_LC</key>
+			<integer>20</integer>
 			<key>public.kern2.emdash</key>
 			<integer>0</integer>
 			<key>public.kern2.f_LC</key>
-			<integer>0</integer>
+			<integer>20</integer>
 			<key>public.kern2.gamma</key>
-			<integer>0</integer>
+			<integer>20</integer>
+			<key>public.kern2.i_LC</key>
+			<integer>20</integer>
+			<key>public.kern2.mnpr_LC</key>
+			<integer>10</integer>
+			<key>public.kern2.o_LC</key>
+			<integer>20</integer>
 			<key>public.kern2.s_LC</key>
-			<integer>0</integer>
+			<integer>20</integer>
 			<key>public.kern2.t_LC</key>
-			<integer>0</integer>
+			<integer>20</integer>
+			<key>public.kern2.u_LC</key>
+			<integer>10</integer>
 			<key>public.kern2.w_LC</key>
-			<integer>0</integer>
+			<integer>20</integer>
 			<key>public.kern2.z_LC</key>
-			<integer>0</integer>
+			<integer>10</integer>
 			<key>x</key>
-			<integer>0</integer>
+			<integer>20</integer>
 		</dict>
 		<key>public.kern1.T_UC</key>
 		<dict>
@@ -1262,6 +1348,10 @@
 			<integer>0</integer>
 			<key>backslash</key>
 			<integer>0</integer>
+			<key>eth</key>
+			<integer>-30</integer>
+			<key>j</key>
+			<integer>-40</integer>
 			<key>public.kern2.AE_UC</key>
 			<integer>-10</integer>
 			<key>public.kern2.A_UC</key>
@@ -1277,9 +1367,9 @@
 			<key>public.kern2.Z_UC</key>
 			<integer>0</integer>
 			<key>public.kern2.a_LC</key>
-			<integer>0</integer>
+			<integer>-30</integer>
 			<key>public.kern2.alpha</key>
-			<integer>0</integer>
+			<integer>-30</integer>
 			<key>public.kern2.colon</key>
 			<integer>0</integer>
 			<key>public.kern2.comma</key>
@@ -1289,33 +1379,35 @@
 			<key>public.kern2.f_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.gamma</key>
-			<integer>0</integer>
+			<integer>-30</integer>
 			<key>public.kern2.guillemotleft</key>
 			<integer>0</integer>
 			<key>public.kern2.guillemotright</key>
 			<integer>0</integer>
+			<key>public.kern2.i_LC</key>
+			<integer>-40</integer>
 			<key>public.kern2.minute</key>
 			<integer>0</integer>
 			<key>public.kern2.mnpr_LC</key>
 			<integer>-40</integer>
 			<key>public.kern2.o_LC</key>
-			<integer>0</integer>
+			<integer>-30</integer>
 			<key>public.kern2.s_LC</key>
-			<integer>0</integer>
+			<integer>-30</integer>
 			<key>public.kern2.t_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.u_LC</key>
-			<integer>0</integer>
+			<integer>-40</integer>
 			<key>public.kern2.w_LC</key>
-			<integer>0</integer>
+			<integer>-30</integer>
 			<key>public.kern2.z_LC</key>
-			<integer>0</integer>
+			<integer>-30</integer>
 			<key>slash</key>
 			<integer>0</integer>
 			<key>space</key>
 			<integer>0</integer>
 			<key>x</key>
-			<integer>0</integer>
+			<integer>-30</integer>
 		</dict>
 		<key>public.kern1.W_UC</key>
 		<dict>
@@ -1325,6 +1417,8 @@
 			<integer>0</integer>
 			<key>backslash</key>
 			<integer>0</integer>
+			<key>eth</key>
+			<integer>-11</integer>
 			<key>j</key>
 			<integer>0</integer>
 			<key>public.kern2.AE_UC</key>
@@ -1338,9 +1432,9 @@
 			<key>public.kern2.Z_UC</key>
 			<integer>0</integer>
 			<key>public.kern2.a_LC</key>
-			<integer>0</integer>
+			<integer>-21</integer>
 			<key>public.kern2.alpha</key>
-			<integer>0</integer>
+			<integer>-14</integer>
 			<key>public.kern2.colon</key>
 			<integer>0</integer>
 			<key>public.kern2.comma</key>
@@ -1350,7 +1444,7 @@
 			<key>public.kern2.f_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.gamma</key>
-			<integer>0</integer>
+			<integer>-10</integer>
 			<key>public.kern2.i_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.minute</key>
@@ -1358,23 +1452,23 @@
 			<key>public.kern2.mnpr_LC</key>
 			<integer>-20</integer>
 			<key>public.kern2.o_LC</key>
-			<integer>0</integer>
+			<integer>-14</integer>
 			<key>public.kern2.parens</key>
 			<integer>0</integer>
 			<key>public.kern2.s_LC</key>
-			<integer>0</integer>
+			<integer>-14</integer>
 			<key>public.kern2.t_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.u_LC</key>
-			<integer>0</integer>
+			<integer>-20</integer>
 			<key>public.kern2.w_LC</key>
-			<integer>0</integer>
+			<integer>-10</integer>
 			<key>public.kern2.z_LC</key>
 			<integer>0</integer>
 			<key>slash</key>
 			<integer>0</integer>
 			<key>x</key>
-			<integer>0</integer>
+			<integer>-10</integer>
 		</dict>
 		<key>public.kern1.Y_UC</key>
 		<dict>
@@ -1389,7 +1483,7 @@
 			<key>backslash</key>
 			<integer>0</integer>
 			<key>eth</key>
-			<integer>0</integer>
+			<integer>-25</integer>
 			<key>germandbls</key>
 			<integer>0</integer>
 			<key>j</key>
@@ -1405,9 +1499,9 @@
 			<key>public.kern2.Z_UC</key>
 			<integer>0</integer>
 			<key>public.kern2.a_LC</key>
-			<integer>0</integer>
+			<integer>-30</integer>
 			<key>public.kern2.alpha</key>
-			<integer>0</integer>
+			<integer>-25</integer>
 			<key>public.kern2.colon</key>
 			<integer>0</integer>
 			<key>public.kern2.comma</key>
@@ -1417,7 +1511,7 @@
 			<key>public.kern2.f_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.gamma</key>
-			<integer>0</integer>
+			<integer>-25</integer>
 			<key>public.kern2.guillemotleft</key>
 			<integer>0</integer>
 			<key>public.kern2.guillemotright</key>
@@ -1429,23 +1523,23 @@
 			<key>public.kern2.mnpr_LC</key>
 			<integer>-35</integer>
 			<key>public.kern2.o_LC</key>
-			<integer>0</integer>
+			<integer>-25</integer>
 			<key>public.kern2.parens</key>
 			<integer>0</integer>
 			<key>public.kern2.s_LC</key>
-			<integer>0</integer>
+			<integer>-28</integer>
 			<key>public.kern2.t_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.u_LC</key>
-			<integer>0</integer>
+			<integer>-35</integer>
 			<key>public.kern2.w_LC</key>
-			<integer>0</integer>
+			<integer>-25</integer>
 			<key>public.kern2.z_LC</key>
-			<integer>0</integer>
+			<integer>-25</integer>
 			<key>slash</key>
 			<integer>0</integer>
 			<key>x</key>
-			<integer>0</integer>
+			<integer>-25</integer>
 		</dict>
 		<key>public.kern1.Z_UC</key>
 		<dict>
