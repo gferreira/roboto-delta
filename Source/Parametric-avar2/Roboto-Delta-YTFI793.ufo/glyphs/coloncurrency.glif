@@ -79,10 +79,4 @@
 		</contour>
 	</outline>
 	<guideline y="1570" identifier="0DwZ2nfhdf"/>
-	<lib>
-		<dict>
-			<key>com.typemytype.robofont.guideline.magnetic.0DwZ2nfhdf</key>
-			<integer>5</integer>
-		</dict>
-	</lib>
 </glyph>

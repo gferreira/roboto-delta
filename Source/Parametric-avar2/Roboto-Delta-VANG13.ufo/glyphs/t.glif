@@ -34,10 +34,4 @@
 	<anchor name="center" x="299.9074103067" y="619"/>
 	<anchor name="top" x="459.8990667567" y="1312"/>
 	<anchor name="topright" x="774.8733370641" y="1052"/>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0,0.1,1,0.2</string>
-		</dict>
-	</lib>
 </glyph>

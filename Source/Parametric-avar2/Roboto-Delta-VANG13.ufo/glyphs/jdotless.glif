@@ -23,10 +23,4 @@
 	</outline>
 	<anchor name="bottom" x="-18.6585313307" y="-436"/>
 	<anchor name="top" x="324.8733370641" y="1052"/>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0,0.1,1,0.2</string>
-		</dict>
-	</lib>
 </glyph>

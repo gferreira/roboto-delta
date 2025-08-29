@@ -27,10 +27,4 @@
 	<anchor name="top" x="570.8670161942" y="1052"/>
 	<anchor name="cy_descender" x="875" y="0"/>
 	<guideline x="250.0184980565" y="553" angle="86" identifier="lmgRx0QBdK"/>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0,0.1,1,0.2</string>
-		</dict>
-	</lib>
 </glyph>

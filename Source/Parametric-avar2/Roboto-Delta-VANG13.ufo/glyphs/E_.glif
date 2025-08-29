@@ -24,10 +24,4 @@
 	<anchor name="ogonek" x="926" y="0"/>
 	<anchor name="top" x="813.1440862788" y="1456"/>
 	<anchor name="tonos" x="4.9524372689" y="1074"/>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0,0.1,1,0.2</string>
-		</dict>
-	</lib>
 </glyph>

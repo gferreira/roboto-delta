@@ -6,10 +6,4 @@
 		<component base="ghe"/>
 		<component base="horizontalbarlc" xOffset="-34" yOffset="-203"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.0016,0,0.9984,1</string>
-		</dict>
-	</lib>
 </glyph>

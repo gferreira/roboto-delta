@@ -60,10 +60,4 @@
 			<point x="457" y="1183"/>
 		</contour>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.adobe.type.autohint</key>
-			<data></data>
-		</dict>
-	</lib>
 </glyph>

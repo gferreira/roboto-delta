@@ -16,10 +16,4 @@
 	<anchor name="topright" x="516.8733370641" y="1052"/>
 	<anchor name="yu_dash" x="206.1305595901" y="542"/>
 	<anchor name="slash" x="249.0720431394" y="728"/>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0,0.1,1,0.2</string>
-		</dict>
-	</lib>
 </glyph>

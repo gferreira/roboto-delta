@@ -20,10 +20,4 @@
 	<anchor name="center" x="588.0720431394" y="728"/>
 	<anchor name="top" x="756.1440862788" y="1456"/>
 	<anchor name="cy_descender" x="420" y="0"/>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0,0.1,1,0.2</string>
-		</dict>
-	</lib>
 </glyph>

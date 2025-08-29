@@ -6,10 +6,4 @@
 		<component base="o"/>
 		<component base="diagonalbaro" xOffset="325.5" yOffset="-1.5"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.0676,0,0.9997,1</string>
-		</dict>
-	</lib>
 </glyph>

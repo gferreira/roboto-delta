@@ -6,10 +6,4 @@
 		<component base="epsilon"/>
 		<component base="tonoscomb" xOffset="604.141381812"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.0676,0,0.9997,1</string>
-		</dict>
-	</lib>
 </glyph>

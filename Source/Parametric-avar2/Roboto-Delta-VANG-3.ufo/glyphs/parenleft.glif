@@ -22,10 +22,4 @@
 			<point x="715.4163914965" y="-256" type="qcurve"/>
 		</contour>
 	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0,0.1,1,0.2</string>
-		</dict>
-	</lib>
 </glyph>

@@ -24,14 +24,4 @@
 	</outline>
 	<guideline x="-145.3749172697" y="98" angle="0" identifier="MTEldNnfdj"/>
 	<guideline x="-65.7253913314" y="443" angle="0" identifier="G9bQni2n1K"/>
-	<lib>
-		<dict>
-			<key>com.typemytype.robofont.guideline.magnetic.G9bQni2n1K</key>
-			<integer>5</integer>
-			<key>com.typemytype.robofont.guideline.magnetic.MTEldNnfdj</key>
-			<integer>5</integer>
-			<key>public.markColor</key>
-			<string>0,0.1,1,0.2</string>
-		</dict>
-	</lib>
 </glyph>

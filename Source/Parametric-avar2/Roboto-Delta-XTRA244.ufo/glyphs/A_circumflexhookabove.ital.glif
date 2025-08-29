@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Acircumflexhookabove.ital" format="2">
+	<advance width="512"/>
+	<outline>
+		<component base="Acircumflexhookabove" yxScale="0.2125565617" xOffset="-154.7411768958"/>
+	</outline>
+</glyph>

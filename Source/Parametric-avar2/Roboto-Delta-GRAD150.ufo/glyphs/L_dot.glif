@@ -6,10 +6,4 @@
 		<component base="L"/>
 		<component base="dotaccentcomb.case" xOffset="868.0724299065" yOffset="-1015.4797401101"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.0676,0,0.9997,1</string>
-		</dict>
-	</lib>
 </glyph>

@@ -7,10 +7,4 @@
 		<component base="horncomb.case" xOffset="1120"/>
 		<component base="tildecomb.case" xOffset="683"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.0676,0,0.9997,1</string>
-		</dict>
-	</lib>
 </glyph>

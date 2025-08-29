@@ -4,10 +4,4 @@
 	<outline>
 		<component base="circumflexcomb-stack" xOffset="512.8551401869"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>1,1,0,0.5</string>
-		</dict>
-	</lib>
 </glyph>

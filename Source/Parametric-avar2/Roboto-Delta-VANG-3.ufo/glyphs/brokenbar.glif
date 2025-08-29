@@ -18,14 +18,4 @@
 	</outline>
 	<guideline x="-9.219409134" y="901" angle="0" identifier="jmguX8NWKI"/>
 	<guideline x="8.9136824979" y="555" angle="0" identifier="Z0RZpP7MTi"/>
-	<lib>
-		<dict>
-			<key>com.typemytype.robofont.guideline.magnetic.Z0RZpP7MTi</key>
-			<integer>5</integer>
-			<key>com.typemytype.robofont.guideline.magnetic.jmguX8NWKI</key>
-			<integer>5</integer>
-			<key>public.markColor</key>
-			<string>0,0.1,1,0.2</string>
-		</dict>
-	</lib>
 </glyph>

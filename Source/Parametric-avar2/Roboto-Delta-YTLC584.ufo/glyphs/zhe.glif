@@ -40,10 +40,4 @@
 	</outline>
 	<anchor name="top" x="739" y="1168"/>
 	<anchor name="cy_descender" x="1312" y="0"/>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.9882,0.0471,0.2471,1</string>
-		</dict>
-	</lib>
 </glyph>

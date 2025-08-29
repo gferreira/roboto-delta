@@ -37,12 +37,4 @@
 		</contour>
 	</outline>
 	<guideline x="287.964677473" y="1975" angle="0" identifier="Jnt0R9CyOf"/>
-	<lib>
-		<dict>
-			<key>com.typemytype.robofont.guideline.magnetic.Jnt0R9CyOf</key>
-			<integer>5</integer>
-			<key>public.markColor</key>
-			<string>0,0.1,1,0.2</string>
-		</dict>
-	</lib>
 </glyph>

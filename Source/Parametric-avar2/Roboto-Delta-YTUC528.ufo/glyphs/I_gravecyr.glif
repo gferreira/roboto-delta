@@ -6,10 +6,4 @@
 		<component base="Icyr"/>
 		<component base="gravecomb.case" xOffset="739" yOffset="-373"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.0016,0,0.9984,1</string>
-		</dict>
-	</lib>
 </glyph>

@@ -7,10 +7,4 @@
 		<component base="horizontalbarlc" xOffset="-9" yOffset="502"/>
 		<component base="engtail" xOffset="468.8362565613"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.0676,0,0.9997,1</string>
-		</dict>
-	</lib>
 </glyph>

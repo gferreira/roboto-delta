@@ -11,10 +11,4 @@
 	</outline>
 	<guideline x="193.2196247864" y="511" angle="86" identifier="HuPjA4mSCL"/>
 	<guideline x="988.0312546373" y="610" angle="86" identifier="F596JbvFPy"/>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0,0.1,1,0.2</string>
-		</dict>
-	</lib>
 </glyph>

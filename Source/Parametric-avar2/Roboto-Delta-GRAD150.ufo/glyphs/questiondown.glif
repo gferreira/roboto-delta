@@ -50,12 +50,4 @@
 			<point x="701" y="68" type="line"/>
 		</contour>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.typemytype.robofont.guideline.magnetic.5ZPZZL8Rim</key>
-			<integer>5</integer>
-			<key>com.typemytype.robofont.guideline.magnetic.apukwP5ffL</key>
-			<integer>5</integer>
-		</dict>
-	</lib>
 </glyph>

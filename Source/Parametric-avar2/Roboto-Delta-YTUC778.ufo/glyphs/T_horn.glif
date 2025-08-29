@@ -32,12 +32,4 @@
 	</outline>
 	<guideline y="901" identifier="i9jYwjBDP4"/>
 	<guideline y="555" identifier="T8KKW8oxop"/>
-	<lib>
-		<dict>
-			<key>com.typemytype.robofont.guideline.magnetic.T8KKW8oxop</key>
-			<integer>5</integer>
-			<key>com.typemytype.robofont.guideline.magnetic.i9jYwjBDP4</key>
-			<integer>5</integer>
-		</dict>
-	</lib>
 </glyph>

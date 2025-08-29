@@ -8,10 +8,4 @@
 		<component base="o" xOffset="470" yOffset="6"/>
 		<component base="macroncomb" xOffset="798.28" yOffset="6"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.0016,0,0.9984,1</string>
-		</dict>
-	</lib>
 </glyph>

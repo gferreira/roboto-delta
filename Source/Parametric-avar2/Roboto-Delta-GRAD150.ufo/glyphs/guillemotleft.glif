@@ -24,12 +24,4 @@
 	</outline>
 	<guideline y="901" identifier="ZftBQarVKw"/>
 	<guideline y="555" identifier="MVJpdoVRVd"/>
-	<lib>
-		<dict>
-			<key>com.typemytype.robofont.guideline.magnetic.MVJpdoVRVd</key>
-			<integer>5</integer>
-			<key>com.typemytype.robofont.guideline.magnetic.ZftBQarVKw</key>
-			<integer>5</integer>
-		</dict>
-	</lib>
 </glyph>

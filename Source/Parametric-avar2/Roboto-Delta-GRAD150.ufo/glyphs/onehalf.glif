@@ -8,12 +8,4 @@
 		<component base="twosuperior" xOffset="933.377622195" yOffset="-697"/>
 	</outline>
 	<guideline y="2079" identifier="ZZEoUYP2Rx"/>
-	<lib>
-		<dict>
-			<key>com.typemytype.robofont.guideline.magnetic.ZZEoUYP2Rx</key>
-			<integer>5</integer>
-			<key>public.markColor</key>
-			<string>0,0,1,0.5</string>
-		</dict>
-	</lib>
 </glyph>

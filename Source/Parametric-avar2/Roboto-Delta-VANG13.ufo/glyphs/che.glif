@@ -30,10 +30,4 @@
 	</outline>
 	<anchor name="cy_descender" x="687" y="0"/>
 	<guideline x="805.8971184297" y="515" angle="103" identifier="GGEFes61Q6"/>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0,0.1,1,0.2</string>
-		</dict>
-	</lib>
 </glyph>

@@ -58,12 +58,4 @@
 	</outline>
 	<guideline y="901" identifier="bRYxxRaQQf"/>
 	<guideline y="555" identifier="917FhrihjR"/>
-	<lib>
-		<dict>
-			<key>com.typemytype.robofont.guideline.magnetic.917FhrihjR</key>
-			<integer>5</integer>
-			<key>com.typemytype.robofont.guideline.magnetic.bRYxxRaQQf</key>
-			<integer>5</integer>
-		</dict>
-	</lib>
 </glyph>

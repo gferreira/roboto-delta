@@ -78,10 +78,4 @@
 		</contour>
 	</outline>
 	<guideline x="194.4630600671" y="1570" angle="0" identifier="0DwZ2nfhdf"/>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0,0.1,1,0.2</string>
-		</dict>
-	</lib>
 </glyph>

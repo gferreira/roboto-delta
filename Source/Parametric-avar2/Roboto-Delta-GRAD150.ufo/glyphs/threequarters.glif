@@ -8,10 +8,4 @@
 		<component base="foursuperior" xOffset="920.6243427594" yOffset="-697"/>
 	</outline>
 	<guideline y="1975" identifier="Jnt0R9CyOf"/>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0,0,1,0.5</string>
-		</dict>
-	</lib>
 </glyph>

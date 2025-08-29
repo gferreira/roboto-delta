@@ -9,10 +9,4 @@
 		<component base="jdotless" xOffset="1875.2803738318"/>
 		<component base="idot" xOffset="2154.2523364486"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0.0676,0,0.9997,1</string>
-		</dict>
-	</lib>
 </glyph>

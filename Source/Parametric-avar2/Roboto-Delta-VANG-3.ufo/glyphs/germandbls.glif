@@ -60,12 +60,4 @@
 			<point x="308.0015971082" y="1183"/>
 		</contour>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.adobe.type.autohint</key>
-			<data></data>
-			<key>public.markColor</key>
-			<string>0,0.1,1,0.2</string>
-		</dict>
-	</lib>
 </glyph>
