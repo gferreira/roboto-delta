@@ -604,6 +604,8 @@
 			<integer>0</integer>
 			<key>public.kern2.gamma</key>
 			<integer>0</integer>
+			<key>public.kern2.t_LC</key>
+			<integer>-15</integer>
 			<key>public.kern2.w_LC</key>
 			<integer>0</integer>
 		</dict>
@@ -895,7 +897,7 @@
 		<key>lslash</key>
 		<dict>
 			<key>ampersand</key>
-			<integer>0</integer>
+			<integer>30</integer>
 			<key>asterisk</key>
 			<integer>0</integer>
 			<key>at</key>
@@ -2134,7 +2136,7 @@
 		<key>public.kern1.f_LC</key>
 		<dict>
 			<key>ampersand</key>
-			<integer>50</integer>
+			<integer>40</integer>
 			<key>asterisk</key>
 			<integer>50</integer>
 			<key>at</key>
@@ -2493,6 +2495,8 @@
 		</dict>
 		<key>public.kern1.t_LC</key>
 		<dict>
+			<key>ampersand</key>
+			<integer>5</integer>
 			<key>asterisk</key>
 			<integer>0</integer>
 			<key>dagger</key>
