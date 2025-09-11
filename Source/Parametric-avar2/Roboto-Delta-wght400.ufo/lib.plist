@@ -4,6 +4,51 @@
 	<dict>
 		<key>com.typemytype.robofont.segmentType</key>
 		<string>qcurve</string>
+		<key>com.typesupply.metricsMachine4.groupColors</key>
+		<dict>
+			<key>public.kern1.quotes_curly_left</key>
+			<array>
+				<integer>1</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+				<real>0.25</real>
+			</array>
+			<key>public.kern1.quotes_curly_right</key>
+			<array>
+				<integer>1</integer>
+				<integer>0</integer>
+				<real>0.5</real>
+				<real>0.25</real>
+			</array>
+			<key>public.kern1.quotes_straight_left</key>
+			<array>
+				<real>0.5</real>
+				<integer>0</integer>
+				<integer>1</integer>
+				<real>0.25</real>
+			</array>
+			<key>public.kern2.quotes_curly_left</key>
+			<array>
+				<integer>0</integer>
+				<real>0.5</real>
+				<integer>1</integer>
+				<real>0.25</real>
+			</array>
+			<key>public.kern2.quotes_curly_right</key>
+			<array>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>1</integer>
+				<real>0.25</real>
+			</array>
+			<key>public.kern2.quotes_straight_right</key>
+			<array>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>0</integer>
+				<real>0.25</real>
+			</array>
+		</dict>
 		<key>public.glyphOrder</key>
 		<array>
 			<string>.null</string>

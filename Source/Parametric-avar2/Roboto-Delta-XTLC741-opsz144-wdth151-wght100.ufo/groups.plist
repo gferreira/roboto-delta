@@ -420,14 +420,7 @@
 		<key>public.kern1.minute</key>
 		<array>
 			<string>minute</string>
-			<string>quotedbl</string>
-			<string>quotedblleft</string>
-			<string>quotedblright</string>
-			<string>quoteleft</string>
-			<string>quoteright</string>
-			<string>quotesingle</string>
 			<string>second</string>
-			<string>apostrophemod</string>
 		</array>
 		<key>public.kern1.o_LC</key>
 		<array>
@@ -477,6 +470,21 @@
 		<array>
 			<string>percent</string>
 			<string>perthousand</string>
+		</array>
+		<key>public.kern1.quotes_curly_left</key>
+		<array>
+			<string>quotedblleft</string>
+			<string>quoteleft</string>
+		</array>
+		<key>public.kern1.quotes_curly_right</key>
+		<array>
+			<string>quotedblright</string>
+			<string>quoteright</string>
+		</array>
+		<key>public.kern1.quotes_straight_left</key>
+		<array>
+			<string>quotedbl</string>
+			<string>quotesingle</string>
 		</array>
 		<key>public.kern1.r_LC</key>
 		<array>
@@ -932,14 +940,7 @@
 		<key>public.kern2.minute</key>
 		<array>
 			<string>minute</string>
-			<string>quotedbl</string>
-			<string>quotedblleft</string>
-			<string>quotedblright</string>
-			<string>quoteleft</string>
-			<string>quoteright</string>
-			<string>quotesingle</string>
 			<string>second</string>
-			<string>apostrophemod</string>
 		</array>
 		<key>public.kern2.mnpr_LC</key>
 		<array>
@@ -1001,6 +1002,21 @@
 		<array>
 			<string>percent</string>
 			<string>perthousand</string>
+		</array>
+		<key>public.kern2.quotes_curly_left</key>
+		<array>
+			<string>quotedblright</string>
+			<string>quoteright</string>
+		</array>
+		<key>public.kern2.quotes_curly_right</key>
+		<array>
+			<string>quotedblleft</string>
+			<string>quoteleft</string>
+		</array>
+		<key>public.kern2.quotes_straight_right</key>
+		<array>
+			<string>quotedbl</string>
+			<string>quotesingle</string>
 		</array>
 		<key>public.kern2.s_LC</key>
 		<array>

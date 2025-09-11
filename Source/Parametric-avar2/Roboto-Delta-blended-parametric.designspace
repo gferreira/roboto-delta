@@ -5521,7 +5521,7 @@
         <dimension name="YOFI" xvalue="2"/>
         <dimension name="YOUC" xvalue="2"/>
         <dimension name="YOLC" xvalue="2"/>
-        <dimension name="BDSZ" xvalue="144"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="756"/>
         <!-- EXCEPTION ASCENDERS FOR LEGIBILITY -->
         <dimension name="YTDE" xvalue="-155"/>
@@ -5566,7 +5566,7 @@
         <dimension name="YOFI" xvalue="48"/>
         <dimension name="YOUC" xvalue="48"/>
         <dimension name="YOLC" xvalue="48"/>
-        <dimension name="BDSZ" xvalue="144"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-155"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -5610,7 +5610,7 @@
         <dimension name="YOFI" xvalue="200"/>
         <dimension name="YOUC" xvalue="200"/>
         <dimension name="YOLC" xvalue="200"/>
-        <dimension name="BDSZ" xvalue="144"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-155"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -5657,7 +5657,7 @@
         <dimension name="YOFI" xvalue="2"/>
         <dimension name="YOUC" xvalue="2"/>
         <dimension name="YOLC" xvalue="2"/>
-        <dimension name="BDSZ" xvalue="144"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="756"/>
         <!-- EXCEPTION ASCENDERS FOR LEGIBILITY -->
         <dimension name="YTDE" xvalue="-155"/>
@@ -5701,7 +5701,7 @@
         <dimension name="YOFI" xvalue="48"/>
         <dimension name="YOUC" xvalue="48"/>
         <dimension name="YOLC" xvalue="48"/>
-        <dimension name="BDSZ" xvalue="144"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-155"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -5744,7 +5744,7 @@
         <dimension name="YOFI" xvalue="200"/>
         <dimension name="YOUC" xvalue="200"/>
         <dimension name="YOLC" xvalue="200"/>
-        <dimension name="BDSZ" xvalue="144"/>
+        <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-155"/>
         <dimension name="YTFI" xvalue="743"/>
