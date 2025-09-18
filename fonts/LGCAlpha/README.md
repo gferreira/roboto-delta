@@ -3,14 +3,25 @@ LGCAlpha fonts
 
 ### Roboto-Delta-blended-parametric-VF.ttf
 
-- parametric axes
-- slant
-- spacing
-- width, weight, opsz, GRAD
+- Blended width, weight, opsz, GRAD
+- Slant axis via GSUB
+- Spacing axis
+- Blended XTRA, XOPQ, YOPQ
+- Full parametric axes
 
 ### Roboto-Delta-blended-parametric-no-slant-VF.ttf
 
-- parametric axes
-- spacing
-- width, weight, opsz, GRAD
-- For performance testing purposes 
+- Blended width, weight, opsz, GRAD
+- Spacing axis
+- Blended XTRA, XOPQ, YOPQ
+- Full parametric axes
+- (For performance testing purposes)
+
+### Roboto-Delta-blended-parametric-slant-VF.ttf
+
+- Blended width, weight, opsz, GRAD
+- Slanted outlines
+- Spacing axis
+- Blended XTRA, XOPQ, YOPQ
+- Full parametric axes
+- (For performance testing purposes)
