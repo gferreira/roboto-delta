@@ -25,3 +25,7 @@ LGCAlpha fonts
 - Blended XTRA, XOPQ, YOPQ
 - Full parametric axes
 - (For performance testing purposes)
+
+### instances
+
+- Full designspace static instances: opsz x wght x with x slnt
