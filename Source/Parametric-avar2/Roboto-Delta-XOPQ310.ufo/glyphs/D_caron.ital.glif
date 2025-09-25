@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Dcaron.ital" format="2">
-	<advance width="2244"/>
-	<outline>
-		<component base="Dcaron" yxScale="0.2125565617" xOffset="-154.7411768958"/>
-	</outline>
-</glyph>

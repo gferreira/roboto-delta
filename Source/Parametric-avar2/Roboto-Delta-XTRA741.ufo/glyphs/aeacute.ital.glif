@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="aeacute.ital" format="2">
-	<advance width="2844"/>
-	<outline>
-		<component base="aeacute" yxScale="0.2125565617" xOffset="-154.7411768958"/>
-	</outline>
-</glyph>

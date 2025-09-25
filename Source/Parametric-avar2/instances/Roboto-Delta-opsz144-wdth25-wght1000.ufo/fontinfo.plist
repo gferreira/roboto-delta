@@ -9,7 +9,7 @@
 		<key>descender</key>
 		<integer>-500</integer>
 		<key>familyName</key>
-		<string>Roboto-Delta-blended-SK</string>
+		<string>Roboto Delta</string>
 		<key>guidelines</key>
 		<array>
 		</array>
@@ -100,7 +100,7 @@
 		<key>postscriptWeightName</key>
 		<string>Normal</string>
 		<key>styleName</key>
-		<string>temp1</string>
+		<string>opsz144-wdth25-wght1000</string>
 		<key>unitsPerEm</key>
 		<integer>2048</integer>
 		<key>xHeight</key>
