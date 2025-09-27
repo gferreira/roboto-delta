@@ -20,15 +20,15 @@
 		<contour>
 			<point x="579" y="-23" type="qcurve" smooth="yes"/>
 			<point x="733" y="-23"/>
-			<point x="864" y="196"/>
+			<point x="864" y="188"/>
 			<point x="864" y="396" type="qcurve" smooth="yes"/>
-			<point x="864" y="553"/>
+			<point x="864" y="557"/>
 			<point x="728" y="745"/>
 			<point x="579" y="745" type="qcurve" smooth="yes"/>
 			<point x="444" y="745"/>
-			<point x="292" y="553"/>
+			<point x="292" y="557"/>
 			<point x="292" y="396" type="qcurve" smooth="yes"/>
-			<point x="292" y="196"/>
+			<point x="292" y="188"/>
 			<point x="424" y="-23"/>
 		</contour>
 		<contour>
@@ -48,7 +48,7 @@
 		<contour>
 			<point x="579" y="752" type="qcurve" smooth="yes"/>
 			<point x="734" y="752"/>
-			<point x="822" y="933"/>
+			<point x="822" y="927"/>
 			<point x="822" y="1077" type="qcurve" smooth="yes"/>
 			<point x="822" y="1267"/>
 			<point x="709" y="1479"/>
@@ -56,7 +56,7 @@
 			<point x="449" y="1479"/>
 			<point x="334" y="1267"/>
 			<point x="334" y="1077" type="qcurve" smooth="yes"/>
-			<point x="334" y="933"/>
+			<point x="334" y="927"/>
 			<point x="419" y="752"/>
 		</contour>
 	</outline>
