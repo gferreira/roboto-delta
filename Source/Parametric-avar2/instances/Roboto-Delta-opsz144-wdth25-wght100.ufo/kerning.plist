@@ -830,6 +830,21 @@
 			<key>quoteright</key>
 			<integer>0</integer>
 		</dict>
+		<key>eight.prop</key>
+		<dict>
+			<key>five.prop</key>
+			<integer>17</integer>
+			<key>four.prop</key>
+			<integer>11</integer>
+			<key>nine.prop</key>
+			<integer>10</integer>
+			<key>six.prop</key>
+			<integer>6</integer>
+			<key>three.prop</key>
+			<integer>20</integer>
+			<key>two.prop</key>
+			<integer>15</integer>
+		</dict>
 		<key>ellipsis</key>
 		<dict>
 			<key>j</key>
@@ -873,6 +888,46 @@
 			<integer>5</integer>
 			<key>public.kern2.Y_UC</key>
 			<integer>-10</integer>
+		</dict>
+		<key>five.prop</key>
+		<dict>
+			<key>eight.prop</key>
+			<integer>10</integer>
+			<key>five.prop</key>
+			<integer>25</integer>
+			<key>four.prop</key>
+			<integer>20</integer>
+			<key>nine.prop</key>
+			<integer>20</integer>
+			<key>seven.prop</key>
+			<integer>10</integer>
+			<key>six.prop</key>
+			<integer>17</integer>
+			<key>three.prop</key>
+			<integer>30</integer>
+			<key>two.prop</key>
+			<integer>30</integer>
+			<key>zero.prop</key>
+			<integer>9</integer>
+		</dict>
+		<key>four.prop</key>
+		<dict>
+			<key>eight.prop</key>
+			<integer>5</integer>
+			<key>five.prop</key>
+			<integer>20</integer>
+			<key>four.prop</key>
+			<integer>10</integer>
+			<key>nine.prop</key>
+			<integer>-10</integer>
+			<key>seven.prop</key>
+			<integer>-10</integer>
+			<key>six.prop</key>
+			<integer>13</integer>
+			<key>three.prop</key>
+			<integer>20</integer>
+			<key>two.prop</key>
+			<integer>20</integer>
 		</dict>
 		<key>g</key>
 		<dict>
@@ -954,10 +1009,46 @@
 			<key>quoteright</key>
 			<integer>0</integer>
 		</dict>
+		<key>nine.prop</key>
+		<dict>
+			<key>eight.prop</key>
+			<integer>10</integer>
+			<key>five.prop</key>
+			<integer>30</integer>
+			<key>four.prop</key>
+			<integer>28</integer>
+			<key>nine.prop</key>
+			<integer>20</integer>
+			<key>seven.prop</key>
+			<integer>10</integer>
+			<key>six.prop</key>
+			<integer>16</integer>
+			<key>three.prop</key>
+			<integer>30</integer>
+			<key>two.prop</key>
+			<integer>32</integer>
+			<key>zero.prop</key>
+			<integer>7</integer>
+		</dict>
 		<key>ntilde</key>
 		<dict>
 			<key>quoteright</key>
 			<integer>0</integer>
+		</dict>
+		<key>one.prop</key>
+		<dict>
+			<key>five.prop</key>
+			<integer>14</integer>
+			<key>four.prop</key>
+			<integer>10</integer>
+			<key>nine.prop</key>
+			<integer>8</integer>
+			<key>six.prop</key>
+			<integer>6</integer>
+			<key>three.prop</key>
+			<integer>20</integer>
+			<key>two.prop</key>
+			<integer>20</integer>
 		</dict>
 		<key>period</key>
 		<dict>
@@ -2814,6 +2905,36 @@
 			<key>public.kern2.minute</key>
 			<integer>0</integer>
 		</dict>
+		<key>seven.prop</key>
+		<dict>
+			<key>four.prop</key>
+			<integer>-10</integer>
+			<key>nine.prop</key>
+			<integer>10</integer>
+			<key>three.prop</key>
+			<integer>10</integer>
+			<key>two.prop</key>
+			<integer>15</integer>
+		</dict>
+		<key>six.prop</key>
+		<dict>
+			<key>eight.prop</key>
+			<integer>9</integer>
+			<key>five.prop</key>
+			<integer>27</integer>
+			<key>four.prop</key>
+			<integer>21</integer>
+			<key>nine.prop</key>
+			<integer>16</integer>
+			<key>six.prop</key>
+			<integer>16</integer>
+			<key>three.prop</key>
+			<integer>31</integer>
+			<key>two.prop</key>
+			<integer>34</integer>
+			<key>zero.prop</key>
+			<integer>10</integer>
+		</dict>
 		<key>slash</key>
 		<dict>
 			<key>Eth</key>
@@ -2882,6 +3003,44 @@
 			<key>public.kern2.T_UC</key>
 			<integer>0</integer>
 		</dict>
+		<key>three.prop</key>
+		<dict>
+			<key>five.prop</key>
+			<integer>15</integer>
+			<key>four.prop</key>
+			<integer>20</integer>
+			<key>nine.prop</key>
+			<integer>10</integer>
+			<key>six.prop</key>
+			<integer>7</integer>
+			<key>three.prop</key>
+			<integer>21</integer>
+			<key>two.prop</key>
+			<integer>22</integer>
+		</dict>
+		<key>two.prop</key>
+		<dict>
+			<key>eight.prop</key>
+			<integer>1</integer>
+			<key>five.prop</key>
+			<integer>25</integer>
+			<key>four.prop</key>
+			<integer>20</integer>
+			<key>nine.prop</key>
+			<integer>18</integer>
+			<key>one.prop</key>
+			<integer>10</integer>
+			<key>seven.prop</key>
+			<integer>10</integer>
+			<key>six.prop</key>
+			<integer>15</integer>
+			<key>three.prop</key>
+			<integer>24</integer>
+			<key>two.prop</key>
+			<integer>32</integer>
+			<key>zero.prop</key>
+			<integer>6</integer>
+		</dict>
 		<key>x</key>
 		<dict>
 			<key>ampersand</key>
@@ -2922,6 +3081,21 @@
 			<integer>50</integer>
 			<key>x</key>
 			<integer>0</integer>
+		</dict>
+		<key>zero.prop</key>
+		<dict>
+			<key>five.prop</key>
+			<integer>15</integer>
+			<key>four.prop</key>
+			<integer>15</integer>
+			<key>nine.prop</key>
+			<integer>10</integer>
+			<key>six.prop</key>
+			<integer>8</integer>
+			<key>three.prop</key>
+			<integer>22</integer>
+			<key>two.prop</key>
+			<integer>24</integer>
 		</dict>
 	</dict>
 </plist>
