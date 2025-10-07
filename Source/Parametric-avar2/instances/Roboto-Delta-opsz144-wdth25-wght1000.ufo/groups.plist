@@ -30,6 +30,9 @@
 			<string>Abrevetilde</string>
 			<string>Abrevedotbelow</string>
 		</array>
+		<key>public.kern1.B_UC</key>
+		<array>
+		</array>
 		<key>public.kern1.C_UC</key>
 		<array>
 			<string>C</string>
@@ -106,6 +109,9 @@
 			<string>Gcommaaccent</string>
 			<string>Gdotaccent</string>
 		</array>
+		<key>public.kern1.Gamma_UC</key>
+		<array>
+		</array>
 		<key>public.kern1.JU_UC</key>
 		<array>
 			<string>J</string>
@@ -143,6 +149,12 @@
 			<string>Lcommaaccent</string>
 			<string>Ldot</string>
 		</array>
+		<key>public.kern1.Lamda_UC</key>
+		<array>
+		</array>
+		<key>public.kern1.LeftDescenderCyr_UC</key>
+		<array>
+		</array>
 		<key>public.kern1.LeftStraight_UC</key>
 		<array>
 			<string>H</string>
@@ -177,6 +189,15 @@
 			<string>Ohornhookabove</string>
 			<string>Ohorntilde</string>
 		</array>
+		<key>public.kern1.Omega_UC</key>
+		<array>
+		</array>
+		<key>public.kern1.P_UC</key>
+		<array>
+		</array>
+		<key>public.kern1.Phi_UC</key>
+		<array>
+		</array>
 		<key>public.kern1.R_UC</key>
 		<array>
 			<string>R</string>
@@ -195,6 +216,9 @@
 			<string>Scircumflex</string>
 			<string>Scommaaccent</string>
 		</array>
+		<key>public.kern1.Soft_UC</key>
+		<array>
+		</array>
 		<key>public.kern1.T_UC</key>
 		<array>
 			<string>T</string>
@@ -202,6 +226,9 @@
 			<string>Tcaron</string>
 			<string>Tcedilla</string>
 			<string>Tcommaaccent</string>
+		</array>
+		<key>public.kern1.Ucyr_UC</key>
+		<array>
 		</array>
 		<key>public.kern1.Uhorn_UC</key>
 		<array>
@@ -219,6 +246,9 @@
 			<string>Wcircumflex</string>
 			<string>Wdieresis</string>
 			<string>Wgrave</string>
+		</array>
+		<key>public.kern1.X_UC</key>
+		<array>
 		</array>
 		<key>public.kern1.Y_UC</key>
 		<array>
@@ -239,6 +269,12 @@
 			<string>Zcaron</string>
 			<string>Zdotaccent</string>
 			<string>DZcaron</string>
+		</array>
+		<key>public.kern1.Ze_UC</key>
+		<array>
+		</array>
+		<key>public.kern1.Zhe_UC</key>
+		<array>
 		</array>
 		<key>public.kern1.a_LC</key>
 		<array>
@@ -267,6 +303,9 @@
 			<string>abrevehookabove</string>
 			<string>abrevetilde</string>
 			<string>abrevedotbelow</string>
+		</array>
+		<key>public.kern1.alpha_LC</key>
+		<array>
 		</array>
 		<key>public.kern1.b_LC</key>
 		<array>
@@ -340,6 +379,9 @@
 			<string>hyphen</string>
 			<string>softhyphen</string>
 		</array>
+		<key>public.kern1.epsilon_LC</key>
+		<array>
+		</array>
 		<key>public.kern1.f_LC</key>
 		<array>
 			<string>f</string>
@@ -357,6 +399,9 @@
 			<string>ycircumflex</string>
 			<string>ydieresis</string>
 			<string>ygrave</string>
+		</array>
+		<key>public.kern1.ghe_LC</key>
+		<array>
 		</array>
 		<key>public.kern1.guillemotleft</key>
 		<array>
@@ -390,6 +435,12 @@
 			<string>idotaccent</string>
 			<string>iogonek</string>
 		</array>
+		<key>public.kern1.i_accents_LC</key>
+		<array>
+		</array>
+		<key>public.kern1.iota_LC</key>
+		<array>
+		</array>
 		<key>public.kern1.j_LC</key>
 		<array>
 			<string>f_f_ij</string>
@@ -416,6 +467,12 @@
 			<string>l</string>
 			<string>lacute</string>
 			<string>lcommaaccent</string>
+		</array>
+		<key>public.kern1.leftDescenderCyr_LC</key>
+		<array>
+		</array>
+		<key>public.kern1.leftStraight_LC</key>
+		<array>
 		</array>
 		<key>public.kern1.minute</key>
 		<array>
@@ -458,6 +515,9 @@
 			<string>ohorngrave</string>
 			<string>ohornhookabove</string>
 			<string>ohorntilde</string>
+		</array>
+		<key>public.kern1.omega_LC</key>
+		<array>
 		</array>
 		<key>public.kern1.parens</key>
 		<array>
@@ -504,11 +564,17 @@
 			<string>scircumflex</string>
 			<string>scommaaccent</string>
 		</array>
+		<key>public.kern1.soft_LC</key>
+		<array>
+		</array>
 		<key>public.kern1.t_LC</key>
 		<array>
 			<string>t</string>
 			<string>tcedilla</string>
 			<string>tcommaaccent</string>
+		</array>
+		<key>public.kern1.te_LC</key>
+		<array>
 		</array>
 		<key>public.kern1.u_LC</key>
 		<array>
@@ -538,6 +604,9 @@
 			<string>uhornhookabove</string>
 			<string>uhorntilde</string>
 		</array>
+		<key>public.kern1.upsilon_LC</key>
+		<array>
+		</array>
 		<key>public.kern1.w_LC</key>
 		<array>
 			<string>w</string>
@@ -545,6 +614,9 @@
 			<string>wcircumflex</string>
 			<string>wdieresis</string>
 			<string>wgrave</string>
+		</array>
+		<key>public.kern1.x_LC</key>
+		<array>
 		</array>
 		<key>public.kern1.z_LC</key>
 		<array>
@@ -554,6 +626,12 @@
 			<string>zdotaccent</string>
 			<string>Dzcaron</string>
 			<string>dzcaron</string>
+		</array>
+		<key>public.kern1.ze_LC</key>
+		<array>
+		</array>
+		<key>public.kern1.zhe_LC</key>
+		<array>
 		</array>
 		<key>public.kern2.AE_UC</key>
 		<array>
@@ -635,10 +713,34 @@
 			<string>Ohorndotbelow</string>
 			<string>Gcaron</string>
 		</array>
+		<key>public.kern2.Che_UC</key>
+		<array>
+		</array>
+		<key>public.kern2.Dje_UC</key>
+		<array>
+		</array>
+		<key>public.kern2.El_UC</key>
+		<array>
+		</array>
 		<key>public.kern2.J_UC</key>
 		<array>
 			<string>J</string>
 			<string>Jcircumflex</string>
+		</array>
+		<key>public.kern2.Lamda_UC</key>
+		<array>
+		</array>
+		<key>public.kern2.Omega_UC</key>
+		<array>
+		</array>
+		<key>public.kern2.Phi_UC</key>
+		<array>
+		</array>
+		<key>public.kern2.RightDescenderCyr_UC</key>
+		<array>
+		</array>
+		<key>public.kern2.RightStraight_UC</key>
+		<array>
 		</array>
 		<key>public.kern2.S_UC</key>
 		<array>
@@ -649,78 +751,8 @@
 			<string>Scircumflex</string>
 			<string>Scommaaccent</string>
 		</array>
-		<key>public.kern2.StraightRight_UC</key>
+		<key>public.kern2.Schwa_UC</key>
 		<array>
-			<string>B</string>
-			<string>D</string>
-			<string>Dcaron</string>
-			<string>E</string>
-			<string>Eacute</string>
-			<string>Ebreve</string>
-			<string>Ecaron</string>
-			<string>Ecircumflex</string>
-			<string>Ecircumflexacute</string>
-			<string>Ecircumflexdotbelow</string>
-			<string>Ecircumflexgrave</string>
-			<string>Ecircumflexhookabove</string>
-			<string>Ecircumflextilde</string>
-			<string>Edblgrave</string>
-			<string>Edieresis</string>
-			<string>Edotaccent</string>
-			<string>Edotbelow</string>
-			<string>Egrave</string>
-			<string>Ehookabove</string>
-			<string>Einvertedbreve</string>
-			<string>Emacron</string>
-			<string>Eogonek</string>
-			<string>Etilde</string>
-			<string>F</string>
-			<string>H</string>
-			<string>Hcircumflex</string>
-			<string>I</string>
-			<string>Iacute</string>
-			<string>Ibreve</string>
-			<string>Icircumflex</string>
-			<string>Idblgrave</string>
-			<string>Idieresis</string>
-			<string>Idotaccent</string>
-			<string>Idotbelow</string>
-			<string>Igrave</string>
-			<string>Ihookabove</string>
-			<string>Iinvertedbreve</string>
-			<string>Imacron</string>
-			<string>Iogonek</string>
-			<string>Itilde</string>
-			<string>K</string>
-			<string>Kcommaaccent</string>
-			<string>L</string>
-			<string>Lacute</string>
-			<string>Lcaron</string>
-			<string>Lcommaaccent</string>
-			<string>M</string>
-			<string>N</string>
-			<string>Nacute</string>
-			<string>Ncaron</string>
-			<string>Ncommaaccent</string>
-			<string>Ntilde</string>
-			<string>P</string>
-			<string>R</string>
-			<string>Racute</string>
-			<string>Rcaron</string>
-			<string>Rcommaaccent</string>
-			<string>Rdblgrave</string>
-			<string>Rinvertedbreve</string>
-			<string>Thorn</string>
-			<string>IJ</string>
-			<string>Ldot</string>
-			<string>Eng</string>
-			<string>LJ</string>
-			<string>NJ</string>
-			<string>DZcaron</string>
-			<string>Dzcaron</string>
-			<string>Lj</string>
-			<string>Nj</string>
-			<string>IJacute</string>
 		</array>
 		<key>public.kern2.T_UC</key>
 		<array>
@@ -753,6 +785,9 @@
 			<string>Uhorntilde</string>
 			<string>Uinvertedbreve</string>
 		</array>
+		<key>public.kern2.Ucyr_UC</key>
+		<array>
+		</array>
 		<key>public.kern2.W_UC</key>
 		<array>
 			<string>W</string>
@@ -760,6 +795,9 @@
 			<string>Wcircumflex</string>
 			<string>Wdieresis</string>
 			<string>Wgrave</string>
+		</array>
+		<key>public.kern2.X_UC</key>
+		<array>
 		</array>
 		<key>public.kern2.Y_UC</key>
 		<array>
@@ -773,12 +811,21 @@
 			<string>Ytilde</string>
 			<string>Ymacron</string>
 		</array>
+		<key>public.kern2.Ya_UC</key>
+		<array>
+		</array>
 		<key>public.kern2.Z_UC</key>
 		<array>
 			<string>Z</string>
 			<string>Zacute</string>
 			<string>Zcaron</string>
 			<string>Zdotaccent</string>
+		</array>
+		<key>public.kern2.Ze_UC</key>
+		<array>
+		</array>
+		<key>public.kern2.Zhe_UC</key>
+		<array>
 		</array>
 		<key>public.kern2.a_LC</key>
 		<array>
@@ -810,50 +857,8 @@
 			<string>ae</string>
 			<string>aeacute</string>
 		</array>
-		<key>public.kern2.alpha</key>
+		<key>public.kern2.alpha_LC</key>
 		<array>
-			<string>c</string>
-			<string>cacute</string>
-			<string>ccaron</string>
-			<string>ccedilla</string>
-			<string>ccircumflex</string>
-			<string>d</string>
-			<string>dcaron</string>
-			<string>e</string>
-			<string>eacute</string>
-			<string>ebreve</string>
-			<string>ecaron</string>
-			<string>ecircumflex</string>
-			<string>edieresis</string>
-			<string>edotaccent</string>
-			<string>egrave</string>
-			<string>emacron</string>
-			<string>eogonek</string>
-			<string>g</string>
-			<string>gbreve</string>
-			<string>gcaron</string>
-			<string>gcircumflex</string>
-			<string>gcommaaccent</string>
-			<string>oe</string>
-			<string>ohorn</string>
-			<string>q</string>
-			<string>cdotaccent</string>
-			<string>gdotaccent</string>
-			<string>dzcaron</string>
-			<string>edblgrave</string>
-			<string>einvertedbreve</string>
-			<string>edotbelow</string>
-			<string>ehookabove</string>
-			<string>etilde</string>
-			<string>ecircumflexacute</string>
-			<string>ecircumflexgrave</string>
-			<string>ecircumflexhookabove</string>
-			<string>ecircumflextilde</string>
-			<string>ecircumflexdotbelow</string>
-			<string>ohornacute</string>
-			<string>ohorngrave</string>
-			<string>ohornhookabove</string>
-			<string>ohorndotbelow</string>
 		</array>
 		<key>public.kern2.bhk_LC</key>
 		<array>
@@ -868,6 +873,9 @@
 			<string>lcommaaccent</string>
 			<string>ldot</string>
 			<string>lj</string>
+		</array>
+		<key>public.kern2.che_LC</key>
+		<array>
 		</array>
 		<key>public.kern2.colon</key>
 		<array>
@@ -887,6 +895,12 @@
 			<string>copyright</string>
 			<string>registered</string>
 		</array>
+		<key>public.kern2.de_LC</key>
+		<array>
+		</array>
+		<key>public.kern2.el_LC</key>
+		<array>
+		</array>
 		<key>public.kern2.emdash</key>
 		<array>
 			<string>emdash</string>
@@ -894,6 +908,9 @@
 			<string>hyphen</string>
 			<string>softhyphen</string>
 			<string>horizontalbar</string>
+		</array>
+		<key>public.kern2.epsilon_LC</key>
+		<array>
 		</array>
 		<key>public.kern2.f_LC</key>
 		<array>
@@ -936,6 +953,15 @@
 			<string>ij</string>
 			<string>i</string>
 			<string>iogonek</string>
+		</array>
+		<key>public.kern2.i_accents_LC</key>
+		<array>
+		</array>
+		<key>public.kern2.iota_LC</key>
+		<array>
+		</array>
+		<key>public.kern2.j_LC</key>
+		<array>
 		</array>
 		<key>public.kern2.minute</key>
 		<array>
@@ -991,6 +1017,9 @@
 			<string>oslash</string>
 			<string>oslashacute</string>
 		</array>
+		<key>public.kern2.omega_LC</key>
+		<array>
+		</array>
 		<key>public.kern2.parens</key>
 		<array>
 			<string>braceright</string>
@@ -1018,6 +1047,9 @@
 			<string>quotedbl</string>
 			<string>quotesingle</string>
 		</array>
+		<key>public.kern2.rightStraight_LC</key>
+		<array>
+		</array>
 		<key>public.kern2.s_LC</key>
 		<array>
 			<string>s</string>
@@ -1027,12 +1059,18 @@
 			<string>scircumflex</string>
 			<string>scommaaccent</string>
 		</array>
+		<key>public.kern2.schwa_LC</key>
+		<array>
+		</array>
 		<key>public.kern2.t_LC</key>
 		<array>
 			<string>t</string>
 			<string>tcaron</string>
 			<string>tcedilla</string>
 			<string>tcommaaccent</string>
+		</array>
+		<key>public.kern2.te_LC</key>
+		<array>
 		</array>
 		<key>public.kern2.u_LC</key>
 		<array>
@@ -1058,6 +1096,9 @@
 			<string>uring</string>
 			<string>utilde</string>
 		</array>
+		<key>public.kern2.upsilon_LC</key>
+		<array>
+		</array>
 		<key>public.kern2.w_LC</key>
 		<array>
 			<string>w</string>
@@ -1066,12 +1107,24 @@
 			<string>wdieresis</string>
 			<string>wgrave</string>
 		</array>
+		<key>public.kern2.x_LC</key>
+		<array>
+		</array>
+		<key>public.kern2.ya_LC</key>
+		<array>
+		</array>
 		<key>public.kern2.z_LC</key>
 		<array>
 			<string>z</string>
 			<string>zacute</string>
 			<string>zcaron</string>
 			<string>zdotaccent</string>
+		</array>
+		<key>public.kern2.ze_LC</key>
+		<array>
+		</array>
+		<key>public.kern2.zhe_LC</key>
+		<array>
 		</array>
 	</dict>
 </plist>
