@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Yeru" format="2">
 	<unicode hex="042B"/>
-	<advance width="1187"/>
+	<advance width="1203"/>
 	<outline>
 		<component base="Soft"/>
-		<component base="I" xOffset="830"/>
+		<component base="I" xOffset="846"/>
 	</outline>
 </glyph>
