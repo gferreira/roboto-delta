@@ -4,7 +4,7 @@
 	<advance width="688"/>
 	<outline>
 		<component base="h"/>
-		<component base="horizontalbarlc" xOffset="57" yOffset="494"/>
+		<component base="horizontalbarlc" xOffset="27" yOffset="494"/>
 		<component base="engtail" xOffset="30"/>
 	</outline>
 </glyph>

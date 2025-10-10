@@ -4,5 +4,7 @@
 	<dict>
 		<key>cy-descendercomb</key>
 		<string>cy-descendercomb.glif</string>
+		<key>em</key>
+		<string>em.glif</string>
 	</dict>
 </plist>
