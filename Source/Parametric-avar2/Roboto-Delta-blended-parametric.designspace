@@ -5721,7 +5721,7 @@
       </location>
     </source>
     
-    <source filename="instances/Roboto-Delta-opsz144-wdth25-wght100.ufo" familyname="Roboto Delta" stylename="opsz144-wdth25-wght100" layer="foreground">
+    <source filename="instances/Roboto-Delta-opsz144-wdth25-wght100.ufo" familyname="Roboto Delta" stylename="opsz144-wdth25-wght100">
       <kerning copy="1"/>
       <location>
         <dimension name="opsz" xvalue="1"/>
