@@ -503,11 +503,25 @@
 				<integer>1</integer>
 				<real>0.25</real>
 			</array>
+			<key>public.kern2.Ecyr_UC</key>
+			<array>
+				<integer>0</integer>
+				<real>0.5</real>
+				<integer>1</integer>
+				<real>0.25</real>
+			</array>
 			<key>public.kern2.El_UC</key>
 			<array>
 				<integer>1</integer>
 				<integer>0</integer>
 				<real>0.5</real>
+				<real>0.25</real>
+			</array>
+			<key>public.kern2.Hard_UC</key>
+			<array>
+				<integer>1</integer>
+				<integer>0</integer>
+				<integer>1</integer>
 				<real>0.25</real>
 			</array>
 			<key>public.kern2.J_UC</key>
@@ -529,6 +543,13 @@
 				<integer>0</integer>
 				<integer>1</integer>
 				<integer>0</integer>
+				<real>0.25</real>
+			</array>
+			<key>public.kern2.P_UC</key>
+			<array>
+				<real>0.5</real>
+				<integer>0</integer>
+				<integer>1</integer>
 				<real>0.25</real>
 			</array>
 			<key>public.kern2.Phi_UC</key>
@@ -671,6 +692,13 @@
 				<integer>1</integer>
 				<real>0.25</real>
 			</array>
+			<key>public.kern2.ecyr_LC</key>
+			<array>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+				<real>0.25</real>
+			</array>
 			<key>public.kern2.el_LC</key>
 			<array>
 				<integer>1</integer>
@@ -698,6 +726,13 @@
 				<real>0.76</real>
 				<real>0.73</real>
 				<integer>1</integer>
+			</array>
+			<key>public.kern2.hard_LC</key>
+			<array>
+				<integer>1</integer>
+				<integer>0</integer>
+				<real>0.5</real>
+				<real>0.25</real>
 			</array>
 			<key>public.kern2.i_LC</key>
 			<array>

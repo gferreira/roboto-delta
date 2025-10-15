@@ -91,13 +91,13 @@
 			<string>Theta</string>
 			<string>Yu</string>
 			<string>Yumacron</string>
-			<string>Ebrevecyr</string>
-			<string>Emacroncyr</string>
 			<string>Obrevecyr</string>
 			<string>Omacroncyr</string>
 			<string>Obarcyr</string>
 			<string>Schwacyr</string>
+			<string>Ebrevecyr</string>
 			<string>Ecyr</string>
+			<string>Emacroncyr</string>
 		</array>
 		<key>public.kern1.E_UC</key>
 		<array>
@@ -586,7 +586,6 @@
 			<string>idotbelow</string>
 			<string>f_f_i</string>
 			<string>fi</string>
-			<string>idotaccent</string>
 			<string>iogonek</string>
 		</array>
 		<key>public.kern1.i_accents_LC</key>
@@ -602,6 +601,8 @@
 			<string>itilde</string>
 			<string>iukran</string>
 			<string>yi</string>
+			<string>ihookabove</string>
+			<string>idotaccent</string>
 		</array>
 		<key>public.kern1.iota_LC</key>
 		<array>
@@ -995,17 +996,28 @@
 			<string>Dje</string>
 			<string>Tshe</string>
 		</array>
+		<key>public.kern2.Ecyr_UC</key>
+		<array>
+			<string>Ebrevecyr</string>
+			<string>Ecyr</string>
+			<string>Emacroncyr</string>
+		</array>
 		<key>public.kern2.El_UC</key>
 		<array>
 			<string>El</string>
 			<string>Lje</string>
 		</array>
+		<key>public.kern2.Hard_UC</key>
+		<array>
+			<string>Hard</string>
+			<string>Kabashkircyr</string>
+		</array>
 		<key>public.kern2.J_UC</key>
 		<array>
 			<string>J</string>
 			<string>Jcircumflex</string>
-			<string>Je</string>
 			<string>Jacute.loclNLD</string>
+			<string>Je</string>
 		</array>
 		<key>public.kern2.Lamda_UC</key>
 		<array>
@@ -1017,6 +1029,9 @@
 			<string>Omega</string>
 			<string>Omegatonos</string>
 			<string>ohm</string>
+		</array>
+		<key>public.kern2.P_UC</key>
+		<array>
 		</array>
 		<key>public.kern2.Phi_UC</key>
 		<array>
@@ -1113,7 +1128,6 @@
 			<string>Em</string>
 			<string>En</string>
 			<string>Endescender</string>
-			<string>Er</string>
 			<string>Ghe</string>
 			<string>Gheup</string>
 			<string>Gje</string>
@@ -1146,6 +1160,8 @@
 			<string>Nje</string>
 			<string>Kaisymbol</string>
 			<string>Ve</string>
+			<string>Er</string>
+			<string>Ghestroke</string>
 		</array>
 		<key>public.kern2.S_UC</key>
 		<array>
@@ -1416,6 +1432,12 @@
 			<string>de</string>
 			<string>de.locl</string>
 		</array>
+		<key>public.kern2.ecyr_LC</key>
+		<array>
+			<string>ebrevecyr</string>
+			<string>ecyr</string>
+			<string>emacroncyr</string>
+		</array>
 		<key>public.kern2.el_LC</key>
 		<array>
 			<string>el</string>
@@ -1476,6 +1498,11 @@
 		<array>
 			<string>guillemotright</string>
 			<string>guilsinglright</string>
+		</array>
+		<key>public.kern2.hard_LC</key>
+		<array>
+			<string>hard</string>
+			<string>kabashkircyr</string>
 		</array>
 		<key>public.kern2.i_LC</key>
 		<array>
@@ -1571,6 +1598,7 @@
 			<string>ohorntilde</string>
 			<string>oslash</string>
 			<string>oslashacute</string>
+			<string>be.locl</string>
 		</array>
 		<key>public.kern2.omega_LC</key>
 		<array>
