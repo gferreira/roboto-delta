@@ -4,6 +4,6 @@
 	<advance width="661"/>
 	<outline>
 		<component base="Ya"/>
-		<component base="macroncomb.case" xOffset="326"/>
+		<component base="macroncomb.case" xOffset="296"/>
 	</outline>
 </glyph>
