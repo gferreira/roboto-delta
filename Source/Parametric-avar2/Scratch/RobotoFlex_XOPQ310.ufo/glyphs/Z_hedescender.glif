@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Zhedescender" format="2">
-  <advance width="3046"/>
-  <unicode hex="0496"/>
-  <outline>
-    <component base="Zhe"/>
-    <component base="Cy-descenderH" xOffset="2788"/>
-  </outline>
-</glyph>

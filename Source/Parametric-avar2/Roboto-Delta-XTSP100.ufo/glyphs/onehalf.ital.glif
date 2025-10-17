@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="onehalf.ital" format="2">
-	<advance width="1776"/>
-	<outline>
-		<component base="onehalf" yxScale="0.2125565617" xOffset="-154.7411768958"/>
-	</outline>
-</glyph>

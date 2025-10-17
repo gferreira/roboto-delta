@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zhe" format="2">
+	<unicode hex="0416"/>
+	<advance width="1850"/>
+	<outline>
+		<contour>
+			<point x="671.2588231042" y="0" type="line"/>
+			<point x="980.7411768958" y="1456" type="line"/>
+			<point x="1168.7411768958" y="1456" type="line"/>
+			<point x="859.2588231042" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="1457.2588231042" y="0" type="line"/>
+			<point x="1076.55067874" y="740" type="line"/>
+			<point x="1256.1928733587" y="823" type="line"/>
+			<point x="1685.2588231042" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="941.6807692903" y="830" type="line"/>
+			<point x="1143.6807692903" y="830" type="line"/>
+			<point x="1733.7411768958" y="1456" type="line"/>
+			<point x="1950.7411768958" y="1456" type="line"/>
+			<point x="1194.3093891081" y="673" type="line"/>
+			<point x="908.3093891081" y="673" type="line"/>
+		</contour>
+		<contour>
+			<point x="-144.7411768958" y="0" type="line"/>
+			<point x="634.1928733587" y="823" type="line"/>
+			<point x="770.55067874" y="740" type="line"/>
+			<point x="75.2588231042" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="941.6807692903" y="830" type="line"/>
+			<point x="908.3093891081" y="673" type="line"/>
+			<point x="619.3093891081" y="673" type="line"/>
+			<point x="196.7411768958" y="1456" type="line"/>
+			<point x="415.7411768958" y="1456" type="line"/>
+			<point x="739.6807692903" y="830" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="top" x="1075.7411768958" y="1456"/>
+	<anchor name="cy_descender" x="1459.2588231042" y="0"/>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kaverticalstrokecyr" format="2">
+	<unicode hex="049C"/>
+	<advance width="2254"/>
+	<outline>
+		<contour>
+			<point x="15.2588231042" y="0" type="line"/>
+			<point x="324.7411768958" y="1456" type="line"/>
+			<point x="944.7411768958" y="1456" type="line"/>
+			<point x="635.2588231042" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="1490.2588231042" y="0" type="line"/>
+			<point x="1010.3381221784" y="739" type="line"/>
+			<point x="1600.4969457989" y="895" type="line"/>
+			<point x="2119.2588231042" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="1086.6807692903" y="830" type="line"/>
+			<point x="1376.6807692903" y="830" type="line"/>
+			<point x="1994.7411768958" y="1456" type="line"/>
+			<point x="2204.7411768958" y="1456" type="line"/>
+			<point x="1421.0968325465" y="672" type="line"/>
+			<point x="1053.0968325465" y="672" type="line"/>
+		</contour>
+		<contour>
+			<point x="889.0257916052" y="300" type="line"/>
+			<point x="1070.9742083948" y="1156" type="line"/>
+			<point x="1240.9742083948" y="1156" type="line"/>
+			<point x="1059.0257916052" y="300" type="line"/>
+		</contour>
+	</outline>
+	<guideline x="625.7345022315" y="675" angle="102" identifier="5CJVZV5P4J"/>
+	<guideline x="625.7345022315" y="675" angle="102" identifier="FjEJQ31Atd"/>
+</glyph>

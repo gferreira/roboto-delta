@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="q" format="2">
+	<unicode hex="0071"/>
+	<advance width="1170"/>
+	<outline>
+		<contour>
+			<point x="592.8352934495" y="-416" type="line"/>
+			<point x="898.2790725693" y="1021" type="line"/>
+			<point x="908.2790725693" y="1021" type="line"/>
+			<point x="947.5248871348" y="1168" type="line"/>
+			<point x="1115.5248871348" y="1168" type="line"/>
+			<point x="778.8352934495" y="-416" type="line"/>
+		</contour>
+		<contour>
+			<point x="438.3162892447" y="132" type="qcurve" smooth="yes"/>
+			<point x="595.3162892447" y="132"/>
+			<point x="803.9675337305" y="375"/>
+			<point x="843.9281673244" y="563" type="qcurve" smooth="yes"/>
+			<point x="849.8797510512" y="591" type="line" smooth="yes"/>
+			<point x="891.5408371385" y="787"/>
+			<point x="788.317647241" y="1040"/>
+			<point x="631.317647241" y="1040" type="qcurve" smooth="yes"/>
+			<point x="484.317647241" y="1040"/>
+			<point x="288.8161765086" y="793"/>
+			<point x="248.2178732296" y="602" type="qcurve" smooth="yes"/>
+			<point x="241.4160632561" y="570" type="line" smooth="yes"/>
+			<point x="200.8177599772" y="379"/>
+			<point x="291.3162892447" y="132"/>
+		</contour>
+		<contour>
+			<point x="366.0076918708" y="-20" type="qcurve" smooth="yes"/>
+			<point x="154.0076918708" y="-20"/>
+			<point x="-3.2109730931" y="313"/>
+			<point x="51.4160632561" y="570" type="qcurve" smooth="yes"/>
+			<point x="58.2178732296" y="602" type="line" smooth="yes"/>
+			<point x="112.8449095788" y="859"/>
+			<point x="411.6262446149" y="1192"/>
+			<point x="623.6262446149" y="1192" type="qcurve" smooth="yes"/>
+			<point x="827.6262446149" y="1192"/>
+			<point x="972.5695702088" y="853"/>
+			<point x="916.8797510512" y="591" type="qcurve" smooth="yes"/>
+			<point x="911.3532804478" y="565" type="line" smooth="yes"/>
+			<point x="857.1513572219" y="310"/>
+			<point x="570.0076918708" y="-20"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="430.2588231042" y="0"/>
+	<anchor name="top" x="678.5248871348" y="1168"/>
+</glyph>

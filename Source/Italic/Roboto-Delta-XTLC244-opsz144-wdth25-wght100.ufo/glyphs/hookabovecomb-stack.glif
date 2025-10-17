@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hookabovecomb-stack" format="2">
+	<outline>
+		<contour>
+			<point x="21.8244346414" y="1160" type="line"/>
+			<point x="30.5392536699" y="1201" type="line" smooth="yes"/>
+			<point x="41.5921948768" y="1253"/>
+			<point x="99.707918892" y="1310"/>
+			<point x="161.4711541937" y="1323" type="qcurve"/>
+			<point x="164.7464935637" y="1329"/>
+			<point x="177.2101813588" y="1350"/>
+			<point x="179.9734166605" y="1363" type="qcurve" smooth="yes"/>
+			<point x="186.3501135106" y="1393"/>
+			<point x="175.0505660039" y="1401"/>
+			<point x="159.0505660039" y="1401" type="qcurve" smooth="yes"/>
+			<point x="112.0505660039" y="1401"/>
+			<point x="51.1859732221" y="1364"/>
+			<point x="47.4855207288" y="1356" type="qcurve"/>
+			<point x="22.2676474992" y="1482" type="line"/>
+			<point x="44.4559959242" y="1497"/>
+			<point x="156.0210411994" y="1542"/>
+			<point x="220.0210411994" y="1542" type="qcurve" smooth="yes"/>
+			<point x="293.0210411994" y="1542"/>
+			<point x="358.2532809641" y="1449"/>
+			<point x="341.6738691538" y="1371" type="qcurve" smooth="yes"/>
+			<point x="326.3697967136" y="1299"/>
+			<point x="250.8145930399" y="1207"/>
+			<point x="150.9015839849" y="1198" type="qcurve"/>
+			<point x="142.8244346414" y="1160" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="68.8683259811" y="1052"/>
+	<anchor name="top" x="171.958258391" y="1537"/>
+	<anchor name="_topright" x="68.8683259811" y="1052"/>
+</glyph>

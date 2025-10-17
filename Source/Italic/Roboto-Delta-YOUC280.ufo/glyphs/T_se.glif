@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tse" format="2">
+	<advance width="1478"/>
+	<outline>
+		<contour>
+			<point x="1063.6174202199" y="-290" type="line"/>
+			<point x="1125.2588231042" y="0" type="line"/>
+			<point x="15.2588231042" y="0" type="line"/>
+			<point x="324.7411768958" y="1456" type="line"/>
+			<point x="516.7411768958" y="1456" type="line"/>
+			<point x="326.2904976394" y="560" type="line"/>
+			<point x="1040.2904976394" y="560" type="line"/>
+			<point x="1230.7411768958" y="1456" type="line"/>
+			<point x="1422.7411768958" y="1456" type="line"/>
+			<point x="1207.8464930474" y="445" type="line"/>
+			<point x="1387.8464930474" y="445" type="line"/>
+			<point x="1231.6174202199" y="-290" type="line"/>
+		</contour>
+	</outline>
+</glyph>

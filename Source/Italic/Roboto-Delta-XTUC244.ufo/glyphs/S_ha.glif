@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sha" format="2">
+	<unicode hex="0428"/>
+	<advance width="976"/>
+	<outline>
+		<contour>
+			<point x="324.7411768958" y="1456" type="line"/>
+			<point x="516.7411768958" y="1456" type="line"/>
+			<point x="240.8427598481" y="158" type="line"/>
+			<point x="270.8427598481" y="158" type="line"/>
+			<point x="546.7411768958" y="1456" type="line"/>
+			<point x="738.7411768958" y="1456" type="line"/>
+			<point x="462.8427598481" y="158" type="line"/>
+			<point x="492.8427598481" y="158" type="line"/>
+			<point x="768.7411768958" y="1456" type="line"/>
+			<point x="960.7411768958" y="1456" type="line"/>
+			<point x="651.2588231042" y="0" type="line"/>
+			<point x="15.2588231042" y="0" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="cy_descender" x="559.2588231042" y="0"/>
+</glyph>

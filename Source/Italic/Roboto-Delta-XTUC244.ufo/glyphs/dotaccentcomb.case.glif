@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccentcomb.case" format="2">
+	<outline>
+		<contour>
+			<point x="51.6004530097" y="1620" type="qcurve" smooth="yes"/>
+			<point x="63.5036204632" y="1676"/>
+			<point x="150.8704757118" y="1753"/>
+			<point x="217.8704757118" y="1753" type="qcurve" smooth="yes"/>
+			<point x="284.8704757118" y="1753"/>
+			<point x="339.5036204632" y="1676"/>
+			<point x="327.6004530097" y="1620" type="qcurve" smooth="yes"/>
+			<point x="315.9098421178" y="1565"/>
+			<point x="228.5429868692" y="1488"/>
+			<point x="161.5429868692" y="1488" type="qcurve" smooth="yes"/>
+			<point x="94.5429868692" y="1488"/>
+			<point x="39.9098421178" y="1565"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="154.7411768958" y="1456"/>
+	<anchor name="top" x="217.8704757118" y="1753"/>
+</glyph>

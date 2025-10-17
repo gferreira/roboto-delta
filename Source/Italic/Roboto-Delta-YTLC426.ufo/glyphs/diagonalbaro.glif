@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="diagonalbaro" format="2">
+	<advance width="512"/>
+	<outline>
+		<contour>
+			<point x="-202.3160637724" y="2" type="line"/>
+			<point x="-74.3168555067" y="209" type="line"/>
+			<point x="-57.3796383151" y="204" type="line"/>
+			<point x="188.6429863529" y="604" type="line"/>
+			<point x="272.764027036" y="534" type="line"/>
+			<point x="53.4562213965" y="175" type="line"/>
+			<point x="72.6059951498" y="171" type="line"/>
+			<point x="-38.3788465808" y="-3" type="line"/>
+		</contour>
+		<contour>
+			<point x="449.4190047211" y="1064" type="line"/>
+			<point x="619.7813350361" y="1061" type="line"/>
+			<point x="500.7579186338" y="868" type="line"/>
+			<point x="480.8207014422" y="873" type="line"/>
+			<point x="272.764027036" y="534" type="line"/>
+			<point x="188.6429863529" y="604" type="line"/>
+			<point x="370.7722851689" y="901" type="line"/>
+			<point x="352.0476245389" y="907" type="line"/>
+		</contour>
+	</outline>
+</glyph>

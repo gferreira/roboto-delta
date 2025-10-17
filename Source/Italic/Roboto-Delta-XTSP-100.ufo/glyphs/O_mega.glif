@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omega" format="2">
+	<unicode hex="03A9"/>
+	<advance width="1268"/>
+	<outline>
+		<contour>
+			<point x="-144.7411768958" y="0" type="line"/>
+			<point x="-110.9446835902" y="159" type="line"/>
+			<point x="221.0553164098" y="159" type="line"/>
+			<point x="252.9388006603" y="309" type="line"/>
+			<point x="110.1173074838" y="371"/>
+			<point x="-11.6807692903" y="626"/>
+			<point x="32.7435520987" y="835" type="qcurve"/>
+			<point x="44.6467195522" y="891" type="line"/>
+			<point x="104.1625568198" y="1171"/>
+			<point x="511.1178737459" y="1486"/>
+			<point x="795.1178737459" y="1486" type="qcurve"/>
+			<point x="1079.1178737459" y="1486"/>
+			<point x="1352.1625568198" y="1171"/>
+			<point x="1292.6467195522" y="891" type="qcurve"/>
+			<point x="1280.7435520987" y="835" type="line"/>
+			<point x="1236.3192307097" y="626"/>
+			<point x="1006.1173074838" y="371"/>
+			<point x="836.9388006603" y="309" type="qcurve"/>
+			<point x="805.0553164098" y="159" type="line"/>
+			<point x="1137.0553164098" y="159" type="line"/>
+			<point x="1103.2588231042" y="0" type="line"/>
+			<point x="599.2588231042" y="0" type="line"/>
+			<point x="692.146040554" y="437" type="line"/>
+			<point x="857.7352939658" y="468"/>
+			<point x="1054.6475112865" y="684"/>
+			<point x="1086.7435520987" y="835" type="qcurve"/>
+			<point x="1098.6467195522" y="891" type="line"/>
+			<point x="1142.0082581329" y="1095"/>
+			<point x="961.258597632" y="1322"/>
+			<point x="760.258597632" y="1322" type="qcurve"/>
+			<point x="559.258597632" y="1322"/>
+			<point x="282.0082581329" y="1095"/>
+			<point x="238.6467195522" y="891" type="qcurve"/>
+			<point x="226.7435520987" y="835" type="line"/>
+			<point x="194.6475112865" y="684"/>
+			<point x="299.7352939658" y="468"/>
+			<point x="452.146040554" y="437" type="qcurve"/>
+			<point x="359.2588231042" y="0" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="tonos" x="53.5445703378" y="1074"/>
+</glyph>

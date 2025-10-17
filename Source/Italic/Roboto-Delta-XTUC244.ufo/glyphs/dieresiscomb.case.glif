@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb.case" format="2">
+	<outline>
+		<contour>
+			<point x="-18.1537324248" y="1767" type="qcurve" smooth="yes"/>
+			<point x="-6.463121533" y="1822"/>
+			<point x="66.0777156055" y="1881"/>
+			<point x="122.0777156055" y="1881" type="qcurve" smooth="yes"/>
+			<point x="175.0777156055" y="1881"/>
+			<point x="224.6866522203" y="1818"/>
+			<point x="213.8462675752" y="1767" type="qcurve" smooth="yes"/>
+			<point x="202.368213245" y="1713"/>
+			<point x="130.8273761064" y="1654"/>
+			<point x="73.8273761064" y="1654" type="qcurve" smooth="yes"/>
+			<point x="20.8273761064" y="1654"/>
+			<point x="-28.99411707" y="1716"/>
+		</contour>
+		<contour>
+			<point x="226.8462675752" y="1767" type="qcurve" smooth="yes"/>
+			<point x="238.536878467" y="1822"/>
+			<point x="311.0777156055" y="1881"/>
+			<point x="367.0777156055" y="1881" type="qcurve" smooth="yes"/>
+			<point x="420.0777156055" y="1881"/>
+			<point x="469.6866522203" y="1818"/>
+			<point x="458.8462675752" y="1767" type="qcurve" smooth="yes"/>
+			<point x="447.368213245" y="1713"/>
+			<point x="375.8273761064" y="1654"/>
+			<point x="318.8273761064" y="1654" type="qcurve" smooth="yes"/>
+			<point x="265.8273761064" y="1654"/>
+			<point x="216.00588293" y="1716"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="154.7411768958" y="1456"/>
+	<anchor name="top" x="238.7010187554" y="1851"/>
+</glyph>
