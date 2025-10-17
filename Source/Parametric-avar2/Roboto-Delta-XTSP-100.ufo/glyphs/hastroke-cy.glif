@@ -4,6 +4,6 @@
 	<advance width="938"/>
 	<outline>
 		<component base="x"/>
-		<component base="hacyr-stroke"/>
+		<component base="hacyr-stroke" xOffset="20"/>
 	</outline>
 </glyph>

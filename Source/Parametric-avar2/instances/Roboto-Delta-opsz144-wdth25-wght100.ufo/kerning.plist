@@ -1211,8 +1211,6 @@
 			<integer>10</integer>
 			<key>ohornhookabove</key>
 			<integer>10</integer>
-			<key>public.kern2.RightDescenderCyr_UC</key>
-			<integer>-30</integer>
 			<key>public.kern2.S_UC</key>
 			<integer>5</integer>
 			<key>public.kern2.Ucyr_UC</key>
@@ -1439,8 +1437,6 @@
 		</dict>
 		<key>public.kern1.LeftDescenderCyr_UC</key>
 		<dict>
-			<key>public.kern2.CG_UC</key>
-			<integer>-30</integer>
 			<key>public.kern2.Che_UC</key>
 			<integer>-30</integer>
 			<key>public.kern2.Ecyr_UC</key>
