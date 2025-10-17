@@ -18,9 +18,7 @@ do
 				
 				declare DIR_NAME='fonts/LGCAlpha/statics/'$fontPosture'-GRAD'$fontGrade'-opsz'$fontOpticalSize'-wdth'$fontWidth
 				
-				# Check if the directory exists
 				if [ -d $DIR_NAME ]; then
-					# If it exists, remove it and its contents recursively and forcefully
 					rm -r $DIR_NAME
 				fi
 				
