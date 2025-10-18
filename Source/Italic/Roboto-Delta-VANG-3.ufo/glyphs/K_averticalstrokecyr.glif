@@ -4,31 +4,31 @@
 	<advance width="1476"/>
 	<outline>
 		<contour>
-			<point x="208" y="0" type="line"/>
-			<point x="131.6942733639" y="1456" type="line"/>
-			<point x="323.6942733639" y="1456" type="line"/>
-			<point x="400" y="0" type="line"/>
+			<point x="53.2588231042" y="0" type="line"/>
+			<point x="286.4354502597" y="1456" type="line"/>
+			<point x="478.4354502597" y="1456" type="line"/>
+			<point x="245.2588231042" y="0" type="line"/>
 		</contour>
 		<contour>
-			<point x="1305" y="0" type="line"/>
-			<point x="688.2182433305" y="740" type="line"/>
-			<point x="843.8683976501" y="823" type="line"/>
-			<point x="1534" y="0" type="line"/>
+			<point x="1150.2588231042" y="0" type="line"/>
+			<point x="690.7689220705" y="740" type="line"/>
+			<point x="864.0612710088" y="823" type="line"/>
+			<point x="1379.2588231042" y="0" type="line"/>
 		</contour>
 		<contour>
-			<point x="631.5015431951" y="830" type="line"/>
-			<point x="741.5015431951" y="830" type="line"/>
-			<point x="1203.6942733639" y="1456" type="line"/>
-			<point x="1413.6942733639" y="1456" type="line"/>
-			<point x="827.7819723218" y="672" type="line"/>
-			<point x="639.7819723218" y="672" type="line"/>
+			<point x="653.1823124854" y="830" type="line"/>
+			<point x="763.1823124854" y="830" type="line"/>
+			<point x="1358.4354502597" y="1456" type="line"/>
+			<point x="1568.4354502597" y="1456" type="line"/>
+			<point x="815.8788048683" y="672" type="line"/>
+			<point x="627.8788048683" y="672" type="line"/>
 		</contour>
 		<contour>
-			<point x="574.2776662151" y="300" type="line"/>
-			<point x="529.4166071488" y="1156" type="line"/>
-			<point x="699.4166071488" y="1156" type="line"/>
-			<point x="744.2776662151" y="300" type="line"/>
+			<point x="483.3034578203" y="300" type="line"/>
+			<point x="620.3908155436" y="1156" type="line"/>
+			<point x="790.3908155436" y="1156" type="line"/>
+			<point x="653.3034578203" y="300" type="line"/>
 		</contour>
 	</outline>
-	<guideline x="639.6247489839" y="675" angle="86" identifier="5CJVZV5P4J"/>
+	<guideline x="628.3592512154" y="675" angle="98.1173338545" identifier="5CJVZV5P4J"/>
 </glyph>

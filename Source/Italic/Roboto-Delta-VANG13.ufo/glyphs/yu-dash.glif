@@ -3,12 +3,12 @@
 	<advance width="396"/>
 	<outline>
 		<contour>
-			<point x="-60.6462911266" y="465" type="line"/>
-			<point x="-27.1704034134" y="610" type="line"/>
-			<point x="368.8295965866" y="610" type="line"/>
-			<point x="335.3537088734" y="465" type="line"/>
+			<point x="-116.5486668458" y="465" type="line"/>
+			<point x="-52.2520776905" y="610" type="line"/>
+			<point x="343.7479223095" y="610" type="line"/>
+			<point x="279.4513331542" y="465" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="_yu_dash" x="-44.2546495567" y="536"/>
-	<anchor name="yu_dash" x="351.7453504433" y="536"/>
+	<anchor name="_yu_dash" x="-85.0655093973" y="536"/>
+	<anchor name="yu_dash" x="310.9344906027" y="536"/>
 </glyph>

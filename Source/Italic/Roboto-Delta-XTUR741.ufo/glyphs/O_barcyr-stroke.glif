@@ -3,12 +3,12 @@
 	<advance width="2360"/>
 	<outline>
 		<contour>
-			<point x="212" y="830" type="line"/>
-			<point x="2148" y="830" type="line"/>
-			<point x="2148" y="672" type="line"/>
-			<point x="212" y="672" type="line"/>
+			<point x="233.6807692903" y="830" type="line"/>
+			<point x="2169.6807692903" y="830" type="line"/>
+			<point x="2136.0968325465" y="672" type="line"/>
+			<point x="200.0968325465" y="672" type="line"/>
 		</contour>
 	</outline>
-	<guideline x="212" y="786" angle="90" identifier="UtNSclIhRG"/>
-	<guideline x="1248" y="730" angle="90" identifier="hwb5F7EShy"/>
+	<guideline x="224.3282805769" y="786" angle="102" identifier="UtNSclIhRG"/>
+	<guideline x="1248.4251131233" y="730" angle="102" identifier="hwb5F7EShy"/>
 </glyph>

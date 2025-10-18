@@ -4,17 +4,17 @@
 	<advance width="906"/>
 	<outline>
 		<contour>
-			<point x="71.3974493509" y="907" type="line"/>
-			<point x="104.8733370641" y="1052" type="line"/>
-			<point x="950.8733370641" y="1052" type="line"/>
-			<point x="917.3974493509" y="907" type="line"/>
+			<point x="109.4450738898" y="907" type="line"/>
+			<point x="173.7416630452" y="1052" type="line"/>
+			<point x="1019.7416630452" y="1052" type="line"/>
+			<point x="955.4450738898" y="907" type="line"/>
 		</contour>
 		<contour>
-			<point x="192" y="0" type="line"/>
-			<point x="417.5582227297" y="977" type="line"/>
-			<point x="603.5582227297" y="977" type="line"/>
-			<point x="378" y="0" type="line"/>
+			<point x="37.2588231042" y="0" type="line"/>
+			<point x="470.4848065855" y="977" type="line"/>
+			<point x="656.4848065855" y="977" type="line"/>
+			<point x="223.2588231042" y="0" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="cy_descender" x="287" y="0"/>
+	<anchor name="cy_descender" x="132.2588231042" y="0"/>
 </glyph>

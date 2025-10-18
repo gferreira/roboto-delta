@@ -4,26 +4,26 @@
 	<advance width="1448"/>
 	<outline>
 		<contour>
-			<point x="300.6942733639" y="1456" type="line"/>
-			<point x="1239.6942733639" y="1456" type="line"/>
-			<point x="1316" y="0" type="line"/>
-			<point x="1124" y="0" type="line"/>
-			<point x="1055.9747024906" y="1298" type="line"/>
-			<point x="479.9747024906" y="1298" type="line"/>
-			<point x="477.5949836286" y="542" type="line" smooth="yes"/>
-			<point x="476.478792945" y="258"/>
-			<point x="352.5722333785" y="-30"/>
-			<point x="158.5722333785" y="-30" type="qcurve" smooth="yes"/>
-			<point x="134.5722333785" y="-30"/>
-			<point x="78.2053789235" y="-23"/>
-			<point x="48.6813011307" y="-13" type="qcurve"/>
-			<point x="40.0864253283" y="151" type="line"/>
-			<point x="64.5056875625" y="143"/>
-			<point x="104.7677264589" y="138"/>
-			<point x="125.7677264589" y="138" type="qcurve" smooth="yes"/>
-			<point x="227.7677264589" y="138"/>
-			<point x="297.3909861609" y="336"/>
-			<point x="297.8655269123" y="575" type="qcurve" smooth="yes"/>
+			<point x="455.4354502597" y="1456" type="line"/>
+			<point x="1394.4354502597" y="1456" type="line"/>
+			<point x="1161.2588231042" y="0" type="line"/>
+			<point x="969.2588231042" y="0" type="line"/>
+			<point x="1177.1319426425" y="1298" type="line"/>
+			<point x="601.1319426425" y="1298" type="line"/>
+			<point x="438.059463158" y="542" type="line" smooth="yes"/>
+			<point x="376.5772089601" y="258"/>
+			<point x="191.4543596326" y="-30"/>
+			<point x="-2.5456403674" y="-30" type="qcurve" smooth="yes"/>
+			<point x="-26.5456403674" y="-30"/>
+			<point x="-81.4245988907" y="-23"/>
+			<point x="-108.8231110668" y="-13" type="qcurve"/>
+			<point x="-82.5587107553" y="151" type="line"/>
+			<point x="-59.8399010145" y="143"/>
+			<point x="-20.6406449264" y="138"/>
+			<point x="0.3593550736" y="138" type="qcurve" smooth="yes"/>
+			<point x="102.3593550736" y="138"/>
+			<point x="214.0688139863" y="336"/>
+			<point x="265.3443729768" y="575" type="qcurve" smooth="yes"/>
 		</contour>
 	</outline>
 </glyph>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Dje" format="2">
 	<unicode hex="0402"/>
-	<advance width="643"/>
+	<advance width="646"/>
 	<outline>
 		<contour>
 			<point x="-30.7411768958" y="0" type="line"/>
