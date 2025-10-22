@@ -11,7 +11,7 @@
 		<key>descender</key>
 		<integer>-500</integer>
 		<key>familyName</key>
-		<string>Roboto Delta</string>
+		<string>Roboto Delta Italic</string>
 		<key>guidelines</key>
 		<array>
 		</array>
@@ -208,7 +208,7 @@
 		<key>styleMapStyleName</key>
 		<string>regular</string>
 		<key>styleName</key>
-		<string>Regular</string>
+		<string>Italic</string>
 		<key>trademark</key>
 		<string>Roboto is a trademark of Google.</string>
 		<key>unitsPerEm</key>

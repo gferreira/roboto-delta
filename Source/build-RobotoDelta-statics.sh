@@ -31,6 +31,7 @@ do
 					FILENAME=RobotoDelta-$fontPosture'-GRAD'$fontGrade-opsz$fontOpticalSize-wdth$fontWidth-wght$fontWeight
 					FULL_PATH=$PATH_INSTANCES/$PATH_GRADE
 					LOCATION=$fontPosture'-GRAD'$fontGrade'-opsz'$fontOpticalSize'-wdth'$fontWidth'-wght'$fontWeight
+					LOCATION_WP='GRAD'$fontGrade'-opsz'$fontOpticalSize'-wdth'$fontWidth'-wght'$fontWeight
 					
 					if [ $fontPosture == 'Roman' ]; then
 						fonttools varLib.instancer fonts/LGCAlpha/RobotoDelta-Roman-VF.ttf opsz=$fontOpticalSize wght=$fontWeight wdth=$fontWidth -o $FULL_PATH/$FILENAME.ttf --static
@@ -41,10 +42,14 @@ do
 					ttx -t name $FULL_PATH/$FILENAME.ttf
 					
 					# Update nameIDs
-					python tools/make_instances/updateNameIDs.py -l $LOCATION -p $FULL_PATH/$FILENAME.ttx -o $FULL_PATH/$FILENAME'-output'.ttx
-					
+					if [ $fontPosture == 'Roman' ]; then
+						python tools/make_instances/updateNameIDs.py -l $LOCATION_WP -p $fontPosture -t $FULL_PATH/$FILENAME.ttx -o $FULL_PATH/$FILENAME'-output'.ttx
+					else
+						python tools/make_instances/updateNameIDs.py -l $LOCATION_WP -p $fontPosture -t $FULL_PATH/$FILENAME.ttx -o $FULL_PATH/$FILENAME'-output'.ttx
+					fi
 					#merge with new nameIDs
 					ttx -m $FULL_PATH/$FILENAME.ttf $FULL_PATH/$FILENAME'-output'.ttx
+					echo 'ttx -m '$FULL_PATH/$FILENAME.ttf' '$FULL_PATH/$FILENAME'-output.ttx'
 					
 					#rename output
 					rm $FULL_PATH/$FILENAME.ttf
