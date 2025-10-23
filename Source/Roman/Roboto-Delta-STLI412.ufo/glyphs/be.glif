@@ -7,17 +7,17 @@
 			<point x="285" y="522" type="qcurve" smooth="yes"/>
 			<point x="285" y="490" type="line" smooth="yes"/>
 			<point x="285" y="168"/>
-			<point x="420" y="122"/>
+			<point x="430" y="122"/>
 			<point x="591" y="122" type="qcurve" smooth="yes"/>
-			<point x="763" y="122"/>
+			<point x="749" y="122"/>
 			<point x="897" y="171"/>
 			<point x="897" y="490" type="qcurve" smooth="yes"/>
 			<point x="897" y="522" type="line" smooth="yes"/>
-			<point x="897" y="843"/>
-			<point x="763" y="890"/>
+			<point x="897" y="847"/>
+			<point x="749" y="890"/>
 			<point x="591" y="890" type="qcurve" smooth="yes"/>
-			<point x="415" y="890"/>
-			<point x="285" y="677"/>
+			<point x="433" y="890"/>
+			<point x="285" y="758"/>
 		</contour>
 		<contour>
 			<point x="637" y="1042" type="qcurve" smooth="yes"/>
