@@ -2,33 +2,33 @@
 <glyph name="yi-dieresiscomb" format="2">
 	<outline>
 		<contour>
-			<point x="-360" y="1421" type="qcurve" smooth="yes"/>
-			<point x="-360" y="1491"/>
-			<point x="-274" y="1588"/>
-			<point x="-191" y="1588" type="qcurve" smooth="yes"/>
-			<point x="-107" y="1588"/>
-			<point x="-19" y="1491"/>
-			<point x="-19" y="1421" type="qcurve" smooth="yes"/>
-			<point x="-19" y="1354"/>
-			<point x="-107" y="1259"/>
-			<point x="-191" y="1259" type="qcurve" smooth="yes"/>
-			<point x="-274" y="1259"/>
-			<point x="-360" y="1354"/>
+			<point x="-212.6983027627" y="1421" type="qcurve" smooth="yes"/>
+			<point x="-197.8193434458" y="1491"/>
+			<point x="-91.2013569638" y="1588"/>
+			<point x="-8.2013569638" y="1588" type="qcurve" smooth="yes"/>
+			<point x="75.7986430362" y="1588"/>
+			<point x="143.1806565542" y="1491"/>
+			<point x="128.3016972373" y="1421" type="qcurve" smooth="yes"/>
+			<point x="114.0604076054" y="1354"/>
+			<point x="5.8675342468" y="1259"/>
+			<point x="-78.1324657532" y="1259" type="qcurve" smooth="yes"/>
+			<point x="-161.1324657532" y="1259"/>
+			<point x="-226.9395923946" y="1354"/>
 		</contour>
 		<contour>
-			<point x="19" y="1421" type="qcurve" smooth="yes"/>
-			<point x="19" y="1491"/>
-			<point x="105" y="1588"/>
-			<point x="190" y="1588" type="qcurve" smooth="yes"/>
-			<point x="273" y="1588"/>
-			<point x="360" y="1491"/>
-			<point x="360" y="1421" type="qcurve" smooth="yes"/>
-			<point x="360" y="1354"/>
-			<point x="273" y="1259"/>
-			<point x="190" y="1259" type="qcurve" smooth="yes"/>
-			<point x="105" y="1259"/>
-			<point x="19" y="1354"/>
+			<point x="166.3016972373" y="1421" type="qcurve" smooth="yes"/>
+			<point x="181.1806565542" y="1491"/>
+			<point x="287.7986430362" y="1588"/>
+			<point x="372.7986430362" y="1588" type="qcurve" smooth="yes"/>
+			<point x="455.7986430362" y="1588"/>
+			<point x="522.1806565542" y="1491"/>
+			<point x="507.3016972373" y="1421" type="qcurve" smooth="yes"/>
+			<point x="493.0604076054" y="1354"/>
+			<point x="385.8675342468" y="1259"/>
+			<point x="302.8675342468" y="1259" type="qcurve" smooth="yes"/>
+			<point x="217.8675342468" y="1259"/>
+			<point x="152.0604076054" y="1354"/>
 		</contour>
 	</outline>
-	<anchor name="_top" x="0" y="1052"/>
+	<anchor name="_top" x="68.8683259811" y="1052"/>
 </glyph>

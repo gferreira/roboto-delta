@@ -7,6 +7,14 @@ declare -a opticalsize=('8' '14' '144')
 declare -a grade=('0')
 declare -a posture=('Roman' 'Italic')
 
+declare STATICS_DIR='fonts/LGCAlpha/statics/'
+
+if [ -d $STATICS_DIR ]; then
+	rm -r $STATICS_DIR
+fi
+
+mkdir $STATICS_DIR
+
 for fontGrade in ${grade[@]}
 do
 	for fontPosture in ${posture[@]}

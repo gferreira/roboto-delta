@@ -4,6 +4,6 @@
 	<advance width="750"/>
 	<outline>
 		<component base="idotless"/>
-		<component base="Yi-dieresiscomb.case" xOffset="375" yOffset="-404"/>
+		<component base="yi-dieresiscomb" xOffset="375"/>
 	</outline>
 </glyph>
