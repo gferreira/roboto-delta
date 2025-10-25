@@ -99,6 +99,11 @@
 			<string>Ecyr</string>
 			<string>Emacroncyr</string>
 		</array>
+		<key>public.kern1.Delta_UC</key>
+		<array>
+			<string>Delta</string>
+			<string>increment</string>
+		</array>
 		<key>public.kern1.E_UC</key>
 		<array>
 			<string>E</string>
@@ -322,6 +327,12 @@
 			<string>Tau</string>
 			<string>Te</string>
 			<string>Tedescender-cy</string>
+		</array>
+		<key>public.kern1.TsheCur_UC</key>
+		<array>
+			<string>Dje</string>
+			<string>Shha</string>
+			<string>Tshe</string>
 		</array>
 		<key>public.kern1.Ucyr_UC</key>
 		<array>
@@ -991,6 +1002,11 @@
 			<string>Cheverticalstroke-cy</string>
 			<string>Che</string>
 		</array>
+		<key>public.kern2.Delta_UC</key>
+		<array>
+			<string>Delta</string>
+			<string>increment</string>
+		</array>
 		<key>public.kern2.Dje_UC</key>
 		<array>
 			<string>Dje</string>
@@ -1027,7 +1043,6 @@
 		<key>public.kern2.Omega_UC</key>
 		<array>
 			<string>Omega</string>
-			<string>Omegatonos</string>
 			<string>ohm</string>
 		</array>
 		<key>public.kern2.P_UC</key>
@@ -1189,6 +1204,15 @@
 			<string>Tedescender-cy</string>
 			<string>Tbar</string>
 		</array>
+		<key>public.kern2.Tonos_UC</key>
+		<array>
+			<string>Epsilontonos</string>
+			<string>Etatonos</string>
+			<string>Iotatonos</string>
+			<string>Omicrontonos</string>
+			<string>Upsilontonos</string>
+			<string>Omegatonos</string>
+		</array>
 		<key>public.kern2.U_UC</key>
 		<array>
 			<string>U</string>
@@ -1235,6 +1259,7 @@
 			<string>Hastroke-cy</string>
 			<string>X</string>
 			<string>Hadescender</string>
+			<string>Chi</string>
 		</array>
 		<key>public.kern2.Y_UC</key>
 		<array>
