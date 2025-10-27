@@ -4,49 +4,49 @@
 	<advance width="1570"/>
 	<outline>
 		<contour>
-			<point x="521.5722333785" y="-30" type="qcurve" smooth="yes"/>
-			<point x="338.5722333785" y="-30"/>
-			<point x="121.522696337" y="219"/>
-			<point x="108.2111203991" y="473" type="qcurve"/>
-			<point x="97.9916034389" y="668"/>
-			<point x="192.4789007711" y="964"/>
-			<point x="276.8670161942" y="1052" type="qcurve"/>
-			<point x="465.8670161942" y="1052" type="line"/>
-			<point x="367.7890952532" y="939"/>
-			<point x="289.7210601553" y="635"/>
-			<point x="298.3159359577" y="471" type="qcurve"/>
-			<point x="307.8541517872" y="289"/>
-			<point x="414.3966198103" y="126"/>
-			<point x="513.3966198103" y="126" type="qcurve" smooth="yes"/>
-			<point x="623.3966198103" y="126"/>
-			<point x="714.4872973322" y="296"/>
-			<point x="708.6176260525" y="408" type="qcurve" smooth="yes"/>
-			<point x="692.1615833576" y="722" type="line"/>
-			<point x="878.1615833576" y="722" type="line"/>
-			<point x="894.6176260525" y="408" type="line" smooth="yes"/>
-			<point x="900.4872973322" y="296"/>
-			<point x="1008.3966198103" y="126"/>
-			<point x="1119.3966198103" y="126" type="qcurve" smooth="yes"/>
-			<point x="1218.3966198103" y="126"/>
-			<point x="1307.8541517872" y="289"/>
-			<point x="1298.3159359577" y="471" type="qcurve"/>
-			<point x="1289.7210601553" y="635"/>
-			<point x="1178.7890952532" y="939"/>
-			<point x="1068.8670161942" y="1052" type="qcurve"/>
-			<point x="1258.8670161942" y="1052" type="line"/>
-			<point x="1352.4789007711" y="964"/>
-			<point x="1477.9916034389" y="668"/>
-			<point x="1488.2111203991" y="473" type="qcurve"/>
-			<point x="1501.522696337" y="219"/>
-			<point x="1310.5722333785" y="-30"/>
-			<point x="1127.5722333785" y="-30" type="qcurve" smooth="yes"/>
-			<point x="1017.5722333785" y="-30"/>
-			<point x="850.5977465402" y="84"/>
-			<point x="802.889550792" y="212" type="qcurve"/>
-			<point x="820.889550792" y="212" type="line"/>
-			<point x="786.5977465402" y="84"/>
-			<point x="631.5722333785" y="-30"/>
+			<point x="360.4543596326" y="-30" type="qcurve" smooth="yes"/>
+			<point x="177.4543596326" y="-30"/>
+			<point x="13.331406447" y="219"/>
+			<point x="54.0091971732" y="473" type="qcurve"/>
+			<point x="85.2382097387" y="668"/>
+			<point x="242.6422493252" y="964"/>
+			<point x="345.7353421753" y="1052" type="qcurve"/>
+			<point x="534.7353421753" y="1052" type="line"/>
+			<point x="412.6385297656" y="939"/>
+			<point x="269.95329992" y="635"/>
+			<point x="243.6888996085" y="471" type="qcurve"/>
+			<point x="214.5418212141" y="289"/>
+			<point x="286.4375696849" y="126"/>
+			<point x="385.4375696849" y="126" type="qcurve" smooth="yes"/>
+			<point x="495.4375696849" y="126"/>
+			<point x="622.6628626908" y="296"/>
+			<point x="640.5995263181" y="408" type="qcurve" smooth="yes"/>
+			<point x="690.8862439876" y="722" type="line"/>
+			<point x="876.8862439876" y="722" type="line"/>
+			<point x="826.5995263181" y="408" type="line" smooth="yes"/>
+			<point x="808.6628626908" y="296"/>
+			<point x="880.4375696849" y="126"/>
+			<point x="991.4375696849" y="126" type="qcurve" smooth="yes"/>
+			<point x="1090.4375696849" y="126"/>
+			<point x="1214.5418212141" y="289"/>
+			<point x="1243.6888996085" y="471" type="qcurve"/>
+			<point x="1269.95329992" y="635"/>
+			<point x="1223.6385297656" y="939"/>
+			<point x="1137.7353421753" y="1052" type="qcurve"/>
+			<point x="1327.7353421753" y="1052" type="line"/>
+			<point x="1402.6422493252" y="964"/>
+			<point x="1465.2382097387" y="668"/>
+			<point x="1434.0091971732" y="473" type="qcurve"/>
+			<point x="1393.331406447" y="219"/>
+			<point x="1149.4543596326" y="-30"/>
+			<point x="966.4543596326" y="-30" type="qcurve" smooth="yes"/>
+			<point x="856.4543596326" y="-30"/>
+			<point x="713.7113208247" y="84"/>
+			<point x="693.2103649703" y="212" type="qcurve"/>
+			<point x="711.2103649703" y="212" type="line"/>
+			<point x="649.7113208247" y="84"/>
+			<point x="470.4543596326" y="-30"/>
 		</contour>
 	</outline>
-	<anchor name="top" x="768.8670161942" y="1052"/>
+	<anchor name="top" x="837.7353421753" y="1052"/>
 </glyph>

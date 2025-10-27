@@ -7,4 +7,10 @@
 		<component base="horncomb.case" xOffset="835"/>
 		<component base="gravecomb.case" xOffset="497" yOffset="1"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,1,1,0</string>
+		</dict>
+	</lib>
 </glyph>

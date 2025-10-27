@@ -6,4 +6,10 @@
 		<component base="I" xOffset="245"/>
 		<component base="tonoscomb.case" xOffset="137" yOffset="22"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,1,1,0</string>
+		</dict>
+	</lib>
 </glyph>

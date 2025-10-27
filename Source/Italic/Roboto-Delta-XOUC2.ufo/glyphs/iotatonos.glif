@@ -6,4 +6,10 @@
 		<component base="iota"/>
 		<component base="tonoscomb" xOffset="235"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,1,1,0</string>
+		</dict>
+	</lib>
 </glyph>

@@ -21,4 +21,10 @@
 		</contour>
 	</outline>
 	<guideline x="1094" y="773" angle="90" identifier="xShtOjvBze"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,1,1,0</string>
+		</dict>
+	</lib>
 </glyph>

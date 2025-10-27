@@ -13,4 +13,10 @@
 	</outline>
 	<anchor name="_top" x="0" y="1536"/>
 	<anchor name="top" x="0" y="1875"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,1,1,0</string>
+		</dict>
+	</lib>
 </glyph>

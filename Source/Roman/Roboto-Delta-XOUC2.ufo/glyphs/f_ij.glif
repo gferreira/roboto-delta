@@ -8,4 +8,10 @@
 		<component base="jdotless" xOffset="1100"/>
 		<component base="idot" xOffset="1350"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,1,1,0</string>
+		</dict>
+	</lib>
 </glyph>

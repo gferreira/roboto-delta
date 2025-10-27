@@ -20,4 +20,10 @@
 	</outline>
 	<anchor name="bottom" x="320" y="0"/>
 	<anchor name="top" x="355" y="1457"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,1,1,0</string>
+		</dict>
+	</lib>
 </glyph>

@@ -45,4 +45,10 @@
 		</contour>
 	</outline>
 	<anchor name="tonos" x="-3" y="1074"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,1,1,0</string>
+		</dict>
+	</lib>
 </glyph>

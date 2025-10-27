@@ -17,4 +17,10 @@
 	<anchor name="top" x="174" y="1456"/>
 	<anchor name="topright" x="515" y="1052"/>
 	<anchor name="slash" x="174" y="728"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,1,1,0</string>
+		</dict>
+	</lib>
 </glyph>

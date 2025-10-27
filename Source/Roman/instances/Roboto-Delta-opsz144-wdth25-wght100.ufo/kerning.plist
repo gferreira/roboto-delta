@@ -591,6 +591,11 @@
 			<key>thorn</key>
 			<integer>40</integer>
 		</dict>
+		<key>beta</key>
+		<dict>
+			<key>zeta</key>
+			<integer>5</integer>
+		</dict>
 		<key>bullet</key>
 		<dict>
 			<key>public.kern2.J_UC</key>
@@ -828,6 +833,11 @@
 		<dict>
 			<key>public.kern2.x_LC</key>
 			<integer>10</integer>
+		</dict>
+		<key>lambda</key>
+		<dict>
+			<key>public.kern2.gamma</key>
+			<integer>-20</integer>
 		</dict>
 		<key>lslash</key>
 		<dict>
@@ -2287,6 +2297,11 @@
 			<key>slash</key>
 			<integer>40</integer>
 		</dict>
+		<key>public.kern1.alpha_LC</key>
+		<dict>
+			<key>xi</key>
+			<integer>-10</integer>
+		</dict>
 		<key>public.kern1.b_LC</key>
 		<dict>
 			<key>asterisk</key>
@@ -2515,6 +2530,8 @@
 			<integer>-30</integer>
 			<key>el.bgr</key>
 			<integer>-30</integer>
+			<key>lambda</key>
+			<integer>-20</integer>
 			<key>public.kern2.comma</key>
 			<integer>-40</integer>
 			<key>public.kern2.el_LC</key>
@@ -2595,6 +2612,13 @@
 			<key>slash</key>
 			<integer>20</integer>
 		</dict>
+		<key>public.kern1.iota_LC</key>
+		<dict>
+			<key>public.kern2.gamma</key>
+			<integer>-30</integer>
+			<key>tau</key>
+			<integer>-20</integer>
+		</dict>
 		<key>public.kern1.j_LC</key>
 		<dict>
 			<key>public.kern2.quotes_curly_left</key>
@@ -2628,6 +2652,8 @@
 			<integer>2</integer>
 			<key>public.kern2.t_LC</key>
 			<integer>-20</integer>
+			<key>public.kern2.upsilon_LC</key>
+			<integer>-13</integer>
 			<key>public.kern2.w_LC</key>
 			<integer>-20</integer>
 			<key>slash</key>
@@ -3244,6 +3270,11 @@
 			<key>public.kern2.s_LC</key>
 			<integer>5</integer>
 		</dict>
+		<key>xi</key>
+		<dict>
+			<key>chi</key>
+			<integer>30</integer>
+		</dict>
 		<key>ze.bgr</key>
 		<dict>
 			<key>public.kern2.alpha_LC</key>
@@ -3265,6 +3296,13 @@
 			<integer>22</integer>
 			<key>two.prop</key>
 			<integer>24</integer>
+		</dict>
+		<key>zeta</key>
+		<dict>
+			<key>chi</key>
+			<integer>20</integer>
+			<key>public.kern2.gamma</key>
+			<integer>-10</integer>
 		</dict>
 	</dict>
 </plist>

@@ -25,4 +25,10 @@
 	<anchor name="bottom" x="391" y="0"/>
 	<anchor name="top" x="392" y="1457"/>
 	<anchor name="tonos" x="-175" y="1074"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,1,1,0</string>
+		</dict>
+	</lib>
 </glyph>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tau" format="2">
 	<unicode hex="03C4"/>
-	<advance width="305"/>
+	<advance width="294"/>
 	<outline>
 		<contour>
 			<point x="36.5597286072" y="900" type="line"/>
