@@ -99,6 +99,11 @@
 			<string>Ecyr</string>
 			<string>Emacroncyr</string>
 		</array>
+		<key>public.kern1.Delta_UC</key>
+		<array>
+			<string>Delta</string>
+			<string>increment</string>
+		</array>
 		<key>public.kern1.E_UC</key>
 		<array>
 			<string>E</string>
@@ -997,6 +1002,11 @@
 			<string>Cheverticalstroke-cy</string>
 			<string>Che</string>
 		</array>
+		<key>public.kern2.Delta_UC</key>
+		<array>
+			<string>Delta</string>
+			<string>increment</string>
+		</array>
 		<key>public.kern2.Dje_UC</key>
 		<array>
 			<string>Dje</string>
@@ -1033,7 +1043,6 @@
 		<key>public.kern2.Omega_UC</key>
 		<array>
 			<string>Omega</string>
-			<string>Omegatonos</string>
 			<string>ohm</string>
 		</array>
 		<key>public.kern2.P_UC</key>
@@ -1202,6 +1211,7 @@
 			<string>Iotatonos</string>
 			<string>Omicrontonos</string>
 			<string>Upsilontonos</string>
+			<string>Omegatonos</string>
 		</array>
 		<key>public.kern2.U_UC</key>
 		<array>

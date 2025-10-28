@@ -1,58 +1,149 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="5.1">
   <axes>
-    <axis tag="opsz" name="Optical size" minimum="8" maximum="144" default="14">
+    <axis tag="opsz" name="opsz" minimum="8" maximum="144" default="14">
+      <labelname xml:lang="en">Optical Size</labelname>
       <map input="8" output="-1"/>
       <map input="14" output="0"/>
       <map input="36" output="0.492000"/>
       <map input="84" output="0.946000"/>
       <map input="144" output="1"/>
     </axis>
-    <axis tag="wght" name="Weight" minimum="100" maximum="1000" default="400"/>
-    <axis tag="wdth" name="Width" minimum="25" maximum="151" default="100"/>
-    <axis tag="GRAD" name="GRAD" minimum="-250" maximum="150" default="0"/>
-    <axis tag="XTSP" name="XTSP" minimum="-100" maximum="100" default="0"/>
-    <axis tag="XOPQ" name="XOPQ" minimum="2" maximum="310" default="96"/>
-    <axis tag="YOPQ" name="YOPQ" minimum="2" maximum="280" default="79"/>
-    <axis tag="XTRA" name="XTRA" minimum="244" maximum="741" default="463"/>
-    <axis tag="BDSZ" name="BDSZ" minimum="-1" maximum="1.4" default="0"/>
-    <axis tag="WDSP" name="WDSP" minimum="0" maximum="1000" default="246"/>
-    <axis tag="YTAS" name="YTAS" minimum="665" maximum="875" default="728"/>
-    <axis tag="YTDE" name="YTDE" minimum="-310" maximum="-100" default="-208"/>
-    <axis tag="YTFI" name="YTFI" minimum="270" maximum="793" default="743"/>
-    <axis tag="YTLC" name="YTLC" minimum="426" maximum="584" default="526"/>
-    <axis tag="YTOS" name="YTOS" minimum="0" maximum="50" default="30"/>
-    <axis tag="YTUC" name="YTUC" minimum="528" maximum="778" default="728"/>
-    <axis tag="YTTL" name="YTTL" minimum="0" maximum="50" default="25"/>
-    <axis tag="XTTW" name="XTTW" minimum="0" maximum="30" default="5"/>
-    <axis tag="STUI" name="STUI" minimum="2" maximum="736" default="92"/>
-    <axis tag="STUO" name="STUO" minimum="2" maximum="722" default="92"/>
-    <axis tag="STLI" name="STLI" minimum="2" maximum="412" default="32"/>
-    <axis tag="STLO" name="STLO" minimum="2" maximum="426" default="32"/>
-    <axis tag="BARS" name="BARS" minimum="0" maximum="1000" default="1000"/>
-    <axis tag="XTUD" name="XTUD" minimum="463" maximum="741" default="463"/>
-    <axis tag="XTUR" name="XTUR" minimum="463" maximum="741" default="463"/>
-    <axis tag="YOPE" name="YOPE" minimum="79" maximum="280" default="79"/>
-    <axis tag="XOUC" name="XOUC" minimum="2" maximum="310" default="96"/>
-    <axis tag="XOLC" name="XOLC" minimum="2" maximum="310" default="96"/>
-    <axis tag="XOFI" name="XOFI" minimum="2" maximum="310" default="96"/>
-    <axis tag="YOUC" name="YOUC" minimum="2" maximum="280" default="79"/>
-    <axis tag="YOLC" name="YOLC" minimum="2" maximum="280" default="79"/>
-    <axis tag="YOFI" name="YOFI" minimum="2" maximum="280" default="79"/>
-    <axis tag="XTUC" name="XTUC" minimum="244" maximum="741" default="463"/>
-    <axis tag="XTLC" name="XTLC" minimum="244" maximum="741" default="463"/>
-    <axis tag="XTFI" name="XTFI" minimum="244" maximum="741" default="463"/>
+    <axis tag="wght" name="wght" minimum="100" maximum="1000" default="400">
+      <labelname xml:lang="en">Weight</labelname>
+    </axis>
+    <axis tag="wdth" name="wdth" minimum="25" maximum="151" default="100">
+      <labelname xml:lang="en">Width</labelname>
+    </axis>
+    <axis tag="slnt" name="slnt" minimum="-12" maximum="3" default="0">
+      <labelname xml:lang="en">Slant</labelname>
+    </axis>
+    <!-- SPECIAL -->
+    <axis tag="GRAD" name="GRAD" minimum="-250" maximum="150" default="0">
+      <labelname xml:lang="en">Grade</labelname>
+    </axis>
+    <!-- PARAMETRIC -->
+    <axis tag="XTSP" name="XTSP" minimum="-100" maximum="100" default="0">
+      <labelname xml:lang="en">Parametric Spacing</labelname>
+    </axis>
+    <axis tag="XOPQ" name="XOPQ" minimum="2" maximum="310" default="96">
+      <labelname xml:lang="en">Parametric Thick Stroke</labelname>
+    </axis>
+    <axis tag="YOPQ" name="YOPQ" minimum="2" maximum="280" default="79">
+      <labelname xml:lang="en">Parametric Thin Stroke</labelname>
+    </axis>
+    <axis tag="XTRA" name="XTRA" minimum="244" maximum="741" default="463">
+      <labelname xml:lang="en">Parametric Counter Width</labelname>
+    </axis>
+    <axis tag="BDSZ" name="BDSZ" minimum="-1" maximum="1.4" default="0">
+      <labelname xml:lang="en">Parametric Body Size</labelname>
+    </axis>
+    <axis tag="WDSP" name="WDSP" minimum="0" maximum="1000" default="246">
+      <labelname xml:lang="en">Parametric Wordsapce</labelname>
+    </axis>
+    
+    <!-- UPPERCASE -->
+    <axis tag="XOUC" name="XOUC" minimum="2" maximum="310" default="96">
+      <labelname xml:lang="en">Parametric Thick Stroke Uppercase</labelname>
+    </axis>
+    <axis tag="YOUC" name="YOUC" minimum="2" maximum="280" default="79">
+      <labelname xml:lang="en">Parametric Thin Stroke Uppercase</labelname>
+    </axis>
+    <axis tag="XTUC" name="XTUC" minimum="244" maximum="741" default="463">
+      <labelname xml:lang="en">Parametric Counter Width Uppercase</labelname>
+    </axis>
+    <axis tag="XTUD" name="XTUD" minimum="463" maximum="741" default="463">
+      <labelname xml:lang="en">Parametric Counter Width Diagonals Uppercase</labelname>
+    </axis>
+    <axis tag="XTUR" name="XTUR" minimum="463" maximum="741" default="463">
+      <labelname xml:lang="en">Parametric Counter Width Round Letters Uppercase</labelname>
+    </axis>
+    <axis tag="YOPE" name="YOPE" minimum="79" maximum="280" default="79">
+      <labelname xml:lang="en">Parametric Thin Stroke E</labelname>
+    </axis>
+    <axis tag="YTUC" name="YTUC" minimum="528" maximum="778" default="728">
+      <labelname xml:lang="en">Parametric Uppercase Height</labelname>
+    </axis>
+    <axis tag="STUI" name="STUI" minimum="2" maximum="736" default="92">
+      <labelname xml:lang="en">Parametric Uppercase Internal Straight Counter</labelname>
+    </axis>
+    <axis tag="STUO" name="STUO" minimum="2" maximum="722" default="92">
+      <labelname xml:lang="en">Parametric Uppercase Outer Straight Counter</labelname>
+    </axis>
+    <!-- LOWERCASE -->
+    <axis tag="XOLC" name="XOLC" minimum="2" maximum="310" default="96">
+      <labelname xml:lang="en">Parametric Thick Stroke Lowercase</labelname>
+    </axis>
+    <axis tag="YOLC" name="YOLC" minimum="2" maximum="280" default="79">
+      <labelname xml:lang="en">Parametric Thin Stroke Lowercase</labelname>
+    </axis>
+    <axis tag="XTLC" name="XTLC" minimum="244" maximum="741" default="463">
+      <labelname xml:lang="en">Parametric Counter Width Lowercase</labelname>
+    </axis>
+    <axis tag="YTAS" name="YTAS" minimum="665" maximum="875" default="728">
+      <labelname xml:lang="en">Parametric Ascender Height</labelname>
+    </axis>
+    <axis tag="YTDE" name="YTDE" minimum="-310" maximum="-100" default="-208">
+      <labelname xml:lang="en">Parametric Descender Depth</labelname>
+    </axis>
+    <axis tag="YTLC" name="YTLC" minimum="426" maximum="584" default="526">
+      <labelname xml:lang="en">Parametric Lowercase Height</labelname>
+    </axis>
+    <axis tag="STLI" name="STLI" minimum="2" maximum="412" default="32">
+      <labelname xml:lang="en">Parametric Lowercase Internal Straight Counter</labelname>
+    </axis>
+    <axis tag="STLO" name="STLO" minimum="2" maximum="426" default="32">
+      <labelname xml:lang="en">Parametric Lowercase Internal Straight Counter</labelname>
+    </axis>
+    <axis tag="YOLB" name="YOLB" minimum="132" maximum="280" default="132">
+      <labelname xml:lang="en">Parametric Thin Stroke Lowercase Compensation</labelname>
+    </axis>
+    <!-- FIGURES -->
+    <axis tag="XOFI" name="XOFI" minimum="2" maximum="310" default="96">
+      <labelname xml:lang="en">Parametric Thick Stroke Figures</labelname>
+    </axis>
+    <axis tag="YOFI" name="YOFI" minimum="2" maximum="280" default="79">
+      <labelname xml:lang="en">Parametric Thin Stroke Figures</labelname>
+    </axis>
+    <axis tag="XTFI" name="XTFI" minimum="244" maximum="741" default="463">
+      <labelname xml:lang="en">Parametric Counter Width Figures</labelname>
+    </axis>
+    <axis tag="YTFI" name="YTFI" minimum="270" maximum="793" default="743">
+      <labelname xml:lang="en">Parametric Figure Height</labelname>
+    </axis>
+    <!-- VARIETY -->
+    <axis tag="BARS" name="BARS" minimum="0" maximum="1000" default="1000">
+      <labelname xml:lang="en">Parametric Bars</labelname>
+    </axis>
+    <axis tag="VANG" name="VANG" minimum="-3" maximum="13" default="0">
+      <labelname xml:lang="en">Parametric Angle</labelname>
+    </axis>
+    <axis tag="VROT" name="VROT" minimum="0" maximum="13" default="0">
+      <labelname xml:lang="en">Parametric Rotation</labelname>
+    </axis>
+    <axis tag="YTTL" name="YTTL" minimum="0" maximum="50" default="25">
+      <labelname xml:lang="en">Parametric Ink Trap Lenght</labelname>
+    </axis>
+    <axis tag="XTTW" name="XTTW" minimum="0" maximum="30" default="5">
+      <labelname xml:lang="en">Parametric Ink Trap Width</labelname>
+    </axis>
+    <axis tag="YTOS" name="YTOS" minimum="0" maximum="50" default="30">
+      <labelname xml:lang="en">Parametric Overshoot</labelname>
+    </axis>
     
     <mappings>
       
       <mapping>
         <input>
-            <dimension name="Optical size" xvalue="-1"/>
-            <dimension name="Weight" xvalue="100"/>
-            <dimension name="Width" xvalue="25"/>
+            <dimension name="opsz" xvalue="-1"/>
+            <dimension name="slnt" xvalue="0"/>
+            <dimension name="wght" xvalue="100"/>
+            <dimension name="wdth" xvalue="25"/>
             <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
             <dimension name="XOPQ" xvalue="50"/>
             <dimension name="XOFI" xvalue="50"/>
             <dimension name="XOUC" xvalue="50"/>
@@ -63,6 +154,7 @@
             <dimension name="XTFI" xvalue="451"/>
             <dimension name="XTSP" xvalue="0"/>
             <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOLB" xvalue="132"/>
             <dimension name="YOPQ" xvalue="48"/>
             <dimension name="YOFI" xvalue="48"/>
             <dimension name="YOUC" xvalue="48"/>
@@ -88,12 +180,15 @@
       </mapping>
       <mapping>
         <input>
-            <dimension name="Optical size" xvalue="-1"/>
-            <dimension name="Weight" xvalue="400"/>
-            <dimension name="Width" xvalue="25"/>
+            <dimension name="opsz" xvalue="-1"/>
+            <dimension name="slnt" xvalue="0"/>
+            <dimension name="wght" xvalue="400"/>
+            <dimension name="wdth" xvalue="25"/>
             <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
             <dimension name="XOPQ" xvalue="100"/>
             <dimension name="XOFI" xvalue="100"/>
             <dimension name="XOUC" xvalue="100"/>
@@ -104,6 +199,7 @@
             <dimension name="XTFI" xvalue="430"/>
             <dimension name="XTSP" xvalue="0"/>
             <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOLB" xvalue="132"/>
             <dimension name="YOPQ" xvalue="85"/>
             <dimension name="YOFI" xvalue="85"/>
             <dimension name="YOUC" xvalue="85"/>
@@ -129,12 +225,15 @@
       </mapping>
       <mapping>
         <input>
-            <dimension name="Optical size" xvalue="-1"/>
-            <dimension name="Weight" xvalue="1000"/>
-            <dimension name="Width" xvalue="25"/>
+            <dimension name="opsz" xvalue="-1"/>
+            <dimension name="slnt" xvalue="0"/>
+            <dimension name="wght" xvalue="1000"/>
+            <dimension name="wdth" xvalue="25"/>
             <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
             <dimension name="XOPQ" xvalue="150"/>
             <dimension name="XOFI" xvalue="150"/>
             <dimension name="XOUC" xvalue="150"/>
@@ -145,6 +244,7 @@
             <dimension name="XTFI" xvalue="400"/>
             <dimension name="XTSP" xvalue="0"/>
             <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOLB" xvalue="145"/>
             <dimension name="YOPQ" xvalue="105"/>
             <dimension name="YOFI" xvalue="105"/>
             <dimension name="YOUC" xvalue="105"/>
@@ -171,12 +271,15 @@
       </mapping>
       <mapping>
         <input>
-            <dimension name="Optical size" xvalue="-1"/>
-            <dimension name="Weight" xvalue="100"/>
-            <dimension name="Width" xvalue="100"/>
+            <dimension name="opsz" xvalue="-1"/>
+            <dimension name="slnt" xvalue="0"/>
+            <dimension name="wght" xvalue="100"/>
+            <dimension name="wdth" xvalue="100"/>
             <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
             <dimension name="XOPQ" xvalue="54"/>
             <dimension name="XOFI" xvalue="54"/>
             <dimension name="XOUC" xvalue="54"/>
@@ -187,6 +290,7 @@
             <dimension name="XTFI" xvalue="532"/>
             <dimension name="XTSP" xvalue="20"/>
             <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOLB" xvalue="132"/>
             <dimension name="YOPQ" xvalue="50"/>
             <dimension name="YOFI" xvalue="50"/>
             <dimension name="YOUC" xvalue="50"/>
@@ -212,12 +316,15 @@
       </mapping>
       <mapping>
         <input>
-            <dimension name="Optical size" xvalue="-1"/>
-            <dimension name="Weight" xvalue="400"/>
-            <dimension name="Width" xvalue="100"/>
+            <dimension name="opsz" xvalue="-1"/>
+            <dimension name="slnt" xvalue="0"/>
+            <dimension name="wght" xvalue="400"/>
+            <dimension name="wdth" xvalue="100"/>
             <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
             <dimension name="XOPQ" xvalue="103"/>
             <dimension name="XOFI" xvalue="103"/>
             <dimension name="XOUC" xvalue="103"/>
@@ -228,6 +335,7 @@
             <dimension name="XTFI" xvalue="480"/>
             <dimension name="XTSP" xvalue="0"/>
             <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOLB" xvalue="132"/>
             <dimension name="YOPQ" xvalue="86"/>
             <dimension name="YOFI" xvalue="86"/>
             <dimension name="YOUC" xvalue="86"/>
@@ -253,12 +361,15 @@
       </mapping>
       <mapping>
         <input>
-            <dimension name="Optical size" xvalue="-1"/>
-            <dimension name="Weight" xvalue="1000"/>
-            <dimension name="Width" xvalue="100"/>
+            <dimension name="opsz" xvalue="-1"/>
+            <dimension name="slnt" xvalue="0"/>
+            <dimension name="wght" xvalue="1000"/>
+            <dimension name="wdth" xvalue="100"/>
             <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
             <dimension name="XOPQ" xvalue="200"/>
             <dimension name="XOFI" xvalue="200"/>
             <dimension name="XOUC" xvalue="200"/>
@@ -269,6 +380,7 @@
             <dimension name="XTFI" xvalue="400"/>
             <dimension name="XTSP" xvalue="0"/>
             <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOLB" xvalue="170"/>
             <dimension name="YOPQ" xvalue="155"/>
             <dimension name="YOFI" xvalue="155"/>
             <dimension name="YOUC" xvalue="155"/>
@@ -295,12 +407,15 @@
       </mapping>
       <mapping>
         <input>
-            <dimension name="Optical size" xvalue="-1"/>
-            <dimension name="Weight" xvalue="100"/>
-            <dimension name="Width" xvalue="151"/>
+            <dimension name="opsz" xvalue="-1"/>
+            <dimension name="slnt" xvalue="0"/>
+            <dimension name="wght" xvalue="100"/>
+            <dimension name="wdth" xvalue="151"/>
             <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
             <dimension name="XOPQ" xvalue="60"/>
             <dimension name="XOFI" xvalue="60"/>
             <dimension name="XOUC" xvalue="60"/>
@@ -311,6 +426,7 @@
             <dimension name="XTFI" xvalue="540"/>
             <dimension name="XTSP" xvalue="30"/>
             <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOLB" xvalue="132"/>
             <dimension name="YOPQ" xvalue="54"/>
             <dimension name="YOFI" xvalue="54"/>
             <dimension name="YOUC" xvalue="54"/>
@@ -336,12 +452,15 @@
       </mapping>
       <mapping>
         <input>
-            <dimension name="Optical size" xvalue="-1"/>
-            <dimension name="Weight" xvalue="400"/>
-            <dimension name="Width" xvalue="151"/>
+            <dimension name="opsz" xvalue="-1"/>
+            <dimension name="slnt" xvalue="0"/>
+            <dimension name="wght" xvalue="400"/>
+            <dimension name="wdth" xvalue="151"/>
             <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
             <dimension name="XOPQ" xvalue="108"/>
             <dimension name="XOFI" xvalue="108"/>
             <dimension name="XOUC" xvalue="108"/>
@@ -352,6 +471,7 @@
             <dimension name="XTFI" xvalue="530"/>
             <dimension name="XTSP" xvalue="30"/>
             <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOLB" xvalue="132"/>
             <dimension name="YOPQ" xvalue="88"/>
             <dimension name="YOFI" xvalue="88"/>
             <dimension name="YOUC" xvalue="88"/>
@@ -377,12 +497,15 @@
       </mapping>
       <mapping>
         <input>
-            <dimension name="Optical size" xvalue="-1"/>
-            <dimension name="Weight" xvalue="1000"/>
-            <dimension name="Width" xvalue="151"/>
+            <dimension name="opsz" xvalue="-1"/>
+            <dimension name="slnt" xvalue="0"/>
+            <dimension name="wght" xvalue="1000"/>
+            <dimension name="wdth" xvalue="151"/>
             <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
             <dimension name="XOPQ" xvalue="210"/>
             <dimension name="XOFI" xvalue="210"/>
             <dimension name="XOUC" xvalue="210"/>
@@ -393,6 +516,7 @@
             <dimension name="XTFI" xvalue="414"/>
             <dimension name="XTSP" xvalue="10"/>
             <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOLB" xvalue="170"/>
             <dimension name="YOPQ" xvalue="158"/>
             <dimension name="YOFI" xvalue="158"/>
             <dimension name="YOUC" xvalue="158"/>
@@ -419,12 +543,15 @@
       </mapping>
       <mapping>
         <input>
-            <dimension name="Optical size" xvalue="0"/>
-            <dimension name="Weight" xvalue="100"/>
-            <dimension name="Width" xvalue="25"/>
+            <dimension name="opsz" xvalue="0"/>
+            <dimension name="slnt" xvalue="0"/>
+            <dimension name="wght" xvalue="100"/>
+            <dimension name="wdth" xvalue="25"/>
             <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
             <dimension name="XOPQ" xvalue="44"/>
             <dimension name="XOFI" xvalue="44"/>
             <dimension name="XOUC" xvalue="44"/>
@@ -435,6 +562,7 @@
             <dimension name="XTFI" xvalue="463"/>
             <dimension name="XTSP" xvalue="0"/>
             <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOLB" xvalue="132"/>
             <dimension name="YOPQ" xvalue="42"/>
             <dimension name="YOFI" xvalue="42"/>
             <dimension name="YOUC" xvalue="42"/>
@@ -461,12 +589,15 @@
       </mapping>
       <mapping>
         <input>
-            <dimension name="Optical size" xvalue="0"/>
-            <dimension name="Weight" xvalue="400"/>
-            <dimension name="Width" xvalue="25"/>
+            <dimension name="opsz" xvalue="0"/>
+            <dimension name="slnt" xvalue="0"/>
+            <dimension name="wght" xvalue="400"/>
+            <dimension name="wdth" xvalue="25"/>
             <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
             <dimension name="XOPQ" xvalue="92"/>
             <dimension name="XOFI" xvalue="92"/>
             <dimension name="XOUC" xvalue="92"/>
@@ -477,6 +608,7 @@
             <dimension name="XTFI" xvalue="420"/>
             <dimension name="XTSP" xvalue="0"/>
             <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOLB" xvalue="132"/>
             <dimension name="YOPQ" xvalue="78"/>
             <dimension name="YOFI" xvalue="78"/>
             <dimension name="YOUC" xvalue="78"/>
@@ -502,12 +634,15 @@
       </mapping>
       <mapping>
         <input>
-            <dimension name="Optical size" xvalue="0"/>
-            <dimension name="Weight" xvalue="1000"/>
-            <dimension name="Width" xvalue="25"/>
+            <dimension name="opsz" xvalue="0"/>
+            <dimension name="slnt" xvalue="0"/>
+            <dimension name="wght" xvalue="1000"/>
+            <dimension name="wdth" xvalue="25"/>
             <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
             <dimension name="XOPQ" xvalue="206"/>
             <dimension name="XOFI" xvalue="206"/>
             <dimension name="XOUC" xvalue="206"/>
@@ -518,6 +653,7 @@
             <dimension name="XTFI" xvalue="327"/>
             <dimension name="XTSP" xvalue="-30"/>
             <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOLB" xvalue="132"/>
             <dimension name="YOPQ" xvalue="154"/>
             <dimension name="YOFI" xvalue="154"/>
             <dimension name="YOUC" xvalue="154"/>
@@ -544,12 +680,15 @@
       </mapping>
       <mapping>
         <input>
-            <dimension name="Optical size" xvalue="0"/>
-            <dimension name="Weight" xvalue="100"/>
-            <dimension name="Width" xvalue="100"/>
+            <dimension name="opsz" xvalue="0"/>
+            <dimension name="slnt" xvalue="0"/>
+            <dimension name="wght" xvalue="100"/>
+            <dimension name="wdth" xvalue="100"/>
             <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
             <dimension name="XOPQ" xvalue="47"/>
             <dimension name="XOFI" xvalue="47"/>
             <dimension name="XOUC" xvalue="47"/>
@@ -560,6 +699,7 @@
             <dimension name="XTFI" xvalue="516"/>
             <dimension name="XTSP" xvalue="10"/>
             <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOLB" xvalue="132"/>
             <dimension name="YOPQ" xvalue="44"/>
             <dimension name="YOFI" xvalue="44"/>
             <dimension name="YOUC" xvalue="44"/>
@@ -586,9 +726,10 @@
       </mapping>
       <mapping>
         <input>
-            <dimension name="Optical size" xvalue="0"/>
-            <dimension name="Weight" xvalue="400"/>
-            <dimension name="Width" xvalue="100"/>
+            <dimension name="opsz" xvalue="0"/>
+            <dimension name="wght" xvalue="400"/>
+            <dimension name="wdth" xvalue="100"/>
+            <dimension name="slnt" xvalue="0"/>
         </input>
         <output>
             <dimension name="XOPQ" xvalue="96"/>
@@ -596,6 +737,8 @@
             <dimension name="XTRA" xvalue="463"/>
             <dimension name="XTSP" xvalue="0"/>
             <dimension name="WDSP" xvalue="246"/>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
             <dimension name="YTAS" xvalue="728"/>
             <dimension name="YTDE" xvalue="-208"/>
             <dimension name="YTFI" xvalue="743"/>
@@ -612,6 +755,7 @@
             <dimension name="XTUD" xvalue="463"/>
             <dimension name="XTUR" xvalue="463"/>
             <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOLB" xvalue="132"/>
             <dimension name="XOUC" xvalue="96"/>
             <dimension name="XOLC" xvalue="96"/>
             <dimension name="XOFI" xvalue="96"/>
@@ -626,12 +770,15 @@
       </mapping>
       <mapping>
         <input>
-            <dimension name="Optical size" xvalue="0"/>
-            <dimension name="Weight" xvalue="1000"/>
-            <dimension name="Width" xvalue="100"/>
+            <dimension name="opsz" xvalue="0"/>
+            <dimension name="slnt" xvalue="0"/>
+            <dimension name="wght" xvalue="1000"/>
+            <dimension name="wdth" xvalue="100"/>
             <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
             <dimension name="XOPQ" xvalue="210"/>
             <dimension name="XOFI" xvalue="210"/>
             <dimension name="XOUC" xvalue="210"/>
@@ -642,6 +789,7 @@
             <dimension name="XTFI" xvalue="380"/>
             <dimension name="XTSP" xvalue="-30"/>
             <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOLB" xvalue="132"/>
             <dimension name="YOPQ" xvalue="156"/>
             <dimension name="YOFI" xvalue="156"/>
             <dimension name="YOUC" xvalue="156"/>
@@ -668,12 +816,15 @@
       </mapping>
       <mapping>
         <input>
-            <dimension name="Optical size" xvalue="0"/>
-            <dimension name="Weight" xvalue="100"/>
-            <dimension name="Width" xvalue="151"/>
+            <dimension name="opsz" xvalue="0"/>
+            <dimension name="slnt" xvalue="0"/>
+            <dimension name="wght" xvalue="100"/>
+            <dimension name="wdth" xvalue="151"/>
             <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
             <dimension name="XOPQ" xvalue="53"/>
             <dimension name="XOFI" xvalue="53"/>
             <dimension name="XOUC" xvalue="53"/>
@@ -684,6 +835,7 @@
             <dimension name="XTFI" xvalue="620"/>
             <dimension name="XTSP" xvalue="10"/>
             <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOLB" xvalue="132"/>
             <dimension name="YOPQ" xvalue="46"/>
             <dimension name="YOFI" xvalue="46"/>
             <dimension name="YOUC" xvalue="46"/>
@@ -710,12 +862,15 @@
       </mapping>
       <mapping>
         <input>
-            <dimension name="Optical size" xvalue="0"/>
-            <dimension name="Weight" xvalue="400"/>
-            <dimension name="Width" xvalue="151"/>
+            <dimension name="opsz" xvalue="0"/>
+            <dimension name="slnt" xvalue="0"/>
+            <dimension name="wght" xvalue="400"/>
+            <dimension name="wdth" xvalue="151"/>
             <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
             <dimension name="XOPQ" xvalue="100"/>
             <dimension name="XOFI" xvalue="100"/>
             <dimension name="XOUC" xvalue="100"/>
@@ -726,6 +881,7 @@
             <dimension name="XTFI" xvalue="560"/>
             <dimension name="XTSP" xvalue="10"/>
             <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOLB" xvalue="132"/>
             <dimension name="YOPQ" xvalue="80"/>
             <dimension name="YOFI" xvalue="80"/>
             <dimension name="YOUC" xvalue="80"/>
@@ -751,12 +907,15 @@
       </mapping>
       <mapping>
         <input>
-            <dimension name="Optical size" xvalue="0"/>
-            <dimension name="Weight" xvalue="1000"/>
-            <dimension name="Width" xvalue="151"/>
+            <dimension name="opsz" xvalue="0"/>
+            <dimension name="slnt" xvalue="0"/>
+            <dimension name="wght" xvalue="1000"/>
+            <dimension name="wdth" xvalue="151"/>
             <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
             <dimension name="XOPQ" xvalue="214"/>
             <dimension name="XOFI" xvalue="214"/>
             <dimension name="XOUC" xvalue="214"/>
@@ -767,6 +926,7 @@
             <dimension name="XTFI" xvalue="415"/>
             <dimension name="XTSP" xvalue="10"/>
             <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOLB" xvalue="132"/>
             <dimension name="YOPQ" xvalue="158"/>
             <dimension name="YOFI" xvalue="158"/>
             <dimension name="YOUC" xvalue="158"/>
@@ -793,12 +953,15 @@
       </mapping>
       <mapping>
         <input>
-            <dimension name="Optical size" xvalue="1"/>
-            <dimension name="Weight" xvalue="100"/>
-            <dimension name="Width" xvalue="25"/>
+            <dimension name="opsz" xvalue="1"/>
+            <dimension name="slnt" xvalue="0"/>
+            <dimension name="wght" xvalue="100"/>
+            <dimension name="wdth" xvalue="25"/>
             <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
             <dimension name="XOPQ" xvalue="2"/>
             <dimension name="XOFI" xvalue="2"/>
             <dimension name="XOUC" xvalue="2"/>
@@ -809,6 +972,7 @@
             <dimension name="XTFI" xvalue="278"/>
             <dimension name="XTSP" xvalue="-75"/>
             <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOLB" xvalue="132"/>
             <dimension name="YOPQ" xvalue="2"/>
             <dimension name="YOFI" xvalue="2"/>
             <dimension name="YOUC" xvalue="2"/>
@@ -836,12 +1000,15 @@
       </mapping>
       <mapping>
         <input>
-            <dimension name="Optical size" xvalue="1"/>
-            <dimension name="Weight" xvalue="400"/>
-            <dimension name="Width" xvalue="25"/>
+            <dimension name="opsz" xvalue="1"/>
+            <dimension name="slnt" xvalue="0"/>
+            <dimension name="wght" xvalue="400"/>
+            <dimension name="wdth" xvalue="25"/>
             <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
             <dimension name="XOPQ" xvalue="48"/>
             <dimension name="XOFI" xvalue="48"/>
             <dimension name="XOUC" xvalue="48"/>
@@ -852,6 +1019,7 @@
             <dimension name="XTFI" xvalue="267"/>
             <dimension name="XTSP" xvalue="-70"/>
             <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOLB" xvalue="132"/>
             <dimension name="YOPQ" xvalue="48"/>
             <dimension name="YOFI" xvalue="48"/>
             <dimension name="YOUC" xvalue="48"/>
@@ -878,12 +1046,15 @@
       </mapping>
       <mapping>
         <input>
-            <dimension name="Optical size" xvalue="1"/>
-            <dimension name="Weight" xvalue="1000"/>
-            <dimension name="Width" xvalue="25"/>
+            <dimension name="opsz" xvalue="1"/>
+            <dimension name="slnt" xvalue="0"/>
+            <dimension name="wght" xvalue="1000"/>
+            <dimension name="wdth" xvalue="25"/>
             <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
             <dimension name="XOPQ" xvalue="248"/>
             <dimension name="XOFI" xvalue="248"/>
             <dimension name="XOUC" xvalue="248"/>
@@ -921,12 +1092,15 @@
       </mapping>
       <mapping>
         <input>
-            <dimension name="Optical size" xvalue="1"/>
-            <dimension name="Weight" xvalue="100"/>
-            <dimension name="Width" xvalue="100"/>
+            <dimension name="opsz" xvalue="1"/>
+            <dimension name="slnt" xvalue="0"/>
+            <dimension name="wght" xvalue="100"/>
+            <dimension name="wdth" xvalue="100"/>
             <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
             <dimension name="XOPQ" xvalue="4"/>
             <dimension name="XOFI" xvalue="4"/>
             <dimension name="XOUC" xvalue="4"/>
@@ -937,6 +1111,7 @@
             <dimension name="XTFI" xvalue="506"/>
             <dimension name="XTSP" xvalue="-10"/>
             <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOLB" xvalue="132"/>
             <dimension name="YOPQ" xvalue="4"/>
             <dimension name="YOFI" xvalue="4"/>
             <dimension name="YOUC" xvalue="4"/>
@@ -963,12 +1138,15 @@
       </mapping>
       <mapping>
         <input>
-            <dimension name="Optical size" xvalue="1"/>
-            <dimension name="Weight" xvalue="400"/>
-            <dimension name="Width" xvalue="100"/>
+            <dimension name="opsz" xvalue="1"/>
+            <dimension name="slnt" xvalue="0"/>
+            <dimension name="wght" xvalue="400"/>
+            <dimension name="wdth" xvalue="100"/>
             <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
             <dimension name="XOPQ" xvalue="55"/>
             <dimension name="XOFI" xvalue="55"/>
             <dimension name="XOUC" xvalue="55"/>
@@ -979,6 +1157,7 @@
             <dimension name="XTFI" xvalue="449"/>
             <dimension name="XTSP" xvalue="-24.9"/>
             <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOLB" xvalue="132"/>
             <dimension name="YOPQ" xvalue="49"/>
             <dimension name="YOFI" xvalue="49"/>
             <dimension name="YOUC" xvalue="49"/>
@@ -1002,15 +1181,18 @@
             <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
-      <!--  THIS IS 144 100 500 TO SMOOTH WEIGHT PROGRESSION  -->
+      <!--  THIS IS 144 100 500 TO SMOOTH wght PROGRESSION  -->
       <mapping>
         <input>
-            <dimension name="Optical size" xvalue="1"/>
-            <dimension name="Weight" xvalue="500"/>
-            <dimension name="Width" xvalue="100"/>
+            <dimension name="opsz" xvalue="1"/>
+            <dimension name="slnt" xvalue="0"/>
+            <dimension name="wght" xvalue="500"/>
+            <dimension name="wdth" xvalue="100"/>
             <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
             <dimension name="XOPQ" xvalue="96"/>
             <dimension name="XOFI" xvalue="96"/>
             <dimension name="XOUC" xvalue="96"/>
@@ -1046,12 +1228,15 @@
 <!--  THIS IS 144 100 1000  -->
       <mapping>
         <input>
-            <dimension name="Optical size" xvalue="1"/>
-            <dimension name="Weight" xvalue="1000"/>
-            <dimension name="Width" xvalue="100"/>
+            <dimension name="opsz" xvalue="1"/>
+            <dimension name="slnt" xvalue="0"/>
+            <dimension name="wght" xvalue="1000"/>
+            <dimension name="wdth" xvalue="100"/>
             <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
             <dimension name="XOPQ" xvalue="300"/>
             <dimension name="XOFI" xvalue="300"/>
             <dimension name="XOUC" xvalue="300"/>
@@ -1090,12 +1275,15 @@
       
       <mapping>
         <input>
-            <dimension name="Optical size" xvalue="1"/>
-            <dimension name="Weight" xvalue="100"/>
-            <dimension name="Width" xvalue="151"/>
+            <dimension name="opsz" xvalue="1"/>
+            <dimension name="slnt" xvalue="0"/>
+            <dimension name="wght" xvalue="100"/>
+            <dimension name="wdth" xvalue="151"/>
             <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
             <dimension name="XOPQ" xvalue="4"/>
             <dimension name="XOFI" xvalue="4"/>
             <dimension name="XOUC" xvalue="4"/>
@@ -1106,6 +1294,7 @@
             <dimension name="XTFI" xvalue="658"/>
             <dimension name="XTSP" xvalue="30"/>
             <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOLB" xvalue="132"/>
             <dimension name="YOPQ" xvalue="4"/>
             <dimension name="YOFI" xvalue="4"/>
             <dimension name="YOUC" xvalue="4"/>
@@ -1134,12 +1323,15 @@
       </mapping>
       <mapping>
         <input>
-            <dimension name="Optical size" xvalue="1"/>
-            <dimension name="Weight" xvalue="400"/>
-            <dimension name="Width" xvalue="151"/>
+            <dimension name="opsz" xvalue="1"/>
+            <dimension name="slnt" xvalue="0"/>
+            <dimension name="wght" xvalue="400"/>
+            <dimension name="wdth" xvalue="151"/>
             <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
             <dimension name="XOPQ" xvalue="53"/>
             <dimension name="XOFI" xvalue="53"/>
             <dimension name="XOUC" xvalue="53"/>
@@ -1150,6 +1342,7 @@
             <dimension name="XTFI" xvalue="600"/>
             <dimension name="XTSP" xvalue="20"/>
             <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOLB" xvalue="132"/>
             <dimension name="YOPQ" xvalue="50"/>
             <dimension name="YOFI" xvalue="50"/>
             <dimension name="YOUC" xvalue="50"/>
@@ -1175,12 +1368,15 @@
       </mapping>
       <mapping>
         <input>
-            <dimension name="Optical size" xvalue="1"/>
-            <dimension name="Weight" xvalue="1000"/>
-            <dimension name="Width" xvalue="151"/>
+            <dimension name="opsz" xvalue="1"/>
+            <dimension name="slnt" xvalue="0"/>
+            <dimension name="wght" xvalue="1000"/>
+            <dimension name="wdth" xvalue="151"/>
             <dimension name="GRAD" xvalue="0"/>
         </input>
         <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
             <dimension name="XOPQ" xvalue="300"/>
             <dimension name="XOFI" xvalue="300"/>
             <dimension name="XOUC" xvalue="300"/>
@@ -1216,6 +1412,88 @@
             <dimension name="STLO" xvalue="32"/>
         </output>
       </mapping>
+      <mapping>
+        <input>
+            <dimension name="slnt" xvalue="-12"/>
+        </input>
+        <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
+            <dimension name="XOPQ" xvalue="96"/>
+            <dimension name="XOFI" xvalue="96"/>
+            <dimension name="XOUC" xvalue="96"/>
+            <dimension name="XOLC" xvalue="96"/>
+            <dimension name="XTRA" xvalue="463"/>
+            <dimension name="XTUC" xvalue="463"/>
+            <dimension name="XTLC" xvalue="463"/>
+            <dimension name="XTFI" xvalue="463"/>
+            <dimension name="XTSP" xvalue="0"/>
+            <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOLB" xvalue="132"/>
+            <dimension name="YOPQ" xvalue="79"/>
+            <dimension name="YOFI" xvalue="79"/>
+            <dimension name="YOUC" xvalue="79"/>
+            <dimension name="YOLC" xvalue="79"/>
+            <dimension name="BDSZ" xvalue="0"/>
+            <dimension name="YTAS" xvalue="728"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="526"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="246"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+            <dimension name="slnt" xvalue="3"/>
+        </input>
+        <output>
+            <dimension name="VANG" xvalue="-3"/>
+            <dimension name="VROT" xvalue="4"/>
+            <dimension name="XOPQ" xvalue="96"/>
+            <dimension name="XOFI" xvalue="96"/>
+            <dimension name="XOUC" xvalue="96"/>
+            <dimension name="XOLC" xvalue="96"/>
+            <dimension name="XTRA" xvalue="463"/>
+            <dimension name="XTUC" xvalue="463"/>
+            <dimension name="XTLC" xvalue="463"/>
+            <dimension name="XTFI" xvalue="463"/>
+            <dimension name="XTSP" xvalue="0"/>
+            <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOLB" xvalue="132"/>
+            <dimension name="YOPQ" xvalue="79"/>
+            <dimension name="YOFI" xvalue="79"/>
+            <dimension name="YOUC" xvalue="79"/>
+            <dimension name="YOLC" xvalue="79"/>
+            <dimension name="BDSZ" xvalue="0"/>
+            <dimension name="YTAS" xvalue="728"/>
+            <dimension name="YTDE" xvalue="-208"/>
+            <dimension name="YTFI" xvalue="743"/>
+            <dimension name="YTLC" xvalue="526"/>
+            <dimension name="YTOS" xvalue="30"/>
+            <dimension name="YTUC" xvalue="728"/>
+            <dimension name="YTTL" xvalue="25"/>
+            <dimension name="XTTW" xvalue="5"/>
+            <dimension name="XTUR" xvalue="463"/>
+            <dimension name="WDSP" xvalue="246"/>
+            <dimension name="BARS" xvalue="1000"/>
+            <dimension name="XTUD" xvalue="463"/>
+            <dimension name="STUI" xvalue="92"/>
+            <dimension name="STUO" xvalue="92"/>
+            <dimension name="STLI" xvalue="32"/>
+            <dimension name="STLO" xvalue="32"/>
+        </output>
+      </mapping>
       
       <!-- XTRA BLENDED AXIS DEFINITION -->
       <mapping>
@@ -1223,6 +1501,8 @@
             <dimension name="XTRA" xvalue="244"/>
         </input>
         <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
             <dimension name="XOPQ" xvalue="96"/>
             <dimension name="XOFI" xvalue="96"/>
             <dimension name="XOUC" xvalue="96"/>
@@ -1233,6 +1513,7 @@
             <dimension name="XTFI" xvalue="244"/>
             <dimension name="XTSP" xvalue="0"/>
             <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOLB" xvalue="132"/>
             <dimension name="YOPQ" xvalue="79"/>
             <dimension name="YOFI" xvalue="79"/>
             <dimension name="YOUC" xvalue="79"/>
@@ -1261,6 +1542,8 @@
             <dimension name="XTRA" xvalue="741"/>
         </input>
         <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
             <dimension name="XOPQ" xvalue="96"/>
             <dimension name="XOFI" xvalue="96"/>
             <dimension name="XOUC" xvalue="96"/>
@@ -1271,6 +1554,7 @@
             <dimension name="XTFI" xvalue="741"/>
             <dimension name="XTSP" xvalue="0"/>
             <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOLB" xvalue="132"/>
             <dimension name="YOPQ" xvalue="79"/>
             <dimension name="YOFI" xvalue="79"/>
             <dimension name="YOUC" xvalue="79"/>
@@ -1301,6 +1585,8 @@
             <dimension name="XOPQ" xvalue="2"/>
         </input>
         <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
             <dimension name="XOPQ" xvalue="2"/>
             <dimension name="XOFI" xvalue="2"/>
             <dimension name="XOUC" xvalue="2"/>
@@ -1311,6 +1597,7 @@
             <dimension name="XTFI" xvalue="463"/>
             <dimension name="XTSP" xvalue="0"/>
             <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOLB" xvalue="132"/>
             <dimension name="YOPQ" xvalue="79"/>
             <dimension name="YOFI" xvalue="79"/>
             <dimension name="YOUC" xvalue="79"/>
@@ -1339,6 +1626,8 @@
             <dimension name="XOPQ" xvalue="310"/>
         </input>
         <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
             <dimension name="XOPQ" xvalue="310"/>
             <dimension name="XOFI" xvalue="310"/>
             <dimension name="XOUC" xvalue="310"/>
@@ -1349,6 +1638,7 @@
             <dimension name="XTFI" xvalue="463"/>
             <dimension name="XTSP" xvalue="0"/>
             <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOLB" xvalue="132"/>
             <dimension name="YOPQ" xvalue="79"/>
             <dimension name="YOFI" xvalue="79"/>
             <dimension name="YOUC" xvalue="79"/>
@@ -1379,6 +1669,8 @@
             <dimension name="YOPQ" xvalue="2"/>
         </input>
         <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
             <dimension name="XOPQ" xvalue="96"/>
             <dimension name="XOFI" xvalue="96"/>
             <dimension name="XOUC" xvalue="96"/>
@@ -1389,6 +1681,7 @@
             <dimension name="XTFI" xvalue="463"/>
             <dimension name="XTSP" xvalue="0"/>
             <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOLB" xvalue="132"/>
             <dimension name="YOPQ" xvalue="2"/>
             <dimension name="YOFI" xvalue="2"/>
             <dimension name="YOUC" xvalue="2"/>
@@ -1417,6 +1710,8 @@
             <dimension name="YOPQ" xvalue="280"/>
         </input>
         <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
             <dimension name="XOPQ" xvalue="96"/>
             <dimension name="XOFI" xvalue="96"/>
             <dimension name="XOUC" xvalue="96"/>
@@ -1427,6 +1722,7 @@
             <dimension name="XTFI" xvalue="463"/>
             <dimension name="XTSP" xvalue="0"/>
             <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOLB" xvalue="132"/>
             <dimension name="YOPQ" xvalue="280"/>
             <dimension name="YOFI" xvalue="280"/>
             <dimension name="YOUC" xvalue="280"/>
@@ -1456,6 +1752,8 @@
             <dimension name="BDSZ" xvalue="-1"/>
         </input>
         <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
             <dimension name="XOPQ" xvalue="96"/>
             <dimension name="XOFI" xvalue="96"/>
             <dimension name="XOUC" xvalue="96"/>
@@ -1466,6 +1764,7 @@
             <dimension name="XTFI" xvalue="463"/>
             <dimension name="XTSP" xvalue="0"/>
             <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOLB" xvalue="132"/>
             <dimension name="YOPQ" xvalue="79"/>
             <dimension name="YOFI" xvalue="79"/>
             <dimension name="YOUC" xvalue="79"/>
@@ -1494,6 +1793,8 @@
             <dimension name="BDSZ" xvalue="1.4"/>
         </input>
         <output>
+            <dimension name="VANG" xvalue="0"/>
+            <dimension name="VROT" xvalue="0"/>
             <dimension name="XOPQ" xvalue="96"/>
             <dimension name="XOFI" xvalue="96"/>
             <dimension name="XOUC" xvalue="96"/>
@@ -1504,6 +1805,7 @@
             <dimension name="XTFI" xvalue="463"/>
             <dimension name="XTSP" xvalue="0"/>
             <dimension name="YOPE" xvalue="79"/>
+            <dimension name="YOLB" xvalue="132"/>
             <dimension name="YOPQ" xvalue="79"/>
             <dimension name="YOFI" xvalue="79"/>
             <dimension name="YOUC" xvalue="79"/>
@@ -1531,19 +1833,21 @@
     </mappings>
   </axes>
   
-  
   <sources>
     <source filename="Roboto-Delta-wght400.ufo" familyname="Roboto Delta" stylename="Regular">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="WDSP" xvalue="246"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -1560,6 +1864,7 @@
         <dimension name="XTUD" xvalue="463"/>
         <dimension name="XTUR" xvalue="463"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="XOUC" xvalue="96"/>
         <dimension name="XOLC" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
@@ -1574,15 +1879,18 @@
     </source>
     <source filename="Roboto-Delta-GRAD-250.ufo" familyname="Roboto Delta" stylename="GRAD-250">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="-250"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="WDSP" xvalue="246"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -1599,6 +1907,7 @@
         <dimension name="XTUD" xvalue="463"/>
         <dimension name="XTUR" xvalue="463"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="XOUC" xvalue="96"/>
         <dimension name="XOLC" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
@@ -1613,15 +1922,18 @@
     </source>
     <source filename="Roboto-Delta-GRAD150.ufo" familyname="Roboto Delta" stylename="GRAD150">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="150"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="XTRA" xvalue="463"/>
         <dimension name="WDSP" xvalue="246"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
         <dimension name="YTAS" xvalue="728"/>
         <dimension name="YTDE" xvalue="-208"/>
         <dimension name="YTFI" xvalue="743"/>
@@ -1638,6 +1950,7 @@
         <dimension name="XTUD" xvalue="463"/>
         <dimension name="XTUR" xvalue="463"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="XOUC" xvalue="96"/>
         <dimension name="XOLC" xvalue="96"/>
         <dimension name="XOFI" xvalue="96"/>
@@ -1650,12 +1963,151 @@
         <dimension name="BDSZ" xvalue="0"/>
       </location>
     </source>
+    <source filename="Roboto-Delta-VANG-3.ufo" familyname="Roboto Delta" stylename="VANG-3">
+      <location>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="-3"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOFI" xvalue="96"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XOLC" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="XTLC" xvalue="463"/>
+        <dimension name="XTFI" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YOFI" xvalue="79"/>
+        <dimension name="YOUC" xvalue="79"/>
+        <dimension name="YOLC" xvalue="79"/>
+        <dimension name="BDSZ" xvalue="0"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="Roboto-Delta-VANG13.ufo" familyname="Roboto Delta" stylename="VANG13">
+      <location>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="13"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOFI" xvalue="96"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XOLC" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="XTLC" xvalue="463"/>
+        <dimension name="XTFI" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YOFI" xvalue="79"/>
+        <dimension name="YOUC" xvalue="79"/>
+        <dimension name="YOLC" xvalue="79"/>
+        <dimension name="BDSZ" xvalue="0"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="Roboto-Delta-VROT13.ufo" familyname="Roboto Delta" stylename="VROT13" layer="foreground">
+      <location>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="13"/>
+        <dimension name="VROT" xvalue="13"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOFI" xvalue="96"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XOLC" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="XTLC" xvalue="463"/>
+        <dimension name="XTFI" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YOFI" xvalue="79"/>
+        <dimension name="YOUC" xvalue="79"/>
+        <dimension name="YOLC" xvalue="79"/>
+        <dimension name="BDSZ" xvalue="0"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
     
     <source filename="Roboto-Delta-XOFI2.ufo" familyname="Roboto Delta" stylename="XOFI2">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -1668,6 +2120,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -1693,9 +2146,13 @@
     </source>
     <source filename="Roboto-Delta-XOFI310.ufo" familyname="Roboto Delta" stylename="XOFI310">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -1708,6 +2165,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -1733,9 +2191,13 @@
     </source>
     <source filename="Roboto-Delta-XOUC2.ufo" familyname="Roboto Delta" stylename="XOUC2">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -1748,6 +2210,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -1773,9 +2236,13 @@
     </source>
     <source filename="Roboto-Delta-XOUC310.ufo" familyname="Roboto Delta" stylename="XOUC310">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -1788,6 +2255,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -1813,9 +2281,13 @@
     </source>
     <source filename="Roboto-Delta-XOLC2.ufo" familyname="Roboto Delta" stylename="XOLC2">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -1828,6 +2300,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -1853,9 +2326,13 @@
     </source>
     <source filename="Roboto-Delta-XOLC310.ufo" familyname="Roboto Delta" stylename="XOLC310">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -1868,6 +2345,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -1896,9 +2374,13 @@
     
     <source filename="Roboto-Delta-XTUC244.ufo" familyname="Roboto Delta" stylename="XTUC244">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -1912,6 +2394,7 @@
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
@@ -1936,9 +2419,13 @@
     </source>
     <source filename="Roboto-Delta-XTUC244-opsz144-wdth25-wght100.ufo" familyname="Roboto Delta" stylename="XTUC244-opsz144-wdth25-wght100">
       <location>
-        <dimension name="Optical size" xvalue="1"/>
-        <dimension name="Weight" xvalue="100"/>
-        <dimension name="Width" xvalue="25"/>
+        <dimension name="opsz" xvalue="1"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="100"/>
+        <dimension name="wdth" xvalue="25"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -1951,7 +2438,54 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YOFI" xvalue="79"/>
+        <dimension name="YOUC" xvalue="79"/>
+        <dimension name="YOLC" xvalue="79"/>
+        <dimension name="BDSZ" xvalue="0"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="Roboto-Delta-XTUC244-opsz144-wdth25-wght400.ufo" familyname="Roboto Delta" stylename="XTUC244-opsz144-wdth25-wght400" layer="foreground">
+      <kerning copy="1"/>
+      <location>
+        <dimension name="opsz" xvalue="1"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="25"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOFI" xvalue="96"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XOLC" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTUC" xvalue="244"/>
+        <dimension name="XTLC" xvalue="463"/>
+        <dimension name="XTFI" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
@@ -1976,9 +2510,13 @@
     </source>
     <source filename="Roboto-Delta-XTUC741.ufo" familyname="Roboto Delta" stylename="XTUC741">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -1991,6 +2529,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -2016,9 +2555,13 @@
     </source>
     <source filename="Roboto-Delta-XTUC741-opsz144-wdth151-wght100.ufo" familyname="Roboto Delta" stylename="XTUC741-opsz144-wdth151-wght100">
       <location>
-        <dimension name="Optical size" xvalue="1"/>
-        <dimension name="Weight" xvalue="100"/>
-        <dimension name="Width" xvalue="151"/>
+        <dimension name="opsz" xvalue="1"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="100"/>
+        <dimension name="wdth" xvalue="151"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -2031,6 +2574,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -2058,9 +2602,13 @@
     
     <source filename="Roboto-Delta-XTLC244.ufo" familyname="Roboto Delta" stylename="XTLC244">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -2074,6 +2622,7 @@
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
@@ -2098,9 +2647,13 @@
     </source>
     <source filename="Roboto-Delta-XTLC244-opsz144-wdth25-wght100.ufo" familyname="Roboto Delta" stylename="XTLC244-opsz144-wdth25-wght100">
       <location>
-        <dimension name="Optical size" xvalue="1"/>
-        <dimension name="Weight" xvalue="100"/>
-        <dimension name="Width" xvalue="25"/>
+        <dimension name="opsz" xvalue="1"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="100"/>
+        <dimension name="wdth" xvalue="25"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -2113,6 +2666,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -2136,11 +2690,62 @@
         <dimension name="STLO" xvalue="32"/>
       </location>
     </source>
+    <!-- <source filename="Roboto-Delta-XTLC244-opsz144-wdth25-wght400.ufo" familyname="Roboto Delta" stylename="XTLC244-opsz144-wdth25-wght400" layer="foreground">
+      <kerning copy="1"/>
+      <location>
+        <dimension name="opsz" xvalue="1"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="XOFI" xvalue="96"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XOLC" xvalue="96"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="XTLC" xvalue="244"/>
+        <dimension name="XTFI" xvalue="463"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
+        <dimension name="YOFI" xvalue="79"/>
+        <dimension name="YOUC" xvalue="79"/>
+        <dimension name="YOLC" xvalue="79"/>
+        <dimension name="BDSZ" xvalue="0"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source> -->
+    
     <source filename="Roboto-Delta-XTLC741.ufo" familyname="Roboto Delta" stylename="XTLC741">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -2153,6 +2758,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -2178,9 +2784,13 @@
     </source>
     <source filename="Roboto-Delta-XTLC741-opsz144-wdth151-wght100.ufo" familyname="Roboto Delta" stylename="XTLC741-opsz144-wdth151-wght100">
       <location>
-        <dimension name="Optical size" xvalue="1"/>
-        <dimension name="Weight" xvalue="100"/>
-        <dimension name="Width" xvalue="151"/>
+        <dimension name="opsz" xvalue="1"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="100"/>
+        <dimension name="wdth" xvalue="151"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -2193,6 +2803,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -2220,9 +2831,13 @@
     
     <source filename="Roboto-Delta-XTFI244.ufo" familyname="Roboto Delta" stylename="XTFI244">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -2236,6 +2851,7 @@
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
         <dimension name="YOLC" xvalue="79"/>
@@ -2260,9 +2876,13 @@
     </source>
     <source filename="Roboto-Delta-XTFI244-opsz144-wdth25-wght100.ufo" familyname="Roboto Delta" stylename="XTFI244-opsz144-wdth25-wght100">
       <location>
-        <dimension name="Optical size" xvalue="1"/>
-        <dimension name="Weight" xvalue="100"/>
-        <dimension name="Width" xvalue="25"/>
+        <dimension name="opsz" xvalue="1"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="100"/>
+        <dimension name="wdth" xvalue="25"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -2275,6 +2895,7 @@
         <dimension name="XTFI" xvalue="244"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -2300,9 +2921,13 @@
     </source>
     <source filename="Roboto-Delta-XTFI741.ufo" familyname="Roboto Delta" stylename="XTFI741">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -2315,6 +2940,7 @@
         <dimension name="XTFI" xvalue="741"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -2340,9 +2966,13 @@
     </source>
     <source filename="Roboto-Delta-XTFI741-opsz144-wdth151-wght100.ufo" familyname="Roboto Delta" stylename="XTFI741-opsz144-wdth151-wght100">
       <location>
-        <dimension name="Optical size" xvalue="1"/>
-        <dimension name="Weight" xvalue="100"/>
-        <dimension name="Width" xvalue="151"/>
+        <dimension name="opsz" xvalue="1"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="100"/>
+        <dimension name="wdth" xvalue="151"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -2355,6 +2985,7 @@
         <dimension name="XTFI" xvalue="741"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -2390,9 +3021,13 @@
     
     <source filename="Roboto-Delta-XTSP-100.ufo" familyname="Roboto Delta" stylename="XTSP-100">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -2405,6 +3040,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="-100"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -2430,9 +3066,13 @@
     </source>
     <source filename="Roboto-Delta-XTSP100.ufo" familyname="Roboto Delta" stylename="XTSP100">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -2445,6 +3085,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="100"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -2472,9 +3113,13 @@
     
     <source filename="Roboto-Delta-YOFI2.ufo" familyname="Roboto Delta" stylename="YOFI2">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -2487,6 +3132,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="2"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -2512,9 +3158,13 @@
     </source>
     <source filename="Roboto-Delta-YOFI280.ufo" familyname="Roboto Delta" stylename="YOFI280">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -2527,6 +3177,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="280"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -2552,9 +3203,13 @@
     </source>
     <source filename="Roboto-Delta-YOUC2.ufo" familyname="Roboto Delta" stylename="YOUC2">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -2567,6 +3222,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="2"/>
@@ -2592,9 +3248,13 @@
     </source>
     <source filename="Roboto-Delta-YOUC280.ufo" familyname="Roboto Delta" stylename="YOUC280">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -2607,6 +3267,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="280"/>
@@ -2632,9 +3293,13 @@
     </source>
     <source filename="Roboto-Delta-YOLC2.ufo" familyname="Roboto Delta" stylename="YOLC2">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -2647,6 +3312,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -2672,9 +3338,13 @@
     </source>
     <source filename="Roboto-Delta-YOLC280.ufo" familyname="Roboto Delta" stylename="YOLC280">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -2687,6 +3357,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -2714,9 +3385,13 @@
     
     <source filename="Roboto-Delta-YOPE280.ufo" familyname="Roboto Delta" stylename="YOPE280" layer="public.default">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -2752,11 +3427,59 @@
         <dimension name="STLO" xvalue="32"/>
       </location>
     </source>
+    <source filename="Roboto-Delta-YOLB280.ufo" familyname="Roboto Delta" stylename="YOLB280" layer="foreground">
+      <location>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="XTRA" xvalue="463"/>
+        <dimension name="WDSP" xvalue="246"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-208"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="526"/>
+        <dimension name="YTOS" xvalue="30"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="25"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="280"/>
+        <dimension name="XOUC" xvalue="96"/>
+        <dimension name="XOLC" xvalue="96"/>
+        <dimension name="XOFI" xvalue="96"/>
+        <dimension name="XTUC" xvalue="463"/>
+        <dimension name="XTLC" xvalue="463"/>
+        <dimension name="XTFI" xvalue="463"/>
+        <dimension name="YOUC" xvalue="79"/>
+        <dimension name="YOLC" xvalue="79"/>
+        <dimension name="YOFI" xvalue="79"/>
+        <dimension name="BDSZ" xvalue="0"/>
+      </location>
+    </source>
+    
     <source filename="Roboto-Delta-YTAS665.ufo" familyname="Roboto Delta" stylename="YTAS665">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -2769,6 +3492,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -2794,9 +3518,13 @@
     </source>
     <source filename="Roboto-Delta-YTAS875.ufo" familyname="Roboto Delta" stylename="YTAS875">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -2809,6 +3537,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -2834,9 +3563,13 @@
     </source>
     <source filename="Roboto-Delta-YTDE-100.ufo" familyname="Roboto Delta" stylename="YTDE-100">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -2849,6 +3582,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -2874,9 +3608,13 @@
     </source>
     <source filename="Roboto-Delta-YTDE-310.ufo" familyname="Roboto Delta" stylename="YTDE-310">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -2889,6 +3627,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -2914,9 +3653,13 @@
     </source>
     <source filename="Roboto-Delta-YTFI270.ufo" familyname="Roboto Delta" stylename="YTFI270">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -2929,6 +3672,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -2954,9 +3698,13 @@
     </source>
     <source filename="Roboto-Delta-YTFI793.ufo" familyname="Roboto Delta" stylename="YTFI793">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -2969,6 +3717,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -2994,9 +3743,13 @@
     </source>
     <source filename="Roboto-Delta-YTLC426.ufo" familyname="Roboto Delta" stylename="YTLC426">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -3009,6 +3762,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -3034,9 +3788,13 @@
     </source>
     <source filename="Roboto-Delta-YTLC584.ufo" familyname="Roboto Delta" stylename="YTLC584">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -3049,6 +3807,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -3074,9 +3833,13 @@
     </source>
     <source filename="Roboto-Delta-YTOS0.ufo" familyname="Roboto Delta" stylename="YTOS0">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -3089,6 +3852,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -3114,9 +3878,13 @@
     </source>
     <source filename="Roboto-Delta-YTOS50.ufo" familyname="Roboto Delta" stylename="YTOS50">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -3129,6 +3897,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -3154,9 +3923,13 @@
     </source>
     <source filename="Roboto-Delta-YTUC528.ufo" familyname="Roboto Delta" stylename="YTUC528">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -3169,6 +3942,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -3194,9 +3968,13 @@
     </source>
     <source filename="Roboto-Delta-YTUC778.ufo" familyname="Roboto Delta" stylename="YTUC778">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -3209,6 +3987,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -3234,9 +4013,13 @@
     </source>
     <source filename="Roboto-Delta-YTTL50.ufo" familyname="Roboto Delta" stylename="YTTL50">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -3249,6 +4032,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -3274,9 +4058,13 @@
     </source>
     <source filename="Roboto-Delta-YTTL0.ufo" familyname="Roboto Delta" stylename="YTTL0">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -3289,6 +4077,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -3314,9 +4103,13 @@
     </source>
     <source filename="Roboto-Delta-XTTW30.ufo" familyname="Roboto Delta" stylename="XTTW30">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -3329,6 +4122,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -3354,9 +4148,13 @@
     </source>
     <source filename="Roboto-Delta-XTTW0.ufo" familyname="Roboto Delta" stylename="XTTW0">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -3369,6 +4167,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -3394,9 +4193,13 @@
     </source>
     <source filename="Roboto-Delta-XTUR741.ufo" familyname="Roboto Delta" stylename="XTUR741" layer="foreground">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -3409,6 +4212,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -3434,9 +4238,13 @@
     </source>
     <source filename="Roboto-Delta-WDSP0.ufo" familyname="Roboto Delta" stylename="WDSP0" layer="foreground">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -3449,6 +4257,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -3474,9 +4283,13 @@
     </source>
     <source filename="Roboto-Delta-WDSP1000.ufo" familyname="Roboto Delta" stylename="WDSP1000" layer="foreground">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -3489,6 +4302,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -3514,9 +4328,13 @@
     </source>
     <source filename="Roboto-Delta-BARS0.ufo" familyname="Roboto Delta" stylename="BARS0" layer="foreground">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -3529,6 +4347,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -3554,9 +4373,13 @@
     </source>
     <source filename="Roboto-Delta-XTUD741.ufo" familyname="Roboto Delta" stylename="XTUD741" layer="foreground">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -3569,6 +4392,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -3594,9 +4418,13 @@
     </source>
     <source filename="Roboto-Delta-STLI2.ufo" familyname="Roboto Delta" stylename="STLI2">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -3609,6 +4437,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -3634,9 +4463,13 @@
     </source>
     <source filename="Roboto-Delta-STLI412.ufo" familyname="Roboto Delta" stylename="STLI412">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -3649,6 +4482,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -3674,9 +4508,13 @@
     </source>
     <source filename="Roboto-Delta-STLO2.ufo" familyname="Roboto Delta" stylename="STLO2">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -3689,6 +4527,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -3714,9 +4553,13 @@
     </source>
     <source filename="Roboto-Delta-STLO426.ufo" familyname="Roboto Delta" stylename="STLO426">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -3729,6 +4572,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -3754,9 +4598,13 @@
     </source>
     <source filename="Roboto-Delta-STUI2.ufo" familyname="Roboto Delta" stylename="STUI2">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -3769,6 +4617,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -3794,9 +4643,13 @@
     </source>
     <source filename="Roboto-Delta-STUI736.ufo" familyname="Roboto Delta" stylename="STUI736">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -3809,6 +4662,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -3834,9 +4688,13 @@
     </source>
     <source filename="Roboto-Delta-STUO2.ufo" familyname="Roboto Delta" stylename="STUO2">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -3849,6 +4707,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -3874,9 +4733,13 @@
     </source>
     <source filename="Roboto-Delta-STUO722.ufo" familyname="Roboto Delta" stylename="STU0722">
       <location>
-        <dimension name="Optical size" xvalue="0"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
         <dimension name="GRAD" xvalue="0"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="XOPQ" xvalue="96"/>
@@ -3889,6 +4752,7 @@
         <dimension name="XTFI" xvalue="463"/>
         <dimension name="XTSP" xvalue="0"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="YOUC" xvalue="79"/>
@@ -3916,10 +4780,13 @@
     <source filename="instances/Roboto-Delta-opsz144-wdth25-wght100.ufo" familyname="Roboto Delta" stylename="opsz144-wdth25-wght100">
       <kerning copy="1"/>
       <location>
-        <dimension name="Optical size" xvalue="1"/>
-        <dimension name="Weight" xvalue="100"/>
-        <dimension name="Width" xvalue="25"/>
+        <dimension name="opsz" xvalue="1"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="100"/>
+        <dimension name="wdth" xvalue="25"/>
         <dimension name="GRAD" xvalue="0"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
         <dimension name="XOPQ" xvalue="2"/>
         <dimension name="XOFI" xvalue="2"/>
         <dimension name="XOUC" xvalue="2"/>
@@ -3930,6 +4797,7 @@
         <dimension name="XTFI" xvalue="278"/>
         <dimension name="XTSP" xvalue="-75"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="2"/>
         <dimension name="YOFI" xvalue="2"/>
         <dimension name="YOUC" xvalue="2"/>
@@ -3958,10 +4826,13 @@
     <source filename="instances/Roboto-Delta-opsz144-wdth25-wght400.ufo" familyname="Roboto Delta" stylename="opsz144-wdth25-wght400">
       <kerning copy="1"/>
       <location>
-        <dimension name="Optical size" xvalue="1"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="25"/>
+        <dimension name="opsz" xvalue="1"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="25"/>
         <dimension name="GRAD" xvalue="0"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
         <dimension name="XOPQ" xvalue="48"/>
         <dimension name="XOFI" xvalue="48"/>
         <dimension name="XOUC" xvalue="48"/>
@@ -3972,6 +4843,7 @@
         <dimension name="XTFI" xvalue="267"/>
         <dimension name="XTSP" xvalue="-70"/>
         <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
         <dimension name="YOPQ" xvalue="48"/>
         <dimension name="YOFI" xvalue="48"/>
         <dimension name="YOUC" xvalue="48"/>
@@ -3999,10 +4871,13 @@
     <source filename="instances/Roboto-Delta-opsz144-wdth25-wght1000.ufo" familyname="Roboto Delta" stylename="opsz144-wdth25-wght1000">
       <kerning copy="1"/>
       <location>
-        <dimension name="Optical size" xvalue="1"/>
-        <dimension name="Weight" xvalue="1000"/>
-        <dimension name="Width" xvalue="25"/>
+        <dimension name="opsz" xvalue="1"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="wdth" xvalue="25"/>
         <dimension name="GRAD" xvalue="0"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
         <dimension name="XOPQ" xvalue="248"/>
         <dimension name="XOFI" xvalue="248"/>
         <dimension name="XOUC" xvalue="248"/>
@@ -4040,129 +4915,6 @@
     </source>
   </sources>
   
-  <instances>
-    <instance familyname="Roboto-Delta" stylename="144 25 100" filename="instances/Roboto-Delta-144-25-100.ufo">
-      <location>
-        <dimension name="Optical size" xvalue="1"/>
-        <dimension name="Weight" xvalue="100"/>
-        <dimension name="Width" xvalue="25"/>
-        <dimension name="GRAD" xvalue="0"/>
-        <dimension name="XOPQ" xvalue="2"/>
-        <dimension name="XOFI" xvalue="2"/>
-        <dimension name="XOUC" xvalue="2"/>
-        <dimension name="XOLC" xvalue="2"/>
-        <dimension name="XTRA" xvalue="278"/>
-        <dimension name="XTUC" xvalue="278"/>
-        <dimension name="XTLC" xvalue="278"/>
-        <dimension name="XTFI" xvalue="278"/>
-        <dimension name="XTSP" xvalue="-75"/>
-        <dimension name="YOPE" xvalue="79"/>
-        <dimension name="YOPQ" xvalue="2"/>
-        <dimension name="YOFI" xvalue="2"/>
-        <dimension name="YOUC" xvalue="2"/>
-        <dimension name="YOLC" xvalue="2"/>
-        <dimension name="BDSZ" xvalue="0"/>
-        <dimension name="YTAS" xvalue="756"/>
-        <!-- EXCEPTION ASCENDERS FOR LEGIBILITY -->
-        <dimension name="YTDE" xvalue="-155"/>
-        <dimension name="YTFI" xvalue="743"/>
-        <dimension name="YTLC" xvalue="458"/>
-        <dimension name="YTOS" xvalue="2"/>
-        <dimension name="YTUC" xvalue="728"/>
-        <dimension name="YTTL" xvalue="0"/>
-        <dimension name="XTTW" xvalue="0"/>
-        <dimension name="XTUR" xvalue="463"/>
-        <dimension name="WDSP" xvalue="70"/>
-        <!-- BARS EXCEPTION TO OPEN BARS FOR $¢Øø -->
-        <dimension name="BARS" xvalue="1000"/>
-        <dimension name="XTUD" xvalue="463"/>
-        <dimension name="STUI" xvalue="736"/>
-        <dimension name="STUO" xvalue="722"/>
-        <dimension name="STLI" xvalue="412"/>
-        <dimension name="STLO" xvalue="426"/>
-      </location>
-    </instance>
-    <instance familyname="Roboto-Delta" stylename="144 25 400" filename="instances/Roboto-Delta-144-25-400.ufo">
-      <location>
-        <dimension name="Optical size" xvalue="1"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="25"/>
-        <dimension name="GRAD" xvalue="0"/>
-        <dimension name="XOPQ" xvalue="48"/>
-        <dimension name="XOFI" xvalue="48"/>
-        <dimension name="XOUC" xvalue="48"/>
-        <dimension name="XOLC" xvalue="48"/>
-        <dimension name="XTRA" xvalue="267"/>
-        <dimension name="XTUC" xvalue="267"/>
-        <dimension name="XTLC" xvalue="267"/>
-        <dimension name="XTFI" xvalue="267"/>
-        <dimension name="XTSP" xvalue="-70"/>
-        <dimension name="YOPE" xvalue="79"/>
-        <dimension name="YOPQ" xvalue="48"/>
-        <dimension name="YOFI" xvalue="48"/>
-        <dimension name="YOUC" xvalue="48"/>
-        <dimension name="YOLC" xvalue="48"/>
-        <dimension name="BDSZ" xvalue="0"/>
-        <dimension name="YTAS" xvalue="728"/>
-        <dimension name="YTDE" xvalue="-155"/>
-        <dimension name="YTFI" xvalue="743"/>
-        <dimension name="YTLC" xvalue="458"/>
-        <dimension name="YTOS" xvalue="5"/>
-        <dimension name="YTUC" xvalue="728"/>
-        <dimension name="YTTL" xvalue="0"/>
-        <dimension name="XTTW" xvalue="0"/>
-        <dimension name="XTUR" xvalue="463"/>
-        <dimension name="WDSP" xvalue="70"/>
-        <!-- BARS EXCEPTION TO OPEN BARS FOR $¢Øø -->
-        <dimension name="BARS" xvalue="0"/>
-        <dimension name="XTUD" xvalue="463"/>
-        <dimension name="STUI" xvalue="566"/>
-        <dimension name="STUO" xvalue="722"/>
-        <dimension name="STLI" xvalue="330"/>
-        <dimension name="STLO" xvalue="340"/>
-      </location>
-    </instance>
-    <instance familyname="Roboto-Delta" stylename="144 25 1000" filename="instances/Roboto-Delta-144-25-1000.ufo">
-      <location>
-        <dimension name="Optical size" xvalue="1"/>
-        <dimension name="Weight" xvalue="1000"/>
-        <dimension name="Width" xvalue="25"/>
-        <dimension name="GRAD" xvalue="0"/>
-        <dimension name="XOPQ" xvalue="248"/>
-        <dimension name="XOFI" xvalue="248"/>
-        <dimension name="XOUC" xvalue="248"/>
-        <dimension name="XOLC" xvalue="248"/>
-        <dimension name="XTRA" xvalue="244"/>
-        <dimension name="XTUC" xvalue="244"/>
-        <dimension name="XTLC" xvalue="244"/>
-        <dimension name="XTFI" xvalue="244"/>
-        <dimension name="XTSP" xvalue="-100"/>
-        <dimension name="YOPE" xvalue="116"/>
-        <dimension name="YOPQ" xvalue="200"/>
-        <dimension name="YOFI" xvalue="200"/>
-        <dimension name="YOUC" xvalue="200"/>
-        <dimension name="YOLC" xvalue="200"/>
-        <dimension name="BDSZ" xvalue="0"/>
-        <dimension name="YTAS" xvalue="728"/>
-        <dimension name="YTDE" xvalue="-155"/>
-        <dimension name="YTFI" xvalue="743"/>
-        <dimension name="YTLC" xvalue="458"/>
-        <dimension name="YTOS" xvalue="15"/>
-        <dimension name="YTUC" xvalue="728"/>
-        <dimension name="YTTL" xvalue="0"/>
-        <dimension name="XTTW" xvalue="0"/>
-        <dimension name="XTUR" xvalue="463"/>
-        <dimension name="WDSP" xvalue="250"/>
-        <!-- BARS EXCEPTION TO OPEN BARS FOR $¢Øø -->
-        <dimension name="BARS" xvalue="0"/>
-        <!-- XTUD EXCEPTION TO OPEN TRANSPARENCY FOR UPPERCASE DIAGONALS -->
-        <dimension name="XTUD" xvalue="515"/>
-        <dimension name="STUI" xvalue="180"/>
-        <dimension name="STUO" xvalue="256"/>
-        <dimension name="STLI" xvalue="32"/>
-        <dimension name="STLO" xvalue="80"/>
-      </location>
-    </instance>
-  </instances>
+
 
 </designspace>

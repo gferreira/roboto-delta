@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 	<dict>
+		<key>com.typemytype.robofont.binarySource</key>
+		<string>/Users/SO/Desktop/Typemade/TypeDesign/FB/Roboto/roboto-flex-avar2-SO/source/Parametric-avar2/instances/Roboto-Delta-opsz144-wdth25-wght100-KERNING-TEMP.ttf</string>
 		<key>com.typemytype.robofont.compileSettings.autohint</key>
 		<true/>
 		<key>com.typemytype.robofont.compileSettings.checkOutlines</key>
@@ -16,8 +18,6 @@
 		<false/>
 		<key>com.typemytype.robofont.italicSlantOffset</key>
 		<integer>0</integer>
-		<key>com.typemytype.robofont.segmentType</key>
-		<string>qcurve</string>
 		<key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
 		<integer>1</integer>
 		<key>com.typesupply.metricsMachine4.groupColors</key>
@@ -880,6 +880,25 @@
 		<key>public.glyphOrder</key>
 		<array>
 			<string>space</string>
+			<string>A</string>
+			<string>V</string>
 		</array>
+		<key>public.truetype.instructions</key>
+		<dict>
+			<key>formatVersion</key>
+			<string>1</string>
+			<key>maxFunctionDefs</key>
+			<integer>0</integer>
+			<key>maxInstructionDefs</key>
+			<integer>0</integer>
+			<key>maxStackElements</key>
+			<integer>0</integer>
+			<key>maxStorage</key>
+			<integer>0</integer>
+			<key>maxTwilightPoints</key>
+			<integer>0</integer>
+			<key>maxZones</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 </plist>
