@@ -1057,5 +1057,8 @@
 			<string>yu-dash</string>
 			<string>idot</string>
 		</array>
+		<key>public.skipExportGlyphs</key>
+		<array>
+		</array>
 	</dict>
 </plist>

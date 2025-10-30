@@ -475,8 +475,6 @@
 			<string>comma</string>
 			<string>ellipsis</string>
 			<string>period</string>
-			<string>quotedblbase</string>
-			<string>quotesinglbase</string>
 		</array>
 		<key>public.kern1.copyright</key>
 		<array>
@@ -533,21 +531,7 @@
 		</array>
 		<key>public.kern1.gamma</key>
 		<array>
-			<string>ymacron</string>
-			<string>ydotbelow</string>
-			<string>yhookabove</string>
-			<string>ytilde</string>
 			<string>v</string>
-			<string>y</string>
-			<string>yacute</string>
-			<string>ycircumflex</string>
-			<string>ydieresis</string>
-			<string>ygrave</string>
-			<string>ucyr</string>
-			<string>udieresiscyr</string>
-			<string>uhungarumlautcyr</string>
-			<string>umacroncyr</string>
-			<string>ushort</string>
 			<string>ustraight</string>
 			<string>ustraightstroke</string>
 			<string>gamma</string>
@@ -774,6 +758,11 @@
 			<string>percent</string>
 			<string>perthousand</string>
 		</array>
+		<key>public.kern1.quotes_base_curly_right</key>
+		<array>
+			<string>quotedblbase</string>
+			<string>quotesinglbase</string>
+		</array>
 		<key>public.kern1.quotes_curly_left</key>
 		<array>
 			<string>quotedblleft</string>
@@ -880,6 +869,23 @@
 			<string>ha</string>
 			<string>hastroke-cy</string>
 			<string>x</string>
+		</array>
+		<key>public.kern1.y_LC</key>
+		<array>
+			<string>ucyr</string>
+			<string>udieresiscyr</string>
+			<string>uhungarumlautcyr</string>
+			<string>umacroncyr</string>
+			<string>ushort</string>
+			<string>y</string>
+			<string>yacute</string>
+			<string>ycircumflex</string>
+			<string>ydieresis</string>
+			<string>ydotbelow</string>
+			<string>ygrave</string>
+			<string>yhookabove</string>
+			<string>ymacron</string>
+			<string>ytilde</string>
 		</array>
 		<key>public.kern1.z_LC</key>
 		<array>
@@ -1381,8 +1387,6 @@
 			<string>comma</string>
 			<string>ellipsis</string>
 			<string>period</string>
-			<string>quotedblbase</string>
-			<string>quotesinglbase</string>
 		</array>
 		<key>public.kern2.copyright</key>
 		<array>
@@ -1431,22 +1435,8 @@
 		</array>
 		<key>public.kern2.gamma</key>
 		<array>
-			<string>ymacron</string>
-			<string>ydotbelow</string>
-			<string>yhookabove</string>
-			<string>ytilde</string>
 			<string>v</string>
-			<string>y</string>
-			<string>yacute</string>
-			<string>ycircumflex</string>
-			<string>ydieresis</string>
-			<string>ygrave</string>
 			<string>nu</string>
-			<string>ucyr</string>
-			<string>udieresiscyr</string>
-			<string>uhungarumlautcyr</string>
-			<string>umacroncyr</string>
-			<string>ushort</string>
 			<string>ustraight</string>
 			<string>ustraightstroke</string>
 			<string>gamma</string>
@@ -1776,6 +1766,23 @@
 			<string>x</string>
 			<string>ha</string>
 			<string>hastroke-cy</string>
+		</array>
+		<key>public.kern2.y_LC</key>
+		<array>
+			<string>ucyr</string>
+			<string>udieresiscyr</string>
+			<string>uhungarumlautcyr</string>
+			<string>umacroncyr</string>
+			<string>ushort</string>
+			<string>y</string>
+			<string>yacute</string>
+			<string>ycircumflex</string>
+			<string>ydieresis</string>
+			<string>ydotbelow</string>
+			<string>ygrave</string>
+			<string>yhookabove</string>
+			<string>ymacron</string>
+			<string>ytilde</string>
 		</array>
 		<key>public.kern2.ya_LC</key>
 		<array>

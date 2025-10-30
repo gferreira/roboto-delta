@@ -4,7 +4,7 @@
 	<advance width="1088"/>
 	<outline>
 		<component base="H"/>
-		<component base="cy-descendercomb" xOffset="915"/>
+		<component base="Cy-descendercomb.case" xOffset="915"/>
 	</outline>
 	<lib>
 		<dict>

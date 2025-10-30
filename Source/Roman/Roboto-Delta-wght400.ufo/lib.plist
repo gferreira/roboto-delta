@@ -379,6 +379,13 @@
 				<integer>0</integer>
 				<real>0.25</real>
 			</array>
+			<key>public.kern1.quotes_base_curly_right</key>
+			<array>
+				<integer>1</integer>
+				<integer>0</integer>
+				<real>0.5</real>
+				<real>0.25</real>
+			</array>
 			<key>public.kern1.quotes_curly_left</key>
 			<array>
 				<integer>1</integer>
@@ -467,6 +474,13 @@
 			<array>
 				<integer>0</integer>
 				<integer>1</integer>
+				<integer>1</integer>
+				<real>0.25</real>
+			</array>
+			<key>public.kern1.y_LC</key>
+			<array>
+				<integer>1</integer>
+				<integer>0</integer>
 				<integer>1</integer>
 				<real>0.25</real>
 			</array>
@@ -895,6 +909,13 @@
 				<integer>0</integer>
 				<integer>0</integer>
 				<integer>1</integer>
+				<real>0.25</real>
+			</array>
+			<key>public.kern2.y_LC</key>
+			<array>
+				<integer>1</integer>
+				<integer>1</integer>
+				<integer>0</integer>
 				<real>0.25</real>
 			</array>
 			<key>public.kern2.ya_LC</key>
