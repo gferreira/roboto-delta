@@ -4,7 +4,7 @@
 	<advance width="586"/>
 	<outline>
 		<contour>
-			<point x="375" y="0" type="line"/>
+			<point x="386" y="0" type="line"/>
 			<point x="335" y="477" type="line"/>
 			<point x="449" y="603" type="line"/>
 			<point x="601" y="0" type="line"/>
@@ -12,7 +12,7 @@
 		<contour>
 			<point x="244" y="610" type="line"/>
 			<point x="336" y="610" type="line"/>
-			<point x="354" y="1052" type="line"/>
+			<point x="363" y="1052" type="line"/>
 			<point x="572" y="1052" type="line"/>
 			<point x="432" y="465" type="line"/>
 			<point x="244" y="465" type="line"/>
@@ -24,7 +24,7 @@
 			<point x="148" y="1052" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="top" x="406" y="1052"/>
+	<anchor name="top" x="346" y="1052"/>
 	<anchor name="cy_descender" x="399" y="0"/>
 	<guideline x="241" y="553" angle="90" identifier="lmgRx0QBdK"/>
 </glyph>

@@ -23,4 +23,10 @@
 		</contour>
 	</outline>
 	<anchor name="cy_descender" x="746.2588231042" y="0"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,1,1,0</string>
+		</dict>
+	</lib>
 </glyph>

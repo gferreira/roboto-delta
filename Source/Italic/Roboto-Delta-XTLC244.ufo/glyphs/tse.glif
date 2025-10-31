@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tse" format="2">
 	<unicode hex="0446"/>
-	<advance width="697"/>
+	<advance width="716"/>
 	<outline>
 		<contour>
-			<point x="296.8685514533" y="-270" type="line"/>
-			<point x="354.2588231042" y="0" type="line"/>
+			<point x="219.8685514533" y="-270" type="line"/>
+			<point x="277.2588231042" y="0" type="line"/>
 			<point x="-6.7411768958" y="0" type="line"/>
 			<point x="216.8683259811" y="1052" type="line"/>
 			<point x="402.8683259811" y="1052" type="line"/>
@@ -14,8 +14,8 @@
 			<point x="432.8683259811" y="1052" type="line"/>
 			<point x="618.8683259811" y="1052" type="line"/>
 			<point x="426.0795245464" y="145" type="line"/>
-			<point x="553.0795245464" y="145" type="line"/>
-			<point x="464.8685514533" y="-270" type="line"/>
+			<point x="476.0795245464" y="145" type="line"/>
+			<point x="387.8685514533" y="-270" type="line"/>
 		</contour>
 	</outline>
 </glyph>

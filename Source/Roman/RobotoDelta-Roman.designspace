@@ -2690,7 +2690,7 @@
         <dimension name="STLO" xvalue="32"/>
       </location>
     </source>
-    <!-- <source filename="Roboto-Delta-XTLC244-opsz144-wdth25-wght400.ufo" familyname="Roboto Delta" stylename="XTLC244-opsz144-wdth25-wght400" layer="foreground">
+    <source filename="Roboto-Delta-XTLC244-opsz144-wdth25-wght400.ufo" familyname="Roboto Delta" stylename="XTLC244-opsz144-wdth25-wght400" layer="foreground">
       <kerning copy="1"/>
       <location>
         <dimension name="opsz" xvalue="1"/>
@@ -2735,7 +2735,7 @@
         <dimension name="STLI" xvalue="32"/>
         <dimension name="STLO" xvalue="32"/>
       </location>
-    </source> -->
+    </source>
     
     <source filename="Roboto-Delta-XTLC741.ufo" familyname="Roboto Delta" stylename="XTLC741">
       <location>

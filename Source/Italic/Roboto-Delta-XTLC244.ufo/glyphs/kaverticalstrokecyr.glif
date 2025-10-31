@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kaverticalstrokecyr" format="2">
 	<unicode hex="049D"/>
-	<advance width="800"/>
+	<advance width="760"/>
 	<outline>
 		<contour>
-			<point x="555.3570136471" y="852" type="line"/>
-			<point x="416.7701354382" y="200" type="line"/>
-			<point x="251.7701354382" y="200" type="line"/>
-			<point x="390.3570136471" y="852" type="line"/>
+			<point x="535.3570136471" y="852" type="line"/>
+			<point x="396.7701354382" y="200" type="line"/>
+			<point x="231.7701354382" y="200" type="line"/>
+			<point x="370.3570136471" y="852" type="line"/>
 		</contour>
 		<contour>
 			<point x="402.8683259811" y="1052" type="line"/>
@@ -16,18 +16,18 @@
 			<point x="216.8683259811" y="1052" type="line"/>
 		</contour>
 		<contour>
-			<point x="445.2588231042" y="0" type="line"/>
-			<point x="455.4743211309" y="495" type="line"/>
-			<point x="597.2564479013" y="621" type="line"/>
-			<point x="670.2588231042" y="0" type="line"/>
+			<point x="405.2588231042" y="0" type="line"/>
+			<point x="435.4743211309" y="495" type="line"/>
+			<point x="577.2564479013" y="621" type="line"/>
+			<point x="630.2588231042" y="0" type="line"/>
 		</contour>
 		<contour>
-			<point x="421.9183257229" y="610" type="line"/>
-			<point x="503.9183257229" y="610" type="line"/>
-			<point x="647.8683259811" y="1052" type="line"/>
-			<point x="860.8683259811" y="1052" type="line"/>
-			<point x="564.0976242808" y="465" type="line"/>
-			<point x="391.0976242808" y="465" type="line"/>
+			<point x="401.9183257229" y="610" type="line"/>
+			<point x="483.9183257229" y="610" type="line"/>
+			<point x="607.8683259811" y="1052" type="line"/>
+			<point x="820.8683259811" y="1052" type="line"/>
+			<point x="544.0976242808" y="465" type="line"/>
+			<point x="371.0976242808" y="465" type="line"/>
 		</contour>
 	</outline>
 </glyph>
