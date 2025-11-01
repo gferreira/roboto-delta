@@ -4,6 +4,6 @@
 	<advance width="942"/>
 	<outline>
 		<component base="y"/>
-		<component base="hungarumlautcomb" xOffset="489"/>
+		<component base="hungarumlautcomb" xOffset="478"/>
 	</outline>
 </glyph>

@@ -4,6 +4,6 @@
 	<advance width="2127"/>
 	<outline>
 		<component base="R"/>
-		<component base="dblgravecomb.case" xOffset="1042"/>
+		<component base="dblgravecomb.case" xOffset="988"/>
 	</outline>
 </glyph>

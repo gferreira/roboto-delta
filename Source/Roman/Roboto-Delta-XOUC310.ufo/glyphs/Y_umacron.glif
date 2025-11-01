@@ -6,6 +6,6 @@
 		<component base="I"/>
 		<component base="Yu-dash.case" xOffset="485"/>
 		<component base="O" xOffset="952"/>
-		<component base="macroncomb.case" xOffset="1292"/>
+		<component base="macroncomb.case" xOffset="1533.9499999997"/>
 	</outline>
 </glyph>

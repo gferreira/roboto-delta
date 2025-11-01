@@ -40,10 +40,10 @@
 			<point x="768" y="1250"/>
 		</contour>
 		<contour>
-			<point x="1452" y="1317" type="line"/>
-			<point x="554" y="1037" type="line"/>
-			<point x="499" y="1172" type="line"/>
-			<point x="1395" y="1452" type="line"/>
+			<point x="1572" y="1317" type="line"/>
+			<point x="454" y="1037" type="line"/>
+			<point x="399" y="1172" type="line"/>
+			<point x="1515" y="1452" type="line"/>
 		</contour>
 	</outline>
 </glyph>

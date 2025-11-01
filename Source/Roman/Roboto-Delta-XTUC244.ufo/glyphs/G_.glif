@@ -36,7 +36,7 @@
 			<point x="506" y="92"/>
 			<point x="406" y="-30"/>
 			<point x="321" y="-30" type="qcurve" smooth="yes"/>
-			<point x="195" y="-30"/>
+			<point x="185" y="-30"/>
 			<point x="115" y="346"/>
 		</contour>
 	</outline>

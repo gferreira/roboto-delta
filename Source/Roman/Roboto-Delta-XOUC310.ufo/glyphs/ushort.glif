@@ -4,6 +4,6 @@
 	<advance width="942"/>
 	<outline>
 		<component base="y"/>
-		<component base="breve.cyrcomb" xOffset="489"/>
+		<component base="breve.cyrcomb" xOffset="478"/>
 	</outline>
 </glyph>

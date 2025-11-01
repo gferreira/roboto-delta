@@ -5,6 +5,6 @@
 	<outline>
 		<component base="h"/>
 		<component base="horizontalbarlc" xOffset="38" yOffset="544"/>
-		<component base="engtail" xOffset="878"/>
+		<component base="engtail" xOffset="1078"/>
 	</outline>
 </glyph>

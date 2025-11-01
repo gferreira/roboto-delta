@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="t" format="2">
 	<unicode hex="0074"/>
-	<advance width="345"/>
+	<advance width="336"/>
 	<outline>
 		<contour>
 			<point x="0" y="910" type="line"/>
 			<point x="0" y="1052" type="line"/>
-			<point x="295" y="1052" type="line"/>
-			<point x="295" y="910" type="line"/>
+			<point x="286" y="1052" type="line"/>
+			<point x="286" y="910" type="line"/>
 		</contour>
 		<contour>
 			<point x="40" y="260" type="qcurve" smooth="yes"/>
