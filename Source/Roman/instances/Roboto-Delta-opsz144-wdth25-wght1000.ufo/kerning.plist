@@ -2976,6 +2976,8 @@
 		<dict>
 			<key>el.bgr</key>
 			<integer>-163</integer>
+			<key>ghe.bgr</key>
+			<integer>-14</integer>
 			<key>public.kern2.a_LC</key>
 			<integer>-25</integer>
 			<key>public.kern2.de_LC</key>
@@ -2986,6 +2988,8 @@
 			<integer>-23</integer>
 			<key>public.kern2.ya_LC</key>
 			<integer>-14</integer>
+			<key>public.kern2.ze_LC</key>
+			<integer>-12</integer>
 			<key>public.kern2.zhe_LC</key>
 			<integer>-20</integer>
 			<key>zhe.bgr</key>
@@ -3219,6 +3223,31 @@
 			<integer>2</integer>
 			<key>slash</key>
 			<integer>-10</integer>
+		</dict>
+		<key>public.kern1.leftDescenderCyr_LC</key>
+		<dict>
+			<key>public.kern2.a_LC</key>
+			<integer>22</integer>
+			<key>public.kern2.bhk_LC</key>
+			<integer>22</integer>
+			<key>public.kern2.de_LC</key>
+			<integer>22</integer>
+			<key>public.kern2.ecyr_LC</key>
+			<integer>22</integer>
+			<key>public.kern2.el_LC</key>
+			<integer>21</integer>
+			<key>public.kern2.o_LC</key>
+			<integer>21</integer>
+			<key>public.kern2.rightStraight_LC</key>
+			<integer>23</integer>
+			<key>public.kern2.x_LC</key>
+			<integer>15</integer>
+			<key>public.kern2.ya_LC</key>
+			<integer>12</integer>
+			<key>public.kern2.ze_LC</key>
+			<integer>22</integer>
+			<key>public.kern2.zhe_LC</key>
+			<integer>20</integer>
 		</dict>
 		<key>public.kern1.minute</key>
 		<dict>
@@ -3704,6 +3733,8 @@
 		<dict>
 			<key>public.kern2.a_LC</key>
 			<integer>-25</integer>
+			<key>public.kern2.de_LC</key>
+			<integer>-34</integer>
 		</dict>
 		<key>public.kern1.u_LC</key>
 		<dict>
@@ -3801,6 +3832,8 @@
 			<integer>-88</integer>
 			<key>public.kern2.copyright</key>
 			<integer>-20</integer>
+			<key>public.kern2.de_LC</key>
+			<integer>5</integer>
 			<key>public.kern2.emdash</key>
 			<integer>-70</integer>
 			<key>public.kern2.guillemotleft</key>
@@ -3846,6 +3879,8 @@
 			<integer>-40</integer>
 			<key>public.kern2.comma</key>
 			<integer>-198</integer>
+			<key>public.kern2.de_LC</key>
+			<integer>-39</integer>
 			<key>public.kern2.emdash</key>
 			<integer>-28</integer>
 			<key>public.kern2.guillemotleft</key>
@@ -3922,7 +3957,7 @@
 		<key>public.kern1.zhe_LC</key>
 		<dict>
 			<key>be</key>
-			<integer>-30</integer>
+			<integer>-35</integer>
 			<key>public.kern2.a_LC</key>
 			<integer>-42</integer>
 			<key>public.kern2.o_LC</key>
