@@ -824,6 +824,8 @@
 		</dict>
 		<key>be</key>
 		<dict>
+			<key>el.bgr</key>
+			<integer>-98</integer>
 			<key>public.kern2.y_LC</key>
 			<integer>-91</integer>
 			<key>zhe.bgr</key>
@@ -1020,13 +1022,15 @@
 			<key>public.kern2.a_LC</key>
 			<integer>-53</integer>
 			<key>public.kern2.che_LC</key>
-			<integer>-150</integer>
+			<integer>-145</integer>
 			<key>public.kern2.ecyr_LC</key>
 			<integer>-92</integer>
 			<key>public.kern2.gamma</key>
 			<integer>-280</integer>
 			<key>public.kern2.hard_LC</key>
-			<integer>-125</integer>
+			<integer>-115</integer>
+			<key>public.kern2.j_LC</key>
+			<integer>10</integer>
 			<key>public.kern2.o_LC</key>
 			<integer>-96</integer>
 			<key>public.kern2.s_LC</key>
@@ -1037,6 +1041,8 @@
 			<integer>-135</integer>
 			<key>public.kern2.u_LC</key>
 			<integer>-70</integer>
+			<key>public.kern2.x_LC</key>
+			<integer>-8</integer>
 			<key>public.kern2.y_LC</key>
 			<integer>-280</integer>
 			<key>public.kern2.ze_LC</key>
@@ -1169,7 +1175,9 @@
 			<key>public.kern2.ya_LC</key>
 			<integer>-15</integer>
 			<key>public.kern2.zhe_LC</key>
-			<integer>-88</integer>
+			<integer>-49</integer>
+			<key>zhe.bgr</key>
+			<integer>-89</integer>
 		</dict>
 		<key>h</key>
 		<dict>
@@ -1178,8 +1186,23 @@
 		</dict>
 		<key>hadescender</key>
 		<dict>
+			<key>public.kern2.che_LC</key>
+			<integer>-20</integer>
+			<key>public.kern2.gamma</key>
+			<integer>-20</integer>
+			<key>public.kern2.hard_LC</key>
+			<integer>-20</integer>
 			<key>public.kern2.te_LC</key>
-			<integer>-15</integer>
+			<integer>-20</integer>
+			<key>public.kern2.y_LC</key>
+			<integer>-20</integer>
+		</dict>
+		<key>hastroke-cy</key>
+		<dict>
+			<key>public.kern2.bhk_LC</key>
+			<integer>-22</integer>
+			<key>public.kern2.j_LC</key>
+			<integer>10</integer>
 		</dict>
 		<key>hcircumflex</key>
 		<dict>
@@ -1197,7 +1220,7 @@
 			<key>public.kern2.x_LC</key>
 			<integer>-159</integer>
 			<key>public.kern2.y_LC</key>
-			<integer>-107</integer>
+			<integer>-96</integer>
 			<key>public.kern2.ya_LC</key>
 			<integer>-15</integer>
 			<key>public.kern2.zhe_LC</key>
@@ -1207,19 +1230,47 @@
 		</dict>
 		<key>ka</key>
 		<dict>
+			<key>el.bgr</key>
+			<integer>-10</integer>
+			<key>public.kern2.a_LC</key>
+			<integer>-65</integer>
+			<key>public.kern2.bhk_LC</key>
+			<integer>-10</integer>
+			<key>public.kern2.che_LC</key>
+			<integer>-28</integer>
+			<key>public.kern2.de_LC</key>
+			<integer>-10</integer>
+			<key>public.kern2.hard_LC</key>
+			<integer>-27</integer>
+			<key>public.kern2.rightStraight_LC</key>
+			<integer>-10</integer>
+			<key>public.kern2.te_LC</key>
+			<integer>-30</integer>
 			<key>public.kern2.u_LC</key>
-			<integer>-23</integer>
+			<integer>-28</integer>
+			<key>public.kern2.x_LC</key>
+			<integer>-17</integer>
 			<key>public.kern2.y_LC</key>
-			<integer>-20</integer>
+			<integer>-30</integer>
+			<key>public.kern2.ya_LC</key>
+			<integer>-10</integer>
+			<key>public.kern2.zhe_LC</key>
+			<integer>-10</integer>
+			<key>soft.bgr</key>
+			<integer>-28</integer>
+			<key>ve.bgr</key>
+			<integer>-30</integer>
 		</dict>
 		<key>ka.bgr</key>
 		<dict>
 			<key>be</key>
-			<integer>-62</integer>
+			<integer>-72</integer>
 			<key>public.kern2.che_LC</key>
-			<integer>-43</integer>
+			<integer>-48</integer>
 			<key>public.kern2.gamma</key>
-			<integer>-40</integer>
+			<integer>-50</integer>
+			<key>public.kern2.rightStraight_LC</key>
+			<integer>0</integer>
 			<key>sha.bgr</key>
 			<integer>-53</integer>
 			<key>shcha.bgr</key>
@@ -1233,14 +1284,28 @@
 			<integer>-58</integer>
 			<key>ef</key>
 			<integer>-87</integer>
+			<key>el.bgr</key>
+			<integer>10</integer>
 			<key>ghe.bgr</key>
 			<integer>-60</integer>
 			<key>ieukran</key>
 			<integer>-85</integer>
 			<key>public.kern2.a_LC</key>
 			<integer>-43</integer>
+			<key>public.kern2.bhk_LC</key>
+			<integer>10</integer>
+			<key>public.kern2.de_LC</key>
+			<integer>10</integer>
 			<key>public.kern2.ecyr_LC</key>
 			<integer>-82</integer>
+			<key>public.kern2.el_LC</key>
+			<integer>10</integer>
+			<key>public.kern2.gamma</key>
+			<integer>-35</integer>
+			<key>public.kern2.hard_LC</key>
+			<integer>-37</integer>
+			<key>public.kern2.j_LC</key>
+			<integer>20</integer>
 			<key>public.kern2.o_LC</key>
 			<integer>-86</integer>
 			<key>public.kern2.s_LC</key>
@@ -1250,11 +1315,21 @@
 			<key>public.kern2.te_LC</key>
 			<integer>-38</integer>
 			<key>public.kern2.u_LC</key>
-			<integer>-28</integer>
+			<integer>-38</integer>
+			<key>public.kern2.x_LC</key>
+			<integer>3</integer>
+			<key>public.kern2.y_LC</key>
+			<integer>-38</integer>
+			<key>public.kern2.ya_LC</key>
+			<integer>10</integer>
 			<key>public.kern2.ze_LC</key>
-			<integer>-87</integer>
+			<integer>-77</integer>
+			<key>public.kern2.zhe_LC</key>
+			<integer>10</integer>
+			<key>soft.bgr</key>
+			<integer>-38</integer>
 			<key>ve.bgr</key>
-			<integer>-20</integer>
+			<integer>-37</integer>
 			<key>ze.bgr</key>
 			<integer>13</integer>
 		</dict>
@@ -1265,19 +1340,23 @@
 			<key>ghe.bgr</key>
 			<integer>-59</integer>
 			<key>ieukran</key>
-			<integer>-95</integer>
+			<integer>-81</integer>
 			<key>public.kern2.a_LC</key>
 			<integer>-46</integer>
 			<key>public.kern2.che_LC</key>
-			<integer>0</integer>
+			<integer>-5</integer>
 			<key>public.kern2.ecyr_LC</key>
 			<integer>-77</integer>
 			<key>public.kern2.gamma</key>
-			<integer>0</integer>
+			<integer>-4</integer>
 			<key>public.kern2.hard_LC</key>
 			<integer>0</integer>
+			<key>public.kern2.j_LC</key>
+			<integer>10</integer>
 			<key>public.kern2.o_LC</key>
 			<integer>-81</integer>
+			<key>public.kern2.rightStraight_LC</key>
+			<integer>2</integer>
 			<key>public.kern2.s_LC</key>
 			<integer>-49</integer>
 			<key>public.kern2.schwa_LC</key>
@@ -1285,16 +1364,48 @@
 			<key>public.kern2.te_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.u_LC</key>
-			<integer>0</integer>
+			<integer>-4</integer>
+			<key>public.kern2.y_LC</key>
+			<integer>-5</integer>
+			<key>public.kern2.ze_LC</key>
+			<integer>-73</integer>
 			<key>soft.bgr</key>
-			<integer>0</integer>
+			<integer>-4</integer>
 		</dict>
 		<key>kje</key>
 		<dict>
+			<key>el.bgr</key>
+			<integer>-10</integer>
+			<key>kje</key>
+			<integer>-10</integer>
+			<key>public.kern2.a_LC</key>
+			<integer>-65</integer>
+			<key>public.kern2.bhk_LC</key>
+			<integer>-10</integer>
+			<key>public.kern2.che_LC</key>
+			<integer>-28</integer>
+			<key>public.kern2.de_LC</key>
+			<integer>-10</integer>
+			<key>public.kern2.hard_LC</key>
+			<integer>-26</integer>
+			<key>public.kern2.rightStraight_LC</key>
+			<integer>-10</integer>
+			<key>public.kern2.te_LC</key>
+			<integer>-30</integer>
 			<key>public.kern2.u_LC</key>
-			<integer>-23</integer>
+			<integer>-28</integer>
+			<key>public.kern2.x_LC</key>
+			<integer>-17</integer>
 			<key>public.kern2.y_LC</key>
-			<integer>-20</integer>
+			<integer>-30</integer>
+			<key>public.kern2.ya_LC</key>
+			<integer>-10</integer>
+			<key>public.kern2.zhe_LC</key>
+			<integer>-10</integer>
+			<key>soft.bgr</key>
+			<integer>-28</integer>
+			<key>ve.bgr</key>
+			<integer>-30</integer>
 		</dict>
 		<key>lslash</key>
 		<dict>
@@ -3100,7 +3211,7 @@
 			<key>backslash</key>
 			<integer>-50</integer>
 			<key>be</key>
-			<integer>-10</integer>
+			<integer>-20</integer>
 			<key>comma</key>
 			<integer>-138</integer>
 			<key>de.bgr</key>
@@ -3149,6 +3260,8 @@
 			<integer>0</integer>
 			<key>public.kern2.w_LC</key>
 			<integer>0</integer>
+			<key>public.kern2.x_LC</key>
+			<integer>-27</integer>
 			<key>public.kern2.ya_LC</key>
 			<integer>-90</integer>
 			<key>public.kern2.z_LC</key>
@@ -3156,7 +3269,7 @@
 			<key>public.kern2.ze_LC</key>
 			<integer>-94</integer>
 			<key>public.kern2.zhe_LC</key>
-			<integer>-50</integer>
+			<integer>-25</integer>
 			<key>q</key>
 			<integer>-86</integer>
 			<key>slash</key>
@@ -3167,6 +3280,8 @@
 			<integer>0</integer>
 			<key>ze.bgr</key>
 			<integer>-84</integer>
+			<key>zhe.bgr</key>
+			<integer>-60</integer>
 		</dict>
 		<key>public.kern1.ghe_LC</key>
 		<dict>
@@ -3181,13 +3296,13 @@
 			<key>public.kern2.el_LC</key>
 			<integer>-62</integer>
 			<key>public.kern2.x_LC</key>
-			<integer>-23</integer>
+			<integer>-25</integer>
 			<key>public.kern2.ya_LC</key>
 			<integer>-13</integer>
 			<key>public.kern2.ze_LC</key>
 			<integer>-12</integer>
 			<key>public.kern2.zhe_LC</key>
-			<integer>-20</integer>
+			<integer>-25</integer>
 			<key>zhe.bgr</key>
 			<integer>-60</integer>
 		</dict>
@@ -3360,14 +3475,12 @@
 			<integer>-48</integer>
 			<key>ghe.bgr</key>
 			<integer>-78</integer>
-			<key>j</key>
-			<integer>0</integer>
 			<key>public.kern2.a_LC</key>
 			<integer>-59</integer>
 			<key>public.kern2.alpha</key>
 			<integer>0</integer>
 			<key>public.kern2.che_LC</key>
-			<integer>-28</integer>
+			<integer>-38</integer>
 			<key>public.kern2.colon</key>
 			<integer>-30</integer>
 			<key>public.kern2.comma</key>
@@ -3381,13 +3494,15 @@
 			<key>public.kern2.f_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.gamma</key>
-			<integer>-20</integer>
+			<integer>-30</integer>
 			<key>public.kern2.guillemotleft</key>
 			<integer>-185</integer>
 			<key>public.kern2.hard_LC</key>
 			<integer>-53</integer>
 			<key>public.kern2.i_LC</key>
 			<integer>0</integer>
+			<key>public.kern2.j_LC</key>
+			<integer>10</integer>
 			<key>public.kern2.o_LC</key>
 			<integer>-107</integer>
 			<key>public.kern2.parens</key>
@@ -3396,6 +3511,8 @@
 			<integer>-60</integer>
 			<key>public.kern2.quotes_straight_right</key>
 			<integer>-60</integer>
+			<key>public.kern2.rightStraight_LC</key>
+			<integer>10</integer>
 			<key>public.kern2.s_LC</key>
 			<integer>-66</integer>
 			<key>public.kern2.schwa_LC</key>
@@ -3408,6 +3525,8 @@
 			<integer>-78</integer>
 			<key>public.kern2.w_LC</key>
 			<integer>-50</integer>
+			<key>public.kern2.x_LC</key>
+			<integer>-7</integer>
 			<key>public.kern2.y_LC</key>
 			<integer>-50</integer>
 			<key>public.kern2.z_LC</key>
@@ -3422,8 +3541,6 @@
 			<integer>-53</integer>
 			<key>trademark</key>
 			<integer>-170</integer>
-			<key>x</key>
-			<integer>0</integer>
 		</dict>
 		<key>public.kern1.l_LC</key>
 		<dict>
@@ -3483,8 +3600,6 @@
 		<dict>
 			<key>public.kern2.x_LC</key>
 			<integer>-7</integer>
-			<key>public.kern2.y_LC</key>
-			<integer>10</integer>
 			<key>public.kern2.ya_LC</key>
 			<integer>-10</integer>
 		</dict>
@@ -3582,7 +3697,7 @@
 			<key>public.kern2.x_LC</key>
 			<integer>-160</integer>
 			<key>public.kern2.y_LC</key>
-			<integer>-97</integer>
+			<integer>-95</integer>
 			<key>public.kern2.ya_LC</key>
 			<integer>-15</integer>
 			<key>public.kern2.z_LC</key>
@@ -4016,7 +4131,7 @@
 			<key>public.kern2.el_LC</key>
 			<integer>-62</integer>
 			<key>public.kern2.x_LC</key>
-			<integer>-20</integer>
+			<integer>-25</integer>
 			<key>public.kern2.ya_LC</key>
 			<integer>-13</integer>
 			<key>public.kern2.ze_LC</key>
@@ -4038,6 +4153,8 @@
 			<integer>-15</integer>
 			<key>public.kern2.quotes_curly_right</key>
 			<integer>-20</integer>
+			<key>public.kern2.x_LC</key>
+			<integer>-7</integer>
 			<key>question</key>
 			<integer>-20</integer>
 			<key>slash</key>
@@ -4107,7 +4224,7 @@
 			<key>backslash</key>
 			<integer>-70</integer>
 			<key>be</key>
-			<integer>-32</integer>
+			<integer>-42</integer>
 			<key>colon</key>
 			<integer>-78</integer>
 			<key>comma</key>
@@ -4126,12 +4243,12 @@
 			<integer>-88</integer>
 			<key>public.kern2.copyright</key>
 			<integer>-20</integer>
-			<key>public.kern2.de_LC</key>
-			<integer>5</integer>
 			<key>public.kern2.ecyr_LC</key>
 			<integer>-150</integer>
 			<key>public.kern2.emdash</key>
 			<integer>-70</integer>
+			<key>public.kern2.gamma</key>
+			<integer>-20</integer>
 			<key>public.kern2.guillemotleft</key>
 			<integer>-170</integer>
 			<key>public.kern2.guillemotright</key>
@@ -4154,8 +4271,14 @@
 			<integer>-20</integer>
 			<key>public.kern2.u_LC</key>
 			<integer>-20</integer>
+			<key>public.kern2.x_LC</key>
+			<integer>-9</integer>
+			<key>public.kern2.y_LC</key>
+			<integer>-20</integer>
 			<key>public.kern2.ze_LC</key>
 			<integer>-144</integer>
+			<key>public.kern2.zhe_LC</key>
+			<integer>-2</integer>
 			<key>q</key>
 			<integer>-133</integer>
 			<key>question</key>
@@ -4181,12 +4304,12 @@
 			<integer>-144</integer>
 			<key>d</key>
 			<integer>-90</integer>
+			<key>de.bgr</key>
+			<integer>-80</integer>
 			<key>el.bgr</key>
 			<integer>-270</integer>
 			<key>ghe.bgr</key>
 			<integer>-70</integer>
-			<key>ieukran</key>
-			<integer>-91</integer>
 			<key>public.kern2.a_LC</key>
 			<integer>-95</integer>
 			<key>public.kern2.colon</key>
@@ -4196,9 +4319,9 @@
 			<key>public.kern2.de_LC</key>
 			<integer>-39</integer>
 			<key>public.kern2.ecyr_LC</key>
-			<integer>-92</integer>
+			<integer>-95</integer>
 			<key>public.kern2.el_LC</key>
-			<integer>-55</integer>
+			<integer>-65</integer>
 			<key>public.kern2.emdash</key>
 			<integer>-28</integer>
 			<key>public.kern2.guillemotleft</key>
@@ -4206,7 +4329,7 @@
 			<key>public.kern2.guillemotright</key>
 			<integer>-54</integer>
 			<key>public.kern2.o_LC</key>
-			<integer>-99</integer>
+			<integer>-95</integer>
 			<key>public.kern2.parens</key>
 			<integer>-30</integer>
 			<key>public.kern2.quotes_curly_right</key>
@@ -4215,14 +4338,16 @@
 			<integer>-70</integer>
 			<key>public.kern2.schwa_LC</key>
 			<integer>-70</integer>
+			<key>public.kern2.x_LC</key>
+			<integer>-20</integer>
 			<key>public.kern2.ya_LC</key>
 			<integer>-87</integer>
 			<key>public.kern2.z_LC</key>
 			<integer>-10</integer>
 			<key>public.kern2.ze_LC</key>
-			<integer>-90</integer>
+			<integer>-85</integer>
 			<key>public.kern2.zhe_LC</key>
-			<integer>-55</integer>
+			<integer>-20</integer>
 			<key>q</key>
 			<integer>-91</integer>
 			<key>slash</key>
@@ -4231,6 +4356,8 @@
 			<integer>-124</integer>
 			<key>ze.bgr</key>
 			<integer>-70</integer>
+			<key>zhe.bgr</key>
+			<integer>-55</integer>
 		</dict>
 		<key>public.kern1.z_LC</key>
 		<dict>
@@ -4279,8 +4406,6 @@
 		</dict>
 		<key>public.kern1.ze_LC</key>
 		<dict>
-			<key>be</key>
-			<integer>-26</integer>
 			<key>el.bgr</key>
 			<integer>-61</integer>
 			<key>public.kern2.ecyr_LC</key>
@@ -4309,19 +4434,19 @@
 		<key>public.kern1.zhe_LC</key>
 		<dict>
 			<key>be</key>
-			<integer>-35</integer>
+			<integer>-45</integer>
 			<key>ghe.bgr</key>
-			<integer>-94</integer>
+			<integer>-54</integer>
 			<key>public.kern2.a_LC</key>
 			<integer>-42</integer>
 			<key>public.kern2.che_LC</key>
-			<integer>-20</integer>
+			<integer>-23</integer>
 			<key>public.kern2.ecyr_LC</key>
 			<integer>-71</integer>
 			<key>public.kern2.gamma</key>
-			<integer>-50</integer>
+			<integer>-25</integer>
 			<key>public.kern2.hard_LC</key>
-			<integer>-70</integer>
+			<integer>-22</integer>
 			<key>public.kern2.j_LC</key>
 			<integer>10</integer>
 			<key>public.kern2.o_LC</key>
@@ -4334,12 +4459,16 @@
 			<integer>-20</integer>
 			<key>public.kern2.u_LC</key>
 			<integer>-20</integer>
+			<key>public.kern2.x_LC</key>
+			<integer>-8</integer>
 			<key>public.kern2.y_LC</key>
-			<integer>-55</integer>
+			<integer>-20</integer>
 			<key>public.kern2.ze_LC</key>
 			<integer>-67</integer>
 			<key>soft.bgr</key>
 			<integer>-22</integer>
+			<key>ve.bgr</key>
+			<integer>-24</integer>
 		</dict>
 		<key>q</key>
 		<dict>
@@ -4563,10 +4692,14 @@
 			<key>public.kern2.gamma</key>
 			<integer>-80</integer>
 			<key>public.kern2.x_LC</key>
-			<integer>-100</integer>
+			<integer>-105</integer>
+			<key>public.kern2.y_LC</key>
+			<integer>-80</integer>
 			<key>public.kern2.ya_LC</key>
 			<integer>-18</integer>
 			<key>public.kern2.zhe_LC</key>
+			<integer>-75</integer>
+			<key>zhe.bgr</key>
 			<integer>-128</integer>
 		</dict>
 		<key>x</key>
@@ -4617,13 +4750,19 @@
 		<key>zhe.bgr</key>
 		<dict>
 			<key>be</key>
-			<integer>-71</integer>
+			<integer>-81</integer>
+			<key>ghe.bgr</key>
+			<integer>-94</integer>
 			<key>public.kern2.a_LC</key>
 			<integer>-70</integer>
 			<key>public.kern2.che_LC</key>
-			<integer>-70</integer>
+			<integer>-60</integer>
 			<key>public.kern2.ecyr_LC</key>
 			<integer>-125</integer>
+			<key>public.kern2.gamma</key>
+			<integer>-60</integer>
+			<key>public.kern2.hard_LC</key>
+			<integer>-60</integer>
 			<key>public.kern2.o_LC</key>
 			<integer>-131</integer>
 			<key>public.kern2.s_LC</key>
@@ -4631,7 +4770,9 @@
 			<key>public.kern2.te_LC</key>
 			<integer>-60</integer>
 			<key>public.kern2.u_LC</key>
-			<integer>-70</integer>
+			<integer>-60</integer>
+			<key>public.kern2.y_LC</key>
+			<integer>-60</integer>
 			<key>public.kern2.ze_LC</key>
 			<integer>-119</integer>
 			<key>sha.bgr</key>
@@ -4645,10 +4786,14 @@
 		<dict>
 			<key>public.kern2.che_LC</key>
 			<integer>-20</integer>
+			<key>public.kern2.gamma</key>
+			<integer>-23</integer>
 			<key>public.kern2.hard_LC</key>
 			<integer>-20</integer>
 			<key>public.kern2.te_LC</key>
 			<integer>-18</integer>
+			<key>public.kern2.y_LC</key>
+			<integer>-22</integer>
 		</dict>
 	</dict>
 </plist>
