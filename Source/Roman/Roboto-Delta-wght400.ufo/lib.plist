@@ -36,6 +36,13 @@
 				<integer>1</integer>
 				<integer>1</integer>
 			</array>
+			<key>public.kern1.DeCyr_UC</key>
+			<array>
+				<integer>1</integer>
+				<integer>0</integer>
+				<integer>0</integer>
+				<real>0.25</real>
+			</array>
 			<key>public.kern1.Delta_UC</key>
 			<array>
 				<real>0.5</real>

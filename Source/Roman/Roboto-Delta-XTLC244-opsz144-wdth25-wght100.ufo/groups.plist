@@ -99,6 +99,11 @@
 			<string>Ecyr</string>
 			<string>Emacroncyr</string>
 		</array>
+		<key>public.kern1.DeCyr_UC</key>
+		<array>
+			<string>De</string>
+			<string>De.bgr</string>
+		</array>
 		<key>public.kern1.Delta_UC</key>
 		<array>
 			<string>Delta</string>
@@ -184,7 +189,6 @@
 			<string>Kcommaaccent</string>
 			<string>Ka</string>
 			<string>Kabashkircyr</string>
-			<string>Kadescender</string>
 			<string>Kaisymbol</string>
 			<string>Kappa</string>
 			<string>Kaverticalstrokecyr</string>
@@ -207,13 +211,12 @@
 		<key>public.kern1.LeftDescenderCyr_UC</key>
 		<array>
 			<string>Chedescender-cy</string>
-			<string>De</string>
 			<string>Endescender</string>
 			<string>Hadescender</string>
 			<string>Shcha</string>
 			<string>Tse</string>
 			<string>Zhedescender</string>
-			<string>De.bgr</string>
+			<string>Kadescender</string>
 		</array>
 		<key>public.kern1.LeftStraight_UC</key>
 		<array>

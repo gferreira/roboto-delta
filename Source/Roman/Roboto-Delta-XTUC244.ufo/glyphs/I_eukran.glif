@@ -40,8 +40,8 @@
 		<contour>
 			<point x="212" y="672" type="line"/>
 			<point x="212" y="830" type="line"/>
-			<point x="336" y="830" type="line"/>
-			<point x="336" y="672" type="line"/>
+			<point x="381" y="830" type="line"/>
+			<point x="381" y="672" type="line"/>
 		</contour>
 	</outline>
 	<guideline x="211" y="787" angle="90" identifier="mFTeE97JTj"/>
