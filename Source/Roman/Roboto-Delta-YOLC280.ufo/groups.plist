@@ -329,7 +329,6 @@
 			<string>Tcommaaccent</string>
 			<string>Tau</string>
 			<string>Te</string>
-			<string>Tedescender-cy</string>
 		</array>
 		<key>public.kern1.TsheCur_UC</key>
 		<array>
@@ -1372,6 +1371,7 @@
 			<string>shha</string>
 			<string>ve.bgr</string>
 			<string>hbar</string>
+			<string>thorn</string>
 		</array>
 		<key>public.kern2.che_LC</key>
 		<array>
@@ -1400,6 +1400,11 @@
 		<array>
 			<string>de</string>
 			<string>de.locl</string>
+		</array>
+		<key>public.kern2.dq_LC</key>
+		<array>
+			<string>d</string>
+			<string>q</string>
 		</array>
 		<key>public.kern2.ecyr_LC</key>
 		<array>
@@ -1497,6 +1502,7 @@
 			<string>jacute.loclNLD</string>
 			<string>jcircumflex</string>
 			<string>je</string>
+			<string>jdotless</string>
 		</array>
 		<key>public.kern2.minute</key>
 		<array>
@@ -1563,7 +1569,6 @@
 			<string>ccedilla</string>
 			<string>ccircumflex</string>
 			<string>cdotaccent</string>
-			<string>d</string>
 			<string>dcaron</string>
 			<string>dcroat</string>
 			<string>de.bgr</string>
@@ -1617,7 +1622,6 @@
 			<string>omicron</string>
 			<string>omicrontonos</string>
 			<string>phi</string>
-			<string>q</string>
 			<string>sigma</string>
 			<string>eth</string>
 		</array>
