@@ -10,12 +10,46 @@
 			<dict>
 			</dict>
 			<key>org.unifiedfontobject.normalizer.modTimes</key>
-			<string>version: 0.6.1
-1648323906.0 Z_he.glif
-1648323906.0 Z_hedescender.glif
-1645310730.0 _notdef.glif
-1648323906.0 zhe.glif
-1648323906.0 zhedescender.glif</string>
+			<string>version: 0.6.3
+1751422231.5 B_.glif
+1751422231.5 C_.glif
+1751422231.5 G_.glif
+1751422231.5 H_.glif
+1751422231.5 J_.glif
+1751422231.5 P_.glif
+1751422231.5 S_.glif
+1751422231.5 U_.glif
+1751422231.5 a.glif
+1751422231.5 b.glif
+1751422231.5 c.glif
+1751422231.5 cent.glif
+1751422231.5 d.glif
+1751422231.5 dollar.glif
+1751422231.5 e.glif
+1751422231.5 eight.glif
+1751422231.5 eight.prop.glif
+1751422231.5 five.glif
+1751422231.5 five.prop.glif
+1751422231.5 four.glif
+1751422231.5 four.prop.glif
+1751422231.5 foursuperior.glif
+1751422231.5 g.glif
+1751422231.5 h.glif
+1751422231.5 m.glif
+1751422231.5 n.glif
+1751422231.5 one.glif
+1751422231.5 one.prop.glif
+1751422231.5 onesuperior.glif
+1751422231.5 ordfeminine.glif
+1751422231.5 p.glif
+1751422231.5 q.glif
+1751422231.5 questiondown.glif
+1751422231.5 s.glif
+1751422231.5 three.glif
+1751422231.5 three.prop.glif
+1751422231.5 threesuperior.glif
+1751422231.5 two.glif
+1751422231.5 twosuperior.glif</string>
 		</dict>
 	</dict>
 </plist>

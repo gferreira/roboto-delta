@@ -49,6 +49,13 @@
 		<string>qcurve</string>
 		<key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
 		<integer>1</integer>
+		<key>org.unifiedfontobject.normalizer.modTimes</key>
+		<string>version: 0.6.3
+1762738011.6 fontinfo.plist
+1762738011.6 groups.plist
+1761609709.7 kerning.plist
+1762739861.6 layercontents.plist
+1762738011.6 metainfo.plist</string>
 		<key>public.glyphOrder</key>
 		<array>
 			<string>k</string>

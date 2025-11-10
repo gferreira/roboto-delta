@@ -4,6 +4,13 @@
 	<dict>
 		<key>com.typemytype.robofont.segmentType</key>
 		<string>qcurve</string>
+		<key>org.unifiedfontobject.normalizer.modTimes</key>
+		<string>version: 0.6.3
+1762738749.6 fontinfo.plist
+1762738749.6 groups.plist
+1760718519.0 kerning.plist
+1762739865.0 layercontents.plist
+1762738749.6 metainfo.plist</string>
 		<key>public.glyphOrder</key>
 		<array>
 			<string>.null</string>

@@ -46,4 +46,10 @@
 	</outline>
 	<anchor name="top" x="628.7411768958" y="1456"/>
 	<guideline x="1152.3139140418" y="753" angle="102" identifier="Ovo68woMtl"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,1,1,0</string>
+		</dict>
+	</lib>
 </glyph>

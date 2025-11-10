@@ -65,6 +65,13 @@
 				<real>0.25</real>
 			</array>
 		</dict>
+		<key>org.unifiedfontobject.normalizer.modTimes</key>
+		<string>version: 0.6.3
+1762738712.7 fontinfo.plist
+1762738712.7 groups.plist
+1757552178.6 kerning.plist
+1762739866.6 layercontents.plist
+1762738712.7 metainfo.plist</string>
 		<key>public.glyphOrder</key>
 		<array>
 			<string>.null</string>

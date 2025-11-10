@@ -40,8 +40,8 @@
 		<contour>
 			<point x="435.0968325465" y="672" type="line"/>
 			<point x="468.6807692903" y="830" type="line"/>
-			<point x="1382.6807692903" y="830" type="line"/>
-			<point x="1349.0968325465" y="672" type="line"/>
+			<point x="1411.6807692903" y="830" type="line"/>
+			<point x="1378.0968325465" y="672" type="line"/>
 		</contour>
 	</outline>
 	<guideline x="223.5408371385" y="787" angle="102" identifier="mFTeE97JTj"/>

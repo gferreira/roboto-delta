@@ -8,6 +8,51 @@
 		<dict>
 			<key>com.typemytype.robofont.layerShowPoints</key>
 			<true/>
+			<key>org.unifiedfontobject.normalizer.modTimes</key>
+			<string>version: 0.6.3
+1717637808.2 B_.glif
+1717637808.2 C_.glif
+1751422277.3 G_.glif
+1751422277.3 K_.glif
+1751422277.3 K_aisymbol.glif
+1717637808.2 P_.glif
+1717637808.2 Q_.glif
+1751422277.3 S_.glif
+1717637808.2 U_.glif
+1717637808.2 Z_.glif
+1751422277.3 b.glif
+1751422277.3 d.glif
+1717637808.2 e.glif
+1717637808.2 ecyr.glif
+1751422277.3 eight.glif
+1717637808.2 five.prop.glif
+1751422277.3 four.glif
+1717637808.2 four.prop.glif
+1751422277.3 g.glif
+1717637808.2 h.glif
+1751422277.3 hookabovecomb.case.glif
+1717637808.2 hryvnia.rvrn.glif
+1717637808.2 jdotless.glif
+1751422277.3 k.glif
+1717637808.2 kaisymbol.glif
+1717638803.9 ldot.glif
+1717637808.2 m.glif
+1751422277.3 n.glif
+1717637808.2 nine.prop.glif
+1751422277.3 o.glif
+1717637808.2 one.prop.glif
+1751422277.3 p.glif
+1751422277.3 q.glif
+1717637808.2 question.glif
+1751422277.3 ringcomb.glif
+1751422277.3 sha.bgr.glif
+1717637808.2 six.glif
+1751422277.3 two.prop.glif
+1717637808.2 u.glif
+1751422277.3 xi.glif
+1751422277.3 y.glif
+1717638464.2 z.glif
+1751422277.3 zeta.glif</string>
 		</dict>
 	</dict>
 </plist>

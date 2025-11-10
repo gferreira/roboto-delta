@@ -32,4 +32,10 @@
 	</outline>
 	<anchor name="top" x="723.7411768958" y="1456"/>
 	<guideline x="781.9364254573" y="930" angle="102" identifier="jpSOnFR6u4"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,1,1,0</string>
+		</dict>
+	</lib>
 </glyph>

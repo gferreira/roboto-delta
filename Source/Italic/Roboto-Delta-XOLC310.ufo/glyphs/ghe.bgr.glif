@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ghe.bgr" format="2">
-	<advance width="1780"/>
+	<advance width="1750"/>
 	<outline>
 		<contour>
 			<point x="1581.1513572219" y="310" type="line"/>
@@ -12,8 +12,8 @@
 			<point x="-38.6065614119" y="170"/>
 			<point x="0.0787328121" y="352" type="qcurve" smooth="yes"/>
 			<point x="35.1505654876" y="517"/>
-			<point x="404.1354072182" y="691"/>
-			<point x="801.1739818899" y="710" type="qcurve" smooth="yes"/>
+			<point x="383.0726244099" y="686"/>
+			<point x="781.1739818899" y="710" type="qcurve" smooth="yes"/>
 			<point x="962.5121040683" y="721"/>
 			<point x="1100.5650452752" y="773"/>
 			<point x="1113.1058824137" y="832" type="qcurve" smooth="yes"/>

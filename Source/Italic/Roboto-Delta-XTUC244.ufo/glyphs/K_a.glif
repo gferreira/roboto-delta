@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ka" format="2">
 	<unicode hex="041A"/>
-	<advance width="628"/>
+	<advance width="606"/>
 	<outline>
 		<contour>
-			<point x="316.2588231042" y="0" type="line"/>
+			<point x="256.2588231042" y="0" type="line"/>
 			<point x="376.5605203415" y="693" type="line"/>
 			<point x="532.1928733587" y="823" type="line"/>
-			<point x="531.2588231042" y="0" type="line"/>
+			<point x="471.2588231042" y="0" type="line"/>
 		</contour>
 		<contour>
 			<point x="287.6807692903" y="830" type="line"/>
 			<point x="393.6807692903" y="830" type="line"/>
-			<point x="613.7411768958" y="1456" type="line"/>
-			<point x="809.7411768958" y="1456" type="line"/>
+			<point x="553.7411768958" y="1456" type="line"/>
+			<point x="749.7411768958" y="1456" type="line"/>
 			<point x="475.0968325465" y="672" type="line"/>
 			<point x="254.0968325465" y="672" type="line"/>
 		</contour>

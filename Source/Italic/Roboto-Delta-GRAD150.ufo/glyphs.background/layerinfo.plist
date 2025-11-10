@@ -4,5 +4,19 @@
 	<dict>
 		<key>color</key>
 		<string>0,0.8,0.2,0.7</string>
+		<key>lib</key>
+		<dict>
+			<key>org.unifiedfontobject.normalizer.modTimes</key>
+			<string>version: 0.6.3
+1751678152.2 I_cyr.glif
+1751560047.7 V_.glif
+1751559979.0 W_.glif
+1751560095.6 X_.glif
+1751560151.2 Y_.glif
+1751590917.1 chi.glif
+1751681597.5 em.glif
+1751560278.8 v.glif
+1751560397.9 x.glif</string>
+		</dict>
 	</dict>
 </plist>

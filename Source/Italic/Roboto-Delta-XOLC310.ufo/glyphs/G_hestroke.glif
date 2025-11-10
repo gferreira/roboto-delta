@@ -4,6 +4,6 @@
 	<advance width="1077"/>
 	<outline>
 		<component base="Gamma"/>
-		<component base="horizontalbarlc" xOffset="-2" yOffset="-21"/>
+		<component base="horizontalbarlc" xOffset="-199" yOffset="-21"/>
 	</outline>
 </glyph>

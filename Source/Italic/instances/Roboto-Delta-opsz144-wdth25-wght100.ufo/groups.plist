@@ -99,6 +99,11 @@
 			<string>Ecyr</string>
 			<string>Emacroncyr</string>
 		</array>
+		<key>public.kern1.DeCyr_UC</key>
+		<array>
+			<string>De</string>
+			<string>De.bgr</string>
+		</array>
 		<key>public.kern1.Delta_UC</key>
 		<array>
 			<string>Delta</string>
@@ -184,7 +189,6 @@
 			<string>Kcommaaccent</string>
 			<string>Ka</string>
 			<string>Kabashkircyr</string>
-			<string>Kadescender</string>
 			<string>Kaisymbol</string>
 			<string>Kappa</string>
 			<string>Kaverticalstrokecyr</string>
@@ -207,13 +211,12 @@
 		<key>public.kern1.LeftDescenderCyr_UC</key>
 		<array>
 			<string>Chedescender-cy</string>
-			<string>De</string>
 			<string>Endescender</string>
 			<string>Hadescender</string>
 			<string>Shcha</string>
 			<string>Tse</string>
 			<string>Zhedescender</string>
-			<string>De.bgr</string>
+			<string>Kadescender</string>
 		</array>
 		<key>public.kern1.LeftStraight_UC</key>
 		<array>
@@ -326,7 +329,6 @@
 			<string>Tcommaaccent</string>
 			<string>Tau</string>
 			<string>Te</string>
-			<string>Tedescender-cy</string>
 		</array>
 		<key>public.kern1.TsheCur_UC</key>
 		<array>
@@ -1369,6 +1371,7 @@
 			<string>shha</string>
 			<string>ve.bgr</string>
 			<string>hbar</string>
+			<string>thorn</string>
 		</array>
 		<key>public.kern2.che_LC</key>
 		<array>
@@ -1397,6 +1400,11 @@
 		<array>
 			<string>de</string>
 			<string>de.locl</string>
+		</array>
+		<key>public.kern2.dq_LC</key>
+		<array>
+			<string>d</string>
+			<string>q</string>
 		</array>
 		<key>public.kern2.ecyr_LC</key>
 		<array>
@@ -1494,6 +1502,7 @@
 			<string>jacute.loclNLD</string>
 			<string>jcircumflex</string>
 			<string>je</string>
+			<string>jdotless</string>
 		</array>
 		<key>public.kern2.minute</key>
 		<array>
@@ -1560,7 +1569,6 @@
 			<string>ccedilla</string>
 			<string>ccircumflex</string>
 			<string>cdotaccent</string>
-			<string>d</string>
 			<string>dcaron</string>
 			<string>dcroat</string>
 			<string>de.bgr</string>
@@ -1614,7 +1622,6 @@
 			<string>omicron</string>
 			<string>omicrontonos</string>
 			<string>phi</string>
-			<string>q</string>
 			<string>sigma</string>
 			<string>eth</string>
 		</array>
