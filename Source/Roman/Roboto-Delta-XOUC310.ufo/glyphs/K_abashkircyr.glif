@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Kabashkircyr" format="2">
 	<unicode hex="04A0"/>
-	<advance width="2445"/>
+	<advance width="2345"/>
 	<outline>
 		<contour>
 			<point x="1699" y="0" type="line"/>
-			<point x="1117" y="694" type="line"/>
-			<point x="1606" y="999" type="line"/>
-			<point x="2465" y="0" type="line"/>
+			<point x="1087" y="694" type="line"/>
+			<point x="1476" y="999" type="line"/>
+			<point x="2365" y="0" type="line"/>
 		</contour>
 		<contour>
 			<point x="925" y="830" type="line"/>
