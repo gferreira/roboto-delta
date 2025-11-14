@@ -825,18 +825,26 @@
 		</dict>
 		<key>eight.prop</key>
 		<dict>
+			<key>eight.prop</key>
+			<integer>4</integer>
 			<key>five.prop</key>
-			<integer>17</integer>
+			<integer>21</integer>
 			<key>four.prop</key>
-			<integer>11</integer>
+			<integer>10</integer>
 			<key>nine.prop</key>
 			<integer>10</integer>
+			<key>one.prop</key>
+			<integer>-7</integer>
+			<key>public.kern2.comma</key>
+			<integer>-45</integer>
+			<key>seven.prop</key>
+			<integer>-9</integer>
 			<key>six.prop</key>
-			<integer>6</integer>
+			<integer>11</integer>
 			<key>three.prop</key>
-			<integer>20</integer>
+			<integer>31</integer>
 			<key>two.prop</key>
-			<integer>15</integer>
+			<integer>18</integer>
 		</dict>
 		<key>el.bgr</key>
 		<dict>
@@ -913,40 +921,44 @@
 		<key>five.prop</key>
 		<dict>
 			<key>eight.prop</key>
-			<integer>10</integer>
+			<integer>16</integer>
 			<key>five.prop</key>
-			<integer>25</integer>
+			<integer>31</integer>
 			<key>four.prop</key>
 			<integer>20</integer>
 			<key>nine.prop</key>
 			<integer>20</integer>
+			<key>one.prop</key>
+			<integer>27</integer>
+			<key>public.kern2.comma</key>
+			<integer>-30</integer>
 			<key>seven.prop</key>
-			<integer>10</integer>
+			<integer>27</integer>
 			<key>six.prop</key>
-			<integer>17</integer>
+			<integer>23</integer>
 			<key>three.prop</key>
-			<integer>30</integer>
+			<integer>43</integer>
 			<key>two.prop</key>
-			<integer>30</integer>
+			<integer>35</integer>
 			<key>zero.prop</key>
-			<integer>9</integer>
+			<integer>14</integer>
 		</dict>
 		<key>four.prop</key>
 		<dict>
 			<key>eight.prop</key>
-			<integer>5</integer>
+			<integer>4</integer>
 			<key>five.prop</key>
 			<integer>20</integer>
 			<key>four.prop</key>
 			<integer>10</integer>
-			<key>nine.prop</key>
+			<key>one.prop</key>
 			<integer>-10</integer>
 			<key>seven.prop</key>
 			<integer>-10</integer>
 			<key>six.prop</key>
-			<integer>13</integer>
+			<integer>7</integer>
 			<key>three.prop</key>
-			<integer>20</integer>
+			<integer>32</integer>
 			<key>two.prop</key>
 			<integer>20</integer>
 		</dict>
@@ -1096,17 +1108,21 @@
 			<key>four.prop</key>
 			<integer>28</integer>
 			<key>nine.prop</key>
-			<integer>20</integer>
-			<key>seven.prop</key>
-			<integer>10</integer>
-			<key>six.prop</key>
-			<integer>16</integer>
-			<key>three.prop</key>
-			<integer>30</integer>
-			<key>two.prop</key>
-			<integer>32</integer>
-			<key>zero.prop</key>
+			<integer>25</integer>
+			<key>one.prop</key>
 			<integer>7</integer>
+			<key>public.kern2.comma</key>
+			<integer>-60</integer>
+			<key>seven.prop</key>
+			<integer>14</integer>
+			<key>six.prop</key>
+			<integer>20</integer>
+			<key>three.prop</key>
+			<integer>32</integer>
+			<key>two.prop</key>
+			<integer>35</integer>
+			<key>zero.prop</key>
+			<integer>10</integer>
 		</dict>
 		<key>ntilde</key>
 		<dict>
@@ -1116,17 +1132,17 @@
 		<key>one.prop</key>
 		<dict>
 			<key>five.prop</key>
-			<integer>14</integer>
-			<key>four.prop</key>
-			<integer>10</integer>
-			<key>nine.prop</key>
-			<integer>8</integer>
-			<key>six.prop</key>
 			<integer>6</integer>
+			<key>four.prop</key>
+			<integer>8</integer>
+			<key>nine.prop</key>
+			<integer>3</integer>
+			<key>public.kern2.comma</key>
+			<integer>-10</integer>
 			<key>three.prop</key>
-			<integer>20</integer>
+			<integer>17</integer>
 			<key>two.prop</key>
-			<integer>20</integer>
+			<integer>13</integer>
 		</dict>
 		<key>periodcentered</key>
 		<dict>
@@ -3014,6 +3030,16 @@
 		<dict>
 			<key>V</key>
 			<integer>-40</integer>
+			<key>eight.prop</key>
+			<integer>-45</integer>
+			<key>five.prop</key>
+			<integer>-16</integer>
+			<key>four.prop</key>
+			<integer>-50</integer>
+			<key>nine.prop</key>
+			<integer>-40</integer>
+			<key>one.prop</key>
+			<integer>-130</integer>
 			<key>public.kern2.A_UC</key>
 			<integer>20</integer>
 			<key>public.kern2.CG_UC</key>
@@ -3054,6 +3080,16 @@
 			<integer>-40</integer>
 			<key>public.kern2.z_LC</key>
 			<integer>20</integer>
+			<key>seven.prop</key>
+			<integer>-50</integer>
+			<key>six.prop</key>
+			<integer>-30</integer>
+			<key>three.prop</key>
+			<integer>-5</integer>
+			<key>two.prop</key>
+			<integer>15</integer>
+			<key>zero.prop</key>
+			<integer>-40</integer>
 		</dict>
 		<key>public.kern1.copyright</key>
 		<dict>
@@ -4244,33 +4280,49 @@
 		</dict>
 		<key>seven.prop</key>
 		<dict>
+			<key>eight.prop</key>
+			<integer>-7</integer>
 			<key>four.prop</key>
 			<integer>-10</integer>
 			<key>nine.prop</key>
-			<integer>10</integer>
+			<integer>13</integer>
+			<key>one.prop</key>
+			<integer>21</integer>
+			<key>public.kern2.comma</key>
+			<integer>-100</integer>
+			<key>seven.prop</key>
+			<integer>24</integer>
+			<key>six.prop</key>
+			<integer>-12</integer>
 			<key>three.prop</key>
-			<integer>10</integer>
+			<integer>23</integer>
 			<key>two.prop</key>
-			<integer>15</integer>
+			<integer>26</integer>
 		</dict>
 		<key>six.prop</key>
 		<dict>
 			<key>eight.prop</key>
-			<integer>9</integer>
+			<integer>17</integer>
 			<key>five.prop</key>
-			<integer>27</integer>
+			<integer>31</integer>
 			<key>four.prop</key>
 			<integer>21</integer>
 			<key>nine.prop</key>
-			<integer>16</integer>
+			<integer>15</integer>
+			<key>one.prop</key>
+			<integer>3</integer>
+			<key>public.kern2.comma</key>
+			<integer>-27</integer>
+			<key>seven.prop</key>
+			<integer>4</integer>
 			<key>six.prop</key>
-			<integer>16</integer>
+			<integer>24</integer>
 			<key>three.prop</key>
-			<integer>31</integer>
+			<integer>42</integer>
 			<key>two.prop</key>
-			<integer>34</integer>
+			<integer>37</integer>
 			<key>zero.prop</key>
-			<integer>10</integer>
+			<integer>14</integer>
 		</dict>
 		<key>slash</key>
 		<dict>
@@ -4340,41 +4392,53 @@
 		</dict>
 		<key>three.prop</key>
 		<dict>
+			<key>eight.prop</key>
+			<integer>11</integer>
 			<key>five.prop</key>
-			<integer>15</integer>
+			<integer>26</integer>
 			<key>four.prop</key>
-			<integer>20</integer>
+			<integer>16</integer>
 			<key>nine.prop</key>
-			<integer>10</integer>
-			<key>six.prop</key>
-			<integer>7</integer>
-			<key>three.prop</key>
-			<integer>21</integer>
-			<key>two.prop</key>
 			<integer>22</integer>
+			<key>one.prop</key>
+			<integer>9</integer>
+			<key>public.kern2.comma</key>
+			<integer>-32</integer>
+			<key>seven.prop</key>
+			<integer>-7</integer>
+			<key>six.prop</key>
+			<integer>18</integer>
+			<key>three.prop</key>
+			<integer>37</integer>
+			<key>two.prop</key>
+			<integer>33</integer>
+			<key>zero.prop</key>
+			<integer>8</integer>
 		</dict>
 		<key>two.prop</key>
 		<dict>
 			<key>eight.prop</key>
-			<integer>1</integer>
+			<integer>19</integer>
 			<key>five.prop</key>
-			<integer>25</integer>
+			<integer>42</integer>
 			<key>four.prop</key>
 			<integer>20</integer>
 			<key>nine.prop</key>
-			<integer>18</integer>
+			<integer>40</integer>
 			<key>one.prop</key>
-			<integer>10</integer>
+			<integer>28</integer>
+			<key>public.kern2.comma</key>
+			<integer>20</integer>
 			<key>seven.prop</key>
-			<integer>10</integer>
+			<integer>18</integer>
 			<key>six.prop</key>
-			<integer>15</integer>
+			<integer>28</integer>
 			<key>three.prop</key>
-			<integer>24</integer>
+			<integer>50</integer>
 			<key>two.prop</key>
-			<integer>32</integer>
+			<integer>51</integer>
 			<key>zero.prop</key>
-			<integer>6</integer>
+			<integer>25</integer>
 		</dict>
 		<key>ve</key>
 		<dict>
@@ -4441,17 +4505,19 @@
 		<key>zero.prop</key>
 		<dict>
 			<key>five.prop</key>
-			<integer>15</integer>
+			<integer>18</integer>
 			<key>four.prop</key>
-			<integer>15</integer>
-			<key>nine.prop</key>
-			<integer>10</integer>
-			<key>six.prop</key>
 			<integer>8</integer>
+			<key>nine.prop</key>
+			<integer>16</integer>
+			<key>public.kern2.comma</key>
+			<integer>-40</integer>
+			<key>six.prop</key>
+			<integer>11</integer>
 			<key>three.prop</key>
-			<integer>22</integer>
+			<integer>29</integer>
 			<key>two.prop</key>
-			<integer>24</integer>
+			<integer>26</integer>
 		</dict>
 		<key>zeta</key>
 		<dict>

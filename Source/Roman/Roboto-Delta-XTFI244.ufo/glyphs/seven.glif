@@ -4,13 +4,13 @@
 	<advance width="541"/>
 	<outline>
 		<contour>
-			<point x="78" y="0" type="line"/>
+			<point x="138" y="0" type="line"/>
 			<point x="237" y="1295" type="line"/>
 			<point x="81" y="1295" type="line"/>
 			<point x="81" y="1456" type="line"/>
 			<point x="437" y="1456" type="line"/>
 			<point x="437" y="1352" type="line"/>
-			<point x="272" y="0" type="line"/>
+			<point x="332" y="0" type="line"/>
 		</contour>
 	</outline>
 </glyph>
