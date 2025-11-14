@@ -652,6 +652,8 @@
 			<integer>-50</integer>
 			<key>public.kern2.alpha_LC</key>
 			<integer>-50</integer>
+			<key>public.kern2.comma</key>
+			<integer>-100</integer>
 			<key>public.kern2.gamma</key>
 			<integer>-10</integer>
 			<key>public.kern2.mnpr_LC</key>
@@ -820,6 +822,8 @@
 			<integer>-70</integer>
 			<key>nine.prop</key>
 			<integer>10</integer>
+			<key>public.kern2.comma</key>
+			<integer>-100</integer>
 			<key>six.prop</key>
 			<integer>-20</integer>
 			<key>three.prop</key>
@@ -841,6 +845,29 @@
 			<integer>10</integer>
 			<key>two.prop</key>
 			<integer>-20</integer>
+		</dict>
+		<key>dollar</key>
+		<dict>
+			<key>eight.prop</key>
+			<integer>25</integer>
+			<key>five.prop</key>
+			<integer>40</integer>
+			<key>four.prop</key>
+			<integer>30</integer>
+			<key>nine.prop</key>
+			<integer>36</integer>
+			<key>one.prop</key>
+			<integer>30</integer>
+			<key>seven.prop</key>
+			<integer>30</integer>
+			<key>six.prop</key>
+			<integer>30</integer>
+			<key>three.prop</key>
+			<integer>51</integer>
+			<key>two.prop</key>
+			<integer>45</integer>
+			<key>zero.prop</key>
+			<integer>20</integer>
 		</dict>
 		<key>eacute</key>
 		<dict>
@@ -936,6 +963,12 @@
 			<integer>10</integer>
 			<key>public.kern2.comma</key>
 			<integer>-45</integer>
+			<key>public.kern2.percent</key>
+			<integer>-10</integer>
+			<key>public.kern2.quotes_curly_left</key>
+			<integer>10</integer>
+			<key>question</key>
+			<integer>10</integer>
 			<key>seven.prop</key>
 			<integer>-9</integer>
 			<key>six.prop</key>
@@ -1021,6 +1054,12 @@
 		<dict>
 			<key>V</key>
 			<integer>20</integer>
+			<key>five.prop</key>
+			<integer>15</integer>
+			<key>nine.prop</key>
+			<integer>15</integer>
+			<key>one.prop</key>
+			<integer>-60</integer>
 			<key>public.kern2.J_UC</key>
 			<integer>27</integer>
 			<key>public.kern2.S_UC</key>
@@ -1033,6 +1072,19 @@
 			<integer>20</integer>
 			<key>public.kern2.j_LC</key>
 			<integer>50</integer>
+			<key>seven.prop</key>
+			<integer>-10</integer>
+			<key>six.prop</key>
+			<integer>10</integer>
+			<key>three.prop</key>
+			<integer>25</integer>
+			<key>two.prop</key>
+			<integer>24</integer>
+		</dict>
+		<key>five</key>
+		<dict>
+			<key>public.kern2.t_LC</key>
+			<integer>10</integer>
 		</dict>
 		<key>five.prop</key>
 		<dict>
@@ -1053,6 +1105,8 @@
 			<key>eight.prop</key>
 			<integer>16</integer>
 			<key>equal</key>
+			<integer>15</integer>
+			<key>exclam</key>
 			<integer>15</integer>
 			<key>five.prop</key>
 			<integer>31</integer>
@@ -1076,6 +1130,18 @@
 			<integer>-30</integer>
 			<key>public.kern2.emdash</key>
 			<integer>13</integer>
+			<key>public.kern2.guillemotleft</key>
+			<integer>15</integer>
+			<key>public.kern2.parens</key>
+			<integer>10</integer>
+			<key>public.kern2.percent</key>
+			<integer>15</integer>
+			<key>public.kern2.quotes_curly_left</key>
+			<integer>15</integer>
+			<key>public.kern2.quotes_curly_right</key>
+			<integer>15</integer>
+			<key>question</key>
+			<integer>30</integer>
 			<key>section</key>
 			<integer>10</integer>
 			<key>seven.prop</key>
@@ -1090,6 +1156,27 @@
 			<integer>35</integer>
 			<key>zero.prop</key>
 			<integer>14</integer>
+		</dict>
+		<key>florin</key>
+		<dict>
+			<key>eight.prop</key>
+			<integer>10</integer>
+			<key>five.prop</key>
+			<integer>30</integer>
+			<key>nine.prop</key>
+			<integer>25</integer>
+			<key>one.prop</key>
+			<integer>50</integer>
+			<key>seven.prop</key>
+			<integer>50</integer>
+			<key>six.prop</key>
+			<integer>20</integer>
+			<key>three.prop</key>
+			<integer>40</integer>
+			<key>two.prop</key>
+			<integer>40</integer>
+			<key>zero.prop</key>
+			<integer>10</integer>
 		</dict>
 		<key>four.prop</key>
 		<dict>
@@ -1122,6 +1209,10 @@
 			<key>plus</key>
 			<integer>-20</integer>
 			<key>public.kern2.emdash</key>
+			<integer>-20</integer>
+			<key>public.kern2.guillemotleft</key>
+			<integer>10</integer>
+			<key>public.kern2.percent</key>
 			<integer>-20</integer>
 			<key>seven.prop</key>
 			<integer>-10</integer>
@@ -1339,6 +1430,11 @@
 			<key>quoteright</key>
 			<integer>0</integer>
 		</dict>
+		<key>nine</key>
+		<dict>
+			<key>public.kern2.t_LC</key>
+			<integer>7</integer>
+		</dict>
 		<key>nine.prop</key>
 		<dict>
 			<key>Euro</key>
@@ -1357,6 +1453,8 @@
 			<integer>10</integer>
 			<key>equal</key>
 			<integer>10</integer>
+			<key>exclam</key>
+			<integer>7</integer>
 			<key>five.prop</key>
 			<integer>30</integer>
 			<key>four.prop</key>
@@ -1383,6 +1481,20 @@
 			<integer>-60</integer>
 			<key>public.kern2.emdash</key>
 			<integer>10</integer>
+			<key>public.kern2.guillemotleft</key>
+			<integer>10</integer>
+			<key>public.kern2.guillemotright</key>
+			<integer>10</integer>
+			<key>public.kern2.parens</key>
+			<integer>20</integer>
+			<key>public.kern2.percent</key>
+			<integer>7</integer>
+			<key>public.kern2.quotes_curly_left</key>
+			<integer>20</integer>
+			<key>public.kern2.quotes_curly_right</key>
+			<integer>5</integer>
+			<key>question</key>
+			<integer>25</integer>
 			<key>section</key>
 			<integer>5</integer>
 			<key>seven.prop</key>
@@ -1403,6 +1515,28 @@
 			<key>quoteright</key>
 			<integer>0</integer>
 		</dict>
+		<key>numbersign</key>
+		<dict>
+			<key>eight.prop</key>
+			<integer>-5</integer>
+			<key>five.prop</key>
+			<integer>25</integer>
+			<key>nine.prop</key>
+			<integer>16</integer>
+			<key>seven.prop</key>
+			<integer>20</integer>
+			<key>six.prop</key>
+			<integer>5</integer>
+			<key>three.prop</key>
+			<integer>25</integer>
+			<key>two.prop</key>
+			<integer>25</integer>
+		</dict>
+		<key>one</key>
+		<dict>
+			<key>public.kern2.s_LC</key>
+			<integer>-20</integer>
+		</dict>
 		<key>one.prop</key>
 		<dict>
 			<key>backslash</key>
@@ -1417,6 +1551,12 @@
 			<integer>3</integer>
 			<key>public.kern2.comma</key>
 			<integer>-10</integer>
+			<key>public.kern2.parens</key>
+			<integer>20</integer>
+			<key>public.kern2.quotes_curly_left</key>
+			<integer>20</integer>
+			<key>public.kern2.quotes_curly_right</key>
+			<integer>10</integer>
 			<key>slash</key>
 			<integer>37</integer>
 			<key>three.prop</key>
@@ -1530,6 +1670,8 @@
 			<integer>20</integer>
 			<key>public.kern2.copyright</key>
 			<integer>10</integer>
+			<key>public.kern2.dq_LC</key>
+			<integer>30</integer>
 			<key>public.kern2.emdash</key>
 			<integer>-10</integer>
 			<key>public.kern2.f_LC</key>
@@ -3257,6 +3399,18 @@
 			<integer>5</integer>
 			<key>lslash</key>
 			<integer>15</integer>
+			<key>public.kern2.A_UC</key>
+			<integer>30</integer>
+			<key>public.kern2.CG_UC</key>
+			<integer>10</integer>
+			<key>public.kern2.J_UC</key>
+			<integer>20</integer>
+			<key>public.kern2.S_UC</key>
+			<integer>20</integer>
+			<key>public.kern2.T_UC</key>
+			<integer>-30</integer>
+			<key>public.kern2.W_UC</key>
+			<integer>-10</integer>
 			<key>public.kern2.a_LC</key>
 			<integer>2</integer>
 			<key>public.kern2.alpha_LC</key>
@@ -3377,6 +3531,10 @@
 			<integer>-40</integer>
 			<key>public.kern2.o_LC</key>
 			<integer>-10</integer>
+			<key>public.kern2.quotes_curly_left</key>
+			<integer>-60</integer>
+			<key>public.kern2.quotes_curly_right</key>
+			<integer>-110</integer>
 			<key>public.kern2.s_LC</key>
 			<integer>-10</integer>
 			<key>public.kern2.t_LC</key>
@@ -3402,8 +3560,14 @@
 		<dict>
 			<key>V</key>
 			<integer>20</integer>
+			<key>five.prop</key>
+			<integer>20</integer>
+			<key>four.prop</key>
+			<integer>20</integer>
 			<key>lslash</key>
 			<integer>40</integer>
+			<key>nine.prop</key>
+			<integer>15</integer>
 			<key>public.kern2.AE_UC</key>
 			<integer>15</integer>
 			<key>public.kern2.A_UC</key>
@@ -3436,6 +3600,12 @@
 			<integer>25</integer>
 			<key>public.kern2.z_LC</key>
 			<integer>8</integer>
+			<key>six.prop</key>
+			<integer>10</integer>
+			<key>three.prop</key>
+			<integer>30</integer>
+			<key>two.prop</key>
+			<integer>30</integer>
 		</dict>
 		<key>public.kern1.e_LC</key>
 		<dict>
@@ -3447,6 +3617,20 @@
 			<integer>-30</integer>
 			<key>lslash</key>
 			<integer>15</integer>
+			<key>public.kern2.A_UC</key>
+			<integer>30</integer>
+			<key>public.kern2.CG_UC</key>
+			<integer>10</integer>
+			<key>public.kern2.J_UC</key>
+			<integer>20</integer>
+			<key>public.kern2.S_UC</key>
+			<integer>10</integer>
+			<key>public.kern2.T_UC</key>
+			<integer>-30</integer>
+			<key>public.kern2.W_UC</key>
+			<integer>-10</integer>
+			<key>public.kern2.Y_UC</key>
+			<integer>-25</integer>
 			<key>public.kern2.comma</key>
 			<integer>-10</integer>
 			<key>public.kern2.copyright</key>
@@ -3638,6 +3822,12 @@
 		<dict>
 			<key>V</key>
 			<integer>10</integer>
+			<key>five.prop</key>
+			<integer>10</integer>
+			<key>nine.prop</key>
+			<integer>15</integer>
+			<key>one.prop</key>
+			<integer>-60</integer>
 			<key>public.kern2.J_UC</key>
 			<integer>27</integer>
 			<key>public.kern2.S_UC</key>
@@ -3654,11 +3844,23 @@
 			<integer>40</integer>
 			<key>public.kern2.t_LC</key>
 			<integer>10</integer>
+			<key>seven.prop</key>
+			<integer>-30</integer>
+			<key>three.prop</key>
+			<integer>20</integer>
+			<key>two.prop</key>
+			<integer>30</integer>
 		</dict>
 		<key>public.kern1.guillemotright</key>
 		<dict>
 			<key>V</key>
 			<integer>-10</integer>
+			<key>four.prop</key>
+			<integer>35</integer>
+			<key>nine.prop</key>
+			<integer>-10</integer>
+			<key>one.prop</key>
+			<integer>-80</integer>
 			<key>public.kern2.A_UC</key>
 			<integer>-10</integer>
 			<key>public.kern2.S_UC</key>
@@ -3673,6 +3875,14 @@
 			<integer>-14</integer>
 			<key>public.kern2.z_LC</key>
 			<integer>-10</integer>
+			<key>seven.prop</key>
+			<integer>-30</integer>
+			<key>six.prop</key>
+			<integer>10</integer>
+			<key>three.prop</key>
+			<integer>10</integer>
+			<key>two.prop</key>
+			<integer>-40</integer>
 		</dict>
 		<key>public.kern1.hmn_LC</key>
 		<dict>
@@ -3878,6 +4088,12 @@
 		<dict>
 			<key>V</key>
 			<integer>50</integer>
+			<key>five.prop</key>
+			<integer>20</integer>
+			<key>nine.prop</key>
+			<integer>20</integer>
+			<key>one.prop</key>
+			<integer>40</integer>
 			<key>public.kern2.S_UC</key>
 			<integer>7</integer>
 			<key>public.kern2.T_UC</key>
@@ -3900,9 +4116,23 @@
 			<integer>10</integer>
 			<key>public.kern2.y_LC</key>
 			<integer>75</integer>
+			<key>seven.prop</key>
+			<integer>55</integer>
+			<key>six.prop</key>
+			<integer>10</integer>
+			<key>three.prop</key>
+			<integer>25</integer>
+			<key>two.prop</key>
+			<integer>30</integer>
 		</dict>
 		<key>public.kern1.quotes_base_curly_right</key>
 		<dict>
+			<key>five.prop</key>
+			<integer>17</integer>
+			<key>four.prop</key>
+			<integer>-40</integer>
+			<key>one.prop</key>
+			<integer>-80</integer>
 			<key>public.kern2.a_LC</key>
 			<integer>10</integer>
 			<key>public.kern2.o_LC</key>
@@ -3913,6 +4143,12 @@
 			<integer>20</integer>
 			<key>public.kern2.z_LC</key>
 			<integer>20</integer>
+			<key>six.prop</key>
+			<integer>10</integer>
+			<key>three.prop</key>
+			<integer>28</integer>
+			<key>two.prop</key>
+			<integer>25</integer>
 		</dict>
 		<key>public.kern1.quotes_curly_left</key>
 		<dict>
@@ -3920,6 +4156,16 @@
 			<integer>40</integer>
 			<key>eth</key>
 			<integer>-30</integer>
+			<key>exclamdown</key>
+			<integer>-33</integer>
+			<key>five.prop</key>
+			<integer>20</integer>
+			<key>four.prop</key>
+			<integer>-50</integer>
+			<key>nine.prop</key>
+			<integer>15</integer>
+			<key>one.prop</key>
+			<integer>20</integer>
 			<key>public.kern2.A_UC</key>
 			<integer>-42</integer>
 			<key>public.kern2.J_UC</key>
@@ -3956,6 +4202,16 @@
 			<integer>-30</integer>
 			<key>public.kern2.z_LC</key>
 			<integer>-55</integer>
+			<key>questiondown</key>
+			<integer>-140</integer>
+			<key>seven.prop</key>
+			<integer>40</integer>
+			<key>six.prop</key>
+			<integer>10</integer>
+			<key>three.prop</key>
+			<integer>25</integer>
+			<key>two.prop</key>
+			<integer>25</integer>
 		</dict>
 		<key>public.kern1.quotes_curly_right</key>
 		<dict>
@@ -3963,8 +4219,12 @@
 			<integer>30</integer>
 			<key>eth</key>
 			<integer>-40</integer>
+			<key>four.prop</key>
+			<integer>-20</integer>
 			<key>lslash</key>
 			<integer>-5</integer>
+			<key>one.prop</key>
+			<integer>10</integer>
 			<key>public.kern2.A_UC</key>
 			<integer>-42</integer>
 			<key>public.kern2.J_UC</key>
@@ -3983,6 +4243,8 @@
 			<integer>-80</integer>
 			<key>public.kern2.bhk_LC</key>
 			<integer>-5</integer>
+			<key>public.kern2.comma</key>
+			<integer>-110</integer>
 			<key>public.kern2.gamma</key>
 			<integer>-30</integer>
 			<key>public.kern2.i_LC</key>
@@ -4007,6 +4269,12 @@
 			<integer>-30</integer>
 			<key>public.kern2.z_LC</key>
 			<integer>-55</integer>
+			<key>seven.prop</key>
+			<integer>20</integer>
+			<key>three.prop</key>
+			<integer>30</integer>
+			<key>two.prop</key>
+			<integer>30</integer>
 		</dict>
 		<key>public.kern1.quotes_straight_left</key>
 		<dict>
@@ -4296,6 +4564,8 @@
 			<integer>-50</integer>
 			<key>backslash</key>
 			<integer>-20</integer>
+			<key>public.kern2.T_UC</key>
+			<integer>-40</integer>
 			<key>public.kern2.quotes_curly_right</key>
 			<integer>-40</integer>
 			<key>slash</key>
@@ -4502,10 +4772,19 @@
 			<key>slash</key>
 			<integer>40</integer>
 		</dict>
+		<key>question</key>
+		<dict>
+			<key>public.kern2.quotes_curly_left</key>
+			<integer>30</integer>
+		</dict>
 		<key>questiondown</key>
 		<dict>
 			<key>V</key>
 			<integer>-10</integer>
+			<key>five.prop</key>
+			<integer>20</integer>
+			<key>four.prop</key>
+			<integer>-20</integer>
 			<key>public.kern2.AE_UC</key>
 			<integer>45</integer>
 			<key>public.kern2.A_UC</key>
@@ -4530,6 +4809,12 @@
 			<integer>40</integer>
 			<key>public.kern2.z_LC</key>
 			<integer>20</integer>
+			<key>six.prop</key>
+			<integer>5</integer>
+			<key>three.prop</key>
+			<integer>30</integer>
+			<key>two.prop</key>
+			<integer>50</integer>
 		</dict>
 		<key>quoteright</key>
 		<dict>
@@ -4614,6 +4899,8 @@
 			<integer>-10</integer>
 			<key>eight.prop</key>
 			<integer>-7</integer>
+			<key>exclam</key>
+			<integer>30</integer>
 			<key>four.prop</key>
 			<integer>-10</integer>
 			<key>fraction</key>
@@ -4626,6 +4913,20 @@
 			<integer>-20</integer>
 			<key>public.kern2.comma</key>
 			<integer>-100</integer>
+			<key>public.kern2.guillemotleft</key>
+			<integer>-10</integer>
+			<key>public.kern2.guillemotright</key>
+			<integer>-10</integer>
+			<key>public.kern2.parens</key>
+			<integer>40</integer>
+			<key>public.kern2.percent</key>
+			<integer>7</integer>
+			<key>public.kern2.quotes_curly_left</key>
+			<integer>30</integer>
+			<key>public.kern2.quotes_curly_right</key>
+			<integer>20</integer>
+			<key>question</key>
+			<integer>15</integer>
 			<key>seven.prop</key>
 			<integer>24</integer>
 			<key>six.prop</key>
@@ -4634,6 +4935,11 @@
 			<integer>23</integer>
 			<key>two.prop</key>
 			<integer>26</integer>
+		</dict>
+		<key>six</key>
+		<dict>
+			<key>public.kern2.t_LC</key>
+			<integer>7</integer>
 		</dict>
 		<key>six.prop</key>
 		<dict>
@@ -4655,6 +4961,8 @@
 			<integer>17</integer>
 			<key>equal</key>
 			<integer>15</integer>
+			<key>exclam</key>
+			<integer>10</integer>
 			<key>five.prop</key>
 			<integer>31</integer>
 			<key>four.prop</key>
@@ -4677,6 +4985,18 @@
 			<integer>-27</integer>
 			<key>public.kern2.emdash</key>
 			<integer>10</integer>
+			<key>public.kern2.guillemotleft</key>
+			<integer>15</integer>
+			<key>public.kern2.parens</key>
+			<integer>10</integer>
+			<key>public.kern2.percent</key>
+			<integer>-5</integer>
+			<key>public.kern2.quotes_curly_left</key>
+			<integer>10</integer>
+			<key>public.kern2.quotes_curly_right</key>
+			<integer>10</integer>
+			<key>question</key>
+			<integer>20</integer>
 			<key>section</key>
 			<integer>10</integer>
 			<key>seven.prop</key>
@@ -4769,12 +5089,40 @@
 			<key>zero.prop</key>
 			<integer>33</integer>
 		</dict>
+		<key>sterling</key>
+		<dict>
+			<key>eight.prop</key>
+			<integer>23</integer>
+			<key>five.prop</key>
+			<integer>31</integer>
+			<key>four.prop</key>
+			<integer>20</integer>
+			<key>nine.prop</key>
+			<integer>43</integer>
+			<key>one.prop</key>
+			<integer>40</integer>
+			<key>seven.prop</key>
+			<integer>40</integer>
+			<key>six.prop</key>
+			<integer>27</integer>
+			<key>three.prop</key>
+			<integer>54</integer>
+			<key>two.prop</key>
+			<integer>54</integer>
+			<key>zero.prop</key>
+			<integer>29</integer>
+		</dict>
 		<key>tedescender-cy</key>
 		<dict>
 			<key>public.kern2.el_LC</key>
 			<integer>-15</integer>
 			<key>public.kern2.j_LC</key>
 			<integer>50</integer>
+		</dict>
+		<key>three</key>
+		<dict>
+			<key>public.kern2.mnpr_LC</key>
+			<integer>-20</integer>
 		</dict>
 		<key>three.prop</key>
 		<dict>
@@ -4788,6 +5136,8 @@
 			<integer>15</integer>
 			<key>eight.prop</key>
 			<integer>11</integer>
+			<key>exclam</key>
+			<integer>10</integer>
 			<key>five.prop</key>
 			<integer>26</integer>
 			<key>four.prop</key>
@@ -4800,6 +5150,18 @@
 			<integer>9</integer>
 			<key>public.kern2.comma</key>
 			<integer>-32</integer>
+			<key>public.kern2.guillemotleft</key>
+			<integer>10</integer>
+			<key>public.kern2.parens</key>
+			<integer>5</integer>
+			<key>public.kern2.percent</key>
+			<integer>5</integer>
+			<key>public.kern2.quotes_curly_left</key>
+			<integer>20</integer>
+			<key>public.kern2.quotes_curly_right</key>
+			<integer>5</integer>
+			<key>question</key>
+			<integer>25</integer>
 			<key>seven.prop</key>
 			<integer>-7</integer>
 			<key>six.prop</key>
@@ -4833,6 +5195,8 @@
 			<integer>19</integer>
 			<key>equal</key>
 			<integer>15</integer>
+			<key>exclam</key>
+			<integer>30</integer>
 			<key>five.prop</key>
 			<integer>42</integer>
 			<key>four.prop</key>
@@ -4857,6 +5221,18 @@
 			<integer>33</integer>
 			<key>public.kern2.comma</key>
 			<integer>20</integer>
+			<key>public.kern2.guillemotright</key>
+			<integer>20</integer>
+			<key>public.kern2.parens</key>
+			<integer>30</integer>
+			<key>public.kern2.percent</key>
+			<integer>23</integer>
+			<key>public.kern2.quotes_curly_left</key>
+			<integer>35</integer>
+			<key>public.kern2.quotes_curly_right</key>
+			<integer>25</integer>
+			<key>question</key>
+			<integer>45</integer>
 			<key>section</key>
 			<integer>5</integer>
 			<key>seven.prop</key>
@@ -4909,6 +5285,29 @@
 			<key>chi</key>
 			<integer>30</integer>
 		</dict>
+		<key>yen</key>
+		<dict>
+			<key>eight.prop</key>
+			<integer>10</integer>
+			<key>five.prop</key>
+			<integer>30</integer>
+			<key>four.prop</key>
+			<integer>10</integer>
+			<key>nine.prop</key>
+			<integer>30</integer>
+			<key>one.prop</key>
+			<integer>50</integer>
+			<key>seven.prop</key>
+			<integer>50</integer>
+			<key>six.prop</key>
+			<integer>20</integer>
+			<key>three.prop</key>
+			<integer>40</integer>
+			<key>two.prop</key>
+			<integer>40</integer>
+			<key>zero.prop</key>
+			<integer>10</integer>
+		</dict>
 		<key>ze.bgr</key>
 		<dict>
 			<key>public.kern2.alpha_LC</key>
@@ -4948,6 +5347,10 @@
 			<integer>16</integer>
 			<key>public.kern2.comma</key>
 			<integer>-40</integer>
+			<key>public.kern2.quotes_curly_left</key>
+			<integer>10</integer>
+			<key>question</key>
+			<integer>15</integer>
 			<key>six.prop</key>
 			<integer>11</integer>
 			<key>slash</key>
