@@ -1731,6 +1731,8 @@
 			<integer>7</integer>
 			<key>public.kern2.Ucyr_UC</key>
 			<integer>-8</integer>
+			<key>public.kern2.X_UC</key>
+			<integer>-10</integer>
 			<key>public.kern2.Y_UC</key>
 			<integer>10</integer>
 			<key>public.kern2.Z_UC</key>
@@ -5035,7 +5037,7 @@
 			<key>public.kern2.CG_UC</key>
 			<integer>20</integer>
 			<key>public.kern2.J_UC</key>
-			<integer>-50</integer>
+			<integer>-70</integer>
 			<key>public.kern2.RightStraight_UC</key>
 			<integer>15</integer>
 			<key>public.kern2.S_UC</key>
