@@ -334,8 +334,6 @@
 		<dict>
 			<key>V</key>
 			<integer>20</integer>
-			<key>eth</key>
-			<integer>-30</integer>
 			<key>public.kern2.A_UC</key>
 			<integer>-100</integer>
 			<key>public.kern2.J_UC</key>
@@ -408,6 +406,8 @@
 			<integer>-110</integer>
 			<key>public.kern2.Z_UC</key>
 			<integer>80</integer>
+			<key>public.kern2.bhk_LC</key>
+			<integer>0</integer>
 			<key>public.kern2.o_LC</key>
 			<integer>-20</integer>
 			<key>public.kern2.x_LC</key>
@@ -421,13 +421,6 @@
 		<dict>
 			<key>j</key>
 			<integer>0</integer>
-		</dict>
-		<key>eth</key>
-		<dict>
-			<key>public.kern2.comma</key>
-			<integer>-30</integer>
-			<key>public.kern2.emdash</key>
-			<integer>50</integer>
 		</dict>
 		<key>g</key>
 		<dict>
@@ -1050,8 +1043,6 @@
 		<dict>
 			<key>V</key>
 			<integer>-200</integer>
-			<key>eth</key>
-			<integer>-20</integer>
 			<key>public.kern2.A_UC</key>
 			<integer>50</integer>
 			<key>public.kern2.CG_UC</key>
@@ -1136,8 +1127,6 @@
 			<integer>90</integer>
 			<key>V</key>
 			<integer>-37</integer>
-			<key>eth</key>
-			<integer>30</integer>
 			<key>lslash</key>
 			<integer>70</integer>
 			<key>public.kern2.CG_UC</key>
@@ -1159,7 +1148,7 @@
 			<key>public.kern2.gamma</key>
 			<integer>20</integer>
 			<key>public.kern2.o_LC</key>
-			<integer>40</integer>
+			<integer>30</integer>
 			<key>public.kern2.t_LC</key>
 			<integer>20</integer>
 			<key>public.kern2.w_LC</key>
@@ -1305,9 +1294,9 @@
 			<key>public.kern2.colon</key>
 			<integer>-20</integer>
 			<key>public.kern2.comma</key>
-			<integer>-20</integer>
+			<integer>-30</integer>
 			<key>public.kern2.emdash</key>
-			<integer>40</integer>
+			<integer>50</integer>
 			<key>public.kern2.gamma</key>
 			<integer>-15</integer>
 			<key>public.kern2.minute</key>
@@ -1499,7 +1488,7 @@
 			<key>public.kern2.mnpr_LC</key>
 			<integer>-110</integer>
 			<key>public.kern2.o_LC</key>
-			<integer>-130</integer>
+			<integer>0</integer>
 			<key>public.kern2.s_LC</key>
 			<integer>-120</integer>
 			<key>public.kern2.t_LC</key>

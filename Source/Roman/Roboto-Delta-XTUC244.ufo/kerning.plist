@@ -406,6 +406,8 @@
 			<integer>-110</integer>
 			<key>public.kern2.Z_UC</key>
 			<integer>80</integer>
+			<key>public.kern2.bhk_LC</key>
+			<integer>0</integer>
 			<key>public.kern2.o_LC</key>
 			<integer>-20</integer>
 			<key>public.kern2.x_LC</key>

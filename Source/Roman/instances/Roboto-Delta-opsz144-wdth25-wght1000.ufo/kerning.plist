@@ -6105,7 +6105,7 @@
 			<key>public.kern2.alpha</key>
 			<integer>0</integer>
 			<key>public.kern2.f_LC</key>
-			<integer>71</integer>
+			<integer>70</integer>
 			<key>public.kern2.gamma</key>
 			<integer>-72</integer>
 			<key>public.kern2.minute</key>
@@ -6763,7 +6763,7 @@
 			<key>j</key>
 			<integer>0</integer>
 			<key>public.kern2.a_LC</key>
-			<integer>23</integer>
+			<integer>24</integer>
 			<key>public.kern2.alpha</key>
 			<integer>0</integer>
 			<key>public.kern2.colon</key>
@@ -6776,8 +6776,6 @@
 			<integer>50</integer>
 			<key>public.kern2.emdash</key>
 			<integer>49</integer>
-			<key>public.kern2.f_LC</key>
-			<integer>0</integer>
 			<key>public.kern2.gamma</key>
 			<integer>40</integer>
 			<key>public.kern2.guillemotleft</key>
@@ -6841,6 +6839,8 @@
 			<integer>-112</integer>
 			<key>el.bgr</key>
 			<integer>-280</integer>
+			<key>g</key>
+			<integer>-81</integer>
 			<key>ghe.bgr</key>
 			<integer>-75</integer>
 			<key>lambda</key>
@@ -6857,6 +6857,8 @@
 			<integer>-203</integer>
 			<key>public.kern2.de_LC</key>
 			<integer>-40</integer>
+			<key>public.kern2.dq_LC</key>
+			<integer>-86</integer>
 			<key>public.kern2.ecyr_LC</key>
 			<integer>-96</integer>
 			<key>public.kern2.el_LC</key>
@@ -7278,6 +7280,8 @@
 			<integer>-65</integer>
 			<key>public.kern2.copyright</key>
 			<integer>-50</integer>
+			<key>public.kern2.dq_LC</key>
+			<integer>-96</integer>
 			<key>public.kern2.ecyr_LC</key>
 			<integer>-102</integer>
 			<key>public.kern2.emdash</key>
@@ -8441,6 +8445,8 @@
 			<integer>-24</integer>
 			<key>public.kern2.comma</key>
 			<integer>-132</integer>
+			<key>public.kern2.dq_LC</key>
+			<integer>-62</integer>
 			<key>public.kern2.emdash</key>
 			<integer>-10</integer>
 			<key>public.kern2.f_LC</key>
