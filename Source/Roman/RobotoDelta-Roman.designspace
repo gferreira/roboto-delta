@@ -4815,7 +4815,6 @@
         <dimension name="STLO" xvalue="32"/>
       </location>
     </source>
-    
     <source filename="instances/Roboto-Delta-opsz144-wdth25-wght100.ufo" familyname="Roboto Delta" stylename="opsz144-wdth25-wght100">
       <kerning copy="1"/>
       <location>
@@ -4843,7 +4842,6 @@
         <dimension name="YOLC" xvalue="2"/>
         <dimension name="BDSZ" xvalue="0"/>
         <dimension name="YTAS" xvalue="756"/>
-        <!-- EXCEPTION ASCENDERS FOR LEGIBILITY -->
         <dimension name="YTDE" xvalue="-155"/>
         <dimension name="YTFI" xvalue="743"/>
         <dimension name="YTLC" xvalue="458"/>
@@ -4853,58 +4851,12 @@
         <dimension name="XTTW" xvalue="0"/>
         <dimension name="XTUR" xvalue="463"/>
         <dimension name="WDSP" xvalue="70"/>
-        <!-- BARS EXCEPTION TO OPEN BARS FOR $¢Øø -->
         <dimension name="BARS" xvalue="1000"/>
         <dimension name="XTUD" xvalue="463"/>
         <dimension name="STUI" xvalue="736"/>
         <dimension name="STUO" xvalue="722"/>
         <dimension name="STLI" xvalue="412"/>
         <dimension name="STLO" xvalue="426"/>
-      </location>
-    </source>
-    <source filename="instances/Roboto-Delta-opsz144-wdth100-wght100.ufo" familyname="Roboto Delta" stylename="opsz144-wdth100-wght100">
-      <kerning copy="1"/>
-      <location>
-        <dimension name="opsz" xvalue="1"/>
-        <dimension name="slnt" xvalue="0"/>
-        <dimension name="wght" xvalue="100"/>
-        <dimension name="wdth" xvalue="100"/>
-        <dimension name="GRAD" xvalue="0"/>
-        <dimension name="VANG" xvalue="0"/>
-        <dimension name="VROT" xvalue="0"/>
-        <dimension name="XOPQ" xvalue="4"/>
-        <dimension name="XOFI" xvalue="4"/>
-        <dimension name="XOUC" xvalue="4"/>
-        <dimension name="XOLC" xvalue="4"/>
-        <dimension name="XTRA" xvalue="506"/>
-        <dimension name="XTUC" xvalue="506"/>
-        <dimension name="XTLC" xvalue="506"/>
-        <dimension name="XTFI" xvalue="506"/>
-        <dimension name="XTSP" xvalue="-10"/>
-        <dimension name="YOPE" xvalue="79"/>
-        <dimension name="YOLB" xvalue="132"/>
-        <dimension name="YOPQ" xvalue="4"/>
-        <dimension name="YOFI" xvalue="4"/>
-        <dimension name="YOUC" xvalue="4"/>
-        <dimension name="YOLC" xvalue="4"/>
-        <dimension name="BDSZ" xvalue="144"/>
-        <dimension name="YTAS" xvalue="756"/>
-        <!-- EXCEPTION ASCENDERS FOR LEGIBILITY -->
-        <dimension name="YTDE" xvalue="-155"/>
-        <dimension name="YTFI" xvalue="743"/>
-        <dimension name="YTLC" xvalue="458"/>
-        <dimension name="YTOS" xvalue="10"/>
-        <dimension name="YTUC" xvalue="728"/>
-        <dimension name="YTTL" xvalue="0"/>
-        <dimension name="XTTW" xvalue="0"/>
-        <dimension name="XTUR" xvalue="463"/>
-        <dimension name="WDSP" xvalue="175"/>
-        <dimension name="BARS" xvalue="1000"/>
-        <dimension name="XTUD" xvalue="463"/>
-        <dimension name="STUI" xvalue="92"/>
-        <dimension name="STUO" xvalue="92"/>
-        <dimension name="STLI" xvalue="32"/>
-        <dimension name="STLO" xvalue="32"/>
       </location>
     </source>
     <source filename="instances/Roboto-Delta-opsz144-wdth25-wght400.ufo" familyname="Roboto Delta" stylename="opsz144-wdth25-wght400">
@@ -4951,50 +4903,6 @@
         <dimension name="STLO" xvalue="340"/>
       </location>
     </source>
-    <source filename="instances/Roboto-Delta-opsz144-wdth100-wght400.ufo" familyname="Roboto Delta" stylename="opsz144-wdth100-wght400">
-      <kerning copy="1"/>
-      <location>
-        <dimension name="opsz" xvalue="1"/>
-        <dimension name="slnt" xvalue="0"/>
-        <dimension name="wght" xvalue="400"/>
-        <dimension name="wdth" xvalue="100"/>
-        <dimension name="GRAD" xvalue="0"/>
-        <dimension name="VANG" xvalue="0"/>
-        <dimension name="VROT" xvalue="0"/>
-        <dimension name="XOPQ" xvalue="55"/>
-        <dimension name="XOFI" xvalue="55"/>
-        <dimension name="XOUC" xvalue="55"/>
-        <dimension name="XOLC" xvalue="55"/>
-        <dimension name="XTRA" xvalue="449"/>
-        <dimension name="XTUC" xvalue="449"/>
-        <dimension name="XTLC" xvalue="449"/>
-        <dimension name="XTFI" xvalue="449"/>
-        <dimension name="XTSP" xvalue="-24.9"/>
-        <dimension name="YOPE" xvalue="79"/>
-        <dimension name="YOLB" xvalue="132"/>
-        <dimension name="YOPQ" xvalue="49"/>
-        <dimension name="YOFI" xvalue="49"/>
-        <dimension name="YOUC" xvalue="49"/>
-        <dimension name="YOLC" xvalue="49"/>
-        <dimension name="BDSZ" xvalue="144"/>
-        <dimension name="YTAS" xvalue="728"/>
-        <dimension name="YTDE" xvalue="-155"/>
-        <dimension name="YTFI" xvalue="743"/>
-        <dimension name="YTLC" xvalue="458"/>
-        <dimension name="YTOS" xvalue="15"/>
-        <dimension name="YTUC" xvalue="728"/>
-        <dimension name="YTTL" xvalue="0"/>
-        <dimension name="XTTW" xvalue="0"/>
-        <dimension name="XTUR" xvalue="463"/>
-        <dimension name="WDSP" xvalue="175"/>
-        <dimension name="BARS" xvalue="1000"/>
-        <dimension name="XTUD" xvalue="463"/>
-        <dimension name="STUI" xvalue="92"/>
-        <dimension name="STUO" xvalue="92"/>
-        <dimension name="STLI" xvalue="32"/>
-        <dimension name="STLO" xvalue="32"/>
-      </location>
-    </source>
     <source filename="instances/Roboto-Delta-opsz144-wdth25-wght1000.ufo" familyname="Roboto Delta" stylename="opsz144-wdth25-wght1000">
       <kerning copy="1"/>
       <location>
@@ -5037,6 +4945,94 @@
         <dimension name="YOLC" xvalue="79"/>
         <dimension name="YOFI" xvalue="79"/>
         <dimension name="BDSZ" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="instances/Roboto-Delta-opsz144-wdth100-wght100.ufo" familyname="Roboto Delta" stylename="opsz144-wdth100-wght100">
+      <kerning copy="1"/>
+      <location>
+        <dimension name="opsz" xvalue="1"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="100"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="4"/>
+        <dimension name="XOFI" xvalue="4"/>
+        <dimension name="XOUC" xvalue="4"/>
+        <dimension name="XOLC" xvalue="4"/>
+        <dimension name="XTRA" xvalue="506"/>
+        <dimension name="XTUC" xvalue="506"/>
+        <dimension name="XTLC" xvalue="506"/>
+        <dimension name="XTFI" xvalue="506"/>
+        <dimension name="XTSP" xvalue="-10"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
+        <dimension name="YOPQ" xvalue="4"/>
+        <dimension name="YOFI" xvalue="4"/>
+        <dimension name="YOUC" xvalue="4"/>
+        <dimension name="YOLC" xvalue="4"/>
+        <dimension name="BDSZ" xvalue="144"/>
+        <dimension name="YTAS" xvalue="756"/>
+        <dimension name="YTDE" xvalue="-155"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="458"/>
+        <dimension name="YTOS" xvalue="10"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="175"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
+      </location>
+    </source>
+    <source filename="instances/Roboto-Delta-opsz144-wdth100-wght400.ufo" familyname="Roboto Delta" stylename="opsz144-wdth100-wght400">
+      <kerning copy="1"/>
+      <location>
+        <dimension name="opsz" xvalue="1"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="VANG" xvalue="0"/>
+        <dimension name="VROT" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="55"/>
+        <dimension name="XOFI" xvalue="55"/>
+        <dimension name="XOUC" xvalue="55"/>
+        <dimension name="XOLC" xvalue="55"/>
+        <dimension name="XTRA" xvalue="449"/>
+        <dimension name="XTUC" xvalue="449"/>
+        <dimension name="XTLC" xvalue="449"/>
+        <dimension name="XTFI" xvalue="449"/>
+        <dimension name="XTSP" xvalue="-24.9"/>
+        <dimension name="YOPE" xvalue="79"/>
+        <dimension name="YOLB" xvalue="132"/>
+        <dimension name="YOPQ" xvalue="49"/>
+        <dimension name="YOFI" xvalue="49"/>
+        <dimension name="YOUC" xvalue="49"/>
+        <dimension name="YOLC" xvalue="49"/>
+        <dimension name="BDSZ" xvalue="144"/>
+        <dimension name="YTAS" xvalue="728"/>
+        <dimension name="YTDE" xvalue="-155"/>
+        <dimension name="YTFI" xvalue="743"/>
+        <dimension name="YTLC" xvalue="458"/>
+        <dimension name="YTOS" xvalue="15"/>
+        <dimension name="YTUC" xvalue="728"/>
+        <dimension name="YTTL" xvalue="0"/>
+        <dimension name="XTTW" xvalue="0"/>
+        <dimension name="XTUR" xvalue="463"/>
+        <dimension name="WDSP" xvalue="175"/>
+        <dimension name="BARS" xvalue="1000"/>
+        <dimension name="XTUD" xvalue="463"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STLI" xvalue="32"/>
+        <dimension name="STLO" xvalue="32"/>
       </location>
     </source>
     <source filename="instances/Roboto-Delta-opsz144-wdth100-wght1000.ufo" familyname="Roboto Delta" stylename="opsz144-wdth100-wght1000">
@@ -5084,5 +5080,4 @@
       </location>
     </source>
   </sources>
-  
 </designspace>

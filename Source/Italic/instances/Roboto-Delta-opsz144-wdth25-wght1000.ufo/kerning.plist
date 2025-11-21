@@ -991,6 +991,8 @@
 			<integer>-14</integer>
 			<key>public.kern2.emdash</key>
 			<integer>0</integer>
+			<key>public.kern2.f_LC</key>
+			<integer>71</integer>
 			<key>public.kern2.guillemotleft</key>
 			<integer>-12</integer>
 			<key>public.kern2.guillemotright</key>
@@ -1160,7 +1162,7 @@
 			<key>public.kern2.emdash</key>
 			<integer>-107</integer>
 			<key>public.kern2.f_LC</key>
-			<integer>-15</integer>
+			<integer>-17</integer>
 			<key>public.kern2.gamma</key>
 			<integer>-87</integer>
 			<key>public.kern2.guillemotleft</key>
@@ -1887,6 +1889,8 @@
 			<integer>3</integer>
 			<key>public.kern2.che_LC</key>
 			<integer>-10</integer>
+			<key>public.kern2.dq_LC</key>
+			<integer>0</integer>
 			<key>public.kern2.ecyr_LC</key>
 			<integer>1</integer>
 			<key>public.kern2.gamma</key>
@@ -3350,7 +3354,7 @@
 			<key>public.kern2.emdash</key>
 			<integer>-88</integer>
 			<key>public.kern2.f_LC</key>
-			<integer>-35</integer>
+			<integer>10</integer>
 			<key>public.kern2.gamma</key>
 			<integer>-180</integer>
 			<key>public.kern2.guillemotleft</key>
@@ -4265,7 +4269,7 @@
 			<key>public.kern2.emdash</key>
 			<integer>-154</integer>
 			<key>public.kern2.f_LC</key>
-			<integer>-32</integer>
+			<integer>12</integer>
 			<key>public.kern2.gamma</key>
 			<integer>-268</integer>
 			<key>public.kern2.guillemotleft</key>
@@ -4366,7 +4370,7 @@
 			<key>public.kern2.copyright</key>
 			<integer>-15</integer>
 			<key>public.kern2.f_LC</key>
-			<integer>-58</integer>
+			<integer>-1</integer>
 			<key>public.kern2.gamma</key>
 			<integer>-157</integer>
 			<key>public.kern2.guillemotleft</key>
@@ -5224,7 +5228,7 @@
 			<key>public.kern2.emdash</key>
 			<integer>-130</integer>
 			<key>public.kern2.f_LC</key>
-			<integer>-48</integer>
+			<integer>10</integer>
 			<key>public.kern2.gamma</key>
 			<integer>-245</integer>
 			<key>public.kern2.guillemotleft</key>
@@ -5621,8 +5625,6 @@
 			<integer>-109</integer>
 			<key>public.kern2.emdash</key>
 			<integer>-116</integer>
-			<key>public.kern2.f_LC</key>
-			<integer>-45</integer>
 			<key>public.kern2.gamma</key>
 			<integer>-183</integer>
 			<key>public.kern2.guillemotleft</key>
@@ -5759,7 +5761,7 @@
 			<key>public.kern2.emdash</key>
 			<integer>-165</integer>
 			<key>public.kern2.f_LC</key>
-			<integer>-65</integer>
+			<integer>-83</integer>
 			<key>public.kern2.gamma</key>
 			<integer>-135</integer>
 			<key>public.kern2.guillemotleft</key>
@@ -5869,8 +5871,6 @@
 			<integer>0</integer>
 			<key>public.kern2.copyright</key>
 			<integer>-17</integer>
-			<key>public.kern2.f_LC</key>
-			<integer>-12</integer>
 			<key>public.kern2.gamma</key>
 			<integer>-80</integer>
 			<key>public.kern2.guillemotleft</key>
@@ -6435,10 +6435,10 @@
 			<integer>0</integer>
 			<key>public.kern2.che_LC</key>
 			<integer>-63</integer>
+			<key>public.kern2.dq_LC</key>
+			<integer>-13</integer>
 			<key>public.kern2.ecyr_LC</key>
 			<integer>-13</integer>
-			<key>public.kern2.f_LC</key>
-			<integer>-57</integer>
 			<key>public.kern2.gamma</key>
 			<integer>-209</integer>
 			<key>public.kern2.hard_LC</key>
@@ -6745,79 +6745,77 @@
 		<key>public.kern1.f_LC</key>
 		<dict>
 			<key>ampersand</key>
-			<integer>20</integer>
+			<integer>38</integer>
 			<key>asterisk</key>
-			<integer>80</integer>
+			<integer>100</integer>
 			<key>at</key>
-			<integer>57</integer>
+			<integer>74</integer>
 			<key>backslash</key>
-			<integer>70</integer>
+			<integer>88</integer>
 			<key>dagger</key>
-			<integer>70</integer>
+			<integer>88</integer>
 			<key>daggerdbl</key>
-			<integer>70</integer>
+			<integer>88</integer>
 			<key>exclam</key>
-			<integer>56</integer>
+			<integer>75</integer>
 			<key>germandbls</key>
-			<integer>70</integer>
+			<integer>90</integer>
 			<key>j</key>
 			<integer>0</integer>
 			<key>public.kern2.a_LC</key>
-			<integer>24</integer>
+			<integer>42</integer>
 			<key>public.kern2.alpha</key>
 			<integer>0</integer>
 			<key>public.kern2.colon</key>
-			<integer>50</integer>
-			<key>public.kern2.comma</key>
-			<integer>-78</integer>
+			<integer>67</integer>
 			<key>public.kern2.copyright</key>
-			<integer>50</integer>
+			<integer>67</integer>
 			<key>public.kern2.dq_LC</key>
-			<integer>50</integer>
+			<integer>67</integer>
 			<key>public.kern2.emdash</key>
-			<integer>49</integer>
+			<integer>66</integer>
 			<key>public.kern2.gamma</key>
-			<integer>40</integer>
+			<integer>57</integer>
 			<key>public.kern2.guillemotleft</key>
-			<integer>49</integer>
+			<integer>67</integer>
 			<key>public.kern2.guillemotright</key>
-			<integer>72</integer>
+			<integer>88</integer>
 			<key>public.kern2.i_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.minute</key>
 			<integer>0</integer>
 			<key>public.kern2.mnpr_LC</key>
-			<integer>48</integer>
+			<integer>66</integer>
 			<key>public.kern2.o_LC</key>
-			<integer>50</integer>
+			<integer>67</integer>
 			<key>public.kern2.parens</key>
-			<integer>70</integer>
+			<integer>88</integer>
 			<key>public.kern2.quotes_curly_left</key>
 			<integer>90</integer>
 			<key>public.kern2.quotes_curly_right</key>
-			<integer>71</integer>
+			<integer>89</integer>
 			<key>public.kern2.quotes_straight_right</key>
-			<integer>70</integer>
+			<integer>87</integer>
 			<key>public.kern2.s_LC</key>
-			<integer>50</integer>
+			<integer>67</integer>
 			<key>public.kern2.t_LC</key>
-			<integer>48</integer>
+			<integer>66</integer>
 			<key>public.kern2.u_LC</key>
-			<integer>48</integer>
+			<integer>66</integer>
 			<key>public.kern2.w_LC</key>
-			<integer>40</integer>
+			<integer>57</integer>
 			<key>public.kern2.x_LC</key>
-			<integer>15</integer>
+			<integer>33</integer>
 			<key>public.kern2.y_LC</key>
-			<integer>40</integer>
+			<integer>60</integer>
 			<key>public.kern2.z_LC</key>
-			<integer>39</integer>
+			<integer>56</integer>
 			<key>question</key>
-			<integer>70</integer>
+			<integer>87</integer>
 			<key>slash</key>
-			<integer>-12</integer>
+			<integer>5</integer>
 			<key>trademark</key>
-			<integer>70</integer>
+			<integer>87</integer>
 		</dict>
 		<key>public.kern1.gamma</key>
 		<dict>
@@ -7774,8 +7772,6 @@
 			<integer>-10</integer>
 			<key>public.kern2.che_LC</key>
 			<integer>-20</integer>
-			<key>public.kern2.f_LC</key>
-			<integer>-57</integer>
 			<key>public.kern2.gamma</key>
 			<integer>-180</integer>
 			<key>public.kern2.j_LC</key>
@@ -7966,6 +7962,8 @@
 			<integer>-120</integer>
 			<key>public.kern2.el_LC</key>
 			<integer>-85</integer>
+			<key>public.kern2.f_LC</key>
+			<integer>-13</integer>
 			<key>public.kern2.gamma</key>
 			<integer>-10</integer>
 			<key>public.kern2.hard_LC</key>
@@ -8842,7 +8840,7 @@
 			<key>public.kern2.a_LC</key>
 			<integer>-16</integer>
 			<key>public.kern2.f_LC</key>
-			<integer>-56</integer>
+			<integer>1</integer>
 			<key>public.kern2.gamma</key>
 			<integer>-100</integer>
 			<key>public.kern2.j_LC</key>
