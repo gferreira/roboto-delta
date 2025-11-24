@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ampersand" format="2">
 	<unicode hex="0026"/>
-	<advance width="2466"/>
+	<advance width="2308"/>
 	<outline>
 		<contour>
 			<point x="1.5666287438" y="359" type="qcurve" smooth="yes"/>
@@ -21,10 +21,10 @@
 			<point x="939.9454753245" y="1090"/>
 			<point x="1027.3131223074" y="960"/>
 			<point x="1223.4296380569" y="810" type="qcurve" smooth="yes"/>
-			<point x="2287.2588231042" y="0" type="line"/>
-			<point x="1556.2588231042" y="0" type="line"/>
+			<point x="2129.2588231042" y="0" type="line"/>
+			<point x="1398.2588231042" y="0" type="line"/>
 			<point x="583.7632353017" y="741" type="line" smooth="yes"/>
-			<point x="414.1830317571" y="870"/>
+			<point x="423.5839367439" y="886"/>
 			<point x="337.7526019659" y="995"/>
 			<point x="360.0710409412" y="1100" type="qcurve" smooth="yes"/>
 			<point x="395.3554301785" y="1266"/>

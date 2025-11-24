@@ -2,12 +2,12 @@
 <glyph name="gravecombstack.case" format="2">
 	<outline>
 		<contour>
-			<point x="248" y="1570" type="line"/>
-			<point x="-356" y="1756" type="line"/>
-			<point x="-249" y="1919" type="line"/>
-			<point x="326" y="1686" type="line"/>
+			<point x="426.9726249262" y="1570" type="line"/>
+			<point x="-137.4918546032" y="1756" type="line"/>
+			<point x="4.154864949" y="1919" type="line"/>
+			<point x="529.6291860799" y="1686" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="_top" x="0" y="1536"/>
-	<anchor name="top" x="0" y="1919"/>
+	<anchor name="_top" x="171.7457018294" y="1536"/>
+	<anchor name="top" x="253.154864949" y="1919"/>
 </glyph>

@@ -2,8 +2,8 @@
 <glyph name="cedillacomb.case" format="2">
 	<outline>
 		<contour>
-			<point x="-232.4900456624" y="20" type="line"/>
-			<point x="-93.4900456624" y="20" type="line"/>
+			<point x="-236.7411768958" y="0" type="line"/>
+			<point x="-97.7411768958" y="0" type="line"/>
 			<point x="-148.0596158711" y="-105" type="line"/>
 			<point x="-139.0354077345" y="-119"/>
 			<point x="-87.4650457915" y="-201"/>

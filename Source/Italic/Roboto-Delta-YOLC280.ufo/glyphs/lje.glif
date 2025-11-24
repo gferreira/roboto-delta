@@ -10,8 +10,8 @@
 			<point x="2.5711536774" y="439"/>
 			<point x="24.5711536774" y="439" type="qcurve" smooth="yes"/>
 			<point x="103.5711536774" y="439"/>
-			<point x="196.6671944895" y="590"/>
-			<point x="253.5794118103" y="806" type="qcurve" smooth="yes"/>
+			<point x="202.6671944895" y="590"/>
+			<point x="256.5794118103" y="806" type="qcurve" smooth="yes"/>
 			<point x="317.8683259811" y="1052" type="line"/>
 			<point x="1009.8683259811" y="1052" type="line"/>
 			<point x="874.0446830739" y="413" type="line"/>
@@ -32,10 +32,10 @@
 			<point x="1226.2588231042" y="0"/>
 			<point x="1028.2588231042" y="0" type="qcurve" smooth="yes"/>
 			<point x="600.2588231042" y="0" type="line"/>
-			<point x="733.5317872713" y="627" type="line"/>
-			<point x="379.5317872713" y="627" type="line"/>
-			<point x="345.4115383225" y="490" type="line" smooth="yes"/>
-			<point x="277.80871011" y="219"/>
+			<point x="712.2761311043" y="527" type="line"/>
+			<point x="353.2761311043" y="527" type="line"/>
+			<point x="344.4115383225" y="490" type="line" smooth="yes"/>
+			<point x="279.80871011" y="219"/>
 			<point x="112.5825787475" y="-22"/>
 			<point x="-39.4174212525" y="-22" type="qcurve" smooth="yes"/>
 			<point x="-73.4174212525" y="-22"/>

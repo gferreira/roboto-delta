@@ -2,34 +2,34 @@
 <glyph name="hookcomb-stack.case" format="2">
 	<outline>
 		<contour>
-			<point x="-80" y="1600" type="line"/>
-			<point x="-80" y="1647" type="line" smooth="yes"/>
-			<point x="-80" y="1691"/>
-			<point x="-25" y="1742"/>
-			<point x="54" y="1754" type="qcurve"/>
-			<point x="142" y="1767"/>
-			<point x="216" y="1792"/>
-			<point x="216" y="1824" type="qcurve" smooth="yes"/>
-			<point x="216" y="1856"/>
-			<point x="87" y="1878"/>
-			<point x="-14" y="1878" type="qcurve" smooth="yes"/>
-			<point x="-115" y="1878"/>
-			<point x="-273" y="1858"/>
-			<point x="-322" y="1843" type="qcurve"/>
-			<point x="-370" y="1962" type="line"/>
-			<point x="-302" y="1986"/>
-			<point x="-97" y="2012"/>
-			<point x="9" y="2012" type="qcurve" smooth="yes"/>
-			<point x="176" y="2012"/>
-			<point x="370" y="1914"/>
-			<point x="370" y="1831" type="qcurve" smooth="yes"/>
-			<point x="370" y="1743"/>
-			<point x="212" y="1655"/>
-			<point x="69" y="1643" type="qcurve"/>
-			<point x="69" y="1600" type="line"/>
+			<point x="105.3493217763" y="1600" type="line"/>
+			<point x="115.3394801748" y="1647" type="line" smooth="yes"/>
+			<point x="124.6919688882" y="1691"/>
+			<point x="190.5323535334" y="1742"/>
+			<point x="272.0830322734" y="1754" type="qcurve"/>
+			<point x="362.8462675752" y="1767"/>
+			<point x="442.1601816169" y="1792"/>
+			<point x="448.9619915903" y="1824" type="qcurve" smooth="yes"/>
+			<point x="455.7638015638" y="1856"/>
+			<point x="331.4400459205" y="1878"/>
+			<point x="230.4400459205" y="1878" type="qcurve" smooth="yes"/>
+			<point x="129.4400459205" y="1878"/>
+			<point x="-32.8110853129" y="1858"/>
+			<point x="-84.9994337379" y="1843" type="qcurve"/>
+			<point x="-107.7052028992" y="1962" type="line"/>
+			<point x="-34.6038454191" y="1986"/>
+			<point x="175.9226251843" y="2012"/>
+			<point x="281.9226251843" y="2012" type="qcurve" smooth="yes"/>
+			<point x="448.9226251843" y="2012"/>
+			<point x="622.0920821406" y="1914"/>
+			<point x="604.449887522" y="1831" type="qcurve" smooth="yes"/>
+			<point x="585.7449100951" y="1743"/>
+			<point x="409.0399326681" y="1655"/>
+			<point x="263.4892539281" y="1643" type="qcurve"/>
+			<point x="254.3493217763" y="1600" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="_top" x="0" y="1456"/>
-	<anchor name="top" x="0" y="2014"/>
-	<anchor name="_topright" x="0" y="1456"/>
+	<anchor name="_top" x="154.7411768958" y="1456"/>
+	<anchor name="top" x="273.3477383076" y="2014"/>
+	<anchor name="_topright" x="154.7411768958" y="1456"/>
 </glyph>

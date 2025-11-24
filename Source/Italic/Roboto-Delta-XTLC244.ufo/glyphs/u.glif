@@ -33,5 +33,5 @@
 	<anchor name="ogonek" x="375.2588231042" y="0"/>
 	<anchor name="top" x="407.8683259811" y="1052"/>
 	<anchor name="topright" x="514.8683259811" y="1052"/>
-	<anchor name="cy_descender" x="305.2588231042" y="0"/>
+	<anchor name="cy_descender" x="294.2588231042" y="0"/>
 </glyph>

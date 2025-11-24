@@ -2,10 +2,10 @@
 <glyph name="macroncomb.case" format="2">
 	<outline>
 		<contour>
-			<point x="41.8228511728" y="1574" type="line"/>
-			<point x="74.9816747934" y="1730" type="line"/>
-			<point x="350.9816747934" y="1730" type="line"/>
-			<point x="317.8228511728" y="1574" type="line"/>
+			<point x="29.0694574726" y="1514" type="line"/>
+			<point x="62.2282810932" y="1670" type="line"/>
+			<point x="338.2282810932" y="1670" type="line"/>
+			<point x="305.0694574726" y="1514" type="line"/>
 		</contour>
 	</outline>
 	<anchor name="_top" x="154.7411768958" y="1456"/>

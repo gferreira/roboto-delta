@@ -4,7 +4,7 @@
 	<advance width="729"/>
 	<outline>
 		<contour>
-			<point x="-0.8667425125" y="-10" type="line"/>
+			<point x="1.2588231042" y="0" type="line"/>
 			<point x="204.7411768958" y="1456" type="line"/>
 			<point x="394.7411768958" y="1456" type="line"/>
 			<point x="207.2662895028" y="574" type="line" smooth="yes"/>
@@ -27,8 +27,8 @@
 			<point x="470.2662895028" y="574" type="qcurve" smooth="yes"/>
 			<point x="646.7411768958" y="1456" type="line"/>
 			<point x="833.7411768958" y="1456" type="line"/>
-			<point x="440.1332574875" y="-10" type="line"/>
-			<point x="254.1332574875" y="-10" type="line"/>
+			<point x="442.2588231042" y="0" type="line"/>
+			<point x="256.2588231042" y="0" type="line"/>
 			<point x="399.1830317571" y="870" type="line" smooth="yes"/>
 			<point x="404.6225114156" y="905"/>
 			<point x="419.3759051158" y="965"/>
@@ -37,9 +37,9 @@
 			<point x="411.3759051158" y="965"/>
 			<point x="400.6225114156" y="905"/>
 			<point x="392.1830317571" y="870" type="qcurve" smooth="yes"/>
-			<point x="184.1332574875" y="-10" type="line"/>
+			<point x="186.2588231042" y="0" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="bottom" x="291.2588231042" y="0"/>
+	<anchor name="bottom" x="210.2588231042" y="0"/>
 	<anchor name="top" x="519.7411768958" y="1456"/>
 </glyph>

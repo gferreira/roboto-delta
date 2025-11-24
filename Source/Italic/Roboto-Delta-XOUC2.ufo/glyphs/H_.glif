@@ -27,4 +27,10 @@
 	<anchor name="top" x="698.7411768958" y="1456"/>
 	<anchor name="cy_descender" x="760.2588231042" y="0"/>
 	<anchor name="tonos" x="1.5445703378" y="1074"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,1,1,0</string>
+		</dict>
+	</lib>
 </glyph>

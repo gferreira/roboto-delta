@@ -2,16 +2,16 @@
 <glyph name="circumflexcomb-stack.case" format="2">
 	<outline>
 		<contour>
-			<point x="-330" y="1585" type="line"/>
-			<point x="-498" y="1585" type="line"/>
-			<point x="-68" y="1874" type="line"/>
-			<point x="67" y="1874" type="line"/>
-			<point x="507" y="1585" type="line"/>
-			<point x="340" y="1585" type="line"/>
-			<point x="0" y="1717" type="line"/>
+			<point x="-147.8390266488" y="1585" type="line"/>
+			<point x="-315.8390266488" y="1585" type="line"/>
+			<point x="175.5898196738" y="1874" type="line"/>
+			<point x="310.5898196738" y="1874" type="line"/>
+			<point x="689.1609733512" y="1585" type="line"/>
+			<point x="522.1609733512" y="1585" type="line"/>
+			<point x="210.2184394917" y="1717" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="_top" x="0" y="1456"/>
-	<anchor name="top" x="0" y="1862"/>
-	<anchor name="topright" x="612" y="1602"/>
+	<anchor name="_top" x="154.7411768958" y="1456"/>
+	<anchor name="top" x="241.0391409338" y="1862"/>
+	<anchor name="topright" x="797.7744348996" y="1602"/>
 </glyph>

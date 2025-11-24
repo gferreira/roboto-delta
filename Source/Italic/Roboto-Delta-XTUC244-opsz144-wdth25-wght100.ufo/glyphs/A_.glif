@@ -5,18 +5,18 @@
 	<outline>
 		<contour>
 			<point x="-119.7411768958" y="0" type="line"/>
-			<point x="334.8667425125" y="1466" type="line"/>
-			<point x="506.8667425125" y="1466" type="line"/>
+			<point x="332.7411768958" y="1456" type="line"/>
+			<point x="504.7411768958" y="1456" type="line"/>
 			<point x="338.2588231042" y="0" type="line"/>
 			<point x="138.2588231042" y="0" type="line"/>
-			<point x="350.0710409412" y="1100" type="line"/>
-			<point x="355.5105205997" y="1135"/>
-			<point x="368.2639142999" y="1195"/>
-			<point x="373.4908373967" y="1229" type="qcurve"/>
-			<point x="363.4908373967" y="1229" type="line"/>
-			<point x="354.2639142999" y="1195"/>
-			<point x="341.5105205997" y="1135"/>
-			<point x="332.0710409412" y="1100" type="qcurve"/>
+			<point x="347.9454753245" y="1090" type="line"/>
+			<point x="353.384954983" y="1125"/>
+			<point x="366.1383486832" y="1185"/>
+			<point x="371.36527178" y="1219" type="qcurve"/>
+			<point x="361.36527178" y="1219" type="line"/>
+			<point x="352.1383486832" y="1185"/>
+			<point x="339.384954983" y="1125"/>
+			<point x="329.9454753245" y="1090" type="qcurve"/>
 			<point x="72.2588231042" y="0" type="line"/>
 		</contour>
 		<contour>

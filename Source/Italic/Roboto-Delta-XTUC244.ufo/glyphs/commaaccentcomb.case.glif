@@ -2,10 +2,10 @@
 <glyph name="commaaccentcomb.case" format="2">
 	<outline>
 		<contour>
-			<point x="-405.9808830591" y="-481" type="line"/>
-			<point x="-250.407579651" y="-69" type="line"/>
-			<point x="-35.9824665277" y="-67" type="line"/>
-			<point x="-261.6185527441" y="-484" type="line"/>
+			<point x="-397.9037337156" y="-443" type="line"/>
+			<point x="-242.3304303075" y="-31" type="line"/>
+			<point x="-27.9053171842" y="-29" type="line"/>
+			<point x="-253.5414034006" y="-446" type="line"/>
 		</contour>
 	</outline>
 	<anchor name="_bottom" x="-154.7411768958" y="0"/>

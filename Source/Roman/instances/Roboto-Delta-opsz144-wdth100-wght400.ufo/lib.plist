@@ -879,7 +879,6 @@
 		</dict>
 		<key>public.glyphOrder</key>
 		<array>
-			<string>space</string>
 			<string>A</string>
 			<string>V</string>
 		</array>

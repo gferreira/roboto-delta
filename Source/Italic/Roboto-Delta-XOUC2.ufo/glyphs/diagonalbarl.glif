@@ -12,4 +12,10 @@
 		</contour>
 	</outline>
 	<anchor name="_slash" x="315" y="728"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,1,1,0</string>
+		</dict>
+	</lib>
 </glyph>

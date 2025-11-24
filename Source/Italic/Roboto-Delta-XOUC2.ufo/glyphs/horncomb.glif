@@ -25,4 +25,10 @@
 	</outline>
 	<anchor name="_topright" x="68.8683259811" y="1052"/>
 	<anchor name="topright" x="120.0944573436" y="1293"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,1,1,0</string>
+		</dict>
+	</lib>
 </glyph>
