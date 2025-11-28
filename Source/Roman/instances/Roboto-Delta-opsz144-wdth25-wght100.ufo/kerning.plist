@@ -2017,6 +2017,8 @@
 			<integer>-10</integer>
 			<key>public.kern2.i_LC</key>
 			<integer>-40</integer>
+			<key>public.kern2.i_accents_LC</key>
+			<integer>-40</integer>
 			<key>public.kern2.j_LC</key>
 			<integer>0</integer>
 			<key>public.kern2.mnpr_LC</key>
@@ -2033,6 +2035,8 @@
 			<integer>-30</integer>
 			<key>public.kern2.x_LC</key>
 			<integer>0</integer>
+			<key>public.kern2.y_LC</key>
+			<integer>-30</integer>
 			<key>public.kern2.z_LC</key>
 			<integer>-30</integer>
 			<key>q</key>
@@ -2108,6 +2112,10 @@
 			<key>public.kern2.w_LC</key>
 			<integer>-10</integer>
 			<key>public.kern2.x_LC</key>
+			<integer>-10</integer>
+			<key>public.kern2.y_LC</key>
+			<integer>-10</integer>
+			<key>public.kern2.z_LC</key>
 			<integer>-10</integer>
 			<key>slash</key>
 			<integer>-30</integer>
@@ -2273,6 +2281,8 @@
 			<integer>-25</integer>
 			<key>public.kern2.x_LC</key>
 			<integer>0</integer>
+			<key>public.kern2.y_LC</key>
+			<integer>-20</integer>
 			<key>public.kern2.z_LC</key>
 			<integer>-25</integer>
 			<key>q</key>
@@ -2418,6 +2428,11 @@
 			<integer>34</integer>
 			<key>ze.bgr</key>
 			<integer>5</integer>
+		</dict>
+		<key>public.kern1.carons</key>
+		<dict>
+			<key>public.kern2.bhk_LC</key>
+			<integer>20</integer>
 		</dict>
 		<key>public.kern1.colon</key>
 		<dict>
@@ -3298,6 +3313,21 @@
 			<integer>-78</integer>
 			<key>thorn</key>
 			<integer>40</integer>
+		</dict>
+		<key>tcaron</key>
+		<dict>
+			<key>public.kern2.a_LC</key>
+			<integer>-50</integer>
+			<key>public.kern2.dq_LC</key>
+			<integer>-40</integer>
+			<key>public.kern2.mnpr_LC</key>
+			<integer>-30</integer>
+			<key>public.kern2.o_LC</key>
+			<integer>-40</integer>
+			<key>public.kern2.s_LC</key>
+			<integer>-40</integer>
+			<key>public.kern2.u_LC</key>
+			<integer>-30</integer>
 		</dict>
 		<key>three</key>
 		<dict>
