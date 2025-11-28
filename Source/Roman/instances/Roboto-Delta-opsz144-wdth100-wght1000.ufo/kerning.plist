@@ -6360,6 +6360,37 @@
 			<key>zhe.bgr</key>
 			<integer>-127</integer>
 		</dict>
+		<key>public.kern1.carons</key>
+		<dict>
+			<key>ccaron</key>
+			<integer>290</integer>
+			<key>ncaron</key>
+			<integer>297</integer>
+			<key>public.kern2.a_LC</key>
+			<integer>130</integer>
+			<key>public.kern2.bhk_LC</key>
+			<integer>560</integer>
+			<key>public.kern2.dq_LC</key>
+			<integer>100</integer>
+			<key>public.kern2.gamma</key>
+			<integer>120</integer>
+			<key>public.kern2.j_LC</key>
+			<integer>524</integer>
+			<key>public.kern2.mnpr_LC</key>
+			<integer>120</integer>
+			<key>public.kern2.o_LC</key>
+			<integer>100</integer>
+			<key>public.kern2.s_LC</key>
+			<integer>100</integer>
+			<key>public.kern2.t_LC</key>
+			<integer>364</integer>
+			<key>public.kern2.u_LC</key>
+			<integer>120</integer>
+			<key>public.kern2.z_LC</key>
+			<integer>397</integer>
+			<key>scaron</key>
+			<integer>351</integer>
+		</dict>
 		<key>public.kern1.colon</key>
 		<dict>
 			<key>Ustraightstroke</key>
@@ -9283,6 +9314,31 @@
 			<integer>-10</integer>
 			<key>trademark</key>
 			<integer>-139</integer>
+		</dict>
+		<key>tcaron</key>
+		<dict>
+			<key>ccaron</key>
+			<integer>-195</integer>
+			<key>public.kern2.a_LC</key>
+			<integer>-320</integer>
+			<key>public.kern2.bhk_LC</key>
+			<integer>33</integer>
+			<key>public.kern2.dq_LC</key>
+			<integer>-310</integer>
+			<key>public.kern2.j_LC</key>
+			<integer>38</integer>
+			<key>public.kern2.mnpr_LC</key>
+			<integer>-111</integer>
+			<key>public.kern2.o_LC</key>
+			<integer>-380</integer>
+			<key>public.kern2.s_LC</key>
+			<integer>-290</integer>
+			<key>public.kern2.t_LC</key>
+			<integer>-83</integer>
+			<key>public.kern2.u_LC</key>
+			<integer>-111</integer>
+			<key>scaron</key>
+			<integer>-134</integer>
 		</dict>
 		<key>tedescender-cy</key>
 		<dict>

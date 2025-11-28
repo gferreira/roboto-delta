@@ -6474,28 +6474,36 @@
 		</dict>
 		<key>public.kern1.carons</key>
 		<dict>
+			<key>ccaron</key>
+			<integer>354</integer>
 			<key>g</key>
-			<integer>138</integer>
+			<integer>168</integer>
+			<key>ncaron</key>
+			<integer>361</integer>
 			<key>public.kern2.a_LC</key>
 			<integer>126</integer>
 			<key>public.kern2.bhk_LC</key>
 			<integer>508</integer>
+			<key>public.kern2.dq_LC</key>
+			<integer>168</integer>
 			<key>public.kern2.gamma</key>
 			<integer>190</integer>
 			<key>public.kern2.j_LC</key>
-			<integer>508</integer>
+			<integer>492</integer>
 			<key>public.kern2.mnpr_LC</key>
-			<integer>346</integer>
+			<integer>186</integer>
 			<key>public.kern2.o_LC</key>
-			<integer>328</integer>
+			<integer>168</integer>
 			<key>public.kern2.s_LC</key>
-			<integer>400</integer>
+			<integer>200</integer>
 			<key>public.kern2.t_LC</key>
 			<integer>365</integer>
 			<key>public.kern2.u_LC</key>
 			<integer>186</integer>
 			<key>public.kern2.z_LC</key>
 			<integer>441</integer>
+			<key>scaron</key>
+			<integer>396</integer>
 		</dict>
 		<key>public.kern1.colon</key>
 		<dict>
@@ -9446,27 +9454,27 @@
 		<key>tcaron</key>
 		<dict>
 			<key>ccaron</key>
-			<integer>-260</integer>
+			<integer>-97</integer>
 			<key>public.kern2.a_LC</key>
-			<integer>-390</integer>
+			<integer>-260</integer>
 			<key>public.kern2.bhk_LC</key>
-			<integer>-130</integer>
+			<integer>33</integer>
 			<key>public.kern2.dq_LC</key>
-			<integer>-350</integer>
+			<integer>-230</integer>
 			<key>public.kern2.j_LC</key>
-			<integer>-122</integer>
+			<integer>41</integer>
 			<key>public.kern2.mnpr_LC</key>
-			<integer>-200</integer>
+			<integer>-61</integer>
 			<key>public.kern2.o_LC</key>
-			<integer>-400</integer>
+			<integer>-290</integer>
 			<key>public.kern2.s_LC</key>
-			<integer>-340</integer>
+			<integer>-220</integer>
 			<key>public.kern2.t_LC</key>
-			<integer>-190</integer>
+			<integer>-38</integer>
 			<key>public.kern2.u_LC</key>
-			<integer>-200</integer>
+			<integer>-60</integer>
 			<key>scaron</key>
-			<integer>-217</integer>
+			<integer>-54</integer>
 		</dict>
 		<key>tedescender-cy</key>
 		<dict>

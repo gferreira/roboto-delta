@@ -4,6 +4,6 @@
 	<advance width="319"/>
 	<outline>
 		<component base="l"/>
-		<component base="caroncomb.alt" xOffset="263"/>
+		<component base="caroncomb.alt" xOffset="264"/>
 	</outline>
 </glyph>

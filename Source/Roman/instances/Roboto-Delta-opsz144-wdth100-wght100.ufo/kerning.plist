@@ -2409,8 +2409,10 @@
 			<integer>70</integer>
 			<key>public.kern2.gamma</key>
 			<integer>110</integer>
+			<key>public.kern2.j_LC</key>
+			<integer>60</integer>
 			<key>public.kern2.t_LC</key>
-			<integer>80</integer>
+			<integer>100</integer>
 			<key>public.kern2.z_LC</key>
 			<integer>50</integer>
 		</dict>
@@ -3295,15 +3297,21 @@
 		<key>tcaron</key>
 		<dict>
 			<key>public.kern2.a_LC</key>
-			<integer>-110</integer>
+			<integer>-140</integer>
+			<key>public.kern2.bhk_LC</key>
+			<integer>-77</integer>
 			<key>public.kern2.dq_LC</key>
 			<integer>-130</integer>
+			<key>public.kern2.j_LC</key>
+			<integer>-80</integer>
 			<key>public.kern2.mnpr_LC</key>
 			<integer>-140</integer>
 			<key>public.kern2.o_LC</key>
-			<integer>-130</integer>
+			<integer>-150</integer>
 			<key>public.kern2.s_LC</key>
 			<integer>-130</integer>
+			<key>public.kern2.t_LC</key>
+			<integer>-10</integer>
 			<key>public.kern2.u_LC</key>
 			<integer>-140</integer>
 		</dict>
