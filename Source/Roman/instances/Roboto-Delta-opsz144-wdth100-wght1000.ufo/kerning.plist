@@ -6363,33 +6363,33 @@
 		<key>public.kern1.carons</key>
 		<dict>
 			<key>ccaron</key>
-			<integer>290</integer>
+			<integer>350</integer>
 			<key>ncaron</key>
-			<integer>297</integer>
+			<integer>357</integer>
 			<key>public.kern2.a_LC</key>
-			<integer>130</integer>
+			<integer>150</integer>
 			<key>public.kern2.bhk_LC</key>
-			<integer>560</integer>
+			<integer>605</integer>
 			<key>public.kern2.dq_LC</key>
-			<integer>100</integer>
+			<integer>120</integer>
 			<key>public.kern2.gamma</key>
-			<integer>120</integer>
+			<integer>140</integer>
 			<key>public.kern2.j_LC</key>
-			<integer>524</integer>
+			<integer>585</integer>
 			<key>public.kern2.mnpr_LC</key>
-			<integer>120</integer>
+			<integer>140</integer>
 			<key>public.kern2.o_LC</key>
-			<integer>100</integer>
-			<key>public.kern2.s_LC</key>
-			<integer>100</integer>
-			<key>public.kern2.t_LC</key>
-			<integer>364</integer>
-			<key>public.kern2.u_LC</key>
 			<integer>120</integer>
+			<key>public.kern2.s_LC</key>
+			<integer>160</integer>
+			<key>public.kern2.t_LC</key>
+			<integer>434</integer>
+			<key>public.kern2.u_LC</key>
+			<integer>140</integer>
 			<key>public.kern2.z_LC</key>
-			<integer>397</integer>
+			<integer>467</integer>
 			<key>scaron</key>
-			<integer>351</integer>
+			<integer>411</integer>
 		</dict>
 		<key>public.kern1.colon</key>
 		<dict>

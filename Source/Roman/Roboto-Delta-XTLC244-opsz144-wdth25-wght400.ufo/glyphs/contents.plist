@@ -2,16 +2,26 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 	<dict>
+		<key>acutecomb</key>
+		<string>acutecomb.glif</string>
 		<key>breve.cyr</key>
 		<string>breve.cyr.glif</string>
 		<key>breve.cyrcomb</key>
 		<string>breve.cyrcomb.glif</string>
+		<key>circumflexcomb</key>
+		<string>circumflexcomb.glif</string>
 		<key>dieresiscomb</key>
 		<string>dieresiscomb.glif</string>
+		<key>dotbelowcomb</key>
+		<string>dotbelowcomb.glif</string>
 		<key>el.bgr</key>
 		<string>el.bgr.glif</string>
 		<key>em</key>
 		<string>em.glif</string>
+		<key>gravecomb</key>
+		<string>gravecomb.glif</string>
+		<key>hookabovecomb</key>
+		<string>hookabovecomb.glif</string>
 		<key>hungarumlautcomb</key>
 		<string>hungarumlautcomb.glif</string>
 		<key>icyr</key>
@@ -22,6 +32,8 @@
 		<string>macroncomb.glif</string>
 		<key>nu</key>
 		<string>nu.glif</string>
+		<key>tildecomb</key>
+		<string>tildecomb.glif</string>
 		<key>u-stroke</key>
 		<string>u-stroke.glif</string>
 		<key>ucyr</key>
@@ -42,7 +54,31 @@
 		<string>v.glif</string>
 		<key>w</key>
 		<string>w.glif</string>
+		<key>wacute</key>
+		<string>wacute.glif</string>
+		<key>wcircumflex</key>
+		<string>wcircumflex.glif</string>
+		<key>wdieresis</key>
+		<string>wdieresis.glif</string>
+		<key>wgrave</key>
+		<string>wgrave.glif</string>
 		<key>y</key>
 		<string>y.glif</string>
+		<key>yacute</key>
+		<string>yacute.glif</string>
+		<key>ycircumflex</key>
+		<string>ycircumflex.glif</string>
+		<key>ydieresis</key>
+		<string>ydieresis.glif</string>
+		<key>ydotbelow</key>
+		<string>ydotbelow.glif</string>
+		<key>ygrave</key>
+		<string>ygrave.glif</string>
+		<key>yhookabove</key>
+		<string>yhookabove.glif</string>
+		<key>ymacron</key>
+		<string>ymacron.glif</string>
+		<key>ytilde</key>
+		<string>ytilde.glif</string>
 	</dict>
 </plist>

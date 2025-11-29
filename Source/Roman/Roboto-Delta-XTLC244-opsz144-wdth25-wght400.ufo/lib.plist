@@ -12,6 +12,18 @@
 					<string>w</string>
 					<string>y</string>
 					<string>nu</string>
+					<string>yacute</string>
+					<string>ydieresis</string>
+					<string>ycircumflex</string>
+					<string>ygrave</string>
+					<string>ydotbelow</string>
+					<string>yhookabove</string>
+					<string>ytilde</string>
+					<string>ymacron</string>
+					<string>wcircumflex</string>
+					<string>wgrave</string>
+					<string>wacute</string>
+					<string>wdieresis</string>
 					<string>icyr</string>
 					<string>em</string>
 					<string>ucyr</string>
@@ -22,11 +34,17 @@
 					<string>ustraight</string>
 					<string>ustraightstroke</string>
 					<string>el.bgr</string>
-					<string>breve.cyr</string>
 					<string>breve.cyrcomb</string>
 					<string>macroncomb</string>
 					<string>dieresiscomb</string>
 					<string>hungarumlautcomb</string>
+					<string>u-stroke</string>
+					<string>circumflexcomb</string>
+					<string>gravecomb</string>
+					<string>acutecomb</string>
+					<string>dotbelowcomb</string>
+					<string>hookabovecomb</string>
+					<string>tildecomb</string>
 				</array>
 				<key>type</key>
 				<string>glyphList</string>
@@ -57,6 +75,18 @@
 			<string>w</string>
 			<string>y</string>
 			<string>nu</string>
+			<string>yacute</string>
+			<string>ydieresis</string>
+			<string>ycircumflex</string>
+			<string>ygrave</string>
+			<string>ydotbelow</string>
+			<string>yhookabove</string>
+			<string>ytilde</string>
+			<string>ymacron</string>
+			<string>wcircumflex</string>
+			<string>wgrave</string>
+			<string>wacute</string>
+			<string>wdieresis</string>
 			<string>icyr</string>
 			<string>em</string>
 			<string>ucyr</string>
@@ -67,12 +97,18 @@
 			<string>ustraight</string>
 			<string>ustraightstroke</string>
 			<string>el.bgr</string>
-			<string>breve.cyr</string>
 			<string>breve.cyrcomb</string>
 			<string>macroncomb</string>
 			<string>dieresiscomb</string>
 			<string>hungarumlautcomb</string>
 			<string>u-stroke</string>
+			<string>circumflexcomb</string>
+			<string>gravecomb</string>
+			<string>acutecomb</string>
+			<string>dotbelowcomb</string>
+			<string>hookabovecomb</string>
+			<string>tildecomb</string>
+			<string>breve.cyr</string>
 		</array>
 	</dict>
 </plist>

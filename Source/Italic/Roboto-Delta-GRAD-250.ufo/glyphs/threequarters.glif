@@ -7,5 +7,5 @@
 		<component base="fraction" xOffset="647"/>
 		<component base="foursuperior" xOffset="814" yOffset="-697"/>
 	</outline>
-	<guideline y="1975" identifier="Jnt0R9CyOf"/>
+	<guideline x="0" y="1975" angle="0" identifier="Jnt0R9CyOf"/>
 </glyph>

@@ -3,8 +3,8 @@
 	<unicode hex="FB03"/>
 	<advance width="2910"/>
 	<outline>
-		<component base="f" xOffset="-80"/>
-		<component base="f" xOffset="925"/>
+		<component base="f"/>
+		<component base="f" xOffset="1005"/>
 		<component base="idotless" xOffset="2010"/>
 		<component base="idot" xOffset="2460"/>
 	</outline>

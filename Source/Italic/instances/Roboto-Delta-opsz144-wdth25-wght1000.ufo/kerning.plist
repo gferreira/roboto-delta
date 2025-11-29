@@ -6474,28 +6474,36 @@
 		</dict>
 		<key>public.kern1.carons</key>
 		<dict>
-			<key>g</key>
-			<integer>138</integer>
+			<key>aacute</key>
+			<integer>196</integer>
+			<key>ccaron</key>
+			<integer>426</integer>
+			<key>ncaron</key>
+			<integer>431</integer>
 			<key>public.kern2.a_LC</key>
-			<integer>126</integer>
+			<integer>158</integer>
 			<key>public.kern2.bhk_LC</key>
-			<integer>508</integer>
+			<integer>580</integer>
+			<key>public.kern2.dq_LC</key>
+			<integer>158</integer>
 			<key>public.kern2.gamma</key>
-			<integer>190</integer>
+			<integer>183</integer>
 			<key>public.kern2.j_LC</key>
-			<integer>508</integer>
+			<integer>562</integer>
 			<key>public.kern2.mnpr_LC</key>
-			<integer>346</integer>
+			<integer>176</integer>
 			<key>public.kern2.o_LC</key>
-			<integer>328</integer>
+			<integer>158</integer>
 			<key>public.kern2.s_LC</key>
-			<integer>400</integer>
+			<integer>200</integer>
 			<key>public.kern2.t_LC</key>
-			<integer>365</integer>
+			<integer>435</integer>
 			<key>public.kern2.u_LC</key>
-			<integer>186</integer>
+			<integer>183</integer>
 			<key>public.kern2.z_LC</key>
-			<integer>441</integer>
+			<integer>508</integer>
+			<key>scaron</key>
+			<integer>466</integer>
 		</dict>
 		<key>public.kern1.colon</key>
 		<dict>
@@ -9446,27 +9454,27 @@
 		<key>tcaron</key>
 		<dict>
 			<key>ccaron</key>
-			<integer>-260</integer>
+			<integer>-97</integer>
 			<key>public.kern2.a_LC</key>
-			<integer>-390</integer>
+			<integer>-260</integer>
 			<key>public.kern2.bhk_LC</key>
-			<integer>-130</integer>
+			<integer>33</integer>
 			<key>public.kern2.dq_LC</key>
-			<integer>-350</integer>
+			<integer>-230</integer>
 			<key>public.kern2.j_LC</key>
-			<integer>-122</integer>
+			<integer>41</integer>
 			<key>public.kern2.mnpr_LC</key>
-			<integer>-200</integer>
+			<integer>-61</integer>
 			<key>public.kern2.o_LC</key>
-			<integer>-400</integer>
+			<integer>-290</integer>
 			<key>public.kern2.s_LC</key>
-			<integer>-340</integer>
+			<integer>-220</integer>
 			<key>public.kern2.t_LC</key>
-			<integer>-190</integer>
+			<integer>-38</integer>
 			<key>public.kern2.u_LC</key>
-			<integer>-200</integer>
+			<integer>-60</integer>
 			<key>scaron</key>
-			<integer>-217</integer>
+			<integer>-54</integer>
 		</dict>
 		<key>tedescender-cy</key>
 		<dict>

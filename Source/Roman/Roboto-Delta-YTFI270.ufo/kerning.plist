@@ -1018,6 +1018,27 @@
 			<key>slash</key>
 			<integer>30</integer>
 		</dict>
+		<key>public.kern1.carons</key>
+		<dict>
+			<key>ccaron</key>
+			<integer>40</integer>
+			<key>public.kern2.bhk_LC</key>
+			<integer>197</integer>
+			<key>public.kern2.gamma</key>
+			<integer>220</integer>
+			<key>public.kern2.j_LC</key>
+			<integer>197</integer>
+			<key>public.kern2.mnpr_LC</key>
+			<integer>100</integer>
+			<key>public.kern2.s_LC</key>
+			<integer>80</integer>
+			<key>public.kern2.t_LC</key>
+			<integer>230</integer>
+			<key>public.kern2.u_LC</key>
+			<integer>100</integer>
+			<key>public.kern2.z_LC</key>
+			<integer>160</integer>
+		</dict>
 		<key>public.kern1.colon</key>
 		<dict>
 			<key>V</key>
@@ -1506,6 +1527,25 @@
 		<dict>
 			<key>public.kern2.T_UC</key>
 			<integer>-40</integer>
+		</dict>
+		<key>tcaron</key>
+		<dict>
+			<key>public.kern2.a_LC</key>
+			<integer>-290</integer>
+			<key>public.kern2.bhk_LC</key>
+			<integer>-100</integer>
+			<key>public.kern2.dq_LC</key>
+			<integer>-290</integer>
+			<key>public.kern2.j_LC</key>
+			<integer>-95</integer>
+			<key>public.kern2.mnpr_LC</key>
+			<integer>-190</integer>
+			<key>public.kern2.o_LC</key>
+			<integer>-290</integer>
+			<key>public.kern2.s_LC</key>
+			<integer>-210</integer>
+			<key>public.kern2.u_LC</key>
+			<integer>-180</integer>
 		</dict>
 	</dict>
 </plist>

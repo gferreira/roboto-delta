@@ -4,5 +4,7 @@
 	<dict>
 		<key>M</key>
 		<string>M_.glif</string>
+		<key>circumflexcomb-stack.case</key>
+		<string>circumflexcomb-stack.case.glif</string>
 	</dict>
 </plist>

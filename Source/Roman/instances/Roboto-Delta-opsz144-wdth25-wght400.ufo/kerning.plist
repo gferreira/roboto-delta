@@ -3531,19 +3531,19 @@
 		<key>public.kern1.carons</key>
 		<dict>
 			<key>ccaron</key>
-			<integer>120</integer>
+			<integer>180</integer>
 			<key>ncaron</key>
-			<integer>106</integer>
+			<integer>166</integer>
 			<key>public.kern2.a_LC</key>
 			<integer>70</integer>
 			<key>public.kern2.bhk_LC</key>
-			<integer>176</integer>
+			<integer>239</integer>
 			<key>public.kern2.dq_LC</key>
-			<integer>70</integer>
+			<integer>73</integer>
 			<key>public.kern2.gamma</key>
 			<integer>120</integer>
 			<key>public.kern2.j_LC</key>
-			<integer>134</integer>
+			<integer>184</integer>
 			<key>public.kern2.mnpr_LC</key>
 			<integer>80</integer>
 			<key>public.kern2.o_LC</key>
@@ -3555,9 +3555,9 @@
 			<key>public.kern2.u_LC</key>
 			<integer>80</integer>
 			<key>public.kern2.z_LC</key>
-			<integer>160</integer>
+			<integer>222</integer>
 			<key>scaron</key>
-			<integer>134</integer>
+			<integer>196</integer>
 		</dict>
 		<key>public.kern1.colon</key>
 		<dict>

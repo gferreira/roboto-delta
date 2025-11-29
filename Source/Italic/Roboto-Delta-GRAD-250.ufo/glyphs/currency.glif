@@ -56,6 +56,6 @@
 			<point x="353" y="1064" type="line"/>
 		</contour>
 	</outline>
-	<guideline y="901" identifier="bRYxxRaQQf"/>
-	<guideline y="555" identifier="917FhrihjR"/>
+	<guideline x="0" y="901" angle="0" identifier="bRYxxRaQQf"/>
+	<guideline x="0" y="555" angle="0" identifier="917FhrihjR"/>
 </glyph>

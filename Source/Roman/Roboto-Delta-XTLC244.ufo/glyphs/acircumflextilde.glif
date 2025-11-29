@@ -5,6 +5,6 @@
 	<outline>
 		<component base="a"/>
 		<component base="circumflexcomb-stack" xOffset="288" yOffset="-1"/>
-		<component base="tildecomb-stack" xOffset="288" yOffset="318"/>
+		<component base="tildecomb-stack" xOffset="288" yOffset="258"/>
 	</outline>
 </glyph>

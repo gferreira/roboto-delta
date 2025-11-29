@@ -2,4 +2,10 @@
 <glyph name="hairspace" format="2">
 	<unicode hex="200A"/>
 	<advance width="111"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>1,1,1,0</string>
+		</dict>
+	</lib>
 </glyph>

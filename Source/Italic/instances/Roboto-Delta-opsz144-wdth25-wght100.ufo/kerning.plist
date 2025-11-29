@@ -2432,7 +2432,7 @@
 		<key>public.kern1.carons</key>
 		<dict>
 			<key>public.kern2.bhk_LC</key>
-			<integer>20</integer>
+			<integer>30</integer>
 		</dict>
 		<key>public.kern1.colon</key>
 		<dict>
@@ -3317,17 +3317,25 @@
 		<key>tcaron</key>
 		<dict>
 			<key>public.kern2.a_LC</key>
-			<integer>-50</integer>
+			<integer>-70</integer>
+			<key>public.kern2.bhk_LC</key>
+			<integer>-30</integer>
 			<key>public.kern2.dq_LC</key>
+			<integer>-60</integer>
+			<key>public.kern2.j_LC</key>
 			<integer>-40</integer>
 			<key>public.kern2.mnpr_LC</key>
-			<integer>-30</integer>
+			<integer>-40</integer>
 			<key>public.kern2.o_LC</key>
-			<integer>-40</integer>
+			<integer>-60</integer>
 			<key>public.kern2.s_LC</key>
-			<integer>-40</integer>
-			<key>public.kern2.u_LC</key>
+			<integer>-60</integer>
+			<key>public.kern2.t_LC</key>
 			<integer>-30</integer>
+			<key>public.kern2.u_LC</key>
+			<integer>-40</integer>
+			<key>scaron</key>
+			<integer>-40</integer>
 		</dict>
 		<key>three</key>
 		<dict>

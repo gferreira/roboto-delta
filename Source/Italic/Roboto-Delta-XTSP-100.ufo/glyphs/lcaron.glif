@@ -3,7 +3,7 @@
 	<unicode hex="013E"/>
 	<advance width="206"/>
 	<outline>
-		<component base="l"/>
-		<component base="caroncomb.alt" xOffset="296"/>
+		<component base="l" yxScale="0.2125565617" xOffset="-154.7411768958"/>
+		<component base="caroncomb.alt" yxScale="0.2125565617" xOffset="141.2588231042"/>
 	</outline>
 </glyph>

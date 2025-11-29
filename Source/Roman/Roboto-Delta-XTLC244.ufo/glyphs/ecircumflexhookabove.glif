@@ -5,6 +5,6 @@
 	<outline>
 		<component base="e"/>
 		<component base="circumflexcomb-stack" xOffset="289" yOffset="-1"/>
-		<component base="hookabovecomb-stack" xOffset="487" yOffset="167"/>
+		<component base="hookabovecomb-stack" xOffset="447" yOffset="167"/>
 	</outline>
 </glyph>
