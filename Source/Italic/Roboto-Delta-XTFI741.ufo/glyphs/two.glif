@@ -26,9 +26,9 @@
 			<point x="2097.9545251918" y="1250"/>
 			<point x="2063.9454753245" y="1090" type="qcurve" smooth="yes"/>
 			<point x="2033.7624435674" y="948"/>
-			<point x="1655.7488687666" y="708"/>
-			<point x="1369.9425338596" y="596" type="qcurve" smooth="yes"/>
-			<point x="276.5432123414" y="166" type="line"/>
+			<point x="1697.5990950133" y="712"/>
+			<point x="1394.9425338596" y="596" type="qcurve"/>
+			<point x="346.5432123414" y="166" type="line"/>
 			<point x="1916.5432123414" y="166" type="line"/>
 			<point x="1881.2588231042" y="0" type="line"/>
 		</contour>

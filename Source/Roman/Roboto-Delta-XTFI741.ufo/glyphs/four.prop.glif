@@ -16,9 +16,9 @@
 			<point x="-13" y="468" type="line"/>
 			<point x="1551" y="1456" type="line"/>
 			<point x="1723" y="1456" type="line"/>
-			<point x="1723" y="1149" type="line"/>
-			<point x="1531" y="1149" type="line"/>
-			<point x="206" y="500" type="line"/>
+			<point x="1723" y="1249" type="line"/>
+			<point x="1531" y="1249" type="line"/>
+			<point x="256" y="500" type="line"/>
 			<point x="1594" y="500" type="line"/>
 			<point x="1671" y="500" type="line"/>
 			<point x="2060" y="500" type="line"/>

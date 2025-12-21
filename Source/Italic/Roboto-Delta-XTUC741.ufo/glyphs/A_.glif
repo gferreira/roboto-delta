@@ -9,14 +9,14 @@
 			<point x="1373.8667425125" y="1466" type="line"/>
 			<point x="2116.2588231042" y="0" type="line"/>
 			<point x="1916.2588231042" y="0" type="line"/>
-			<point x="1285.1966065579" y="1110" type="line" smooth="yes"/>
-			<point x="1272.0854074764" y="1133"/>
-			<point x="1248.3894799166" y="1205"/>
-			<point x="1242.4038464517" y="1238" type="qcurve"/>
-			<point x="1232.4038464517" y="1238" type="line"/>
-			<point x="1210.3894799166" y="1205"/>
-			<point x="1156.0854074764" y="1133"/>
-			<point x="1133.1966065579" y="1110" type="qcurve" smooth="yes"/>
+			<point x="1304.3266971083" y="1200" type="line" smooth="yes"/>
+			<point x="1292.2154980267" y="1223"/>
+			<point x="1267.5195704669" y="1295"/>
+			<point x="1261.533937002" y="1328" type="qcurve"/>
+			<point x="1251.533937002" y="1328" type="line"/>
+			<point x="1229.5195704669" y="1295"/>
+			<point x="1174.2154980267" y="1223"/>
+			<point x="1152.3266971083" y="1200" type="qcurve" smooth="yes"/>
 			<point x="37.2588231042" y="0" type="line"/>
 		</contour>
 		<contour>

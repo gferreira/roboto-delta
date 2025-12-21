@@ -25,9 +25,9 @@
 			<point x="1862" y="1250"/>
 			<point x="1862" y="1090" type="qcurve" smooth="yes"/>
 			<point x="1862" y="948"/>
-			<point x="1690" y="680"/>
-			<point x="1463" y="596" type="qcurve" smooth="yes"/>
-			<point x="268" y="156" type="line"/>
+			<point x="1670" y="687"/>
+			<point x="1443" y="596" type="qcurve" smooth="yes"/>
+			<point x="341" y="156" type="line"/>
 			<point x="1911" y="156" type="line"/>
 			<point x="1911" y="0" type="line"/>
 		</contour>
