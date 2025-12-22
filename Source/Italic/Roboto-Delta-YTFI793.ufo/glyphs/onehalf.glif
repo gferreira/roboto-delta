@@ -3,8 +3,8 @@
 	<unicode hex="00BD"/>
 	<advance width="1536"/>
 	<outline>
-		<component base="onesuperior" yOffset="100"/>
-		<component base="fraction" xOffset="558"/>
+		<component base="onesuperior"/>
+		<component base="fraction" xOffset="650"/>
 		<component base="twosuperior" xOffset="811" yOffset="-697"/>
 	</outline>
 	<guideline x="0" y="2079" angle="0" identifier="ZZEoUYP2Rx"/>

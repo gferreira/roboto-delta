@@ -4,7 +4,7 @@
 	<advance width="2531"/>
 	<outline>
 		<component base="onesuperior"/>
-		<component base="fraction" xOffset="820"/>
-		<component base="foursuperior" xOffset="1380" yOffset="-697"/>
+		<component base="fraction" xOffset="920"/>
+		<component base="foursuperior" xOffset="1280" yOffset="-697"/>
 	</outline>
 </glyph>
