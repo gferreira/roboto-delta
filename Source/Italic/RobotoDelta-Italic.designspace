@@ -39,7 +39,7 @@
       <labelname xml:lang="en">Parametric Body Size</labelname>
     </axis>
     <axis tag="WDSP" name="WDSP" minimum="0" maximum="1000" default="246">
-      <labelname xml:lang="en">Parametric Wordsapce</labelname>
+      <labelname xml:lang="en">Parametric Wordspace</labelname>
     </axis>
     
     <!-- UPPERCASE -->
@@ -122,7 +122,7 @@
       <labelname xml:lang="en">Parametric Rotation</labelname>
     </axis>
     <axis tag="YTTL" name="YTTL" minimum="0" maximum="50" default="25">
-      <labelname xml:lang="en">Parametric Ink Trap Lenght</labelname>
+      <labelname xml:lang="en">Parametric Ink Trap Length</labelname>
     </axis>
     <axis tag="XTTW" name="XTTW" minimum="0" maximum="30" default="5">
       <labelname xml:lang="en">Parametric Ink Trap Width</labelname>
