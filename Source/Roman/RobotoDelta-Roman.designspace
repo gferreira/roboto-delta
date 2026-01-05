@@ -5195,4 +5195,16 @@
       </location>
     </source>
   </sources>
+  <lib>
+    <dict>
+      <key>com.xTools4.xProject.measurementsPath</key>
+      <string>measurements.json</string>
+      <key>com.xTools4.xProject.smartSetsPath</key>
+      <string>RobotoDelta.roboFontSets</string>
+      <!--
+      <key>com.xTools4.xProject.glyphConstructionsPath</key>
+      <string>AmstelvarA2-Roman.glyphConstruction</string>
+      -->
+    </dict>
+  </lib>
 </designspace>

@@ -5,8 +5,71 @@
       "glyph 1": "H",
       "point 1": "0",
       "glyph 2": "H",
-      "point 2": "9",
+      "point 2": "3",
       "parent": "",
+      "description": ""
+    },
+    "XOUC": {
+      "direction": "x",
+      "glyph 1": "H",
+      "point 1": 0,
+      "glyph 2": "H",
+      "point 2": 3,
+      "parent": "XOPQ",
+      "description": ""
+    },
+    "XOLC": {
+      "direction": "x",
+      "glyph 1": "n",
+      "point 1": 0,
+      "glyph 2": "n",
+      "point 2": 4,
+      "parent": "XOPQ",
+      "description": ""
+    },
+    "XOFI": {
+      "direction": "x",
+      "glyph 1": "one",
+      "point 1": 0,
+      "glyph 2": "one",
+      "point 2": 6,
+      "parent": "XOPQ",
+      "description": ""
+    },
+    "YOPQ": {
+      "direction": "y",
+      "glyph 1": "H",
+      "point 1": "4",
+      "glyph 2": "H",
+      "point 2": "5",
+      "parent": "",
+      "description": ""
+    },
+    "YOUC": {
+      "direction": "y",
+      "glyph 1": "H",
+      "point 1": 4,
+      "glyph 2": "H",
+      "point 2": 5,
+      "parent": "YOPQ",
+      "description": ""
+    },
+    "YOLC": {
+      "direction": "y",
+      "glyph 1": "o",
+      "point 1": 25,
+      "glyph 2": "o",
+      "point 2": 4,
+      "parent": "YOPQ",
+      "description": ""
+    },
+    "YOFI": {
+      "direction": "y",
+      "glyph 1": "zero",
+      "point 1": 24,
+      "glyph 2": "zero",
+      "point 2": 4,
+      "parent": "YOPQ",
       "description": ""
     },
     "XTRA": {
@@ -14,52 +77,43 @@
       "glyph 1": "H",
       "point 1": "3",
       "glyph 2": "H",
-      "point 2": "9",
+      "point 2": "8",
       "parent": "",
       "description": ""
     },
-    "XTSP": {
+    "XTUC": {
       "direction": "x",
       "glyph 1": "H",
-      "point 1": "-1",
+      "point 1": 3,
       "glyph 2": "H",
-      "point 2": "0",
-      "parent": "",
+      "point 2": 8,
+      "parent": "XTRA",
       "description": ""
     },
-    "YOPQ": {
+    "XTLC": {
+      "direction": "x",
+      "glyph 1": "n",
+      "point 1": 4,
+      "glyph 2": "n",
+      "point 2": 14,
+      "parent": "XTRA",
+      "description": ""
+    },
+    "XTFI": {
+      "direction": "x",
+      "glyph 1": "zero",
+      "point 1": 14,
+      "glyph 2": "zero",
+      "point 2": 20,
+      "parent": "XTRA",
+      "description": ""
+    },
+    "YTUC": {
       "direction": "y",
       "glyph 1": "H",
       "point 1": "0",
       "glyph 2": "H",
       "point 2": "1",
-      "parent": "",
-      "description": ""
-    },
-    "YTAS": {
-      "direction": "y",
-      "glyph 1": "h",
-      "point 1": "1",
-      "glyph 2": "h",
-      "point 2": "2",
-      "parent": "",
-      "description": ""
-    },
-    "YTDE": {
-      "direction": "y",
-      "glyph 1": "p",
-      "point 1": "0",
-      "glyph 2": "p",
-      "point 2": "1",
-      "parent": "",
-      "description": ""
-    },
-    "YTFI": {
-      "direction": "y",
-      "glyph 1": "zero",
-      "point 1": "10",
-      "glyph 2": "zero",
-      "point 2": "3",
       "parent": "",
       "description": ""
     },
@@ -72,51 +126,452 @@
       "parent": "",
       "description": ""
     },
-    "YTOS": {
+    "YTAS": {
       "direction": "y",
-      "glyph 1": "O",
-      "point 1": "-1",
-      "glyph 2": "O",
-      "point 2": "11",
+      "glyph 1": "h",
+      "point 1": "B",
+      "glyph 2": "h",
+      "point 2": "2",
       "parent": "",
       "description": ""
     },
-    "YTUC": {
+    "YTDE": {
       "direction": "y",
-      "glyph 1": "H",
+      "glyph 1": "p",
+      "point 1": "B",
+      "glyph 2": "p",
+      "point 2": "0",
+      "parent": "",
+      "description": ""
+    },
+    "YTFI": {
+      "direction": "y",
+      "glyph 1": "seven",
       "point 1": "0",
-      "glyph 2": "H",
-      "point 2": "1",
+      "glyph 2": "seven",
+      "point 2": "3",
       "parent": "",
       "description": ""
     },
-    "YTTL": {
-      "direction": "y",
-      "glyph 1": "V",
-      "point 1": "6",
-      "glyph 2": "V",
-      "point 2": "9",
+    "XTSP": {
+      "direction": "x",
+      "glyph 1": "H",
+      "point 1": "-1",
+      "glyph 2": "H",
+      "point 2": "0",
       "parent": "",
+      "description": ""
+    },
+    "XUCS": {
+      "direction": "x",
+      "glyph 1": "H",
+      "point 1": "-1",
+      "glyph 2": "H",
+      "point 2": "0",
+      "parent": "XTSP",
+      "description": ""
+    },
+    "XLCS": {
+      "direction": "x",
+      "glyph 1": "n",
+      "point 1": "-1",
+      "glyph 2": "n",
+      "point 2": 0,
+      "parent": "XTSP",
+      "description": ""
+    },
+    "XFIR": {
+      "direction": "x",
+      "glyph 1": "zero",
+      "point 1": "-1",
+      "glyph 2": "zero",
+      "point 2": 0,
+      "parent": "XTSP",
       "description": ""
     },
     "XTTW": {
       "direction": "x",
       "glyph 1": "V",
-      "point 1": "4",
+      "point 1": "5",
       "glyph 2": "V",
-      "point 2": "7",
+      "point 2": "6",
       "parent": "",
       "description": ""
+    },
+    "YTTL": {
+      "direction": "a",
+      "glyph 1": "V",
+      "point 1": 2,
+      "glyph 2": "V",
+      "point 2": 5,
+      "parent": "",
+      "description": ""
+    },
+    "YTOS": {
+      "direction": "y",
+      "glyph 1": "O",
+      "point 1": "B",
+      "glyph 2": "O",
+      "point 2": "11",
+      "parent": "",
+      "description": ""
+    },
+    "STUI": {
+      "direction": "y",
+      "glyph 1": "O",
+      "point 1": "14",
+      "glyph 2": "O",
+      "point 2": "27",
+      "parent": null,
+      "description": null
+    },
+    "STUO": {
+      "direction": "y",
+      "glyph 1": "O",
+      "point 1": "0",
+      "glyph 2": "O",
+      "point 2": "1",
+      "parent": null,
+      "description": null
     }
   },
   "glyphs": {
-    "H": {},
+    "H": {
+      "0 3": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "8 11": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "4 5": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "3 8": {
+        "name": "XTUC",
+        "direction": "x"
+      },
+      "0 1": {
+        "name": "YTUC",
+        "direction": "y"
+      },
+      "-1 0": {
+        "name": "XTSP",
+        "direction": "x"
+      },
+      "11 99": {
+        "name": "XTSP",
+        "direction": "x"
+      }
+    },
     "h": {},
     "p": {},
     "one": {},
     "zero": {},
-    "n": {},
-    "O": {},
-    "V": {}
+    "n": {
+      "0 4": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "14 13": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "18 9": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "4 14": {
+        "name": "XTLC",
+        "direction": "x"
+      },
+      "-1 0": {
+        "name": "XTSP",
+        "direction": "x"
+      },
+      "13 99": {
+        "name": "XTSP",
+        "direction": "x"
+      },
+      "0 1": {
+        "name": "YTLC",
+        "direction": "y"
+      },
+      "2 9": {
+        "name": "YTOS",
+        "direction": "y"
+      }
+    },
+    "O": {
+      "0 14": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "20 8": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "24 4": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "11 17": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "14 20": {
+        "name": "XTUC",
+        "direction": "x"
+      },
+      "-1 0": {
+        "name": "XUCS",
+        "direction": "x"
+      },
+      "8 99": {
+        "name": "XUCS",
+        "direction": "x"
+      },
+      "C 4": {
+        "name": "YTOS",
+        "direction": "y"
+      },
+      "B 11": {
+        "name": "YTOS",
+        "direction": "y"
+      },
+      "14 27": {
+        "name": "STUI",
+        "direction": "y"
+      },
+      "0 1": {
+        "name": "STUO",
+        "direction": "y"
+      }
+    },
+    "V": {
+      "5 6": {
+        "name": "XTTW",
+        "direction": "x"
+      }
+    },
+    "I": {},
+    "A": {
+      "0 13": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "4 3": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "14 15": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "13 4": {
+        "name": "XTUC",
+        "direction": "x"
+      },
+      "0 1": {
+        "name": "YTUC",
+        "direction": "y"
+      },
+      "9 8": {
+        "name": "XTTW",
+        "direction": "x"
+      },
+      "9 12": {
+        "name": "YTTL",
+        "direction": "a"
+      },
+      "5 8": {
+        "name": "YTTL",
+        "direction": "a"
+      },
+      "C 1": {
+        "name": "YTOS",
+        "direction": "y"
+      }
+    },
+    "a": {},
+    "G": {},
+    "B": {
+      "0 16": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "29 5": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "20 12": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "32 2": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "23 26": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "15 17": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "16 20": {
+        "name": "XTUC",
+        "direction": "x"
+      },
+      "33 29": {
+        "name": "XTUC",
+        "direction": "x"
+      },
+      "0 1": {
+        "name": "YTUC",
+        "direction": "y"
+      },
+      "-1 0": {
+        "name": "XUCS",
+        "direction": "x"
+      }
+    },
+    "N": {},
+    "o": {
+      "0 15": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "21 8": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "25 4": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "11 18": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "15 21": {
+        "name": "XTLC",
+        "direction": "x"
+      },
+      "-1 0": {
+        "name": "XTSP",
+        "direction": "x"
+      },
+      "8 99": {
+        "name": "XTSP",
+        "direction": "x"
+      },
+      "X 4": {
+        "name": "YTOS",
+        "direction": "y"
+      },
+      "B 11": {
+        "name": "YTOS",
+        "direction": "y"
+      }
+    },
+    "e": {
+      "0 19": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "11 8": {
+        "name": "XOLC",
+        "direction": "x"
+      },
+      "9 10": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "15 4": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "29 22": {
+        "name": "YOLC",
+        "direction": "y"
+      },
+      "25 26": {
+        "name": "YOLC",
+        "direction": "a"
+      }
+    },
+    "q": {},
+    "b": {},
+    "T": {},
+    "sterling": {},
+    "U": {},
+    "v": {
+      "5 6": {
+        "name": "XTTW",
+        "direction": "x"
+      }
+    },
+    "two": {},
+    "three": {},
+    "four": {},
+    "five": {},
+    "six": {},
+    "seven": {},
+    "eight": {},
+    "nine": {},
+    "zero.prop": {},
+    "one.prop": {},
+    "two.prop": {},
+    "three.prop": {},
+    "four.prop": {},
+    "five.prop": {},
+    "six.prop": {},
+    "seven.prop": {},
+    "c": {},
+    "E": {
+      "0 5": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "3 2": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "11 10": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "7 6": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "5 6": {
+        "name": "XTUC",
+        "direction": "x"
+      },
+      "0 1": {
+        "name": "YTUC",
+        "direction": "y"
+      },
+      "-1 0": {
+        "name": "XUCS",
+        "direction": "x"
+      }
+    },
+    "P": {},
+    "space": {},
+    "i": {},
+    "F": {},
+    "D": {},
+    "C": {},
+    "S": {},
+    "M": {},
+    "W": {},
+    "L": {},
+    "K": {}
   }
 }
