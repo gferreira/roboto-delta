@@ -2414,7 +2414,7 @@
         <dimension name="STLO" xvalue="32"/>
       </location>
     </source>
-    <source filename="Roboto-Delta-XTUC244-opsz144-wdth25-wght100.ufo" familyname="Roboto Delta" stylename="XTUC244-opsz144-wdth25-wght100" layer="foreground">
+    <source filename="corners/Roboto-Delta-XTUC244-opsz144-wdth25-wght100.ufo" familyname="Roboto Delta" stylename="XTUC244-opsz144-wdth25-wght100" layer="foreground">
       <location>
         <dimension name="opsz" xvalue="1"/>
         <dimension name="slnt" xvalue="0"/>
@@ -2459,7 +2459,7 @@
         <dimension name="STLO" xvalue="32"/>
       </location>
     </source>
-    <source filename="Roboto-Delta-XTUC244-opsz144-wdth25-wght400.ufo" familyname="Roboto Delta" stylename="XTUC244-opsz144-wdth25-wght400" layer="foreground">
+    <source filename="corners/Roboto-Delta-XTUC244-opsz144-wdth25-wght400.ufo" familyname="Roboto Delta" stylename="XTUC244-opsz144-wdth25-wght400" layer="foreground">
       <location>
         <dimension name="opsz" xvalue="1"/>
         <dimension name="slnt" xvalue="0"/>
@@ -2549,7 +2549,7 @@
         <dimension name="STLO" xvalue="32"/>
       </location>
     </source>
-    <source filename="Roboto-Delta-XTUC741-opsz144-wdth100-wght100.ufo" familyname="Roboto Delta" stylename="XTUC741-opsz144-wdth100-wght100" layer="foreground">
+    <source filename="corners/Roboto-Delta-XTUC741-opsz144-wdth100-wght100.ufo" familyname="Roboto Delta" stylename="XTUC741-opsz144-wdth100-wght100" layer="foreground">
       <location>
         <dimension name="opsz" xvalue="1"/>
         <dimension name="slnt" xvalue="0"/>
@@ -2594,7 +2594,7 @@
         <dimension name="STLO" xvalue="32"/>
       </location>
     </source>
-    <source filename="Roboto-Delta-XTUC741-opsz144-wdth151-wght100.ufo" familyname="Roboto Delta" stylename="XTUC741-opsz144-wdth151-wght100" layer="foreground">
+    <source filename="corners/Roboto-Delta-XTUC741-opsz144-wdth151-wght100.ufo" familyname="Roboto Delta" stylename="XTUC741-opsz144-wdth151-wght100" layer="foreground">
       <location>
         <dimension name="opsz" xvalue="1"/>
         <dimension name="slnt" xvalue="0"/>
@@ -2684,7 +2684,7 @@
         <dimension name="STLO" xvalue="32"/>
       </location>
     </source>
-    <source filename="Roboto-Delta-XTLC244-opsz144-wdth25-wght100.ufo" familyname="Roboto Delta" stylename="XTLC244-opsz144-wdth25-wght100" layer="public.default">
+    <source filename="corners/Roboto-Delta-XTLC244-opsz144-wdth25-wght100.ufo" familyname="Roboto Delta" stylename="XTLC244-opsz144-wdth25-wght100" layer="public.default">
       <location>
         <dimension name="opsz" xvalue="1"/>
         <dimension name="slnt" xvalue="0"/>
@@ -2729,7 +2729,7 @@
         <dimension name="STLO" xvalue="32"/>
       </location>
     </source>
-    <source filename="Roboto-Delta-XTLC244-opsz144-wdth25-wght400.ufo" familyname="Roboto Delta" stylename="XTLC244-opsz144-wdth25-wght400" layer="foreground">
+    <source filename="corners/Roboto-Delta-XTLC244-opsz144-wdth25-wght400.ufo" familyname="Roboto Delta" stylename="XTLC244-opsz144-wdth25-wght400" layer="foreground">
       <location>
         <dimension name="opsz" xvalue="1"/>
         <dimension name="slnt" xvalue="0"/>
@@ -2819,7 +2819,7 @@
         <dimension name="STLO" xvalue="32"/>
       </location>
     </source>
-    <source filename="Roboto-Delta-XTLC741-opsz144-wdth151-wght100.ufo" familyname="Roboto Delta" stylename="XTLC741-opsz144-wdth151-wght100" layer="foreground">
+    <source filename="corners/Roboto-Delta-XTLC741-opsz144-wdth151-wght100.ufo" familyname="Roboto Delta" stylename="XTLC741-opsz144-wdth151-wght100" layer="foreground">
       <location>
         <dimension name="opsz" xvalue="1"/>
         <dimension name="slnt" xvalue="0"/>
@@ -2909,7 +2909,7 @@
         <dimension name="STLO" xvalue="32"/>
       </location>
     </source>
-    <source filename="Roboto-Delta-XTFI244-opsz144-wdth25-wght100.ufo" familyname="Roboto Delta" stylename="XTFI244-opsz144-wdth25-wght100" layer="foreground">
+    <source filename="corners/Roboto-Delta-XTFI244-opsz144-wdth25-wght100.ufo" familyname="Roboto Delta" stylename="XTFI244-opsz144-wdth25-wght100" layer="foreground">
       <location>
         <dimension name="opsz" xvalue="1"/>
         <dimension name="slnt" xvalue="0"/>
@@ -2999,7 +2999,7 @@
         <dimension name="STLO" xvalue="32"/>
       </location>
     </source>
-    <source filename="Roboto-Delta-XTFI741-opsz144-wdth100-wght100.ufo" familyname="Roboto Delta" stylename="XTFI741-opsz144-wdth100-wght100" layer="foreground">
+    <source filename="corners/Roboto-Delta-XTFI741-opsz144-wdth100-wght100.ufo" familyname="Roboto Delta" stylename="XTFI741-opsz144-wdth100-wght100" layer="foreground">
       <location>
         <dimension name="opsz" xvalue="1"/>
         <dimension name="slnt" xvalue="0"/>
@@ -3044,7 +3044,7 @@
         <dimension name="STLO" xvalue="32"/>
       </location>
     </source>
-    <source filename="Roboto-Delta-XTFI741-opsz144-wdth151-wght400.ufo" familyname="Roboto Delta" stylename="XTFI741-opsz144-wdth151-wght400" layer="foreground">
+    <source filename="corners/Roboto-Delta-XTFI741-opsz144-wdth151-wght400.ufo" familyname="Roboto Delta" stylename="XTFI741-opsz144-wdth151-wght400" layer="foreground">
       <location>
         <dimension name="opsz" xvalue="1"/>
         <dimension name="slnt" xvalue="0"/>
@@ -3089,7 +3089,7 @@
         <dimension name="STLO" xvalue="32"/>
       </location>
     </source>
-    <source filename="Roboto-Delta-XTFI741-opsz144-wdth151-wght100.ufo" familyname="Roboto Delta" stylename="XTFI741-opsz144-wdth151-wght100" layer="foreground">
+    <source filename="corners/Roboto-Delta-XTFI741-opsz144-wdth151-wght100.ufo" familyname="Roboto Delta" stylename="XTFI741-opsz144-wdth151-wght100" layer="foreground">
       <location>
         <dimension name="opsz" xvalue="1"/>
         <dimension name="slnt" xvalue="0"/>
@@ -4886,6 +4886,7 @@
         <dimension name="STLO" xvalue="32"/>
       </location>
     </source>
+    <!--
     <source filename="instances/Roboto-Delta-opsz14-wdth100-wght1000.ufo" familyname="Roboto Delta" stylename="opsz14-wdth100-wght1000">
       <kerning copy="1"/>
       <location>
@@ -5194,6 +5195,7 @@
         <dimension name="BDSZ" xvalue="0"/>
       </location>
     </source>
+    -->
   </sources>
   <lib>
     <dict>
