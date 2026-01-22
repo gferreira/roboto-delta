@@ -29,10 +29,10 @@
     },
     "XOFI": {
       "direction": "x",
-      "glyph 1": "one",
+      "glyph 1": "zero",
       "point 1": 0,
-      "glyph 2": "one",
-      "point 2": 6,
+      "glyph 2": "zero",
+      "point 2": "14",
       "parent": "XOPQ",
       "description": ""
     },
@@ -331,8 +331,106 @@
     },
     "h": {},
     "p": {},
-    "one": {},
-    "zero": {},
+    "one": {
+      "0 6": {
+        "name": "XOFI",
+        "direction": "x"
+      },
+      "2 3": {
+        "name": "YOFI",
+        "direction": "y"
+      },
+      "2 0": {
+        "name": "XTFI",
+        "direction": "x"
+      },
+      "0 4": {
+        "name": "YTUC",
+        "direction": "y"
+      },
+      "-1 2": {
+        "name": "XTSP",
+        "direction": "x"
+      },
+      "6 99": {
+        "name": "XTSP",
+        "direction": "x"
+      },
+      "C 4": {
+        "name": "YTOS",
+        "direction": "y"
+      }
+    },
+    "zero": {
+      "0 14": {
+        "name": "XOFI",
+        "direction": "x"
+      },
+      "20 8": {
+        "name": "XOFI",
+        "direction": "x"
+      },
+      "24 4": {
+        "name": "YOFI",
+        "direction": "y"
+      },
+      "11 17": {
+        "name": "YOFI",
+        "direction": "y"
+      },
+      "14 20": {
+        "name": "XTFI",
+        "direction": "x"
+      },
+      "-1 0": {
+        "name": "XTSP",
+        "direction": "x"
+      },
+      "8 99": {
+        "name": "XTSP",
+        "direction": "x"
+      },
+      "27 26": {
+        "name": "STUI",
+        "direction": "y"
+      },
+      "21 22": {
+        "name": "STUI",
+        "direction": "y"
+      },
+      "15 14": {
+        "name": "STUI",
+        "direction": "y"
+      },
+      "19 20": {
+        "name": "STUI",
+        "direction": "y"
+      },
+      "1 2": {
+        "name": "STUO",
+        "direction": "y"
+      },
+      "7 6": {
+        "name": "STUO",
+        "direction": "y"
+      },
+      "13 0": {
+        "name": "STUO",
+        "direction": "y"
+      },
+      "9 8": {
+        "name": "STUO",
+        "direction": "y"
+      },
+      "C 4": {
+        "name": "YTOS",
+        "direction": "y"
+      },
+      "B 11": {
+        "name": "YTOS",
+        "direction": "y"
+      }
+    },
     "n": {
       "0 4": {
         "name": "XOLC",
@@ -1126,6 +1224,24 @@
         "direction": "y"
       }
     },
-    "Y": {}
+    "Y": {},
+    "florin": {},
+    "hryvnia.rvrn": {},
+    "dong": {},
+    "X": {},
+    "acutecombstack.case": {},
+    "period": {
+      "0 6": {
+        "name": "XOUC",
+        "direction": "x"
+      },
+      "9 3": {
+        "name": "XOUC",
+        "direction": "y"
+      }
+    },
+    "emdash": {},
+    "exclam": {},
+    "quotesingle": {}
   }
 }
