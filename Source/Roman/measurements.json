@@ -540,7 +540,7 @@
         "name": "XTUC",
         "direction": "x"
       },
-      "0 13": {
+      "13 0": {
         "name": "YTUC",
         "direction": "y"
       },

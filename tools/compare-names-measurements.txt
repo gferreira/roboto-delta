@@ -1,0 +1,48 @@
+comparing source names with actual font measurements:
+
+STLI    2   87
+STLI  412   38
+STLO    2  120
+STLO  426   73
+STUI    2    1
+STUI  736  372
+STUO    2    1
+STUO  722  371
+XOFI    2    3
+XOFI  310  293
+XOLC    2    3
+XOLC  310  286
+XOUC    2    3
+XOUC  310  303
+XTFI  244   15
+XTFI  741  760
+XTLC  244   15
+XTLC  741  498
+XTTW    0    4
+XTTW   30   29
+XTUC  244   15
+XTUC  741  724
+YOFI    2    3
+YOFI  280  285
+YOLB  280  183
+YOLC    2    3
+YOLC  280  255
+YOUC    2    3
+YOUC  280  273
+YTAS  665  649
+YTAS  875  854
+YTDE -100  -98
+YTDE -310 -303
+YTFI  270  259
+YTFI  793  760
+YTLC  426  416
+YTLC  584  570
+YTOS    0    0
+YTOS   50  -49
+YTTL    0   59
+YTTL   50  107
+YTUC  528  528
+YTUC  778  760
+
+...done!
+

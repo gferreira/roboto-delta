@@ -1,9 +1,10 @@
-# menuTitle: compare source names with actual measurements
+# menuTitle: rename all parametric sources
 
-import os, glob
-from xTools4.modules.measurements import FontMeasurements, permille # setSourceNamesFromMeasurements
+import os, glob, shutil
+from xTools4.modules.measurements import FontMeasurements, permille
 
 baseFolder       = os.path.dirname(os.getcwd())
+familyName       = f'RobotoDelta'
 subFamilyName    = ['Roman', 'Italic'][0]
 sourcesFolder    = os.path.join(baseFolder, 'Source', subFamilyName)
 measurementsPath = os.path.join(sourcesFolder, 'measurements.json')
@@ -17,7 +18,7 @@ allSources = glob.glob(f'{sourcesFolder}/*.ufo')
 M = FontMeasurements()
 M.read(measurementsPath)
 
-print('comparing source names with actual font measurements:\n')
+print('renaming sources...\n')
 
 for srcPath in sorted(allSources):
     folder, fileNameExt = os.path.split(srcPath)
@@ -29,6 +30,16 @@ for srcPath in sorted(allSources):
     f = OpenFont(srcPath, showInterface=False)
     M.measure(f)
     measurement = permille(M.values.get(param), 2048)
-    print(f"{param} {str(value).rjust(4)} {str(measurement).rjust(4)}")
+    newStyleName = f'{param}{measurement}'
+    newFileName  = f'{familyName}-{subFamilyName}_{newStyleName}.ufo'
+    print(f'old name: {fileNameExt}')
+    print(f'new name: {newFileName}')
+    print()
+    f.info.styleName = newStyleName
+    f.save()
+    f.close()
+    
+    newSourcePath = os.path.join(folder, newFileName)
+    shutil.move(srcPath, newSourcePath)
 
-print('\n...done!\n')
+print('...done!\n')

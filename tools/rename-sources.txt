@@ -1,0 +1,133 @@
+renaming sources...
+
+old name: Roboto-Delta-STLI2.ufo
+new name: RobotoDelta-Roman_STLI87.ufo
+
+old name: Roboto-Delta-STLI412.ufo
+new name: RobotoDelta-Roman_STLI38.ufo
+
+old name: Roboto-Delta-STLO2.ufo
+new name: RobotoDelta-Roman_STLO120.ufo
+
+old name: Roboto-Delta-STLO426.ufo
+new name: RobotoDelta-Roman_STLO73.ufo
+
+old name: Roboto-Delta-STUI2.ufo
+new name: RobotoDelta-Roman_STUI1.ufo
+
+old name: Roboto-Delta-STUI736.ufo
+new name: RobotoDelta-Roman_STUI372.ufo
+
+old name: Roboto-Delta-STUO2.ufo
+new name: RobotoDelta-Roman_STUO1.ufo
+
+old name: Roboto-Delta-STUO722.ufo
+new name: RobotoDelta-Roman_STUO371.ufo
+
+old name: Roboto-Delta-XOFI2.ufo
+new name: RobotoDelta-Roman_XOFI3.ufo
+
+old name: Roboto-Delta-XOFI310.ufo
+new name: RobotoDelta-Roman_XOFI293.ufo
+
+old name: Roboto-Delta-XOLC2.ufo
+new name: RobotoDelta-Roman_XOLC3.ufo
+
+old name: Roboto-Delta-XOLC310.ufo
+new name: RobotoDelta-Roman_XOLC286.ufo
+
+old name: Roboto-Delta-XOUC2.ufo
+new name: RobotoDelta-Roman_XOUC3.ufo
+
+old name: Roboto-Delta-XOUC310.ufo
+new name: RobotoDelta-Roman_XOUC303.ufo
+
+old name: Roboto-Delta-XTFI244.ufo
+new name: RobotoDelta-Roman_XTFI15.ufo
+
+old name: Roboto-Delta-XTFI741.ufo
+new name: RobotoDelta-Roman_XTFI760.ufo
+
+old name: Roboto-Delta-XTLC244.ufo
+new name: RobotoDelta-Roman_XTLC15.ufo
+
+old name: Roboto-Delta-XTLC741.ufo
+new name: RobotoDelta-Roman_XTLC498.ufo
+
+old name: Roboto-Delta-XTTW0.ufo
+new name: RobotoDelta-Roman_XTTW4.ufo
+
+old name: Roboto-Delta-XTTW30.ufo
+new name: RobotoDelta-Roman_XTTW29.ufo
+
+old name: Roboto-Delta-XTUC244.ufo
+new name: RobotoDelta-Roman_XTUC15.ufo
+
+old name: Roboto-Delta-XTUC741.ufo
+new name: RobotoDelta-Roman_XTUC724.ufo
+
+old name: Roboto-Delta-YOFI2.ufo
+new name: RobotoDelta-Roman_YOFI3.ufo
+
+old name: Roboto-Delta-YOFI280.ufo
+new name: RobotoDelta-Roman_YOFI285.ufo
+
+old name: Roboto-Delta-YOLB280.ufo
+new name: RobotoDelta-Roman_YOLB183.ufo
+
+old name: Roboto-Delta-YOLC2.ufo
+new name: RobotoDelta-Roman_YOLC3.ufo
+
+old name: Roboto-Delta-YOLC280.ufo
+new name: RobotoDelta-Roman_YOLC255.ufo
+
+old name: Roboto-Delta-YOUC2.ufo
+new name: RobotoDelta-Roman_YOUC3.ufo
+
+old name: Roboto-Delta-YOUC280.ufo
+new name: RobotoDelta-Roman_YOUC273.ufo
+
+old name: Roboto-Delta-YTAS665.ufo
+new name: RobotoDelta-Roman_YTAS649.ufo
+
+old name: Roboto-Delta-YTAS875.ufo
+new name: RobotoDelta-Roman_YTAS854.ufo
+
+old name: Roboto-Delta-YTDE-100.ufo
+new name: RobotoDelta-Roman_YTDE-98.ufo
+
+old name: Roboto-Delta-YTDE-310.ufo
+new name: RobotoDelta-Roman_YTDE-303.ufo
+
+old name: Roboto-Delta-YTFI270.ufo
+new name: RobotoDelta-Roman_YTFI259.ufo
+
+old name: Roboto-Delta-YTFI793.ufo
+new name: RobotoDelta-Roman_YTFI760.ufo
+
+old name: Roboto-Delta-YTLC426.ufo
+new name: RobotoDelta-Roman_YTLC416.ufo
+
+old name: Roboto-Delta-YTLC584.ufo
+new name: RobotoDelta-Roman_YTLC570.ufo
+
+old name: Roboto-Delta-YTOS0.ufo
+new name: RobotoDelta-Roman_YTOS0.ufo
+
+old name: Roboto-Delta-YTOS50.ufo
+new name: RobotoDelta-Roman_YTOS-49.ufo
+
+old name: Roboto-Delta-YTTL0.ufo
+new name: RobotoDelta-Roman_YTTL59.ufo
+
+old name: Roboto-Delta-YTTL50.ufo
+new name: RobotoDelta-Roman_YTTL107.ufo
+
+old name: Roboto-Delta-YTUC528.ufo
+new name: RobotoDelta-Roman_YTUC528.ufo
+
+old name: Roboto-Delta-YTUC778.ufo
+new name: RobotoDelta-Roman_YTUC760.ufo
+
+...done!
+
